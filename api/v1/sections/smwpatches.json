@@ -143,6 +143,40 @@
     ]
   },
   {
+    "name": "smwpatches-bring-up-life-exchange-prompt-fixes",
+    "aliases": [],
+    "section": "smwpatches",
+    "upstream_id": 43149,
+    "title": "Bring Up Life Exchange Prompt Fixes",
+    "authors": [
+      "yoshifanatic"
+    ],
+    "tags": [
+      "lorom",
+      "overworld",
+      "sa-1"
+    ],
+    "description": "This fixes two minor bugs related to bringing up the life exchange prompt:<br>\r\n<br>\r\n- Pressing L/R setting <a href=\"https://smwc.me/m/smw/ram/7E1B87\">$1B87</a> even in one player mode, despite no prompt appearing. This could potentially mess with resources that expect <a href=\"https://smwc.me/m/smw/ram/7E1B87\">$1B87</a> to behave in a consistent way.<br>\r\n<br>\r\n- Pressing L/R to bring up the prompt while freely scrolling around the main map. This freezes the arrow animation on whatever frame it's on.",
+    "latest_version": "V1.0.2",
+    "install_kind": "asar_patch",
+    "versions": [
+      {
+        "upstream_id": 43149,
+        "title": "Bring Up Life Exchange Prompt Fixes",
+        "version": "V1.0.2",
+        "upstream_time": 1789219194,
+        "download_url": "https://dl.smwcentral.net/43149/LifeExchangePromptFixV1.0.2.zip",
+        "filename": "LifeExchangePromptFixV1.0.2.zip",
+        "size": 1123,
+        "sha256": null,
+        "dependencies": [
+          "asar"
+        ],
+        "install_kind": "asar_patch"
+      }
+    ]
+  },
+  {
     "name": "smwpatches-carry-items-through-doors-and-diagonal-pipes",
     "aliases": [],
     "section": "smwpatches",
@@ -169,40 +203,6 @@
         "download_url": "https://dl.smwcentral.net/42113/Carry%20Items%20Through%20Doors%20and%20Diagonal%20Pipes.zip",
         "filename": "Carry Items Through Doors and Diagonal Pipes.zip",
         "size": 824,
-        "sha256": null,
-        "dependencies": [
-          "asar"
-        ],
-        "install_kind": "asar_patch"
-      }
-    ]
-  },
-  {
-    "name": "smwpatches-chuck-breaking-blocks-fix",
-    "aliases": [],
-    "section": "smwpatches",
-    "upstream_id": 40307,
-    "title": "Chuck Breaking Blocks Fix",
-    "authors": [
-      "yoshifanatic"
-    ],
-    "tags": [
-      "lorom",
-      "sa-1",
-      "sprite"
-    ],
-    "description": "Did you notice that, when chucks break through turn/throw blocks, the brick piece particles are always rainbow? Except, it turns out that isn't always the case, as the code that handles this is bugged. It uses the block's X/Y position to determine whether the brick pieces are rainbow or not. This causes one of the blocks to create non-rainbow particles when they're placed on the first screen of the level.<br>\r\n<br>\r\nThis patch fixes both of these quirks. With this, turn blocks will always create brown particles and throw blocks will always create rainbow particles when chucks smash through them.<br>\r\n<br>\r\nCredit is not required, but appreciated.",
-    "latest_version": "smwc-40307-1768399710",
-    "install_kind": "asar_patch",
-    "versions": [
-      {
-        "upstream_id": 40307,
-        "title": "Chuck Breaking Blocks Fix",
-        "version": "smwc-40307-1768399710",
-        "upstream_time": 1768399710,
-        "download_url": "https://dl.smwcentral.net/40307/ChuckBreakBrickFix.zip",
-        "filename": "ChuckBreakBrickFix.zip",
-        "size": 1214,
         "sha256": null,
         "dependencies": [
           "asar"
@@ -342,6 +342,42 @@
         "download_url": "https://dl.smwcentral.net/41355/Different%20Value%20for%201-Up.zip",
         "filename": "Different Value for 1-Up.zip",
         "size": 1657,
+        "sha256": null,
+        "dependencies": [
+          "asar"
+        ],
+        "install_kind": "asar_patch"
+      }
+    ]
+  },
+  {
+    "name": "smwpatches-disable-item-toss-while-flying",
+    "aliases": [],
+    "section": "smwpatches",
+    "upstream_id": 42619,
+    "title": "Disable Item Toss While Flying",
+    "authors": [
+      "magicker72"
+    ],
+    "tags": [
+      "cape",
+      "lorom",
+      "physics",
+      "player",
+      "sa-1"
+    ],
+    "description": "This patch makes it impossible to release run while flying, thus making it impossible to throw items while maintaining flight. Otherwise, all vanilla flight behaviour is preserved.<br>\r\n<br>\r\nMore details: The vanilla game only checks for run being held when the flight phase countdown ($14A4) is 0 (which is when flight phase can change) or when pressing forward/back to change flight phase.‭ This allows you to release run for several frames in between flight phase changes, and in particular, to throw held items. This patch reorders some of the flight code to check for run being held every frame of flight. The patch uses no free space, and besides this extra check for run being held, there are no other changes to flight physics.<br>\r\n<br>\r\nIncludes an un-patcher to restore vanilla code.",
+    "latest_version": "smwc-42619-1788987101",
+    "install_kind": "asar_patch",
+    "versions": [
+      {
+        "upstream_id": 42619,
+        "title": "Disable Item Toss While Flying",
+        "version": "smwc-42619-1788987101",
+        "upstream_time": 1788987101,
+        "download_url": "https://dl.smwcentral.net/42619/nothrow.zip",
+        "filename": "nothrow.zip",
+        "size": 1720,
         "sha256": null,
         "dependencies": [
           "asar"
@@ -491,43 +527,6 @@
     ]
   },
   {
-    "name": "smwpatches-enter-level-pipe-star-road-sounds-v1",
-    "aliases": [],
-    "section": "smwpatches",
-    "upstream_id": 41243,
-    "title": "Enter Level/Pipe/Star Road Sounds v1.1",
-    "authors": [
-      "Ersanio",
-      "Moltz"
-    ],
-    "tags": [
-      "lorom",
-      "overworld",
-      "sa-1",
-      "sfx",
-      "sound effect"
-    ],
-    "description": "This patch makes the game play a sound effect when you enter levels and use pipes from the overworld (much like in SMB3) while also including the ability to change the sound star roads use for their warping shenanigans for the sake of convenience.<br>\r\n<br>\r\nSFX to be played for each tile is customizeable in the ASM file.<br>\r\n<br>\r\n1.1: Fixes a crash caused when using an Overworld Warp Pipe in a rom with <a href=\"https://smwc.me/s/40308\">BOWSIE</a> applied.",
-    "latest_version": "smwc-41243-1765223490",
-    "install_kind": "asar_patch",
-    "versions": [
-      {
-        "upstream_id": 41243,
-        "title": "Enter Level/Pipe/Star Road Sounds v1.1",
-        "version": "smwc-41243-1765223490",
-        "upstream_time": 1765223490,
-        "download_url": "https://dl.smwcentral.net/41243/OW%20Tile%20Sounds%20v1.1.zip",
-        "filename": "OW Tile Sounds v1.1.zip",
-        "size": 950,
-        "sha256": null,
-        "dependencies": [
-          "asar"
-        ],
-        "install_kind": "asar_patch"
-      }
-    ]
-  },
-  {
     "name": "smwpatches-fade-in-pack",
     "aliases": [],
     "section": "smwpatches",
@@ -664,39 +663,6 @@
         "download_url": "https://dl.smwcentral.net/41471/retimer3.0.zip",
         "filename": "retimer3.0.zip",
         "size": 1580,
-        "sha256": null,
-        "dependencies": [
-          "asar"
-        ],
-        "install_kind": "asar_patch"
-      }
-    ]
-  },
-  {
-    "name": "smwpatches-kick-and-drop-override-fix",
-    "aliases": [],
-    "section": "smwpatches",
-    "upstream_id": 40704,
-    "title": "Kick and Drop Override Fix",
-    "authors": [
-      "HammerBrother"
-    ],
-    "tags": [
-      "lorom",
-      "sa-1"
-    ],
-    "description": "This simple patch fixes a bug that happens if you kick or drop a Bob-Omb the same frame it explodes, and a similar thing with custom blocks that would <a href=\"https://www.smwcentral.net/?p=viewthread&t=74028\">fail to delete a carried sprite the same frame the player kicks or drop a sprite</a>.",
-    "latest_version": "smwc-40704-1764722095",
-    "install_kind": "asar_patch",
-    "versions": [
-      {
-        "upstream_id": 40704,
-        "title": "Kick and Drop Override Fix",
-        "version": "smwc-40704-1764722095",
-        "upstream_time": 1764722095,
-        "download_url": "https://dl.smwcentral.net/40704/KickDropOverrideFix.zip",
-        "filename": "KickDropOverrideFix.zip",
-        "size": 1492,
         "sha256": null,
         "dependencies": [
           "asar"
@@ -1234,7 +1200,7 @@
       "sa-1",
       "sound effect"
     ],
-    "description": "This simple patch adds a sound effect when picking up sprites, like throw blocks, keys, stunned enemies, etc.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Gamer collin\"><span title=\"It's Gamer collin's birthday today!\" class=\"icon icon-birthday\"></span><a href=\"/?p=profile&amp;id=71087\" style=\"color: var(--user-color-1);\" class=\"un\">Gamer collin</a></span>.",
+    "description": "This simple patch adds a sound effect when picking up sprites, like throw blocks, keys, stunned enemies, etc.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Gamer collin\"><a href=\"/?p=profile&amp;id=71087\" style=\"color: var(--user-color-1);\" class=\"un\">Gamer collin</a></span>.",
     "latest_version": "smwc-41597-1775952549",
     "install_kind": "asar_patch",
     "versions": [
@@ -1293,7 +1259,7 @@
     "aliases": [],
     "section": "smwpatches",
     "upstream_id": 40285,
-    "title": "Player HP meter v4.3",
+    "title": "Player HP Meter",
     "authors": [
       "HammerBrother",
       "Iceguy",
@@ -1317,7 +1283,7 @@
     "versions": [
       {
         "upstream_id": 40285,
-        "title": "Player HP meter v4.3",
+        "title": "Player HP Meter",
         "version": "4.3",
         "upstream_time": 1785996523,
         "download_url": "https://dl.smwcentral.net/40285/Player-HP-patch_v4_3.zip",
@@ -1360,6 +1326,41 @@
         "download_url": "https://dl.smwcentral.net/42310/poison_mushroom_v1.1.2.zip",
         "filename": "poison_mushroom_v1.1.2.zip",
         "size": 5558,
+        "sha256": null,
+        "dependencies": [
+          "asar"
+        ],
+        "install_kind": "asar_patch"
+      }
+    ]
+  },
+  {
+    "name": "smwpatches-preserve-direct-page-and-scratch-ram-on-interrupts",
+    "aliases": [],
+    "section": "smwpatches",
+    "upstream_id": 43137,
+    "title": "Preserve Direct Page and Scratch RAM on Interrupts",
+    "authors": [
+      "Arinsu"
+    ],
+    "tags": [
+      "direct page",
+      "interrupt",
+      "lorom",
+      "scratch ram"
+    ],
+    "description": "This patch preserves the direct page register while the game is running in NMI or in an IRQ, which allows you to tweak it for your own needs in custom code.<br>\r\n<br>\r\nAdditionally, it allows you to preserve up to 16 bytes of scratch RAM in the $00-$0F range, <i>during NMI only</i> as to not waste IRQ time. By default it saves 5 bytes, RAM addresses $00-$04.<br>\r\n<br>\r\nDoesn't work with SA-1, as that patch already enables this functionality.",
+    "latest_version": "1.1.1",
+    "install_kind": "asar_patch",
+    "versions": [
+      {
+        "upstream_id": 43137,
+        "title": "Preserve Direct Page and Scratch RAM on Interrupts",
+        "version": "1.1.1",
+        "upstream_time": 1788815118,
+        "download_url": "https://dl.smwcentral.net/43137/Preserve%20DP%20and%20Scratch%20v1.1.1.zip",
+        "filename": "Preserve DP and Scratch v1.1.1.zip",
+        "size": 1189,
         "sha256": null,
         "dependencies": [
           "asar"
@@ -1621,43 +1622,6 @@
     ]
   },
   {
-    "name": "smwpatches-sprite-end-level-scorecard",
-    "aliases": [],
-    "section": "smwpatches",
-    "upstream_id": 41234,
-    "title": "Sprite End Level Scorecard",
-    "authors": [
-      "ASMagician Maks"
-    ],
-    "tags": [
-      "dynamic",
-      "goal",
-      "lorom",
-      "oam",
-      "sa-1",
-      "tile"
-    ],
-    "description": "This patch allows you to replace the layer 3 scorecard with one drawn using sprite tiles, which resolves conflicts with layer 3 briefly disappearing when you clear a level.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Segment1Zone2\"><a href=\"/?p=profile&amp;id=46677\" style=\"color: var(--user-color-1);\" class=\"un\">Segment1Zone2</a></span>.<br>\r\n<br>\r\nMod Note: Doesn't work in the mode 7 boss rooms. Enable the original layer 3 scorecard for those levels specifically.",
-    "latest_version": "smwc-41234-1765743079",
-    "install_kind": "asar_patch",
-    "versions": [
-      {
-        "upstream_id": 41234,
-        "title": "Sprite End Level Scorecard",
-        "version": "smwc-41234-1765743079",
-        "upstream_time": 1765743079,
-        "download_url": "https://dl.smwcentral.net/41234/oamscorecard.zip",
-        "filename": "oamscorecard.zip",
-        "size": 5982,
-        "sha256": null,
-        "dependencies": [
-          "asar"
-        ],
-        "install_kind": "asar_patch"
-      }
-    ]
-  },
-  {
     "name": "smwpatches-sprite-health-bar",
     "aliases": [],
     "section": "smwpatches",
@@ -1777,6 +1741,40 @@
         "download_url": "https://dl.smwcentral.net/41751/tolerance-timer-asar2.zip",
         "filename": "tolerance-timer-asar2.zip",
         "size": 1981,
+        "sha256": null,
+        "dependencies": [
+          "asar"
+        ],
+        "install_kind": "asar_patch"
+      }
+    ]
+  },
+  {
+    "name": "smwpatches-wall-springboard-interaction-wraparound-fix",
+    "aliases": [],
+    "section": "smwpatches",
+    "upstream_id": 43129,
+    "title": "Wall Springboard Interaction Wraparound Fix",
+    "authors": [
+      "HammerBrother"
+    ],
+    "tags": [
+      "lorom",
+      "sa-1",
+      "wall springboard"
+    ],
+    "description": "Fixes a bug in SMW that wall springboard interactions would wrap around the screen in both the X and Y axis when being on the edge of the screen.<br>\r\n<br>\r\nThis is because the interactions only account for the XY low byte positions. This patch adds a check if the player is 128 or more pixels away from the \"origin\" of the sprite along the X or Y axis, would ignore interaction.",
+    "latest_version": "smwc-43129-1788878430",
+    "install_kind": "asar_patch",
+    "versions": [
+      {
+        "upstream_id": 43129,
+        "title": "Wall Springboard Interaction Wraparound Fix",
+        "version": "smwc-43129-1788878430",
+        "upstream_time": 1788878430,
+        "download_url": "https://dl.smwcentral.net/43129/WallSpringboardInteractionWrapFix.zip",
+        "filename": "WallSpringboardInteractionWrapFix.zip",
+        "size": 1728,
         "sha256": null,
         "dependencies": [
           "asar"

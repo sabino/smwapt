@@ -3,7 +3,7 @@
   "aliases": [],
   "section": "smwpatches",
   "upstream_id": 40285,
-  "title": "Player HP meter v4.3",
+  "title": "Player HP Meter",
   "authors": [
     "HammerBrother",
     "Iceguy",
@@ -27,7 +27,7 @@
   "versions": [
     {
       "upstream_id": 40285,
-      "title": "Player HP meter v4.3",
+      "title": "Player HP Meter",
       "version": "4.3",
       "upstream_time": 1785996523,
       "download_url": "https://dl.smwcentral.net/40285/Player-HP-patch_v4_3.zip",

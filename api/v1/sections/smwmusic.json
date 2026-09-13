@@ -1,5 +1,39 @@
 [
   {
+    "name": "smwmusic-aladdin-snes-a-snake-am-i",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42487,
+    "title": "Aladdin (SNES) - \"A Snake, Am I?\"",
+    "authors": [
+      "h.carrell"
+    ],
+    "tags": [
+      "cutscene",
+      "dark",
+      "overworld"
+    ],
+    "description": "\"Are you afraid to fight me yourself, you cowardly snake?!\" - Aladdin (1992)<br>\r\n<br>\r\nThe short and ominous song that plays right before you fight Snake Jafar in the Aladdin SNES game. Might fit a similar purpose in a hack or during a cutscene",
+    "latest_version": "smwc-42487-1788979574",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42487,
+        "title": "Aladdin (SNES) - \"A Snake, Am I?\"",
+        "version": "smwc-42487-1788979574",
+        "upstream_time": 1788979574,
+        "download_url": "https://dl.smwcentral.net/42487/Jafar%20Prelude.zip",
+        "filename": "Jafar Prelude.zip",
+        "size": 39258,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
     "name": "smwmusic-arabian-nights-amiga-forest",
     "aliases": [],
     "section": "smwmusic",
@@ -34,31 +68,31 @@
     ]
   },
   {
-    "name": "smwmusic-captain-blood-ethnicolor",
+    "name": "smwmusic-bomberman-max-2-red-advance-bonus-game",
     "aliases": [],
     "section": "smwmusic",
-    "upstream_id": 41704,
-    "title": "Captain Blood - Ethnicolor",
+    "upstream_id": 42253,
+    "title": "Bomberman Max 2: Red Advance - Bonus Game 1",
     "authors": [
-      "KungFuFurby"
+      "EDIT3333"
     ],
     "tags": [
-      "abstract",
-      "haunted",
-      "mysterious"
+      "bonus",
+      "map",
+      "title"
     ],
-    "description": "This is a port of a port that I did for Super Famicompo 3 that used multiple references (specifically the original song, the Atari ST and Amiga versions) to make a SNES version of the song.<br>\r\n<br>\r\nCompared to the Super Famicompo 3 version...<br>\r\n<ul>\r\n<li>Most of the segments are halved in their overall quality in order to be Super Mario World practical. The exception is the last one, since the cymbals and tambourines need a higher sampling rate to be properly audible.</li>\r\n<li>Reversed segments are not software rendered. Then again, we only need two of them, so this isn't too much of a problem, and the quality is halved like the other segments.</li>\r\n<li>The samples are keyed on with manual timing instead of having a loop point handle the pitch changes.</li>\r\n</ul><br>\r\n<br>\r\n<b>WARNING:</b> This song is not compatible with the speed-up effect of the Hurry Up! SFX. This is because the samples used here are tempo sensitive.<br>\r\n<br>\r\n<b>NOTE:</b> There are user options present to change the quality settings of one of the segments in case you have memory constraints. There is also a full quality version of the song minus reverse segments provided (the reverse segments were software rendered in the original version due to memory constraints, something that AddmusicK naturally does not support at the time of this song's submission): this is incompatible with Super Mario World due to requiring !noSFX and also no global songs (it barely fails to fit in ARAM in a stock AddmusicK 1.0.11 state otherwise).",
-    "latest_version": "smwc-41704-1787021735",
+    "description": "It works well in bonus areas.",
+    "latest_version": "smwc-42253-1789217363",
     "install_kind": "add_music_k_music",
     "versions": [
       {
-        "upstream_id": 41704,
-        "title": "Captain Blood - Ethnicolor",
-        "version": "smwc-41704-1787021735",
-        "upstream_time": 1787021735,
-        "download_url": "https://dl.smwcentral.net/41704/Captain%20Blood%20Ethnicolor.zip",
-        "filename": "Captain Blood Ethnicolor.zip",
-        "size": 328629,
+        "upstream_id": 42253,
+        "title": "Bomberman Max 2: Red Advance - Bonus Game 1",
+        "version": "smwc-42253-1789217363",
+        "upstream_time": 1789217363,
+        "download_url": "https://dl.smwcentral.net/42253/Bonus%20Game%201.zip",
+        "filename": "Bonus Game 1.zip",
+        "size": 80900,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -424,74 +458,6 @@
         "download_url": "https://dl.smwcentral.net/42271/BBS-Intro.zip",
         "filename": "BBS-Intro.zip",
         "size": 96937,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-hudson-s-adventure-island",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42871,
-    "title": "Hudson's Adventure Island 2 - Underwater",
-    "authors": [
-      "Zavok"
-    ],
-    "tags": [
-      "calm",
-      "water"
-    ],
-    "description": "Can fit a underwater levels. My Entry for Super Famicompo 8.",
-    "latest_version": "smwc-42871-1787589722",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42871,
-        "title": "Hudson's Adventure Island 2 - Underwater",
-        "version": "smwc-42871-1787589722",
-        "upstream_time": 1787589722,
-        "download_url": "https://dl.smwcentral.net/42871/Adventure%20Island%202%20-%20Underwater.zip",
-        "filename": "Adventure Island 2 - Underwater.zip",
-        "size": 31581,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-mahou-poi-poi-poitto-stage",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42870,
-    "title": "Mahou Poi Poi Poitto - Stage 1",
-    "authors": [
-      "Zavok"
-    ],
-    "tags": [
-      "athletic",
-      "grassland",
-      "mountain",
-      "sky"
-    ],
-    "description": "A cheerful and energetic port of the Stage 1 theme from Mahou Poi Poi Poitto. Can fit a mountain levels. My Entry for Super Famicompo 8.",
-    "latest_version": "smwc-42870-1787589719",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42870,
-        "title": "Mahou Poi Poi Poitto - Stage 1",
-        "version": "smwc-42870-1787589719",
-        "upstream_time": 1787589719,
-        "download_url": "https://dl.smwcentral.net/42870/Mahou%20Poi%20Poi%20Poitto%20-%20Stage%201.zip",
-        "filename": "Mahou Poi Poi Poitto - Stage 1.zip",
-        "size": 32881,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -1376,6 +1342,46 @@
         "download_url": "https://dl.smwcentral.net/42091/MANA%20OVERDRIVE%21%21%21.zip",
         "filename": "MANA OVERDRIVE%21%21%21.zip",
         "size": 289312,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-tower-of-heaven-indignant-divinity",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42868,
+    "title": "Tower of Heaven - Indignant Divinity",
+    "authors": [
+      "Dzing"
+    ],
+    "tags": [
+      "athletic",
+      "cave",
+      "dark",
+      "ice",
+      "industrial",
+      "night",
+      "sky",
+      "space",
+      "water"
+    ],
+    "description": "Chiptune song. Requested by <span class=\"un-outer\" title=\"7 up\"><a href=\"/?p=profile&amp;id=23507\" style=\"color: var(--user-color-2);\" class=\"un\">7 up</a></span>",
+    "latest_version": "smwc-42868-1789281026",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42868,
+        "title": "Tower of Heaven - Indignant Divinity",
+        "version": "smwc-42868-1789281026",
+        "upstream_time": 1789281026,
+        "download_url": "https://dl.smwcentral.net/42868/indignantdivinity.zip",
+        "filename": "indignantdivinity.zip",
+        "size": 37906,
         "sha256": null,
         "dependencies": [
           "addmusick"

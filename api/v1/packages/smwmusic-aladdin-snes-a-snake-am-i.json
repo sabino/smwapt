@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-aladdin-snes-a-snake-am-i",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42487,
+  "title": "Aladdin (SNES) - \"A Snake, Am I?\"",
+  "authors": [
+    "h.carrell"
+  ],
+  "tags": [
+    "cutscene",
+    "dark",
+    "overworld"
+  ],
+  "description": "\"Are you afraid to fight me yourself, you cowardly snake?!\" - Aladdin (1992)<br>\r\n<br>\r\nThe short and ominous song that plays right before you fight Snake Jafar in the Aladdin SNES game. Might fit a similar purpose in a hack or during a cutscene",
+  "latest_version": "smwc-42487-1788979574",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42487,
+      "title": "Aladdin (SNES) - \"A Snake, Am I?\"",
+      "version": "smwc-42487-1788979574",
+      "upstream_time": 1788979574,
+      "download_url": "https://dl.smwcentral.net/42487/Jafar%20Prelude.zip",
+      "filename": "Jafar Prelude.zip",
+      "size": 39258,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

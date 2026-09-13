@@ -1,0 +1,40 @@
+{
+  "name": "smwmusic-tower-of-heaven-indignant-divinity",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42868,
+  "title": "Tower of Heaven - Indignant Divinity",
+  "authors": [
+    "Dzing"
+  ],
+  "tags": [
+    "athletic",
+    "cave",
+    "dark",
+    "ice",
+    "industrial",
+    "night",
+    "sky",
+    "space",
+    "water"
+  ],
+  "description": "Chiptune song. Requested by <span class=\"un-outer\" title=\"7 up\"><a href=\"/?p=profile&amp;id=23507\" style=\"color: var(--user-color-2);\" class=\"un\">7 up</a></span>",
+  "latest_version": "smwc-42868-1789281026",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42868,
+      "title": "Tower of Heaven - Indignant Divinity",
+      "version": "smwc-42868-1789281026",
+      "upstream_time": 1789281026,
+      "download_url": "https://dl.smwcentral.net/42868/indignantdivinity.zip",
+      "filename": "indignantdivinity.zip",
+      "size": 37906,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-disable-item-toss-while-flying",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 42619,
+  "title": "Disable Item Toss While Flying",
+  "authors": [
+    "magicker72"
+  ],
+  "tags": [
+    "cape",
+    "lorom",
+    "physics",
+    "player",
+    "sa-1"
+  ],
+  "description": "This patch makes it impossible to release run while flying, thus making it impossible to throw items while maintaining flight. Otherwise, all vanilla flight behaviour is preserved.<br>\r\n<br>\r\nMore details: The vanilla game only checks for run being held when the flight phase countdown ($14A4) is 0 (which is when flight phase can change) or when pressing forward/back to change flight phase.‭ This allows you to release run for several frames in between flight phase changes, and in particular, to throw held items. This patch reorders some of the flight code to check for run being held every frame of flight. The patch uses no free space, and besides this extra check for run being held, there are no other changes to flight physics.<br>\r\n<br>\r\nIncludes an un-patcher to restore vanilla code.",
+  "latest_version": "smwc-42619-1788987101",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 42619,
+      "title": "Disable Item Toss While Flying",
+      "version": "smwc-42619-1788987101",
+      "upstream_time": 1788987101,
+      "download_url": "https://dl.smwcentral.net/42619/nothrow.zip",
+      "filename": "nothrow.zip",
+      "size": 1720,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

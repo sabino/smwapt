@@ -1,0 +1,34 @@
+{
+  "name": "smwpatches-wall-springboard-interaction-wraparound-fix",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 43129,
+  "title": "Wall Springboard Interaction Wraparound Fix",
+  "authors": [
+    "HammerBrother"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "wall springboard"
+  ],
+  "description": "Fixes a bug in SMW that wall springboard interactions would wrap around the screen in both the X and Y axis when being on the edge of the screen.<br>\r\n<br>\r\nThis is because the interactions only account for the XY low byte positions. This patch adds a check if the player is 128 or more pixels away from the \"origin\" of the sprite along the X or Y axis, would ignore interaction.",
+  "latest_version": "smwc-43129-1788878430",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 43129,
+      "title": "Wall Springboard Interaction Wraparound Fix",
+      "version": "smwc-43129-1788878430",
+      "upstream_time": 1788878430,
+      "download_url": "https://dl.smwcentral.net/43129/WallSpringboardInteractionWrapFix.zip",
+      "filename": "WallSpringboardInteractionWrapFix.zip",
+      "size": 1728,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

@@ -1210,6 +1210,18 @@ X-SMWAPT-Kind: AssetOnly
 X-SMWAPT-URL: https://dl.smwcentral.net/41927/Whisper%20in%20SMW.zip
 Description: Whisper The Wolf
 
+Package: smwmusic-aladdin-snes-a-snake-am-i
+Version: smwc-42487-1788979574
+Section: smwmusic
+Architecture: smw
+Maintainer: h.carrell
+Filename: pool/smwmusic/42487/Jafar Prelude.zip
+Size: 39258
+X-SMWC-ID: 42487
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42487/Jafar%20Prelude.zip
+Description: Aladdin (SNES) - "A Snake, Am I?"
+
 Package: smwmusic-arabian-nights-amiga-forest
 Version: smwc-42202-1788237681
 Section: smwmusic
@@ -1222,17 +1234,17 @@ X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/42202/Forest.zip
 Description: Arabian Nights (Amiga) - Forest
 
-Package: smwmusic-captain-blood-ethnicolor
-Version: smwc-41704-1787021735
+Package: smwmusic-bomberman-max-2-red-advance-bonus-game
+Version: smwc-42253-1789217363
 Section: smwmusic
 Architecture: smw
-Maintainer: KungFuFurby
-Filename: pool/smwmusic/41704/Captain Blood Ethnicolor.zip
-Size: 328629
-X-SMWC-ID: 41704
+Maintainer: EDIT3333
+Filename: pool/smwmusic/42253/Bonus Game 1.zip
+Size: 80900
+X-SMWC-ID: 42253
 X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/41704/Captain%20Blood%20Ethnicolor.zip
-Description: Captain Blood - Ethnicolor
+X-SMWAPT-URL: https://dl.smwcentral.net/42253/Bonus%20Game%201.zip
+Description: Bomberman Max 2: Red Advance - Bonus Game 1
 
 Package: smwmusic-castlevania-bloodlines-iron-blue-intention
 Version: smwc-42327-1788109687
@@ -1353,30 +1365,6 @@ X-SMWC-ID: 42271
 X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/42271/BBS-Intro.zip
 Description: h0ffman - BBS-Intro
-
-Package: smwmusic-hudson-s-adventure-island
-Version: smwc-42871-1787589722
-Section: smwmusic
-Architecture: smw
-Maintainer: Zavok
-Filename: pool/smwmusic/42871/Adventure Island 2 - Underwater.zip
-Size: 31581
-X-SMWC-ID: 42871
-X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/42871/Adventure%20Island%202%20-%20Underwater.zip
-Description: Hudson's Adventure Island 2 - Underwater
-
-Package: smwmusic-mahou-poi-poi-poitto-stage
-Version: smwc-42870-1787589719
-Section: smwmusic
-Architecture: smw
-Maintainer: Zavok
-Filename: pool/smwmusic/42870/Mahou Poi Poi Poitto - Stage 1.zip
-Size: 32881
-X-SMWC-ID: 42870
-X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/42870/Mahou%20Poi%20Poi%20Poitto%20-%20Stage%201.zip
-Description: Mahou Poi Poi Poitto - Stage 1
 
 Package: smwmusic-mario-no-super-picross-mario-puzzle
 Version: smwc-42414-1788110251
@@ -1642,6 +1630,18 @@ X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/42091/MANA%20OVERDRIVE%21%21%21.zip
 Description: Touhou Chireiden ~ Subterranean Animism - MANA OVERDRIVE!!! ☢️ ~ Solar Sect of Mystic Wisdom ~ Nuclear Fusion (Remix)
 
+Package: smwmusic-tower-of-heaven-indignant-divinity
+Version: smwc-42868-1789281026
+Section: smwmusic
+Architecture: smw
+Maintainer: Dzing
+Filename: pool/smwmusic/42868/indignantdivinity.zip
+Size: 37906
+X-SMWC-ID: 42868
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42868/indignantdivinity.zip
+Description: Tower of Heaven - Indignant Divinity
+
 Package: smwmusic-trials-of-mana-frenzy
 Version: smwc-42240-1788206362
 Section: smwmusic
@@ -1762,6 +1762,18 @@ X-SMWAPT-Kind: AsarPatch
 X-SMWAPT-URL: https://dl.smwcentral.net/41825/BounceBlockFixes_v1_2_2_.zip
 Description: Bounce block fixes v1.2.2
 
+Package: smwpatches-bring-up-life-exchange-prompt-fixes
+Version: V1.0.2
+Section: smwpatches
+Architecture: smw
+Maintainer: yoshifanatic
+Filename: pool/smwpatches/43149/LifeExchangePromptFixV1.0.2.zip
+Size: 1123
+X-SMWC-ID: 43149
+X-SMWAPT-Kind: AsarPatch
+X-SMWAPT-URL: https://dl.smwcentral.net/43149/LifeExchangePromptFixV1.0.2.zip
+Description: Bring Up Life Exchange Prompt Fixes
+
 Package: smwpatches-carry-items-through-doors-and-diagonal-pipes
 Version: smwc-42113-1777503161
 Section: smwpatches
@@ -1773,18 +1785,6 @@ X-SMWC-ID: 42113
 X-SMWAPT-Kind: AsarPatch
 X-SMWAPT-URL: https://dl.smwcentral.net/42113/Carry%20Items%20Through%20Doors%20and%20Diagonal%20Pipes.zip
 Description: Carry Items Through Doors and Diagonal Pipes
-
-Package: smwpatches-chuck-breaking-blocks-fix
-Version: smwc-40307-1768399710
-Section: smwpatches
-Architecture: smw
-Maintainer: yoshifanatic
-Filename: pool/smwpatches/40307/ChuckBreakBrickFix.zip
-Size: 1214
-X-SMWC-ID: 40307
-X-SMWAPT-Kind: AsarPatch
-X-SMWAPT-URL: https://dl.smwcentral.net/40307/ChuckBreakBrickFix.zip
-Description: Chuck Breaking Blocks Fix
 
 Package: smwpatches-collected-moon-outline
 Version: smwc-41799-1772116767
@@ -1834,6 +1834,18 @@ X-SMWAPT-Kind: AsarPatch
 X-SMWAPT-URL: https://dl.smwcentral.net/41355/Different%20Value%20for%201-Up.zip
 Description: Different Values for 1-Up
 
+Package: smwpatches-disable-item-toss-while-flying
+Version: smwc-42619-1788987101
+Section: smwpatches
+Architecture: smw
+Maintainer: magicker72
+Filename: pool/smwpatches/42619/nothrow.zip
+Size: 1720
+X-SMWC-ID: 42619
+X-SMWAPT-Kind: AsarPatch
+X-SMWAPT-URL: https://dl.smwcentral.net/42619/nothrow.zip
+Description: Disable Item Toss While Flying
+
 Package: smwpatches-display-disclaimer-message-on-boot
 Version: smwc-42275-1778020149
 Section: smwpatches
@@ -1882,18 +1894,6 @@ X-SMWAPT-Kind: AsarPatch
 X-SMWAPT-URL: https://dl.smwcentral.net/42372/endsprfix%200.031.zip
 Description: Enemy Credit Sprite Changer (With Graphical Fix)
 
-Package: smwpatches-enter-level-pipe-star-road-sounds-v1
-Version: smwc-41243-1765223490
-Section: smwpatches
-Architecture: smw
-Maintainer: Ersanio, Moltz
-Filename: pool/smwpatches/41243/OW Tile Sounds v1.1.zip
-Size: 950
-X-SMWC-ID: 41243
-X-SMWAPT-Kind: AsarPatch
-X-SMWAPT-URL: https://dl.smwcentral.net/41243/OW%20Tile%20Sounds%20v1.1.zip
-Description: Enter Level/Pipe/Star Road Sounds v1.1
-
 Package: smwpatches-fade-in-pack
 Version: V1.1.1
 Section: smwpatches
@@ -1941,18 +1941,6 @@ X-SMWC-ID: 41471
 X-SMWAPT-Kind: AsarPatch
 X-SMWAPT-URL: https://dl.smwcentral.net/41471/retimer3.0.zip
 Description: Freeze Timer With String
-
-Package: smwpatches-kick-and-drop-override-fix
-Version: smwc-40704-1764722095
-Section: smwpatches
-Architecture: smw
-Maintainer: HammerBrother
-Filename: pool/smwpatches/40704/KickDropOverrideFix.zip
-Size: 1492
-X-SMWC-ID: 40704
-X-SMWAPT-Kind: AsarPatch
-X-SMWAPT-URL: https://dl.smwcentral.net/40704/KickDropOverrideFix.zip
-Description: Kick and Drop Override Fix
 
 Package: smwpatches-kirby-styled-running
 Version: smwc-41824-1788454292
@@ -2156,7 +2144,7 @@ Size: 249677
 X-SMWC-ID: 40285
 X-SMWAPT-Kind: AsarPatch
 X-SMWAPT-URL: https://dl.smwcentral.net/40285/Player-HP-patch_v4_3.zip
-Description: Player HP meter v4.3
+Description: Player HP Meter
 
 Package: smwpatches-poison-mushroom
 Version: 1.1.2
@@ -2169,6 +2157,18 @@ X-SMWC-ID: 42310
 X-SMWAPT-Kind: AsarPatch
 X-SMWAPT-URL: https://dl.smwcentral.net/42310/poison_mushroom_v1.1.2.zip
 Description: Poison Mushroom
+
+Package: smwpatches-preserve-direct-page-and-scratch-ram-on-interrupts
+Version: 1.1.1
+Section: smwpatches
+Architecture: smw
+Maintainer: Arinsu
+Filename: pool/smwpatches/43137/Preserve DP and Scratch v1.1.1.zip
+Size: 1189
+X-SMWC-ID: 43137
+X-SMWAPT-Kind: AsarPatch
+X-SMWAPT-URL: https://dl.smwcentral.net/43137/Preserve%20DP%20and%20Scratch%20v1.1.1.zip
+Description: Preserve Direct Page and Scratch RAM on Interrupts
 
 Package: smwpatches-ram-toggled-spin-jump
 Version: 1.1
@@ -2254,18 +2254,6 @@ X-SMWAPT-Kind: AsarPatch
 X-SMWAPT-URL: https://dl.smwcentral.net/41437/SmootherTurnAroundAnimation.zip
 Description: Smoother Turn Around Animation
 
-Package: smwpatches-sprite-end-level-scorecard
-Version: smwc-41234-1765743079
-Section: smwpatches
-Architecture: smw
-Maintainer: ASMagician Maks
-Filename: pool/smwpatches/41234/oamscorecard.zip
-Size: 5982
-X-SMWC-ID: 41234
-X-SMWAPT-Kind: AsarPatch
-X-SMWAPT-URL: https://dl.smwcentral.net/41234/oamscorecard.zip
-Description: Sprite End Level Scorecard
-
 Package: smwpatches-sprite-health-bar
 Version: smwc-42123-1775280436
 Section: smwpatches
@@ -2301,6 +2289,18 @@ X-SMWC-ID: 41751
 X-SMWAPT-Kind: AsarPatch
 X-SMWAPT-URL: https://dl.smwcentral.net/41751/tolerance-timer-asar2.zip
 Description: Tolerance Timer (aka Input Buffering & "Coyote Time")
+
+Package: smwpatches-wall-springboard-interaction-wraparound-fix
+Version: smwc-43129-1788878430
+Section: smwpatches
+Architecture: smw
+Maintainer: HammerBrother
+Filename: pool/smwpatches/43129/WallSpringboardInteractionWrapFix.zip
+Size: 1728
+X-SMWC-ID: 43129
+X-SMWAPT-Kind: AsarPatch
+X-SMWAPT-URL: https://dl.smwcentral.net/43129/WallSpringboardInteractionWrapFix.zip
+Description: Wall Springboard Interaction Wraparound Fix
 
 Package: smwpatches-xorshift-pseudo-random-number-generator
 Version: smwc-42146-1778281143
@@ -2638,6 +2638,18 @@ X-SMWAPT-Kind: PixiSprite
 X-SMWAPT-URL: https://dl.smwcentral.net/42142/Homing_Torpedo_Ted.zip
 Description: Homing Torpedo Ted
 
+Package: smwsprites-ice-skating-koopa
+Version: V1.0.1
+Section: smwsprites
+Architecture: smw
+Maintainer: Arinsu
+Filename: pool/smwsprites/42811/Skating KoopaV1.0.1.zip
+Size: 2134
+X-SMWC-ID: 42811
+X-SMWAPT-Kind: PixiSprite
+X-SMWAPT-URL: https://dl.smwcentral.net/42811/Skating%20KoopaV1.0.1.zip
+Description: Ice Skating Koopa
+
 Package: smwsprites-iggy-boss
 Version: smwc-42003-1774355496
 Section: smwsprites
@@ -2889,18 +2901,6 @@ X-SMWC-ID: 42078
 X-SMWAPT-Kind: PixiSprite
 X-SMWAPT-URL: https://dl.smwcentral.net/42078/SMB3_Spike.zip
 Description: Super Mario Bros. 3 - Spike and Spike Ball
-
-Package: smwsprites-super-mario-bros-wonder-serpont
-Version: smwc-41766-1773715993
-Section: smwsprites
-Architecture: smw
-Maintainer: DrippingYellow
-Filename: pool/smwsprites/41766/Serpont.zip
-Size: 7978
-X-SMWC-ID: 41766
-X-SMWAPT-Kind: PixiSprite
-X-SMWAPT-URL: https://dl.smwcentral.net/41766/Serpont.zip
-Description: Super Mario Bros. Wonder - Serpont
 
 Package: snes9x
 Version: smwc-38381-1725783907

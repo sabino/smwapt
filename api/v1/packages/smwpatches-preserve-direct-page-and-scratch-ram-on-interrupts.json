@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-preserve-direct-page-and-scratch-ram-on-interrupts",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 43137,
+  "title": "Preserve Direct Page and Scratch RAM on Interrupts",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "direct page",
+    "interrupt",
+    "lorom",
+    "scratch ram"
+  ],
+  "description": "This patch preserves the direct page register while the game is running in NMI or in an IRQ, which allows you to tweak it for your own needs in custom code.<br>\r\n<br>\r\nAdditionally, it allows you to preserve up to 16 bytes of scratch RAM in the $00-$0F range, <i>during NMI only</i> as to not waste IRQ time. By default it saves 5 bytes, RAM addresses $00-$04.<br>\r\n<br>\r\nDoesn't work with SA-1, as that patch already enables this functionality.",
+  "latest_version": "1.1.1",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 43137,
+      "title": "Preserve Direct Page and Scratch RAM on Interrupts",
+      "version": "1.1.1",
+      "upstream_time": 1788815118,
+      "download_url": "https://dl.smwcentral.net/43137/Preserve%20DP%20and%20Scratch%20v1.1.1.zip",
+      "filename": "Preserve DP and Scratch v1.1.1.zip",
+      "size": 1189,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}
