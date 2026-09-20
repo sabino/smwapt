@@ -70,6 +70,44 @@
     ]
   },
   {
+    "name": "smwsprites-beezo",
+    "aliases": [],
+    "section": "smwsprites",
+    "upstream_id": 43088,
+    "title": "Beezo",
+    "authors": [
+      "DrAnas",
+      "Sonikku"
+    ],
+    "tags": [
+      "beezo",
+      "enemy",
+      "flying",
+      "lorom",
+      "sa-1",
+      "smb2"
+    ],
+    "description": "This is the Beezo from SMB2.<br>\r\nBy default, it contains 4 variations; 2 of which are not native to SMB2;<br>\r\n- Brown: Swoops down from the top left/right of the screen.<br>\r\n- Red: Moves straight.<br>\r\n- Green: Moves slowly and then quickly swoops down when the player passes by.<br>\r\n- Blue: Flies around the player's head, swooping down repeatedly before returning to its origin position and gives up after a few attempts.<br>\r\n<br>\r\nIncluded is a generator which will automatically spawn Beezos at a regular interval.<br>\r\n<br>\r\nPart of my SMB2 sprite standardization project; a project aiming to perfectly recreate the original enemies while adding new functionality.<br>\r\n<br>\r\nRelease History:<br>\r\n- 8/7/2023: V1.0 - Initial Release.<br>\r\n- 8/29/2026: V1.1 - General bugfix update. See the changelog for more info!",
+    "latest_version": "v1.1.1",
+    "install_kind": "pixi_sprite",
+    "versions": [
+      {
+        "upstream_id": 43088,
+        "title": "Beezo",
+        "version": "v1.1.1",
+        "upstream_time": 1789672239,
+        "download_url": "https://dl.smwcentral.net/43088/smb2_beezo_v1.1.1.zip",
+        "filename": "smb2_beezo_v1.1.1.zip",
+        "size": 22253,
+        "sha256": null,
+        "dependencies": [
+          "pixi"
+        ],
+        "install_kind": "pixi_sprite"
+      }
+    ]
+  },
+  {
     "name": "smwsprites-better-creating-eating-block-snakes",
     "aliases": [],
     "section": "smwsprites",
@@ -139,41 +177,6 @@
         "download_url": "https://dl.smwcentral.net/42177/fire_trail_bob_omb.zip",
         "filename": "fire_trail_bob_omb.zip",
         "size": 6916,
-        "sha256": null,
-        "dependencies": [
-          "pixi"
-        ],
-        "install_kind": "pixi_sprite"
-      }
-    ]
-  },
-  {
-    "name": "smwsprites-bouncy-boo",
-    "aliases": [],
-    "section": "smwsprites",
-    "upstream_id": 41921,
-    "title": "Bouncy Boo",
-    "authors": [
-      "Arinsu"
-    ],
-    "tags": [
-      "boo",
-      "enemy",
-      "lorom",
-      "sa-1"
-    ],
-    "description": "This Boo bounces around, like a Puntin' Chuck football or a Diggin' Chuck rock. You can make it bounce always, or only when not stared at.<br>\r\n<br>\r\nDedicated to <span class=\"un-outer\" title=\"Boosius\"><a href=\"/?p=profile&amp;id=32517\" style=\"color: var(--user-color-3);\" class=\"un\">Boosius</a></span>, I wouldn't be able to come up with something like this myself lol.",
-    "latest_version": "smwc-41921-1773807906",
-    "install_kind": "pixi_sprite",
-    "versions": [
-      {
-        "upstream_id": 41921,
-        "title": "Bouncy Boo",
-        "version": "smwc-41921-1773807906",
-        "upstream_time": 1773807906,
-        "download_url": "https://dl.smwcentral.net/41921/Bouncy%20Boo.zip",
-        "filename": "Bouncy Boo.zip",
-        "size": 4404,
         "sha256": null,
         "dependencies": [
           "pixi"
@@ -255,43 +258,6 @@
     ]
   },
   {
-    "name": "smwsprites-chasing-explosive-swooper",
-    "aliases": [],
-    "section": "smwsprites",
-    "upstream_id": 42068,
-    "title": "Chasing (Explosive) Swooper",
-    "authors": [
-      "RussianMan"
-    ],
-    "tags": [
-      "chasing",
-      "enemy",
-      "explosion",
-      "lorom",
-      "sa-1",
-      "swooper"
-    ],
-    "description": "A swooper that chases after player after being disturbed. Includes an explosive variant that explodes after a little while.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Roberto zampari\"><a href=\"/?p=profile&amp;id=1508\" style=\"color: var(--user-color-2);\" class=\"un\">Roberto zampari</a></span> and <span class=\"un-outer\" title=\"SF - The Dark Warrior\"><a href=\"/?p=profile&amp;id=5831\" style=\"color: var(--user-color-1);\" class=\"un\">SF - The Dark Warrior</a></span> during Winter C3 2023.",
-    "latest_version": "smwc-42068-1774966936",
-    "install_kind": "pixi_sprite",
-    "versions": [
-      {
-        "upstream_id": 42068,
-        "title": "Chasing (Explosive) Swooper",
-        "version": "smwc-42068-1774966936",
-        "upstream_time": 1774966936,
-        "download_url": "https://dl.smwcentral.net/42068/ChasingSwooper.zip",
-        "filename": "ChasingSwooper.zip",
-        "size": 8662,
-        "sha256": null,
-        "dependencies": [
-          "pixi"
-        ],
-        "install_kind": "pixi_sprite"
-      }
-    ]
-  },
-  {
     "name": "smwsprites-chasing-hidden-rex",
     "aliases": [],
     "section": "smwsprites",
@@ -364,32 +330,32 @@
     ]
   },
   {
-    "name": "smwsprites-conditional-keyhole",
+    "name": "smwsprites-custom-goal-point-question-sphere",
     "aliases": [],
     "section": "smwsprites",
-    "upstream_id": 42039,
-    "title": "Conditional Keyhole",
+    "upstream_id": 43160,
+    "title": "Custom Goal Point Question Sphere",
     "authors": [
-      "Koopster"
+      "imamelia"
     ],
     "tags": [
-      "keyhole",
+      "goal sphere",
       "lorom",
       "pacifist",
       "sa-1"
     ],
-    "description": "A keyhole that will only appear if a specified flag is set or clear, depending on the extra bit. If the extra bit is set, it will only appear when the flag is set (non-zero) and vice-versa. The extra bytes determine which flag to use: common flags are P-switch and ON/OFF. You can find other addresses at the <a href=\"https://www.smwcentral.net/?p=memorymap&game=smw&region=ram\">RAM map.</a><br>\r\n<br>\r\nYou can optionally fix the keyholes only detecting the key in the highest sprite slot with the !detect_any_key define. The fix is enabled by default.",
-    "latest_version": "smwc-42039-1774553550",
+    "description": "This is a custom version of the Goal Point Question Sphere (sprite 4A in SMW). It has various customizable behaviors set by the extra byte.",
+    "latest_version": "V1.0.1",
     "install_kind": "pixi_sprite",
     "versions": [
       {
-        "upstream_id": 42039,
-        "title": "Conditional Keyhole",
-        "version": "smwc-42039-1774553550",
-        "upstream_time": 1774553550,
-        "download_url": "https://dl.smwcentral.net/42039/conditional_keyhole.zip",
-        "filename": "conditional_keyhole.zip",
-        "size": 4732,
+        "upstream_id": 43160,
+        "title": "Custom Goal Point Question Sphere",
+        "version": "V1.0.1",
+        "upstream_time": 1789390326,
+        "download_url": "https://dl.smwcentral.net/43160/Goal%20Point%20Question%20Sphere%20V1.0.1.zip",
+        "filename": "Goal Point Question Sphere V1.0.1.zip",
+        "size": 2782,
         "sha256": null,
         "dependencies": [
           "pixi"
@@ -472,6 +438,40 @@
     ]
   },
   {
+    "name": "smwsprites-disappearing-rock-platform",
+    "aliases": [],
+    "section": "smwsprites",
+    "upstream_id": 43168,
+    "title": "Disappearing Rock Platform",
+    "authors": [
+      "Koopster"
+    ],
+    "tags": [
+      "lorom",
+      "platform",
+      "sa-1"
+    ],
+    "description": "Functionally the same as the sinking rock platform in the vanilla game, except it blinks before disappearing and is fully drawn.<br>\r\n<br>\r\nThe time it sinks and blinks for, the sinking speed and the tilemap are easily configurable for convenience.",
+    "latest_version": "smwc-43168-1789666605",
+    "install_kind": "pixi_sprite",
+    "versions": [
+      {
+        "upstream_id": 43168,
+        "title": "Disappearing Rock Platform",
+        "version": "smwc-43168-1789666605",
+        "upstream_time": 1789666605,
+        "download_url": "https://dl.smwcentral.net/43168/disappearing_rock_platform.zip",
+        "filename": "disappearing_rock_platform.zip",
+        "size": 2411,
+        "sha256": null,
+        "dependencies": [
+          "pixi"
+        ],
+        "install_kind": "pixi_sprite"
+      }
+    ]
+  },
+  {
     "name": "smwsprites-electricity",
     "aliases": [],
     "section": "smwsprites",
@@ -543,6 +543,47 @@
     ]
   },
   {
+    "name": "smwsprites-fire-bro",
+    "aliases": [],
+    "section": "smwsprites",
+    "upstream_id": 42750,
+    "title": "Fire Bro",
+    "authors": [
+      "DrAnas",
+      "Sonikku",
+      "lx5"
+    ],
+    "tags": [
+      "bros",
+      "extended",
+      "extended sprites",
+      "fire",
+      "fireball",
+      "lorom",
+      "sa-1",
+      "smb3"
+    ],
+    "description": "The Fire Bro from Super Mario Bros. 3. It walks around and occasionally hops. It periodically spits 2 fireballs at Mario. They are extended sprites and are identical to Mario's fireballs, except that they can hurt him.<br>\r\n<br>\r\nMake sure to specify the extended sprite number of the fireball ('extended/fire_bro_fireball.asm') from list.txt in the Fire Bro's ASM file ('sprites/FireBro.asm')!",
+    "latest_version": "v2.0.1",
+    "install_kind": "pixi_sprite",
+    "versions": [
+      {
+        "upstream_id": 42750,
+        "title": "Fire Bro",
+        "version": "v2.0.1",
+        "upstream_time": 1789848312,
+        "download_url": "https://dl.smwcentral.net/42750/smb3_fire_broV2.0.1.zip",
+        "filename": "smb3_fire_broV2.0.1.zip",
+        "size": 10331,
+        "sha256": null,
+        "dependencies": [
+          "pixi"
+        ],
+        "install_kind": "pixi_sprite"
+      }
+    ]
+  },
+  {
     "name": "smwsprites-fire-magikoopa",
     "aliases": [],
     "section": "smwsprites",
@@ -570,44 +611,6 @@
         "download_url": "https://dl.smwcentral.net/42731/Fire_Magikoopa.zip",
         "filename": "Fire_Magikoopa.zip",
         "size": 3949,
-        "sha256": null,
-        "dependencies": [
-          "pixi"
-        ],
-        "install_kind": "pixi_sprite"
-      }
-    ]
-  },
-  {
-    "name": "smwsprites-flame-trail-galoomba",
-    "aliases": [],
-    "section": "smwsprites",
-    "upstream_id": 42063,
-    "title": "Flame Trail Galoomba",
-    "authors": [
-      "RussianMan"
-    ],
-    "tags": [
-      "enemy",
-      "fire",
-      "flame",
-      "galoomba",
-      "goomba",
-      "lorom",
-      "sa-1"
-    ],
-    "description": "A Galoomba that leaves a flame trail as it's walking on the ground.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"JP32\"><a href=\"/?p=profile&amp;id=25888\" style=\"color: var(--user-color-1);\" class=\"un unavailable inactive\">JP32</a></span> during Winter C3 2024. Credit is unecessary.",
-    "latest_version": "smwc-42063-1774838788",
-    "install_kind": "pixi_sprite",
-    "versions": [
-      {
-        "upstream_id": 42063,
-        "title": "Flame Trail Galoomba",
-        "version": "smwc-42063-1774838788",
-        "upstream_time": 1774838788,
-        "download_url": "https://dl.smwcentral.net/42063/FlameTrailGaloomba.zip",
-        "filename": "FlameTrailGaloomba.zip",
-        "size": 11975,
         "sha256": null,
         "dependencies": [
           "pixi"
@@ -803,42 +806,6 @@
     ]
   },
   {
-    "name": "smwsprites-galoomba-smw-goomba",
-    "aliases": [],
-    "section": "smwsprites",
-    "upstream_id": 41905,
-    "title": "Galoomba (SMW Goomba)",
-    "authors": [
-      "RussianMan"
-    ],
-    "tags": [
-      "enemy",
-      "galoomba",
-      "goomba",
-      "lorom",
-      "sa-1"
-    ],
-    "description": "This is a disassembly of sprite 0F in SMW, Galoomba (SMW Goomba).",
-    "latest_version": "smwc-41905-1774550220",
-    "install_kind": "pixi_sprite",
-    "versions": [
-      {
-        "upstream_id": 41905,
-        "title": "Galoomba (SMW Goomba)",
-        "version": "smwc-41905-1774550220",
-        "upstream_time": 1774550220,
-        "download_url": "https://dl.smwcentral.net/41905/GaloombaDisassembly.zip",
-        "filename": "GaloombaDisassembly.zip",
-        "size": 10788,
-        "sha256": null,
-        "dependencies": [
-          "pixi"
-        ],
-        "install_kind": "pixi_sprite"
-      }
-    ]
-  },
-  {
     "name": "smwsprites-galoomba-sticks-to-walls",
     "aliases": [],
     "section": "smwsprites",
@@ -901,6 +868,40 @@
         "download_url": "https://dl.smwcentral.net/42722/GiantJumpingPlant.zip",
         "filename": "GiantJumpingPlant.zip",
         "size": 6245,
+        "sha256": null,
+        "dependencies": [
+          "pixi"
+        ],
+        "install_kind": "pixi_sprite"
+      }
+    ]
+  },
+  {
+    "name": "smwsprites-goal-tape",
+    "aliases": [],
+    "section": "smwsprites",
+    "upstream_id": 43164,
+    "title": "Goal Tape",
+    "authors": [
+      "Iceguy"
+    ],
+    "tags": [
+      "goal",
+      "lorom",
+      "sa-1"
+    ],
+    "description": "The goal tape from SMW, disassembled and commented.<br>\r\n<br>\r\nIt has some configurable stuff too, such as the music to play, maximum height of goal post etc.<br>\r\nI made the extra bit determine whether it activates the normal exit or the secret exit.<br>\r\n",
+    "latest_version": "V1.0.1",
+    "install_kind": "pixi_sprite",
+    "versions": [
+      {
+        "upstream_id": 43164,
+        "title": "Goal Tape",
+        "version": "V1.0.1",
+        "upstream_time": 1789423963,
+        "download_url": "https://dl.smwcentral.net/43164/goaltapeV1.0.1.zip",
+        "filename": "goaltapeV1.0.1.zip",
+        "size": 4511,
         "sha256": null,
         "dependencies": [
           "pixi"
@@ -1015,42 +1016,6 @@
     ]
   },
   {
-    "name": "smwsprites-iggy-boss",
-    "aliases": [],
-    "section": "smwsprites",
-    "upstream_id": 42003,
-    "title": "Iggy Boss 2024 Edition",
-    "authors": [
-      "Luknight"
-    ],
-    "tags": [
-      "boss",
-      "iggy",
-      "koopaling",
-      "lorom",
-      "sa-1"
-    ],
-    "description": "This is an Iggy Boss which can be defeated with 5 hits which will deffert<br>\r\nwhen Iggy is hit, he will be an a Shell<br>\r\non the third and fourth hit Iggy will Spit out a Fireball from the Bowser Statue Sprite<br>\r\non Extra Bit 3 Iggy will throw hammers on the third and fourth hit<br>\r\nRequested by SMW Magic<br>\r\n<br>\r\n2026/03/23<br>\r\nFixed a bug where performing a finishing blow in the air would cause a soft lock.",
-    "latest_version": "smwc-42003-1774355496",
-    "install_kind": "pixi_sprite",
-    "versions": [
-      {
-        "upstream_id": 42003,
-        "title": "Iggy Boss 2024 Edition",
-        "version": "smwc-42003-1774355496",
-        "upstream_time": 1774355496,
-        "download_url": "https://dl.smwcentral.net/42003/iggy2024.zip",
-        "filename": "iggy2024.zip",
-        "size": 5146,
-        "sha256": null,
-        "dependencies": [
-          "pixi"
-        ],
-        "install_kind": "pixi_sprite"
-      }
-    ]
-  },
-  {
     "name": "smwsprites-invisible-sprite-killer-box-v1",
     "aliases": [],
     "section": "smwsprites",
@@ -1077,6 +1042,41 @@
         "download_url": "https://dl.smwcentral.net/42764/Invisible%20Sprite%20Killer%20Box.zip",
         "filename": "Invisible Sprite Killer Box.zip",
         "size": 2266,
+        "sha256": null,
+        "dependencies": [
+          "pixi"
+        ],
+        "install_kind": "pixi_sprite"
+      }
+    ]
+  },
+  {
+    "name": "smwsprites-lemon-drop",
+    "aliases": [],
+    "section": "smwsprites",
+    "upstream_id": 43161,
+    "title": "Lemon Drop",
+    "authors": [
+      "imamelia"
+    ],
+    "tags": [
+      "enemy",
+      "lorom",
+      "sa-1",
+      "yoshi's island"
+    ],
+    "description": "This is the Lemon Drop from Yoshi's Island, that little yellow slime thing found in one room of 3-4 and used to create the 1-8 boss.  It can be made to spawn a single sprite or spawn additional ones like a generator (see the .asm file for more details).<br>\r\n<br>\r\n*NOTE: The version that generates additional Lemon Drops may cause lag; it is best used in a place that doesn't have too many other sprites to process.  Don't use it anywhere where there could be no valid ceiling for the new slimes to spawn on either, or it will freeze the game.",
+    "latest_version": "smwc-43161-1789331241",
+    "install_kind": "pixi_sprite",
+    "versions": [
+      {
+        "upstream_id": 43161,
+        "title": "Lemon Drop",
+        "version": "smwc-43161-1789331241",
+        "upstream_time": 1789331241,
+        "download_url": "https://dl.smwcentral.net/43161/Lemon%20Drop.zip",
+        "filename": "Lemon Drop.zip",
+        "size": 7429,
         "sha256": null,
         "dependencies": [
           "pixi"
@@ -1408,43 +1408,6 @@
     ]
   },
   {
-    "name": "smwsprites-pokey-heading-yoshi-s-island-pokey",
-    "aliases": [],
-    "section": "smwsprites",
-    "upstream_id": 41979,
-    "title": "Pokey Heading (Yoshi's Island Pokey)",
-    "authors": [
-      "Sonikku"
-    ],
-    "tags": [
-      "enemy",
-      "lorom",
-      "needlenose",
-      "pokey",
-      "sa-1",
-      "yoshi's island"
-    ],
-    "description": "This is an enemy from Yoshi's Island that was always really funny.<br>\r\nThe Needlenose that it spawns can be defeated by thrown objects or eaten by Yoshi, which will make the Pokey really sad.<br>\r\nThe Pokey itself is mostly-invulnerable, only able to die from a star powered player, explosions, and lava.<br>\r\n<br>\r\nThere are 5 varieties available by default, accessible via Extra Byte 1;<br>\r\n- <b>Green</b>: Original behavior.<br>\r\n- <b>Yellow</b>: Launches the Needlenose at a consistent height.<br>\r\n- <b>Red</b>: Launches the Needlenose at much lower heights.<br>\r\n- <b>Blue</b>: Same behavior as the green variant, but its Needlenose never regrows, so it stays sad forever.<br>\r\n- <b>Gray</b>: The last bounce of its pattern will make the Needlenose explode.<br>\r\nMore varieties with different patterns can be added from the ASM file.<br>\r\n<br>\r\nExtra Byte 2 will delay its initial bounce of the Needlenose, allowing you to fine-tune it.<br>\r\n<br>\r\nThis sprite has also been uploaded on my Patreon, available <a href=\"https://www.patreon.com/posts/153546494\" rel=\"nofollow\">here</a>.",
-    "latest_version": "smwc-41979-1774910938",
-    "install_kind": "pixi_sprite",
-    "versions": [
-      {
-        "upstream_id": 41979,
-        "title": "Pokey Heading (Yoshi's Island Pokey)",
-        "version": "smwc-41979-1774910938",
-        "upstream_time": 1774910938,
-        "download_url": "https://dl.smwcentral.net/41979/NeedlenoseAndPokey.zip",
-        "filename": "NeedlenoseAndPokey.zip",
-        "size": 8774,
-        "sha256": null,
-        "dependencies": [
-          "pixi"
-        ],
-        "install_kind": "pixi_sprite"
-      }
-    ]
-  },
-  {
     "name": "smwsprites-pot",
     "aliases": [],
     "section": "smwsprites",
@@ -1555,33 +1518,35 @@
     ]
   },
   {
-    "name": "smwsprites-rip-van-fish",
+    "name": "smwsprites-shyguy-snifit",
     "aliases": [],
     "section": "smwsprites",
-    "upstream_id": 41922,
-    "title": "Rip Van Fish",
+    "upstream_id": 43087,
+    "title": "ShyGuy / Snifit",
     "authors": [
-      "Arinsu"
+      "DrAnas",
+      "Sonikku"
     ],
     "tags": [
       "enemy",
-      "fish",
       "lorom",
-      "rip van fish",
-      "sa-1"
+      "sa-1",
+      "shyguy",
+      "smb2",
+      "snifit"
     ],
-    "description": "This is a disassembly of sprite 3D, the Rip Van Fish. Unlike the older disassembly, it fixes some oddities with slopes, removes a lot of irrelevant code, and has more defines to edit it in a more user friendly way.<br>\r\n<br>\r\nDedicated to <span class=\"un-outer\" title=\"Segment1Zone2\"><a href=\"/?p=profile&amp;id=46677\" style=\"color: var(--user-color-1);\" class=\"un\">Segment1Zone2</a></span> who brought the issues with the older disassembly to my attention.",
-    "latest_version": "smwc-41922-1774389433",
+    "description": "This is the ShyGuy and Snifit from SMB2.<br>\r\nBoth the ShyGuy and Snifit contain several variations. For ShyGuys:<br>\r\n- Red: Moves normally; walks off ledges.<br>\r\n- Blue: Same as Red, but stays on ledges.<br>\r\n- Green: Hops in place (such as the Gray Snifit).<br>\r\n- Yellow: Moves faster, follows player, and jumps over thrown shells. Snifits fire 3 cannonballs.<br>\r\n- Giant Red: Same as Red, but is 32x32.<br>\r\n- Giant Blue: Same as Blue, but is 32x32.<br>\r\n<br>\r\nSnifits are mostly the same, albeit with their signature projectiles attacks. They also always follow the player regardless, just like in SMB2. The extra variants are as follows:<br>\r\n- Gray: Hops in place firing projectiles.<br>\r\n- Gold: Same as Gray, but fires 3 projectiles.<br>\r\n- Big Gray: Same as Gray, but is 32x32 and fires larger cannonballs.<br>\r\n- Big Gold: Same as Gold, but is 32x32 and fires larger cannonballs.<br>\r\n<br>\r\nAdditionally, this sprite contains a Shooter sprite that can be used to spawn this sprite, like how they can spawn from jars in SMB2.<br>\r\n<br>\r\nPart of my SMB2 sprite standardization project; a project aiming to perfectly recreate the original enemies while adding new functionality.<br>\r\n<br>\r\n<b>Release History</b>:<br>\r\n- 7/9/2023: V1.0 (C3 2023) - Initial Release.<br>\r\n- 7/16/2023: V1.01 - Updated the JSON files to disable the \"Invincible to star/cape/fire/bounce blk\" flag.<br>\r\n- 8/29/2026: V1.1 - General bugfix update. See the changelog for more info!",
+    "latest_version": "v1.1.1",
     "install_kind": "pixi_sprite",
     "versions": [
       {
-        "upstream_id": 41922,
-        "title": "Rip Van Fish",
-        "version": "smwc-41922-1774389433",
-        "upstream_time": 1774389433,
-        "download_url": "https://dl.smwcentral.net/41922/New%20Rip%20Van%20Fish%20Disassembly.zip",
-        "filename": "New Rip Van Fish Disassembly.zip",
-        "size": 3828,
+        "upstream_id": 43087,
+        "title": "ShyGuy / Snifit",
+        "version": "v1.1.1",
+        "upstream_time": 1789595831,
+        "download_url": "https://dl.smwcentral.net/43087/smb2_shyguyV1.1.1.zip",
+        "filename": "smb2_shyguyV1.1.1.zip",
+        "size": 30516,
         "sha256": null,
         "dependencies": [
           "pixi"
@@ -1745,14 +1710,11 @@
       "Luknight"
     ],
     "tags": [
-      "buzzy beetle",
-      "enemy",
       "lorom",
       "sa-1",
       "smb 3",
       "spike",
-      "spike balls",
-      "spiny"
+      "spike balls"
     ],
     "description": "SMB3 style Spike and spike ball<br>\r\n<br>\r\nGreen - SMB3 Spike<br>\r\nBlue - Stone Spike (throws spike balls towards the screen)<br>\r\nRed - Fire Spike (throws fireballs instead of a spike ball)<br>\r\nExtra bit - move/stay flag<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"CalHal\"><a href=\"/?p=profile&amp;id=33725\" style=\"color: var(--user-color-1);\" class=\"un\">CalHal</a></span>",
     "latest_version": "smwc-42078-1775670513",
@@ -1771,15 +1733,74 @@
           "pixi"
         ],
         "install_kind": "pixi_sprite"
-      },
+      }
+    ]
+  },
+  {
+    "name": "smwsprites-tweeter",
+    "aliases": [],
+    "section": "smwsprites",
+    "upstream_id": 43089,
+    "title": "Tweeter",
+    "authors": [
+      "DrAnas",
+      "Sonikku"
+    ],
+    "tags": [
+      "enemy",
+      "lorom",
+      "sa-1",
+      "smb2",
+      "tweeter"
+    ],
+    "description": "This is the Tweeter from SMB2.<br>\r\nBy default, it contains 4 variations; 3 of which are not native to SMB2;<br>\r\n- Red: Moves as the original sprite; performs 3 small hops followed by 1 larger one.<br>\r\n- Blue: Same as Red, but stays on ledges.<br>\r\n- Green: Does 2 small hops followed by 1 larger one. Every 6 hops, it'll flutter upward.<br>\r\n- Yellow: Moves faster, hops a bit more erratically, chases the player, and can hop over kicked shells.<br>\r\n<br>\r\nPart of my SMB2 sprite standardization project; a project aiming to perfectly recreate the original enemies while adding new functionality.<br>\r\n<br>\r\n<b>Release History</b>:<br>\r\n- 7/9/2023: V1.0 (C3 2023) - Initial Release.<br>\r\n- 7/16/2023: V1.01 - Updated the JSON files to disable the \"Invincible to star/cape/fire/bounce blk\" flag.<br>\r\n- 8/29/2026: V1.1 - General bugfix update. See the changelog for more info!",
+    "latest_version": "v1.1",
+    "install_kind": "pixi_sprite",
+    "versions": [
       {
-        "upstream_id": 41932,
-        "title": "Super Mario Bros. 3 - Buzzy Beetle / Spiny",
-        "version": "smwc-41932-1774305544",
-        "upstream_time": 1774305544,
-        "download_url": "https://dl.smwcentral.net/41932/smb3_buzzy_spiny_v3.zip",
-        "filename": "smb3_buzzy_spiny_v3.zip",
-        "size": 5500,
+        "upstream_id": 43089,
+        "title": "Tweeter",
+        "version": "v1.1",
+        "upstream_time": 1789683842,
+        "download_url": "https://dl.smwcentral.net/43089/smb2_tweeter_updated.zip",
+        "filename": "smb2_tweeter_updated.zip",
+        "size": 16522,
+        "sha256": null,
+        "dependencies": [
+          "pixi"
+        ],
+        "install_kind": "pixi_sprite"
+      }
+    ]
+  },
+  {
+    "name": "smwsprites-umbrella-buddy",
+    "aliases": [],
+    "section": "smwsprites",
+    "upstream_id": 43099,
+    "title": "Umbrella Buddy",
+    "authors": [
+      "RussianMan"
+    ],
+    "tags": [
+      "bounce",
+      "enemy",
+      "lorom",
+      "sa-1",
+      "spike"
+    ],
+    "description": "A critter that is carrying an umbrella. When the umbrella is open, the player will bounce on top of it. When closed, it'll act as a spike, hurts player, but can be spinjumped on. The trigger for toggling its effect can be customized (change on player jump or a flag like On/Off switch status).<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Tob\"><a href=\"/?p=profile&amp;id=25442\" style=\"color: var(--user-color-1);\" class=\"un\">Tob</a></span> during Summer C3 2026. Graphics also by <span class=\"un-outer\" title=\"Tob\"><a href=\"/?p=profile&amp;id=25442\" style=\"color: var(--user-color-1);\" class=\"un\">Tob</a></span>.",
+    "latest_version": "V1.0.1",
+    "install_kind": "pixi_sprite",
+    "versions": [
+      {
+        "upstream_id": 43099,
+        "title": "Umbrella Buddy",
+        "version": "V1.0.1",
+        "upstream_time": 1789757346,
+        "download_url": "https://dl.smwcentral.net/43099/UmbrellaBuddyV1.0.1.zip",
+        "filename": "UmbrellaBuddyV1.0.1.zip",
+        "size": 7284,
         "sha256": null,
         "dependencies": [
           "pixi"

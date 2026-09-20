@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-custom-exit-enabled-pipes-specific-screen-conditional-random",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 42082,
+  "title": "Custom Exit Enabled Pipes (Specific Screen + Conditional + Random)",
+  "authors": [
+    "Koopster"
+  ],
+  "tags": [
+    "lorom",
+    "pipe",
+    "sa-1",
+    "teleport"
+  ],
+  "description": "Replicas of the horizontal and vertical exit enabled pipes with the following functionalities:<br>\r\n<br>\r\n<ul><li><b>specific_screen</b>: Uses a specified screen exit instead of the current screen's exit.</li>\n<li><b>conditional</b>: Uses specified screen exits depending on the value of a RAM address. Different screen exits can be specified for multiple ranges of the RAM address.</li>\n<li><b>random</b>: Rolls a random screen exit from a list.</li></ul><br>\r\nCheck the .asm files for details on how to set them up.",
+  "latest_version": "smwc-42082-1789297073",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 42082,
+      "title": "Custom Exit Enabled Pipes (Specific Screen + Conditional + Random)",
+      "version": "smwc-42082-1789297073",
+      "upstream_time": 1789297073,
+      "download_url": "https://dl.smwcentral.net/42082/custom_exit_enabled_pipes.zip",
+      "filename": "custom_exit_enabled_pipes.zip",
+      "size": 8888,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

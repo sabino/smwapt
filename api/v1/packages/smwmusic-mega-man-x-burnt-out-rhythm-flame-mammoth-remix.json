@@ -1,0 +1,42 @@
+{
+  "name": "smwmusic-mega-man-x-burnt-out-rhythm-flame-mammoth-remix",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42387,
+  "title": "Mega Man X - Burnt Out Rhythm 🔥 ~ Flame Mammoth (Remix)",
+  "authors": [
+    "Hooded Edge"
+  ],
+  "tags": [
+    "bonus",
+    "calm",
+    "credits",
+    "cutscene",
+    "fire",
+    "industrial",
+    "menu",
+    "title",
+    "town",
+    "upbeat",
+    "urban"
+  ],
+  "description": "<span style=\"font-size: 18pt;\"><span style=\"color: #DE4242;\">❝ 𝙃𝙖 𝙝𝙖 𝙝𝙖<i><b>.</b></i> 𝙉𝙤𝙬 𝙞𝙩'𝙨 𝙩𝙞𝙢𝙚 𝙛𝙤𝙧 𝙢𝙚 𝙩𝙤 𝙨𝙩𝙤𝙢𝙥 𝙩𝙝𝙚 𝙛𝙪𝙩𝙪𝙧𝙚 𝙞𝙣𝙩𝙤 𝙙𝙪𝙨𝙩<i><b>!</b></i> ❞</span></span><br>\r\nㅤ<span style=\"font-size: 8pt;\">- Flame Mammoth, <i>Mega Man Maverick Hunter X</i> (2005)</span><br>\r\n<br>\r\nㅤㅤㅤㅤ<img src=\"https://bin.smwcentral.net/u/23547/Flame%2BMammoth.webp\" alt=\"\"><br>\r\n<br>\r\nDid a chill arrangement of <b><a href=\"https://youtu.be/9mLajpEt_ZE\" rel=\"nofollow\">Flame</a> <a href=\"https://youtu.be/RyOcnAP_WDc\" rel=\"nofollow\">Mammoth's</a> <a href=\"https://youtu.be/1WZZto9FYBM\" rel=\"nofollow\">Stage</a></b> from <i>Mega Man X</i>. I realized I only had one Maverick Stage theme left to arrange from X1 and complete the whole roster. Initially started out working on a fast-paced upbeat arrangement heavily based off the original, but then I decided to scrap it for a slow 'n funky beat instead because it'd be really funny to see if it would actually come out right.<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable pitches for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. F Minor (Original Pitch)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span> <br>\r\nㅤ2. E Minor (Custom Pitch 1)<br>\r\nㅤ3. F# Minor (Custom Pitch 2)<br>\r\nㅤ4. G Minor (Custom Pitch 3)<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. Original Echo Delay, but sacrifices SMW-Compatibility (OG Echo)ㅤ<span style=\"color: #C291EB;\">[Listening-Only]</span><br>\r\nㅤ2. Decreased Echo Delay (LOWER Echo)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤㅤ ♠  What's disabled:<br>\r\nㅤㅤㅤ  -  \"Bonus End\" (@7) <span style=\"color: #3DDA8D;\">← (\"MMX1 Overdrive Loud.brr\" is in its place in case you really need it)</span><br>\r\nㅤㅤㅤ  -  \"P-Switch\" (@12) <span style=\"color: #3DDA8D;\">← (\"MIDI Cowbell.brr\" is in its place in case you really need it)</span><br>\r\nㅤㅤㅤ  -  Yoshi SFX (@15) <span style=\"color: #3DDA8D;\">← (\"THG Orch Hit 24K.brr\" is in its place in case you really need it)</span><br>\r\nㅤㅤㅤ  -  Thunder SFX",
+  "latest_version": "smwc-42387-1789315134",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42387,
+      "title": "Mega Man X - Burnt Out Rhythm 🔥 ~ Flame Mammoth (Remix)",
+      "version": "smwc-42387-1789315134",
+      "upstream_time": 1789315134,
+      "download_url": "https://dl.smwcentral.net/42387/Burnt%20Out%20Rhythm.zip",
+      "filename": "Burnt Out Rhythm.zip",
+      "size": 416682,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

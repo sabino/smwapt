@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-dynamitracer-skull-bone",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42605,
+  "title": "DynamiTracer - Skull Bone 1",
+  "authors": [
+    "h.carrell"
+  ],
+  "tags": [
+    "ambient",
+    "calm",
+    "ghost house",
+    "night"
+  ],
+  "description": "The calm bar theme from DynamiTracer's Skull Bone planet",
+  "latest_version": "smwc-42605-1789457959",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42605,
+      "title": "DynamiTracer - Skull Bone 1",
+      "version": "smwc-42605-1789457959",
+      "upstream_time": 1789457959,
+      "download_url": "https://dl.smwcentral.net/42605/Skull%20Bone%201.zip",
+      "filename": "Skull Bone 1.zip",
+      "size": 43599,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

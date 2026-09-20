@@ -1,0 +1,38 @@
+{
+  "name": "smwsprites-beezo",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 43088,
+  "title": "Beezo",
+  "authors": [
+    "DrAnas",
+    "Sonikku"
+  ],
+  "tags": [
+    "beezo",
+    "enemy",
+    "flying",
+    "lorom",
+    "sa-1",
+    "smb2"
+  ],
+  "description": "This is the Beezo from SMB2.<br>\r\nBy default, it contains 4 variations; 2 of which are not native to SMB2;<br>\r\n- Brown: Swoops down from the top left/right of the screen.<br>\r\n- Red: Moves straight.<br>\r\n- Green: Moves slowly and then quickly swoops down when the player passes by.<br>\r\n- Blue: Flies around the player's head, swooping down repeatedly before returning to its origin position and gives up after a few attempts.<br>\r\n<br>\r\nIncluded is a generator which will automatically spawn Beezos at a regular interval.<br>\r\n<br>\r\nPart of my SMB2 sprite standardization project; a project aiming to perfectly recreate the original enemies while adding new functionality.<br>\r\n<br>\r\nRelease History:<br>\r\n- 8/7/2023: V1.0 - Initial Release.<br>\r\n- 8/29/2026: V1.1 - General bugfix update. See the changelog for more info!",
+  "latest_version": "v1.1.1",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 43088,
+      "title": "Beezo",
+      "version": "v1.1.1",
+      "upstream_time": 1789672239,
+      "download_url": "https://dl.smwcentral.net/43088/smb2_beezo_v1.1.1.zip",
+      "filename": "smb2_beezo_v1.1.1.zip",
+      "size": 22253,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

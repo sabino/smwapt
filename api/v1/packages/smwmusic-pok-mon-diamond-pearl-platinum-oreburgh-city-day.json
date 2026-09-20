@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-pok-mon-diamond-pearl-platinum-oreburgh-city-day",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42472,
+  "title": "Pokémon Diamond/Pearl/Platinum - Oreburgh City (Day)",
+  "authors": [
+    "sinseiga"
+  ],
+  "tags": [
+    "athletic",
+    "industrial",
+    "overworld",
+    "town",
+    "upbeat",
+    "urban"
+  ],
+  "description": "Welcome to the mining town where a massive coal mine is in operation<br>\r\n<br>\r\nCould fit well with industrial levels",
+  "latest_version": "smwc-42472-1789416077",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42472,
+      "title": "Pokémon Diamond/Pearl/Platinum - Oreburgh City (Day)",
+      "version": "smwc-42472-1789416077",
+      "upstream_time": 1789416077,
+      "download_url": "https://dl.smwcentral.net/42472/Oreburgh%20City%20%28Day%29%20.zip",
+      "filename": "Oreburgh City (Day) .zip",
+      "size": 73484,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

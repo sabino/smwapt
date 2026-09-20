@@ -8,14 +8,11 @@
     "Luknight"
   ],
   "tags": [
-    "buzzy beetle",
-    "enemy",
     "lorom",
     "sa-1",
     "smb 3",
     "spike",
-    "spike balls",
-    "spiny"
+    "spike balls"
   ],
   "description": "SMB3 style Spike and spike ball<br>\r\n<br>\r\nGreen - SMB3 Spike<br>\r\nBlue - Stone Spike (throws spike balls towards the screen)<br>\r\nRed - Fire Spike (throws fireballs instead of a spike ball)<br>\r\nExtra bit - move/stay flag<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"CalHal\"><a href=\"/?p=profile&amp;id=33725\" style=\"color: var(--user-color-1);\" class=\"un\">CalHal</a></span>",
   "latest_version": "smwc-42078-1775670513",
@@ -29,20 +26,6 @@
       "download_url": "https://dl.smwcentral.net/42078/SMB3_Spike.zip",
       "filename": "SMB3_Spike.zip",
       "size": 7926,
-      "sha256": null,
-      "dependencies": [
-        "pixi"
-      ],
-      "install_kind": "pixi_sprite"
-    },
-    {
-      "upstream_id": 41932,
-      "title": "Super Mario Bros. 3 - Buzzy Beetle / Spiny",
-      "version": "smwc-41932-1774305544",
-      "upstream_time": 1774305544,
-      "download_url": "https://dl.smwcentral.net/41932/smb3_buzzy_spiny_v3.zip",
-      "filename": "smb3_buzzy_spiny_v3.zip",
-      "size": 5500,
       "sha256": null,
       "dependencies": [
         "pixi"

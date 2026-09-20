@@ -212,6 +212,40 @@
     ]
   },
   {
+    "name": "smwpatches-castle-platform-pattern-adjuster",
+    "aliases": [],
+    "section": "smwpatches",
+    "upstream_id": 42663,
+    "title": "Castle Platform Pattern Adjuster",
+    "authors": [
+      "Koopster"
+    ],
+    "tags": [
+      "lorom",
+      "platform",
+      "sa-1"
+    ],
+    "description": "When the sprite tileset (<img src=\"/images/emoticons/lm/gfx_ow.png\" alt=\"#lm{gfxby}\" title=\"Open &quot;Change Index of Graphics&quot; Dialog\" class=\"emoticon\">) is set to 1: Castle, a modification will be made to the graphics routine of the platform sprites. By applying this and editing GFX12 to swap tiles 61 and 71 with 62 and 72 respectively (a ready-to-use modification of the file is included), it's now possible to give them a proper zig-zag pattern. For other sprite tilesets, the platforms are unchanged.<br>\r\n<br>\r\nAs long as the sprite tileset is properly set, you can use Super GFX Bypass (<img src=\"/images/emoticons/lm/exgfx.png\" alt=\"#lm{sgfxby}\" title=\"Open &quot;Super Graphics Bypass&quot; Dialog\" class=\"emoticon\">) freely.<br>\r\n<br>\r\nA niche warning: in the rotating gray platform, the chain tile normally drawn behind the platform is removed, as it's normally made invisible by the castle platform graphic anyway.",
+    "latest_version": "smwc-42663-1789815648",
+    "install_kind": "asar_patch",
+    "versions": [
+      {
+        "upstream_id": 42663,
+        "title": "Castle Platform Pattern Adjuster",
+        "version": "smwc-42663-1789815648",
+        "upstream_time": 1789815648,
+        "download_url": "https://dl.smwcentral.net/42663/castle_platform_pattern.zip",
+        "filename": "castle_platform_pattern.zip",
+        "size": 3573,
+        "sha256": null,
+        "dependencies": [
+          "asar"
+        ],
+        "install_kind": "asar_patch"
+      }
+    ]
+  },
+  {
     "name": "smwpatches-collected-moon-outline",
     "aliases": [],
     "section": "smwpatches",
@@ -247,41 +281,6 @@
     ]
   },
   {
-    "name": "smwpatches-course-clear-modifier",
-    "aliases": [],
-    "section": "smwpatches",
-    "upstream_id": 41426,
-    "title": "\"Course Clear\" Modifier",
-    "authors": [
-      "adakkusu-san"
-    ],
-    "tags": [
-      "course clear",
-      "hex edits",
-      "lorom",
-      "sa-1"
-    ],
-    "description": "This patch allows you to change the \"Course Clear!\" text and some other text at the end of the level to what you want. The patch is largely commented.",
-    "latest_version": "smwc-41426-1768518245",
-    "install_kind": "asar_patch",
-    "versions": [
-      {
-        "upstream_id": 41426,
-        "title": "\"Course Clear\" Modifier",
-        "version": "smwc-41426-1768518245",
-        "upstream_time": 1768518245,
-        "download_url": "https://dl.smwcentral.net/41426/courseclearasar2.zip",
-        "filename": "courseclearasar2.zip",
-        "size": 1133,
-        "sha256": null,
-        "dependencies": [
-          "asar"
-        ],
-        "install_kind": "asar_patch"
-      }
-    ]
-  },
-  {
     "name": "smwpatches-custom-end-level-stars-text",
     "aliases": [],
     "section": "smwpatches",
@@ -308,40 +307,6 @@
         "download_url": "https://dl.smwcentral.net/41442/GoalTapeGG_Asar2.zip",
         "filename": "GoalTapeGG_Asar2.zip",
         "size": 1541,
-        "sha256": null,
-        "dependencies": [
-          "asar"
-        ],
-        "install_kind": "asar_patch"
-      }
-    ]
-  },
-  {
-    "name": "smwpatches-different-values-for",
-    "aliases": [],
-    "section": "smwpatches",
-    "upstream_id": 41355,
-    "title": "Different Values for 1-Up",
-    "authors": [
-      "Arinsu"
-    ],
-    "tags": [
-      "lives",
-      "lorom",
-      "sa-1"
-    ],
-    "description": "Leverages unused Super Mario World code to allow you to set a different lives value for 1-up mushrooms, when the extra bit is set and using extra byte 1, without using a custom sprite slot. You can also remap the tile and the palette!<br>\r\n<br>\r\nRequires PIXI to work. Requires five bytes of free ROM in bank 01.",
-    "latest_version": "smwc-41355-1768426767",
-    "install_kind": "asar_patch",
-    "versions": [
-      {
-        "upstream_id": 41355,
-        "title": "Different Values for 1-Up",
-        "version": "smwc-41355-1768426767",
-        "upstream_time": 1768426767,
-        "download_url": "https://dl.smwcentral.net/41355/Different%20Value%20for%201-Up.zip",
-        "filename": "Different Value for 1-Up.zip",
-        "size": 1657,
         "sha256": null,
         "dependencies": [
           "asar"
@@ -1542,6 +1507,44 @@
         "download_url": "https://dl.smwcentral.net/40562/score_sprite_fix_and_remapper.zip",
         "filename": "score_sprite_fix_and_remapper.zip",
         "size": 1764,
+        "sha256": null,
+        "dependencies": [
+          "asar"
+        ],
+        "install_kind": "asar_patch"
+      }
+    ]
+  },
+  {
+    "name": "smwpatches-separate-mario-and-luigi-game-over-themes",
+    "aliases": [],
+    "section": "smwpatches",
+    "upstream_id": 42482,
+    "title": "Separate Mario and Luigi Game Over themes",
+    "authors": [
+      "Gamer collin",
+      "Steven Atauchi C.",
+      "yoshifanatic"
+    ],
+    "tags": [
+      "game over",
+      "lorom",
+      "music",
+      "player",
+      "sa-1"
+    ],
+    "description": "Yay! My very first Asar patch! <br>\r\nThis patch allows Mario and Luigi to have separate Game Over Themes! This also fixes a bug where Luigi doesn’t have Game Over music!<br>\r\n<br>\r\nBug: [url=https://youtu.be/ht23bzUt8wE]<br>\r\n<br>\r\nNote: Go to AMK's <kbd>asm/SNES/tweaks.asm</kbd>, go <code>org $00D0DE</code> and comment out (add semicolons <b>;</b> at the start of each line) for the following lines:<br>\r\n<div class=\"code\"><div class=\"codeHead\"><span>Code</span></div><pre class=\"codeInner filter-noemote filter-nobr 65c816asm\">org $00D0DE\r\n\tdb !GameOver</pre></div>",
+    "latest_version": "1.0.1",
+    "install_kind": "asar_patch",
+    "versions": [
+      {
+        "upstream_id": 42482,
+        "title": "Separate Mario and Luigi Game Over themes",
+        "version": "1.0.1",
+        "upstream_time": 1789541343,
+        "download_url": "https://dl.smwcentral.net/42482/SeparateMarioAndLuigiGameOverThemesV1.0.1.zip",
+        "filename": "SeparateMarioAndLuigiGameOverThemesV1.0.1.zip",
+        "size": 963,
         "sha256": null,
         "dependencies": [
           "asar"

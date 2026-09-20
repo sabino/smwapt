@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-pok-mon-diamond-pearl-platinum-oreburgh-city-night",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42473,
+  "title": "Pokémon Diamond/Pearl/Platinum - Oreburgh City (Night)",
+  "authors": [
+    "sinseiga"
+  ],
+  "tags": [
+    "athletic",
+    "industrial",
+    "night",
+    "overworld",
+    "town",
+    "upbeat",
+    "urban"
+  ],
+  "description": "Welcome to the mining town where a massive coal mine is in operation<br>\r\n<br>\r\nCould fit well with industrial and night levels",
+  "latest_version": "smwc-42473-1789416086",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42473,
+      "title": "Pokémon Diamond/Pearl/Platinum - Oreburgh City (Night)",
+      "version": "smwc-42473-1789416086",
+      "upstream_time": 1789416086,
+      "download_url": "https://dl.smwcentral.net/42473/Oreburgh%20City%20%28Night%29%20.zip",
+      "filename": "Oreburgh City (Night) .zip",
+      "size": 85070,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "smwmusic-planet-of-cartmans-the-ultimate-faceoff",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42404,
+  "title": "Planet of Cartmans - The Ultimate Faceoff",
+  "authors": [
+    "Segment1Zone2"
+  ],
+  "tags": [
+    "dark",
+    "final",
+    "fire",
+    "ghost house",
+    "industrial",
+    "overworld",
+    "tense",
+    "title"
+  ],
+  "description": "The Ultimate Faceoff from Planet of Cartmans, ported on request for <span class=\"un-outer\" title=\"SF - The Dark Warrior\"><a href=\"/?p=profile&amp;id=5831\" style=\"color: var(--user-color-1);\" class=\"un\">SF - The Dark Warrior</a></span>.<br>\r\n<br>\r\nIt's very long.",
+  "latest_version": "smwc-42404-1789401185",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42404,
+      "title": "Planet of Cartmans - The Ultimate Faceoff",
+      "version": "smwc-42404-1789401185",
+      "upstream_time": 1789401185,
+      "download_url": "https://dl.smwcentral.net/42404/Planet%20of%20Cartmans%20-%20The%20Ultimate%20Faceoff.zip",
+      "filename": "Planet of Cartmans - The Ultimate Faceoff.zip",
+      "size": 33094,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

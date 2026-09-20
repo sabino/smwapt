@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-sim-city-good-night",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42460,
+  "title": "Sim City - Good Night",
+  "authors": [
+    "h.carrell"
+  ],
+  "tags": [
+    "cutscene",
+    "misc",
+    "night"
+  ],
+  "description": "A calm theme from Sim City.",
+  "latest_version": "smwc-42460-1789401575",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42460,
+      "title": "Sim City - Good Night",
+      "version": "smwc-42460-1789401575",
+      "upstream_time": 1789401575,
+      "download_url": "https://dl.smwcentral.net/42460/GoodNight.zip",
+      "filename": "GoodNight.zip",
+      "size": 31019,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

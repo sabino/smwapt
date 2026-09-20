@@ -1,0 +1,47 @@
+{
+  "name": "smwmusic-yoshi-touch-go-invincible",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42596,
+  "title": "Yoshi Touch & Go - Invincible",
+  "authors": [
+    "NamyX"
+  ],
+  "tags": [
+    "athletic",
+    "star"
+  ],
+  "description": "Invincible / Starman from Yoshi Touch & Go.",
+  "latest_version": "smwc-42596-1789374134",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42596,
+      "title": "Yoshi Touch & Go - Invincible",
+      "version": "smwc-42596-1789374134",
+      "upstream_time": 1789374134,
+      "download_url": "https://dl.smwcentral.net/42596/Invincible%20%5BU%5D.zip",
+      "filename": "Invincible %5BU%5D.zip",
+      "size": 33226,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 42595,
+      "title": "Yoshi Touch & Go - Invincible",
+      "version": "smwc-42595-1789374128",
+      "upstream_time": 1789374128,
+      "download_url": "https://dl.smwcentral.net/42595/Invincible%20%5BS%5D.zip",
+      "filename": "Invincible %5BS%5D.zip",
+      "size": 96968,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

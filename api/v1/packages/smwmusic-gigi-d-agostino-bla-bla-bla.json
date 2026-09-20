@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-gigi-d-agostino-bla-bla-bla",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42325,
+  "title": "Gigi D'Agostino - Bla Bla Bla",
+  "authors": [
+    "SiameseTwins"
+  ],
+  "tags": [
+    "athletic",
+    "bonus",
+    "carnival",
+    "credits",
+    "title",
+    "town",
+    "urban"
+  ],
+  "description": "A popular italo house song from Italian DJ Gigi D'Agostino.<br>\r\n<span style=\"color: #ff0000;\">Not compatible with Bonus End and Thunder/Blargg/Fireworks.</span>",
+  "latest_version": "smwc-42325-1789313690",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42325,
+      "title": "Gigi D'Agostino - Bla Bla Bla",
+      "version": "smwc-42325-1789313690",
+      "upstream_time": 1789313690,
+      "download_url": "https://dl.smwcentral.net/42325/Gigi%20D%27Agostino%20-%20BlaBlaBla.zip",
+      "filename": "Gigi D%27Agostino - BlaBlaBla.zip",
+      "size": 82550,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

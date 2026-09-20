@@ -1,0 +1,34 @@
+{
+  "name": "smwsprites-disappearing-rock-platform",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 43168,
+  "title": "Disappearing Rock Platform",
+  "authors": [
+    "Koopster"
+  ],
+  "tags": [
+    "lorom",
+    "platform",
+    "sa-1"
+  ],
+  "description": "Functionally the same as the sinking rock platform in the vanilla game, except it blinks before disappearing and is fully drawn.<br>\r\n<br>\r\nThe time it sinks and blinks for, the sinking speed and the tilemap are easily configurable for convenience.",
+  "latest_version": "smwc-43168-1789666605",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 43168,
+      "title": "Disappearing Rock Platform",
+      "version": "smwc-43168-1789666605",
+      "upstream_time": 1789666605,
+      "download_url": "https://dl.smwcentral.net/43168/disappearing_rock_platform.zip",
+      "filename": "disappearing_rock_platform.zip",
+      "size": 2411,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

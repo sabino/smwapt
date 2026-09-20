@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-tweeter",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 43089,
+  "title": "Tweeter",
+  "authors": [
+    "DrAnas",
+    "Sonikku"
+  ],
+  "tags": [
+    "enemy",
+    "lorom",
+    "sa-1",
+    "smb2",
+    "tweeter"
+  ],
+  "description": "This is the Tweeter from SMB2.<br>\r\nBy default, it contains 4 variations; 3 of which are not native to SMB2;<br>\r\n- Red: Moves as the original sprite; performs 3 small hops followed by 1 larger one.<br>\r\n- Blue: Same as Red, but stays on ledges.<br>\r\n- Green: Does 2 small hops followed by 1 larger one. Every 6 hops, it'll flutter upward.<br>\r\n- Yellow: Moves faster, hops a bit more erratically, chases the player, and can hop over kicked shells.<br>\r\n<br>\r\nPart of my SMB2 sprite standardization project; a project aiming to perfectly recreate the original enemies while adding new functionality.<br>\r\n<br>\r\n<b>Release History</b>:<br>\r\n- 7/9/2023: V1.0 (C3 2023) - Initial Release.<br>\r\n- 7/16/2023: V1.01 - Updated the JSON files to disable the \"Invincible to star/cape/fire/bounce blk\" flag.<br>\r\n- 8/29/2026: V1.1 - General bugfix update. See the changelog for more info!",
+  "latest_version": "v1.1",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 43089,
+      "title": "Tweeter",
+      "version": "v1.1",
+      "upstream_time": 1789683842,
+      "download_url": "https://dl.smwcentral.net/43089/smb2_tweeter_updated.zip",
+      "filename": "smb2_tweeter_updated.zip",
+      "size": 16522,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

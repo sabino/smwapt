@@ -1,0 +1,37 @@
+{
+  "name": "uberasm-wario-dash",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 41185,
+  "title": "Wario Dash",
+  "authors": [
+    "Arinsu",
+    "K3fka",
+    "yoshifanatic"
+  ],
+  "tags": [
+    "abilities",
+    "lorom",
+    "player",
+    "sa-1"
+  ],
+  "description": "This UberASM code will give you the ability to dash like Wario in a Wario Land game I haven't played. See the readme for insertion details.<br>\r\n<br>\r\nOriginal description:<br>\r\nAn updated version of my Wario Dash patch. This version changes a few things to fix some bugs. You no longer gain star power while dashing, but a sliding effect is simulated. As such, make sure enemies you want to be able to be killed by the dash are able to be killed by sliding (you can use Tweaker or whatever to enable that).",
+  "latest_version": "V1.1",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 41185,
+      "title": "Wario Dash",
+      "version": "V1.1",
+      "upstream_time": 1772910528,
+      "download_url": "https://dl.smwcentral.net/41185/Wario%20Dash%20V1_1.zip",
+      "filename": "Wario Dash V1_1.zip",
+      "size": 15157,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

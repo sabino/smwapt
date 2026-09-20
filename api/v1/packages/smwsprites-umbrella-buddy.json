@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-umbrella-buddy",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 43099,
+  "title": "Umbrella Buddy",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "bounce",
+    "enemy",
+    "lorom",
+    "sa-1",
+    "spike"
+  ],
+  "description": "A critter that is carrying an umbrella. When the umbrella is open, the player will bounce on top of it. When closed, it'll act as a spike, hurts player, but can be spinjumped on. The trigger for toggling its effect can be customized (change on player jump or a flag like On/Off switch status).<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Tob\"><a href=\"/?p=profile&amp;id=25442\" style=\"color: var(--user-color-1);\" class=\"un\">Tob</a></span> during Summer C3 2026. Graphics also by <span class=\"un-outer\" title=\"Tob\"><a href=\"/?p=profile&amp;id=25442\" style=\"color: var(--user-color-1);\" class=\"un\">Tob</a></span>.",
+  "latest_version": "V1.0.1",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 43099,
+      "title": "Umbrella Buddy",
+      "version": "V1.0.1",
+      "upstream_time": 1789757346,
+      "download_url": "https://dl.smwcentral.net/43099/UmbrellaBuddyV1.0.1.zip",
+      "filename": "UmbrellaBuddyV1.0.1.zip",
+      "size": 7284,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

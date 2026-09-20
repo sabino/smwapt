@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-freddy-s-hot-drinks-remix-of-nightmare-by-tuesday-knight",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42388,
+  "title": "Freddy's Hot Drinks (Remix of Nightmare by Tuesday Knight)",
+  "authors": [
+    "The Cheater",
+    "mmBeefStew"
+  ],
+  "tags": [
+    "abstract",
+    "athletic",
+    "upbeat",
+    "urban"
+  ],
+  "description": "A remix of \"Nightmare\" by Tuesday Knight (Opening song for A Nightmare on Elm Street 4: The Dream Master) in the style and instruments of the iconic \"Wendy's - Hot Drinks\" port by mmBeefStew. This remix is scarier than Freddy Krueger! Don't forget the power glove!<br>\r\n<br>\r\nThis was originally posted to SiIvaGunner under the name <br>\r\n\"Hot Drinks - Grand Poo World 3\"<br>\r\n<br>\r\nhttps://www.youtube.com/watch?v=mPKrtbWVmTA",
+  "latest_version": "smwc-42388-1789314307",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42388,
+      "title": "Freddy's Hot Drinks (Remix of Nightmare by Tuesday Knight)",
+      "version": "smwc-42388-1789314307",
+      "upstream_time": 1789314307,
+      "download_url": "https://dl.smwcentral.net/42388/Freddys_Hot_Drinks.zip",
+      "filename": "Freddys_Hot_Drinks.zip",
+      "size": 54391,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

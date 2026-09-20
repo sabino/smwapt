@@ -1,0 +1,34 @@
+{
+  "name": "smwpatches-castle-platform-pattern-adjuster",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 42663,
+  "title": "Castle Platform Pattern Adjuster",
+  "authors": [
+    "Koopster"
+  ],
+  "tags": [
+    "lorom",
+    "platform",
+    "sa-1"
+  ],
+  "description": "When the sprite tileset (<img src=\"/images/emoticons/lm/gfx_ow.png\" alt=\"#lm{gfxby}\" title=\"Open &quot;Change Index of Graphics&quot; Dialog\" class=\"emoticon\">) is set to 1: Castle, a modification will be made to the graphics routine of the platform sprites. By applying this and editing GFX12 to swap tiles 61 and 71 with 62 and 72 respectively (a ready-to-use modification of the file is included), it's now possible to give them a proper zig-zag pattern. For other sprite tilesets, the platforms are unchanged.<br>\r\n<br>\r\nAs long as the sprite tileset is properly set, you can use Super GFX Bypass (<img src=\"/images/emoticons/lm/exgfx.png\" alt=\"#lm{sgfxby}\" title=\"Open &quot;Super Graphics Bypass&quot; Dialog\" class=\"emoticon\">) freely.<br>\r\n<br>\r\nA niche warning: in the rotating gray platform, the chain tile normally drawn behind the platform is removed, as it's normally made invisible by the castle platform graphic anyway.",
+  "latest_version": "smwc-42663-1789815648",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 42663,
+      "title": "Castle Platform Pattern Adjuster",
+      "version": "smwc-42663-1789815648",
+      "upstream_time": 1789815648,
+      "download_url": "https://dl.smwcentral.net/42663/castle_platform_pattern.zip",
+      "filename": "castle_platform_pattern.zip",
+      "size": 3573,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

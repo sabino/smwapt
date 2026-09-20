@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-kidou-gekidan-haro-ichiza-gundam-mahjong-ds-bgm",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42332,
+  "title": "Kidou Gekidan Haro Ichiza Gundam Mahjong DS - BGM #01",
+  "authors": [
+    "HumASix"
+  ],
+  "tags": [
+    "grassland",
+    "town",
+    "upbeat"
+  ],
+  "description": "An upbeat and happy song. Could fit for grassland and town levels.",
+  "latest_version": "smwc-42332-1789400331",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42332,
+      "title": "Kidou Gekidan Haro Ichiza Gundam Mahjong DS - BGM #01",
+      "version": "smwc-42332-1789400331",
+      "upstream_time": 1789400331,
+      "download_url": "https://dl.smwcentral.net/42332/Kidou%20Gekidan%20Haro%20Ichiza%20Gundam%20Mahjong%20DS%20-%20BGM%20%2301.zip",
+      "filename": "Kidou Gekidan Haro Ichiza Gundam Mahjong DS - BGM %2301.zip",
+      "size": 76219,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

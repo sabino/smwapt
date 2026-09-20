@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-deltarune-physical-challenge",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42462,
+  "title": "Deltarune - Physical Challenge",
+  "authors": [
+    "Forgado"
+  ],
+  "tags": [
+    "athletic",
+    "bonus",
+    "upbeat"
+  ],
+  "description": "The song \"Physical Challenge\" from Chapter 3 of Deltarune, which plays in most of the minigames, originally composed by Toby Fox. Could fit in athletic levels or bonus levels.<br>\r\n<br>\r\nThe original samples were found using stormstudios1's Deltarune Sample Sheet.",
+  "latest_version": "smwc-42462-1789418409",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42462,
+      "title": "Deltarune - Physical Challenge",
+      "version": "smwc-42462-1789418409",
+      "upstream_time": 1789418409,
+      "download_url": "https://dl.smwcentral.net/42462/Physical%20Challenge.zip",
+      "filename": "Physical Challenge.zip",
+      "size": 65934,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "smwsprites-custom-goal-point-question-sphere",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 43160,
+  "title": "Custom Goal Point Question Sphere",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "goal sphere",
+    "lorom",
+    "pacifist",
+    "sa-1"
+  ],
+  "description": "This is a custom version of the Goal Point Question Sphere (sprite 4A in SMW). It has various customizable behaviors set by the extra byte.",
+  "latest_version": "V1.0.1",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 43160,
+      "title": "Custom Goal Point Question Sphere",
+      "version": "V1.0.1",
+      "upstream_time": 1789390326,
+      "download_url": "https://dl.smwcentral.net/43160/Goal%20Point%20Question%20Sphere%20V1.0.1.zip",
+      "filename": "Goal Point Question Sphere V1.0.1.zip",
+      "size": 2782,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

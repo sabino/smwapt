@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-deltarune-gingerbread-house",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42463,
+  "title": "Deltarune - Gingerbread House",
+  "authors": [
+    "Forgado"
+  ],
+  "tags": [
+    "ice",
+    "overworld",
+    "snow",
+    "town",
+    "upbeat"
+  ],
+  "description": "The song \"Gingerbread House\" from Chapter 4 of Deltarune, which plays in Noelle's house, originally composed by Toby Fox. Would fit in chill snow levels or snowy overworlds.<br>\r\n<br>\r\nThe original samples were found using stormstudios1's Deltarune Sample Sheet.",
+  "latest_version": "smwc-42463-1789418704",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42463,
+      "title": "Deltarune - Gingerbread House",
+      "version": "smwc-42463-1789418704",
+      "upstream_time": 1789418704,
+      "download_url": "https://dl.smwcentral.net/42463/Gingerbread%20House.zip",
+      "filename": "Gingerbread House.zip",
+      "size": 83139,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

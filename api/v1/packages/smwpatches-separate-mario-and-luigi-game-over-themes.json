@@ -1,0 +1,38 @@
+{
+  "name": "smwpatches-separate-mario-and-luigi-game-over-themes",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 42482,
+  "title": "Separate Mario and Luigi Game Over themes",
+  "authors": [
+    "Gamer collin",
+    "Steven Atauchi C.",
+    "yoshifanatic"
+  ],
+  "tags": [
+    "game over",
+    "lorom",
+    "music",
+    "player",
+    "sa-1"
+  ],
+  "description": "Yay! My very first Asar patch! <br>\r\nThis patch allows Mario and Luigi to have separate Game Over Themes! This also fixes a bug where Luigi doesn’t have Game Over music!<br>\r\n<br>\r\nBug: [url=https://youtu.be/ht23bzUt8wE]<br>\r\n<br>\r\nNote: Go to AMK's <kbd>asm/SNES/tweaks.asm</kbd>, go <code>org $00D0DE</code> and comment out (add semicolons <b>;</b> at the start of each line) for the following lines:<br>\r\n<div class=\"code\"><div class=\"codeHead\"><span>Code</span></div><pre class=\"codeInner filter-noemote filter-nobr 65c816asm\">org $00D0DE\r\n\tdb !GameOver</pre></div>",
+  "latest_version": "1.0.1",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 42482,
+      "title": "Separate Mario and Luigi Game Over themes",
+      "version": "1.0.1",
+      "upstream_time": 1789541343,
+      "download_url": "https://dl.smwcentral.net/42482/SeparateMarioAndLuigiGameOverThemesV1.0.1.zip",
+      "filename": "SeparateMarioAndLuigiGameOverThemesV1.0.1.zip",
+      "size": 963,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}
