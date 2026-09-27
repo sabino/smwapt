@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-touhou-yumejikuu-the-phantasmagoria-of-dim-dream-dream-of-eternity",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42371,
+  "title": "Touhou Yumejikuu ~ The Phantasmagoria of Dim.Dream - Dream of Eternity",
+  "authors": [
+    "monkey03297"
+  ],
+  "tags": [
+    "cutscene",
+    "ending"
+  ],
+  "description": "久遠の夢",
+  "latest_version": "smwc-42371-1789928258",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42371,
+      "title": "Touhou Yumejikuu ~ The Phantasmagoria of Dim.Dream - Dream of Eternity",
+      "version": "smwc-42371-1789928258",
+      "upstream_time": 1789928258,
+      "download_url": "https://dl.smwcentral.net/42371/th3_15.zip",
+      "filename": "th3_15.zip",
+      "size": 33092,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-luigi-s-mansion-controls",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42363,
+  "title": "Luigi's Mansion - Controls",
+  "authors": [
+    "lordlydumbass"
+  ],
+  "tags": [
+    "menu",
+    "title"
+  ],
+  "description": "One bar loop with a twist after 3 minutes. Spoiler: Totaka's song is here.<br>\r\n<br>\r\nFits a menu or tutorial level maybe?<br>\r\n<br>\r\nmod note: the hurry up tempo hike will make the engine samples in the Totaka's song section sound offbeat",
+  "latest_version": "smwc-42363-1789929973",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42363,
+      "title": "Luigi's Mansion - Controls",
+      "version": "smwc-42363-1789929973",
+      "upstream_time": 1789929973,
+      "download_url": "https://dl.smwcentral.net/42363/Luigi%27s%20Mansion%20-%20Controls.zip",
+      "filename": "Luigi%27s Mansion - Controls.zip",
+      "size": 97547,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

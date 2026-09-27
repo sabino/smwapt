@@ -1,11 +1,9 @@
 {
-  "name": "lunar-magic",
-  "aliases": [
-    "lunar-magic"
-  ],
+  "name": "tools-lunar-magic-3",
+  "aliases": [],
   "section": "tools",
-  "upstream_id": 41329,
-  "title": "Lunar Magic 3.63",
+  "upstream_id": 43216,
+  "title": "Lunar Magic 3.70",
   "authors": [
     "FuSoYa"
   ],
@@ -18,17 +16,17 @@
     "super fx"
   ],
   "description": "Lunar Magic is a level editor for the American and Japanese version 1.00 Super Mario World SNES ROMs, and the SMW portion of the American version 1.00 Mario All Stars + World SNES ROM.<br>\r\n<br>\r\nIt's a Windows program with a fairly easy to use WYSIWYG interface that includes clipboard and drag/drop support, external level file saving and loading, graphics editing, palette editing, enemy support, world map editing, text editing, plus numerous 65816 ASM enhancements to expand the original game's capabilities.<br>\r\n<br>\r\nSee the \"What's new in this version\" section of the Contents file for more details.",
-  "latest_version": "smwc-41329-1766711870",
+  "latest_version": "smwc-43216-1790302403",
   "install_kind": "tool",
   "versions": [
     {
-      "upstream_id": 41329,
-      "title": "Lunar Magic 3.63",
-      "version": "smwc-41329-1766711870",
-      "upstream_time": 1766711870,
-      "download_url": "https://dl.smwcentral.net/41329/lm363.zip",
-      "filename": "lm363.zip",
-      "size": 3908797,
+      "upstream_id": 43216,
+      "title": "Lunar Magic 3.70",
+      "version": "smwc-43216-1790302403",
+      "upstream_time": 1790302403,
+      "download_url": "https://dl.smwcentral.net/43216/lm370.zip",
+      "filename": "lm370.zip",
+      "size": 3939437,
       "sha256": null,
       "dependencies": [],
       "install_kind": "tool"

@@ -1,0 +1,39 @@
+{
+  "name": "smwmusic-brandish",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42616,
+  "title": "Brandish 2: The Planet Buster (SNES) - Epilogue",
+  "authors": [
+    "SiameseTwins"
+  ],
+  "tags": [
+    "calm",
+    "credits",
+    "forest",
+    "mountain",
+    "night",
+    "overworld",
+    "sea",
+    "snow"
+  ],
+  "description": "Plays during the ending cutscene in SFC Brandish 2. Good for forest, snow levels and credits.<br>\r\n<span style=\"color: #ff0000;\">Not compatible with Bonus End, Yoshi, P-switch, and Thunder/Blargg/Fireworks; Miss will sound off.</span>",
+  "latest_version": "smwc-42616-1790110997",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42616,
+      "title": "Brandish 2: The Planet Buster (SNES) - Epilogue",
+      "version": "smwc-42616-1790110997",
+      "upstream_time": 1790110997,
+      "download_url": "https://dl.smwcentral.net/42616/Brandish%202%20%28SFC%29%20-%20Epilogue%20.zip",
+      "filename": "Brandish 2 (SFC) - Epilogue .zip",
+      "size": 96153,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

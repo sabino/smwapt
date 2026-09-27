@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-amazing-flyin-hammer-lotus",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 42753,
+  "title": "Amazing Flyin' Hammer Lotus",
+  "authors": [
+    "RussianMan"
+  ],
+  "tags": [
+    "enemy",
+    "hammer",
+    "lorom",
+    "lotus",
+    "sa-1",
+    "volcano lotus"
+  ],
+  "description": "A volcano lotus that flies in the same pattern as platform for hammer brother, and spits hammers.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Daizo Dee Von\"><span title=\"Helper\" class=\"icon icon-helper\"></span><a href=\"/?p=profile&amp;id=11520\" style=\"color: var(--user-color-2);\" class=\"un\">Daizo Dee Von</a></span> during Winter C3 2023.",
+  "latest_version": "V1.0.1",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 42753,
+      "title": "Amazing Flyin' Hammer Lotus",
+      "version": "V1.0.1",
+      "upstream_time": 1790016441,
+      "download_url": "https://dl.smwcentral.net/42753/AmazingFlyinHammerLotusV1.0.1.zip",
+      "filename": "AmazingFlyinHammerLotusV1.0.1.zip",
+      "size": 4995,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

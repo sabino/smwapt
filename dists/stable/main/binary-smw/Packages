@@ -46,18 +46,6 @@ X-SMWAPT-Kind: Tool
 X-SMWAPT-URL: https://dl.smwcentral.net/40056/GPS%28V1.4.5%29.zip
 Description: GPS V1.4.5 - Gopher Popcorn Stew
 
-Package: lunar-magic
-Version: smwc-41329-1766711870
-Section: tools
-Architecture: smw
-Maintainer: FuSoYa
-Filename: pool/tools/41329/lm363.zip
-Size: 3908797
-X-SMWC-ID: 41329
-X-SMWAPT-Kind: Tool
-X-SMWAPT-URL: https://dl.smwcentral.net/41329/lm363.zip
-Description: Lunar Magic 3.63
-
 Package: smwblocks-32x32-coins-v1
 Version: smwc-41176-1764467824
 Section: smwblocks
@@ -466,17 +454,17 @@ X-SMWAPT-Kind: GpsBlock
 X-SMWAPT-URL: https://dl.smwcentral.net/41217/Stationary%20P-Switch.zip
 Description: Stationary Re-Usable P-Switch
 
-Package: smwblocks-super-mario-bros-3-screen-scrolling-pipes
-Version: 4.0.5
+Package: smwblocks-super-mario-bros-3-screen-scrolling-pipes-v4-0
+Version: smwc-43183-1789909853
 Section: smwblocks
 Architecture: smw
 Maintainer: HammerBrother
-Filename: pool/smwblocks/42862/SMB3_ScreenScrollingPipes_v4_0_5.zip
-Size: 194172
-X-SMWC-ID: 42862
+Filename: pool/smwblocks/43183/SMB3_ScreenScrollingPipes_v4_0_6.zip
+Size: 194361
+X-SMWC-ID: 43183
 X-SMWAPT-Kind: GpsBlock
-X-SMWAPT-URL: https://dl.smwcentral.net/42862/SMB3_ScreenScrollingPipes_v4_0_5.zip
-Description: Super Mario Bros. 3 Screen Scrolling Pipes v4.0.5
+X-SMWAPT-URL: https://dl.smwcentral.net/43183/SMB3_ScreenScrollingPipes_v4_0_6.zip
+Description: Super Mario Bros. 3 Screen Scrolling Pipes v4.0.6
 
 Package: smwblocks-super-mario-bros-wonder-marimba-blocks
 Version: smwc-41393-1768070809
@@ -1210,6 +1198,18 @@ X-SMWAPT-Kind: AssetOnly
 X-SMWAPT-URL: https://dl.smwcentral.net/41927/Whisper%20in%20SMW.zip
 Description: Whisper The Wolf
 
+Package: smwmusic-aeron-s-golden-cookie-quest-special-edition-tower-of-memories
+Version: smwc-42465-1789928571
+Section: smwmusic
+Architecture: smw
+Maintainer: Daizo Dee Von
+Filename: pool/smwmusic/42465/%5BS%5D Aeron%27s Golden Cookie Quest Director%27s Cut - Tower of Memories.zip
+Size: 46308
+X-SMWC-ID: 42465
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42465/%5BS%5D%20Aeron%27s%20Golden%20Cookie%20Quest%20Director%27s%20Cut%20-%20Tower%20of%20Memories.zip
+Description: Aeron's Golden Cookie Quest ~ Special Edition - Tower of Memories
+
 Package: smwmusic-aladdin-snes-a-snake-am-i
 Version: smwc-42487-1788979574
 Section: smwmusic
@@ -1246,6 +1246,18 @@ X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/42253/Bonus%20Game%201.zip
 Description: Bomberman Max 2: Red Advance - Bonus Game 1
 
+Package: smwmusic-brandish
+Version: smwc-42616-1790110997
+Section: smwmusic
+Architecture: smw
+Maintainer: SiameseTwins
+Filename: pool/smwmusic/42616/Brandish 2 (SFC) - Epilogue .zip
+Size: 96153
+X-SMWC-ID: 42616
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42616/Brandish%202%20%28SFC%29%20-%20Epilogue%20.zip
+Description: Brandish 2: The Planet Buster (SNES) - Epilogue
+
 Package: smwmusic-castlevania-bloodlines-iron-blue-intention
 Version: smwc-42327-1788109687
 Section: smwmusic
@@ -1258,17 +1270,17 @@ X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/42327/cbl-IBI.zip
 Description: Castlevania: Bloodlines - Iron Blue Intention
 
-Package: smwmusic-deltarune-ever-higher
-Version: smwc-41842-1788005346
+Package: smwmusic-deltarune-dark-sanctuary
+Version: 2
 Section: smwmusic
 Architecture: smw
-Maintainer: Forgado
-Filename: pool/smwmusic/41842/Ever Higher.zip
-Size: 68640
-X-SMWC-ID: 41842
+Maintainer: PolyPlayer
+Filename: pool/smwmusic/42140/Deltarune - Dark Sanctuary.zip
+Size: 74919
+X-SMWC-ID: 42140
 X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/41842/Ever%20Higher.zip
-Description: Deltarune - Ever Higher
+X-SMWAPT-URL: https://dl.smwcentral.net/42140/Deltarune%20-%20Dark%20Sanctuary.zip
+Description: Deltarune - Dark Sanctuary
 
 Package: smwmusic-deltarune-gingerbread-house
 Version: smwc-42463-1789418704
@@ -1354,6 +1366,30 @@ X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/42332/Kidou%20Gekidan%20Haro%20Ichiza%20Gundam%20Mahjong%20DS%20-%20BGM%20%2301.zip
 Description: Kidou Gekidan Haro Ichiza Gundam Mahjong DS - BGM #01
 
+Package: smwmusic-kirby-super-star-trees-in-the-depths-of-the-earth
+Version: smwc-42664-1790178814
+Section: smwmusic
+Architecture: smw
+Maintainer: Fullcannon
+Filename: pool/smwmusic/42664/Kirby Super Star - Trees in the Depths of the Earth.zip
+Size: 60427
+X-SMWC-ID: 42664
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42664/Kirby%20Super%20Star%20-%20Trees%20in%20the%20Depths%20of%20the%20Earth.zip
+Description: Kirby Super Star - Trees in the Depths of the Earth
+
+Package: smwmusic-luigi-s-mansion-controls
+Version: smwc-42363-1789929973
+Section: smwmusic
+Architecture: smw
+Maintainer: lordlydumbass
+Filename: pool/smwmusic/42363/Luigi%27s Mansion - Controls.zip
+Size: 97547
+X-SMWC-ID: 42363
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42363/Luigi%27s%20Mansion%20-%20Controls.zip
+Description: Luigi's Mansion - Controls
+
 Package: smwmusic-mario-no-super-picross-mario-puzzle
 Version: smwc-42513-1789417217
 Section: smwmusic
@@ -1425,42 +1461,6 @@ X-SMWC-ID: 42422
 X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/42422/Pebble%20Beach%20Golf%20Links%20%28SAT%29%20-%20Course%20BGM%203.zip
 Description: Pebble Beach Golf Links (Saturn) - Course BGM 3
-
-Package: smwmusic-pebble-beach-golf-links-saturn-results
-Version: smwc-42423-1788013374
-Section: smwmusic
-Architecture: smw
-Maintainer: Fullcannon
-Filename: pool/smwmusic/42423/Pebble Beach Golf Links (SAT) - Results.zip
-Size: 67195
-X-SMWC-ID: 42423
-X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/42423/Pebble%20Beach%20Golf%20Links%20%28SAT%29%20-%20Results.zip
-Description: Pebble Beach Golf Links (Saturn) - Results
-
-Package: smwmusic-pebble-beach-golf-links-saturn-settings
-Version: smwc-42418-1788011249
-Section: smwmusic
-Architecture: smw
-Maintainer: Fullcannon
-Filename: pool/smwmusic/42418/Pebble Beach Golf Links (SAT) - Settings.zip
-Size: 72943
-X-SMWC-ID: 42418
-X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/42418/Pebble%20Beach%20Golf%20Links%20%28SAT%29%20-%20Settings.zip
-Description: Pebble Beach Golf Links (Saturn) - Settings
-
-Package: smwmusic-pebble-beach-golf-links-saturn-tutorial
-Version: smwc-42419-1788012348
-Section: smwmusic
-Architecture: smw
-Maintainer: Fullcannon
-Filename: pool/smwmusic/42419/Pebble Beach Golf Links (SAT) - Tutorial.zip
-Size: 77150
-X-SMWC-ID: 42419
-X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/42419/Pebble%20Beach%20Golf%20Links%20%28SAT%29%20-%20Tutorial.zip
-Description: Pebble Beach Golf Links (Saturn) - Tutorial
 
 Package: smwmusic-persona
 Version: smwc-42439-1788142928
@@ -1629,6 +1629,18 @@ X-SMWC-ID: 42342
 X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/42342/Low%20Cortisol%20%28Star-mix%29.zip
 Description: TIA - Ai Đưa Em Về (Low Cortisol Song) (Star-mix)
+
+Package: smwmusic-touhou-yumejikuu-the-phantasmagoria-of-dim-dream-dream-of-eternity
+Version: smwc-42371-1789928258
+Section: smwmusic
+Architecture: smw
+Maintainer: monkey03297
+Filename: pool/smwmusic/42371/th3_15.zip
+Size: 33092
+X-SMWC-ID: 42371
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42371/th3_15.zip
+Description: Touhou Yumejikuu ~ The Phantasmagoria of Dim.Dream - Dream of Eternity
 
 Package: smwmusic-tower-of-heaven-indignant-divinity
 Version: smwc-42868-1789281026
@@ -2302,17 +2314,17 @@ X-SMWAPT-Kind: AsarPatch
 X-SMWAPT-URL: https://dl.smwcentral.net/42146/xorshift.zip
 Description: Xorshift Pseudo-Random Number Generator
 
-Package: smwsprites-baby-reznor-rotating-block
-Version: smwc-40567-1774977929
+Package: smwsprites-amazing-flyin-hammer-lotus
+Version: V1.0.1
 Section: smwsprites
 Architecture: smw
-Maintainer: Koopster
-Filename: pool/smwsprites/40567/baby_reznor_rotating_block.zip
-Size: 12699
-X-SMWC-ID: 40567
+Maintainer: RussianMan
+Filename: pool/smwsprites/42753/AmazingFlyinHammerLotusV1.0.1.zip
+Size: 4995
+X-SMWC-ID: 42753
 X-SMWAPT-Kind: PixiSprite
-X-SMWAPT-URL: https://dl.smwcentral.net/40567/baby_reznor_rotating_block.zip
-Description: Baby Reznor + Rotating Block
+X-SMWAPT-URL: https://dl.smwcentral.net/42753/AmazingFlyinHammerLotusV1.0.1.zip
+Description: Amazing Flyin' Hammer Lotus
 
 Package: smwsprites-background-fireworks
 Version: smwc-42057-1783430550
@@ -2361,6 +2373,30 @@ X-SMWC-ID: 42177
 X-SMWAPT-Kind: PixiSprite
 X-SMWAPT-URL: https://dl.smwcentral.net/42177/fire_trail_bob_omb.zip
 Description: Bob-omb, Leaves Fire Trail
+
+Package: smwsprites-bouncing-spiny-egg-rolling-spiny-egg
+Version: 2
+Section: smwsprites
+Architecture: smw
+Maintainer: MellyMellouange
+Filename: pool/smwsprites/43163/Bouncing_Rolling_Spiny.zip
+Size: 3005
+X-SMWC-ID: 43163
+X-SMWAPT-Kind: PixiSprite
+X-SMWAPT-URL: https://dl.smwcentral.net/43163/Bouncing_Rolling_Spiny.zip
+Description: Bouncing Spiny Egg + Rolling Spiny Egg
+
+Package: smwsprites-brutal-bill
+Version: 1.1
+Section: smwsprites
+Architecture: smw
+Maintainer: Sonikku
+Filename: pool/smwsprites/42497/BrutalBill.zip
+Size: 6219
+X-SMWC-ID: 42497
+X-SMWAPT-Kind: PixiSprite
+X-SMWAPT-URL: https://dl.smwcentral.net/42497/BrutalBill.zip
+Description: Brutal Bill
 
 Package: smwsprites-bumper
 Version: v1.2
@@ -2626,6 +2662,18 @@ X-SMWAPT-Kind: PixiSprite
 X-SMWAPT-URL: https://dl.smwcentral.net/42142/Homing_Torpedo_Ted.zip
 Description: Homing Torpedo Ted
 
+Package: smwsprites-ice-bro
+Version: v2.0.1
+Section: smwsprites
+Architecture: smw
+Maintainer: DrAnas, Sonikku, Telinc1, lx5
+Filename: pool/smwsprites/42789/nsmbw_ice_broV2.0.1.zip
+Size: 8972
+X-SMWC-ID: 42789
+X-SMWAPT-Kind: PixiSprite
+X-SMWAPT-URL: https://dl.smwcentral.net/42789/nsmbw_ice_broV2.0.1.zip
+Description: Ice Bro
+
 Package: smwsprites-ice-skating-koopa
 Version: V1.0.1
 Section: smwsprites
@@ -2782,30 +2830,6 @@ X-SMWAPT-Kind: PixiSprite
 X-SMWAPT-URL: https://dl.smwcentral.net/42618/Pot_Remodded.zip
 Description: Pot
 
-Package: smwsprites-random-chance-sprite-spawner
-Version: smwc-42074-1775269547
-Section: smwsprites
-Architecture: smw
-Maintainer: Arinsu
-Filename: pool/smwsprites/42074/Random Chance Spawner.zip
-Size: 4218
-X-SMWC-ID: 42074
-X-SMWAPT-Kind: PixiSprite
-X-SMWAPT-URL: https://dl.smwcentral.net/42074/Random%20Chance%20Spawner.zip
-Description: Random Chance Sprite Spawner
-
-Package: smwsprites-random-different-sprite-spawner
-Version: smwc-42075-1775280826
-Section: smwsprites
-Architecture: smw
-Maintainer: Arinsu
-Filename: pool/smwsprites/42075/Random Different Sprite.zip
-Size: 4207
-X-SMWC-ID: 42075
-X-SMWAPT-Kind: PixiSprite
-X-SMWAPT-URL: https://dl.smwcentral.net/42075/Random%20Different%20Sprite.zip
-Description: Random Different Sprite Spawner
-
 Package: smwsprites-shyguy-snifit
 Version: v1.1.1
 Section: smwsprites
@@ -2865,18 +2889,6 @@ X-SMWC-ID: 42638
 X-SMWAPT-Kind: PixiSprite
 X-SMWAPT-URL: https://dl.smwcentral.net/42638/Super%20Bob%20Omb.zip
 Description: Super Bob-omb
-
-Package: smwsprites-super-mario-bros
-Version: smwc-42078-1775670513
-Section: smwsprites
-Architecture: smw
-Maintainer: Luknight
-Filename: pool/smwsprites/42078/SMB3_Spike.zip
-Size: 7926
-X-SMWC-ID: 42078
-X-SMWAPT-Kind: PixiSprite
-X-SMWAPT-URL: https://dl.smwcentral.net/42078/SMB3_Spike.zip
-Description: Super Mario Bros. 3 - Spike and Spike Ball
 
 Package: smwsprites-tweeter
 Version: v1.1
@@ -3273,6 +3285,18 @@ X-SMWC-ID: 31275
 X-SMWAPT-Kind: Tool
 X-SMWAPT-URL: https://dl.smwcentral.net/31275/le120.zip
 Description: Lunar Expand v1.20
+
+Package: tools-lunar-magic-3
+Version: smwc-43216-1790302403
+Section: tools
+Architecture: smw
+Maintainer: FuSoYa
+Filename: pool/tools/43216/lm370.zip
+Size: 3939437
+X-SMWC-ID: 43216
+X-SMWAPT-Kind: Tool
+X-SMWAPT-URL: https://dl.smwcentral.net/43216/lm370.zip
+Description: Lunar Magic 3.70
 
 Package: tools-lunar-magic-archive-of-older-versions
 Version: smwc-39449-1740848883

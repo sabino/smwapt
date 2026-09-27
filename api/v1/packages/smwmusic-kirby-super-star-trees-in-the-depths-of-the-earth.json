@@ -1,0 +1,40 @@
+{
+  "name": "smwmusic-kirby-super-star-trees-in-the-depths-of-the-earth",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42664,
+  "title": "Kirby Super Star - Trees in the Depths of the Earth",
+  "authors": [
+    "Fullcannon"
+  ],
+  "tags": [
+    "castle",
+    "cave",
+    "chase",
+    "desert",
+    "fire",
+    "forest",
+    "jungle",
+    "temple",
+    "tense"
+  ],
+  "description": "Sub-Tree area theme from 'The Great Cave Offensive' in Kirby Super Star.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Devazure\"><span title=\"Devazure donated $25.00.\" class=\"icon icon-donor\"></span><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=93\" style=\"color: #3e75d9;\" class=\"un\">Devazure</a></span>.",
+  "latest_version": "smwc-42664-1790178814",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42664,
+      "title": "Kirby Super Star - Trees in the Depths of the Earth",
+      "version": "smwc-42664-1790178814",
+      "upstream_time": 1790178814,
+      "download_url": "https://dl.smwcentral.net/42664/Kirby%20Super%20Star%20-%20Trees%20in%20the%20Depths%20of%20the%20Earth.zip",
+      "filename": "Kirby Super Star - Trees in the Depths of the Earth.zip",
+      "size": 60427,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

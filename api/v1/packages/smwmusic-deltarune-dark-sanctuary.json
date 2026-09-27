@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-deltarune-dark-sanctuary",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42140,
+  "title": "Deltarune - Dark Sanctuary",
+  "authors": [
+    "PolyPlayer"
+  ],
+  "tags": [
+    "castle",
+    "dark",
+    "mysterious",
+    "night"
+  ],
+  "description": "Toby Fox's Dark Sanctuary from Deltarune (Chapter 4)<br>\r\nThis song plays during the chapter's first Dark World.<br>\r\nCould be used for night or castle themed levels<br>\r\n<br>\r\nSamples taken from stormstudios1's recreation",
+  "latest_version": "2",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42140,
+      "title": "Deltarune - Dark Sanctuary",
+      "version": "2",
+      "upstream_time": 1789929349,
+      "download_url": "https://dl.smwcentral.net/42140/Deltarune%20-%20Dark%20Sanctuary.zip",
+      "filename": "Deltarune - Dark Sanctuary.zip",
+      "size": 74919,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,32 +1,33 @@
 [
   {
-    "name": "smwsprites-baby-reznor-rotating-block",
+    "name": "smwsprites-amazing-flyin-hammer-lotus",
     "aliases": [],
     "section": "smwsprites",
-    "upstream_id": 40567,
-    "title": "Baby Reznor + Rotating Block",
+    "upstream_id": 42753,
+    "title": "Amazing Flyin' Hammer Lotus",
     "authors": [
-      "Koopster"
+      "RussianMan"
     ],
     "tags": [
-      "boss",
       "enemy",
+      "hammer",
       "lorom",
-      "reznor",
-      "sa-1"
+      "lotus",
+      "sa-1",
+      "volcano lotus"
     ],
-    "description": "This includes:<br>\r\n1) a baby Reznor that shoots fireballs;<br>\r\n2) a rotating block that moves like the gray chained platforms, but otherwise behaves like a single-block Hammer Brother platform.<br>\r\nThe two sprites can be used as standalone, but they also function in conjuction.<br>\r\n<br>\r\n<br>\r\nRegarding the baby Reznor, depending on the extra bit, it will either walk around occasionally facing the player, or attach to the included rotating block sprite. They take 3 fireballs to kill by default.<br>\r\n<br>\r\nWhen attached to a rotating block, hitting it with a fireball will make it drop and start walking. When its block is hit from below, it can either drop and start walking, drop and start walking with 1 health point diminished or be killed. The last option is default, but this behavior can be changed in rotating_block.asm.<br>\r\n<br>\r\n<br>\r\nRegarding the rotating block, the extra bit determines its rotation direction, and with the extra bytes you can set its speed, radius and initial angle (rotating_block.asm describes some angle values you can use to place evenly spaced concentric platforms like those seen in the screenshots). Additionally, you can enable a functionality so the level exit activates once no baby Reznors are present in the level, effectively making these sprites work as a boss.<br>\r\n<br>\r\n<br>\r\n<b><u>IMPORTANT!</u></b> For both sprites to work in conjuction, they must be inserted in sequence in the sprite list like so (08 and 09 are just an example - they can be on any sequential pair of numbers):<br>\r\n<br>\r\n08 baby_reznor.json<br>\r\n09 rotating_block.json",
-    "latest_version": "smwc-40567-1774977929",
+    "description": "A volcano lotus that flies in the same pattern as platform for hammer brother, and spits hammers.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Daizo Dee Von\"><span title=\"Helper\" class=\"icon icon-helper\"></span><a href=\"/?p=profile&amp;id=11520\" style=\"color: var(--user-color-2);\" class=\"un\">Daizo Dee Von</a></span> during Winter C3 2023.",
+    "latest_version": "V1.0.1",
     "install_kind": "pixi_sprite",
     "versions": [
       {
-        "upstream_id": 40567,
-        "title": "Baby Reznor + Rotating Block",
-        "version": "smwc-40567-1774977929",
-        "upstream_time": 1774977929,
-        "download_url": "https://dl.smwcentral.net/40567/baby_reznor_rotating_block.zip",
-        "filename": "baby_reznor_rotating_block.zip",
-        "size": 12699,
+        "upstream_id": 42753,
+        "title": "Amazing Flyin' Hammer Lotus",
+        "version": "V1.0.1",
+        "upstream_time": 1790016441,
+        "download_url": "https://dl.smwcentral.net/42753/AmazingFlyinHammerLotusV1.0.1.zip",
+        "filename": "AmazingFlyinHammerLotusV1.0.1.zip",
+        "size": 4995,
         "sha256": null,
         "dependencies": [
           "pixi"
@@ -177,6 +178,77 @@
         "download_url": "https://dl.smwcentral.net/42177/fire_trail_bob_omb.zip",
         "filename": "fire_trail_bob_omb.zip",
         "size": 6916,
+        "sha256": null,
+        "dependencies": [
+          "pixi"
+        ],
+        "install_kind": "pixi_sprite"
+      }
+    ]
+  },
+  {
+    "name": "smwsprites-bouncing-spiny-egg-rolling-spiny-egg",
+    "aliases": [],
+    "section": "smwsprites",
+    "upstream_id": 43163,
+    "title": "Bouncing Spiny Egg + Rolling Spiny Egg",
+    "authors": [
+      "MellyMellouange"
+    ],
+    "tags": [
+      "lorom",
+      "sa-1",
+      "spiny egg",
+      "vanilla graphics",
+      "vanilla-ish"
+    ],
+    "description": "Bouncing Spiny Egg will bounce off the ground slopes at a strict angle. (Set Extra bits to 2)<br>\r\nRolling Spiny Egg will pick up speed if placed on a slope and even decelerate and go the other way. (Set Extra bits to 3)<br>\r\n<br>\r\nThere's a bunch more that can be done with this, but that's the gist of it.<br>\r\n<br>\r\nUpdate March 9th 2017: Horizontal Speed adjustments for the bouncing spinies! They will bounce off slope with half the speed they did before in order to facilitate level design. As such, the screenshots depicting them are no longer accurate until I update those as well. Sorry for the inconvenience!",
+    "latest_version": "2",
+    "install_kind": "pixi_sprite",
+    "versions": [
+      {
+        "upstream_id": 43163,
+        "title": "Bouncing Spiny Egg + Rolling Spiny Egg",
+        "version": "2",
+        "upstream_time": 1789946173,
+        "download_url": "https://dl.smwcentral.net/43163/Bouncing_Rolling_Spiny.zip",
+        "filename": "Bouncing_Rolling_Spiny.zip",
+        "size": 3005,
+        "sha256": null,
+        "dependencies": [
+          "pixi"
+        ],
+        "install_kind": "pixi_sprite"
+      }
+    ]
+  },
+  {
+    "name": "smwsprites-brutal-bill",
+    "aliases": [],
+    "section": "smwsprites",
+    "upstream_id": 42497,
+    "title": "Brutal Bill",
+    "authors": [
+      "Sonikku"
+    ],
+    "tags": [
+      "bullet bill",
+      "homing",
+      "lorom",
+      "sa-1"
+    ],
+    "description": "This is a recreation of the famous Homing Bullet Bill seen in many hacks. Affectionately dubbed the \"Brutal Bill\", as it is based on a sprite made by Carol and debuted in Brutal Mario.<br>\r\n<br>\r\nThis was made partially because Carol's was never released with his explicit permission, and is considered a leaked resource. It uses none of Carol's code, so it's not 1:1, but it is close enough that most people will never notice.<br>\r\n<br>\r\nThis sprite was also posted to <a href=\"https://www.patreon.com/posts/160317962\" rel=\"nofollow\">my Patreon</a>. Should anything happen to this submission, it can be found there as well.",
+    "latest_version": "1.1",
+    "install_kind": "pixi_sprite",
+    "versions": [
+      {
+        "upstream_id": 42497,
+        "title": "Brutal Bill",
+        "version": "1.1",
+        "upstream_time": 1790135368,
+        "download_url": "https://dl.smwcentral.net/42497/BrutalBill.zip",
+        "filename": "BrutalBill.zip",
+        "size": 6219,
         "sha256": null,
         "dependencies": [
           "pixi"
@@ -982,6 +1054,47 @@
     ]
   },
   {
+    "name": "smwsprites-ice-bro",
+    "aliases": [],
+    "section": "smwsprites",
+    "upstream_id": 42789,
+    "title": "Ice Bro",
+    "authors": [
+      "DrAnas",
+      "Sonikku",
+      "Telinc1",
+      "lx5"
+    ],
+    "tags": [
+      "bros",
+      "enemy",
+      "freeze",
+      "ice",
+      "ice bro",
+      "lorom",
+      "sa-1"
+    ],
+    "description": "An Ice Bro. It walks back and forth, occasionally hopping and periodically throwing two iceballs, which will disappear when they hit the ground. They will freeze and hurt Mario (both can be turned off independently of each other).<br>\r\n<br>\r\nMake sure to specify the extended sprite number of the iceball ('extended/iceball.asm') from 'list.txt' in the Ice Bro's ASM file ('sprites/IceBro.asm')!",
+    "latest_version": "v2.0.1",
+    "install_kind": "pixi_sprite",
+    "versions": [
+      {
+        "upstream_id": 42789,
+        "title": "Ice Bro",
+        "version": "v2.0.1",
+        "upstream_time": 1789934942,
+        "download_url": "https://dl.smwcentral.net/42789/nsmbw_ice_broV2.0.1.zip",
+        "filename": "nsmbw_ice_broV2.0.1.zip",
+        "size": 8972,
+        "sha256": null,
+        "dependencies": [
+          "pixi"
+        ],
+        "install_kind": "pixi_sprite"
+      }
+    ]
+  },
+  {
     "name": "smwsprites-ice-skating-koopa",
     "aliases": [],
     "section": "smwsprites",
@@ -1446,78 +1559,6 @@
     ]
   },
   {
-    "name": "smwsprites-random-chance-sprite-spawner",
-    "aliases": [],
-    "section": "smwsprites",
-    "upstream_id": 42074,
-    "title": "Random Chance Sprite Spawner",
-    "authors": [
-      "Arinsu"
-    ],
-    "tags": [
-      "lorom",
-      "random",
-      "sa-1",
-      "spawn",
-      "uberasm needed"
-    ],
-    "description": "This helper sprite will replace itself with another sprite with a given probability. If it fails, nothing will spawn.<br>\r\n<br>\r\nRespawn when going offscreen and returned is handled in two ways, via the <div class=\"code inline filter-noemote filter-nobr\"><pre>!keep_track</pre></div> define.<br>\r\n<ul><li>If <div class=\"code inline filter-noemote filter-nobr\"><pre>!keep_track = 0</pre></div>, the spawn succeeds, and you go off-screen and return, the sprite's probability to spawn is re-rolled.</li>\n<li>If <div class=\"code inline filter-noemote filter-nobr\"><pre>!keep_track = 1</pre></div>, the spawn succeeds, and you go off-screen and return, the sprite will ALWAYS spawn again. This feature requires 32 bytes of free RAM and, if you're not clearing RAM elsewhere, UberASM.</li></ul><br>\r\n<br>\r\nCan spawn a vanilla or custom sprite, with the extra bit clear or set, with any given X/Y offset, and with up to four extra bytes.",
-    "latest_version": "smwc-42074-1775269547",
-    "install_kind": "pixi_sprite",
-    "versions": [
-      {
-        "upstream_id": 42074,
-        "title": "Random Chance Sprite Spawner",
-        "version": "smwc-42074-1775269547",
-        "upstream_time": 1775269547,
-        "download_url": "https://dl.smwcentral.net/42074/Random%20Chance%20Spawner.zip",
-        "filename": "Random Chance Spawner.zip",
-        "size": 4218,
-        "sha256": null,
-        "dependencies": [
-          "pixi"
-        ],
-        "install_kind": "pixi_sprite"
-      }
-    ]
-  },
-  {
-    "name": "smwsprites-random-different-sprite-spawner",
-    "aliases": [],
-    "section": "smwsprites",
-    "upstream_id": 42075,
-    "title": "Random Different Sprite Spawner",
-    "authors": [
-      "Arinsu"
-    ],
-    "tags": [
-      "lorom",
-      "random",
-      "sa-1",
-      "spawn",
-      "uberasm needed"
-    ],
-    "description": "This helper sprite will spawn one of two different sprites, depending on a probability.<br>\r\n<br>\r\nRespawn when going offscreen and returned is handled in three ways, via the <div class=\"code inline filter-noemote filter-nobr\"><pre>!respawn_type</pre></div> define.<br>\r\n<ul><li>If <div class=\"code inline filter-noemote filter-nobr\"><pre>!respawn_type= 0</pre></div>, when you go off-screen and return, nothing will spawn anymore.</li>\n<li>If <div class=\"code inline filter-noemote filter-nobr\"><pre>!respawn_type= 1</pre></div>, when you go off-screen and return, the same sprite will spawn again. This feature requires 64 bytes of free RAM and, if you're not clearing RAM elsewhere, UberASM.</li>\n<li>If <div class=\"code inline filter-noemote filter-nobr\"><pre>!respawn_type= 2</pre></div>, when you go off-screen and return, the probability will be re-rolled and the other sprite might spawn.</li></ul><br>\r\n<br>\r\nCan spawn vanilla and/or custom sprites, with the extra bit clear or set, and with up to four different extra bytes for either. Be sure to read the asm file thoroughly, this uses 12 extra bytes!",
-    "latest_version": "smwc-42075-1775280826",
-    "install_kind": "pixi_sprite",
-    "versions": [
-      {
-        "upstream_id": 42075,
-        "title": "Random Different Sprite Spawner",
-        "version": "smwc-42075-1775280826",
-        "upstream_time": 1775280826,
-        "download_url": "https://dl.smwcentral.net/42075/Random%20Different%20Sprite.zip",
-        "filename": "Random Different Sprite.zip",
-        "size": 4207,
-        "sha256": null,
-        "dependencies": [
-          "pixi"
-        ],
-        "install_kind": "pixi_sprite"
-      }
-    ]
-  },
-  {
     "name": "smwsprites-shyguy-snifit",
     "aliases": [],
     "section": "smwsprites",
@@ -1692,42 +1733,6 @@
         "download_url": "https://dl.smwcentral.net/42638/Super%20Bob%20Omb.zip",
         "filename": "Super Bob Omb.zip",
         "size": 2849,
-        "sha256": null,
-        "dependencies": [
-          "pixi"
-        ],
-        "install_kind": "pixi_sprite"
-      }
-    ]
-  },
-  {
-    "name": "smwsprites-super-mario-bros",
-    "aliases": [],
-    "section": "smwsprites",
-    "upstream_id": 42078,
-    "title": "Super Mario Bros. 3 - Spike and Spike Ball",
-    "authors": [
-      "Luknight"
-    ],
-    "tags": [
-      "lorom",
-      "sa-1",
-      "smb 3",
-      "spike",
-      "spike balls"
-    ],
-    "description": "SMB3 style Spike and spike ball<br>\r\n<br>\r\nGreen - SMB3 Spike<br>\r\nBlue - Stone Spike (throws spike balls towards the screen)<br>\r\nRed - Fire Spike (throws fireballs instead of a spike ball)<br>\r\nExtra bit - move/stay flag<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"CalHal\"><a href=\"/?p=profile&amp;id=33725\" style=\"color: var(--user-color-1);\" class=\"un\">CalHal</a></span>",
-    "latest_version": "smwc-42078-1775670513",
-    "install_kind": "pixi_sprite",
-    "versions": [
-      {
-        "upstream_id": 42078,
-        "title": "Super Mario Bros. 3 - Spike and Spike Ball",
-        "version": "smwc-42078-1775670513",
-        "upstream_time": 1775670513,
-        "download_url": "https://dl.smwcentral.net/42078/SMB3_Spike.zip",
-        "filename": "SMB3_Spike.zip",
-        "size": 7926,
         "sha256": null,
         "dependencies": [
           "pixi"

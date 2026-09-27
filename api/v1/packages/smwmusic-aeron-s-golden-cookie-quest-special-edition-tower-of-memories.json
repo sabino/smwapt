@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-aeron-s-golden-cookie-quest-special-edition-tower-of-memories",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42465,
+  "title": "Aeron's Golden Cookie Quest ~ Special Edition - Tower of Memories",
+  "authors": [
+    "Daizo Dee Von"
+  ],
+  "tags": [
+    "calm",
+    "castle"
+  ],
+  "description": "A very calming theme for heroes after a long quest from <span class=\"un-outer\" title=\"Anorakun\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=42525\" style=\"color: #fe1d02;\" class=\"un\">Anorakun</a></span>'s hack.<br>\r\n<br>\r\nCredit would be appreciated.",
+  "latest_version": "smwc-42465-1789928571",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42465,
+      "title": "Aeron's Golden Cookie Quest ~ Special Edition - Tower of Memories",
+      "version": "smwc-42465-1789928571",
+      "upstream_time": 1789928571,
+      "download_url": "https://dl.smwcentral.net/42465/%5BS%5D%20Aeron%27s%20Golden%20Cookie%20Quest%20Director%27s%20Cut%20-%20Tower%20of%20Memories.zip",
+      "filename": "%5BS%5D Aeron%27s Golden Cookie Quest Director%27s Cut - Tower of Memories.zip",
+      "size": 46308,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -145,43 +145,6 @@
     ]
   },
   {
-    "name": "lunar-magic",
-    "aliases": [
-      "lunar-magic"
-    ],
-    "section": "tools",
-    "upstream_id": 41329,
-    "title": "Lunar Magic 3.63",
-    "authors": [
-      "FuSoYa"
-    ],
-    "tags": [
-      "editor",
-      "level editor",
-      "lorom",
-      "lunar magic",
-      "sa-1",
-      "super fx"
-    ],
-    "description": "Lunar Magic is a level editor for the American and Japanese version 1.00 Super Mario World SNES ROMs, and the SMW portion of the American version 1.00 Mario All Stars + World SNES ROM.<br>\r\n<br>\r\nIt's a Windows program with a fairly easy to use WYSIWYG interface that includes clipboard and drag/drop support, external level file saving and loading, graphics editing, palette editing, enemy support, world map editing, text editing, plus numerous 65816 ASM enhancements to expand the original game's capabilities.<br>\r\n<br>\r\nSee the \"What's new in this version\" section of the Contents file for more details.",
-    "latest_version": "smwc-41329-1766711870",
-    "install_kind": "tool",
-    "versions": [
-      {
-        "upstream_id": 41329,
-        "title": "Lunar Magic 3.63",
-        "version": "smwc-41329-1766711870",
-        "upstream_time": 1766711870,
-        "download_url": "https://dl.smwcentral.net/41329/lm363.zip",
-        "filename": "lm363.zip",
-        "size": 3908797,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "tool"
-      }
-    ]
-  },
-  {
     "name": "smwblocks-32x32-coins-v1",
     "aliases": [],
     "section": "smwblocks",
@@ -585,7 +548,7 @@
       "solid",
       "sprite needed"
     ],
-    "description": "A turnblock that behaves mostly like the original. Useful for changing palettes or customizing the asm.<br>\r\n<br>\r\nRequires PIXI 1.40 for the included bounce sprite.<br>\r\n<br>\r\nCheck the readme file for adjustments that may be required to ensure proper functionality.<br>\r\n<br>\r\nNote: hitting more than 4 at a time will not revert to the turnblock, but some blocks will be left spinning forever. <br>\r\n<br>\r\nNote: blocks on layer 2 moving down will crush the player instead of activating the block.<br>\r\n<br>\r\nv1.1 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #ff7777;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n* Added the functionality to also make the turnblock turn when spinjumping it.",
+    "description": "A turnblock that behaves mostly like the original. Useful for changing palettes or customizing the asm.<br>\r\n<br>\r\nRequires PIXI 1.40 for the included bounce sprite.<br>\r\n<br>\r\nCheck the readme file for adjustments that may be required to ensure proper functionality.<br>\r\n<br>\r\nNote: hitting more than 4 at a time will not revert to the turnblock, but some blocks will be left spinning forever. <br>\r\n<br>\r\nNote: blocks on layer 2 moving down will crush the player instead of activating the block.<br>\r\n<br>\r\nv1.1 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #e75151;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n* Added the functionality to also make the turnblock turn when spinjumping it.",
     "latest_version": "smwc-41237-1765159682",
     "install_kind": "gps_block",
     "versions": [
@@ -943,7 +906,7 @@
       "sa-1",
       "uberasm needed"
     ],
-    "description": "These blocks will change every time the player jumps.<br>\r\nRequested by <span class=\"un-outer\" title=\"mr bean6652\"><a href=\"/?p=profile&amp;id=26761\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">mr bean6652</a></span>.<br>\r\n<br>\r\nv1.1 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #ff7777;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n- Added SA-1 support.<br>\r\n- Added a define to not hurt the player while on Yoshi on the above variant of the spikes.<br>\r\n- Added a Map16 page.",
+    "description": "These blocks will change every time the player jumps.<br>\r\nRequested by <span class=\"un-outer\" title=\"mr bean6652\"><a href=\"/?p=profile&amp;id=26761\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">mr bean6652</a></span>.<br>\r\n<br>\r\nv1.1 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #e75151;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n- Added SA-1 support.<br>\r\n- Added a define to not hurt the player while on Yoshi on the above variant of the spikes.<br>\r\n- Added a Map16 page.",
     "latest_version": "smwc-41209-1765844757",
     "install_kind": "gps_block",
     "versions": [
@@ -1261,7 +1224,7 @@
       "shatter",
       "sprite needed"
     ],
-    "description": "This custom block will shatter after the player gets off it. Good for platforming stages or places where you jump a lot to dodge stuff.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Final Theory\"><a href=\"/?p=profile&amp;id=22015\" style=\"color: var(--user-color-1);\" class=\"un\">Final Theory</a></span>.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\">v2.0 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #ff7777;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n- Added SA-1 compatibility.<br>\r\n- Changed the included sprite to a bounce sprite.<br>\r\n- Simplified the code a lot.</div></div>",
+    "description": "This custom block will shatter after the player gets off it. Good for platforming stages or places where you jump a lot to dodge stuff.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Final Theory\"><a href=\"/?p=profile&amp;id=22015\" style=\"color: var(--user-color-1);\" class=\"un\">Final Theory</a></span>.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\">v2.0 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #e75151;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n- Added SA-1 compatibility.<br>\r\n- Changed the included sprite to a bounce sprite.<br>\r\n- Simplified the code a lot.</div></div>",
     "latest_version": "smwc-41235-1765916599",
     "install_kind": "gps_block",
     "versions": [
@@ -1385,11 +1348,11 @@
     ]
   },
   {
-    "name": "smwblocks-super-mario-bros-3-screen-scrolling-pipes",
+    "name": "smwblocks-super-mario-bros-3-screen-scrolling-pipes-v4-0",
     "aliases": [],
     "section": "smwblocks",
-    "upstream_id": 42862,
-    "title": "Super Mario Bros. 3 Screen Scrolling Pipes v4.0.5",
+    "upstream_id": 43183,
+    "title": "Super Mario Bros. 3 Screen Scrolling Pipes v4.0.6",
     "authors": [
       "HammerBrother"
     ],
@@ -1399,18 +1362,18 @@
       "sa-1",
       "uberasm needed"
     ],
-    "description": "<span style=\"color: #FF0000\"><b>See tutorial <a href=\"https://www.smwcentral.net/?p=section&a=details&id=41525\">here</a>. The blocks section has a small 1MIB limit preventing me from submitting this as a whole.</b></span><br>\r\n<br>\r\nThese pipes, when entered, will cause the player to travel through them within the same level rather than refreshing the screen. Useful for maze levels for those who refuse to use screen exits.<br>\r\n<br>\r\nNotes:<br>\r\n* If there are at least 2 sprites on screen, and Mario enters a pipe, he will partially disappear as he enters a pipe. You should patch <a href=\"https://smwc.me/s/40702\">NMSTL</a> to prevent that.<br>\r\n* If you have a low-gravity generator that does <div class=\"code inline filter-noemote filter-nobr\"><pre>DEC $7D</pre></div> (Mario's Y speed), make sure that you add a check that if $9D is nonzero, or the low nibble (low 4 bits, %----XXXX) of RAM address <div class=\"code inline filter-noemote filter-nobr\"><pre>!pipe_dir</pre></div> is non-zero, then skip/return, because otherwise Mario will rise up slowly while traveling through horizontal pipes. You absolutely don't want to touch his physics while inside pipes.<br>\r\n<br>\r\nGitHub: <a href=\"https://github.com/GhbSmwc/SMB3_ScreenScrollingPipes\" rel=\"nofollow\">https://github.com/GhbSmwc/SMB3_ScreenScrollingPipes</a><br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\"><pre>01-01-2025 4.0.3<br>\r\n\t-Fixed an oversight where some sprites still interacts with the player while inside a pipe, such as<br>\r\n\t a boo ring. Give thanks to AmperSam for reporting on it.<br>\r\n12/26/2025 4.0.4<br>\r\n\t-Bug fixes:<br>\r\n\t--Fixed a missing TopCorner for small pipes that I forgot to include for small-mario-only pipes.<br>\r\n\t--Fixed a problem where sprite interaction with the player during pipe travel still happens (lose yoshi)<br>\r\n\t  when the player is riding yoshi.<br>\r\n\t--Fixed a problem where if player is off yoshi, and enters a pipe and turns invisible, so too will<br>\r\n\t  yoshi. Credit to AmperSam (https://www.smwcentral.net/?p=profile&id=41223). Note that this isn't a<br>\r\n\t  true fix since yoshi checks if RAM $78 is #$FF would hide him. Problem is that the yoshi routine<br>\r\n\t  that checks the RAM is hijacked by SA-1.<br>\r\n\t--Fixed a minor visual quirk where if the player crouch-slide into the top of a pipe and enters it,<br>\r\n\t  the player will retain his crouching state throughout the pipe travel.<br>\r\n\t--Fixed an issue with Warp/Drag mode in SA-1 breaking on accurate emulators (when applied to SA-1 game,<br>\r\n\t  the main pipes code for UAT's gamemode 14 would still run in SNES CPU, runs an aiming routine that<br>\r\n\t  would use SA-1 math registers, which would fail). This now invokes SA-1 when the game is SA-1.<br>\r\n\t--Fixed a slight error where dying the same frame the player enters a pipe with !Setting_SSP_FreezeTime<br>\r\n\t  set to 1 would cause an abrupt fade out on the dying animation.<br>\r\n\t--Fixed a bug where yoshi turning around animation persists when traveling through vertical pipes.<br>\r\n\t--Made horizontal pipes also set X position and vertical pipes set Y position in addition to centering<br>\r\n\t  the player so that the player goes from entering to stem state at a consistent position (sprites,<br>\r\n\t  wind generators or anything that would position the player slightly off can affect this).<br>\r\n\t-Added an optional fix for camera panning to allow the camera to pan in the direction the player is<br>\r\n\t facing when enabling freezing during pipe travel (previously, the camera would pan in front of<br>\r\n\t player's facing when the freeze setting is off, but does not do so when on).<br>\r\n\t-Player's XY Subpixels position (RAM $13DA and $13DC) updates:<br>\r\n\t--Centering codes now also sets the player's XY subpixel position, thus movement no longer have a 1<br>\r\n\t  pixel variance of the player's XY position upon exiting pipe caps.<br>\r\n\t--Made an extremely minor change on \"Fixes.asm\" to include clearing the player's Y position subpixel<br>\r\n\t  when standing on layer 1 & 2 platforms.<br>\r\n\t -Moved several block codes to subroutines:<br>\r\n\t--Vertical centering code (accounting for whether or not riding yoshi or powerup states) now moved<br>\r\n\t  to subroutines.<br>\r\n\t--Majority of the code handling exiting vertical pipe caps and turn corners now moved to block<br>\r\n\t  subroutines, saving significant space.<br>\r\n\t-!Freeram_SSP_EntrExtFlg updated to now have values for entering, stem traveling, exiting normally,<br>\r\n\t and cannon exiting. Also the defines now reflect on this.<br>\r\n\t-Renamed several routine files to have a \"SSP\" at the beginning of the name using freeram of screen<br>\r\n\t scrolling pipes (It's better to have ASM resource-specific routines have their name (in this case,<br>\r\n\t \"screen scrolling pipes\") in so that (1) reduce the risk of filename conflicts, and (2) be more<br>\r\n\t informative that it is resource-specific).<br>\r\n\t-Vertical regular-sized pipe caps and turn corners will now check if the player is centered enough to<br>\r\n\t trigger them. This allows setups like seen here:<br>\r\n\t \"Readme_files/VerticalExitCapsRequirePlayerCenteredHorizontally.png\"<br>\r\n\t--Did a similar thing with the warp/drag mode block as well as the new \"set_visibility_off.asm\" and<br>\r\n\t  \"set_visibility_on.asm\", however it accepts both single-block centered and 2-block centered (half<br>\r\n\t  block to the right).<br>\r\n\t-Added an option !Setting_SSP_HideDuringPipeStemTravel, which can be set to 0 so that the player and<br>\r\n\t carried sprite does not turn invisible inside pipes, ideal for glass pipes.<br>\r\n\t-Map16 files for LM's map16 and tile list for GPS for \"v2\" versions now have page 4 and page 5 merged<br>\r\n\t rather than having one file per-page.<br>\r\n\t-Depreciated files:<br>\r\n\t--Deleted the old version of the map16 blocks and for the GPS tool.<br>\r\n\t--Got rid of the old level file since it is now depreciated and causing confusion.<br>\r\n\t-Made moving blocks to a different block number for blocks list for GPS much MUCH easier, by including<br>\r\n\t a tool, \"JS_GPSBlockListRelocator.html\" which will offset them to a different map16 number.<br>\r\n\t-Facing directions are now corrected when traveling through pipes rather than just when the player<br>\r\n\t exits horizontal pipe caps, so that the player doesn't appear going backwards in glass pipes.<br>\r\n\t-The uberasm tool code is no longer a library code to be called from a gamemode 14 ASM file, because<br>\r\n\t UAT2.0 now supports multiple separate ASM files for the same N where N is the level/gamemode/<br>\r\n\t overworld number to apply its effects on.<br>\r\n\t-Added a per-level wraparound feature for warp-drag mode: If the player pipe traveling heads into the<br>\r\n\t edge of a level, will send him to the opposite edge of the level. If V/H scrolling disabled, then<br>\r\n\t wraparound will adjust to be the screen's width. It also comes with an extra byte setting to also<br>\r\n\t invert along the edge.<br>\r\n\t-Added a uberasm tool level file that adds wraparound effect for screen scrolling pipes when the<br>\r\n\t traveling player hits the edge of the level.<br>\r\n\t-Several removed freerams:<br>\r\n\t--Late discovery that somebody (MarioFanGamer) found that RAM $8F is a reliable copy of $72 for<br>\r\n\t  checking if Mario is on the ground. Thus, freeram !Freeram_BlockedStatBkp will optionally not be used<br>\r\n\t  (!Setting_SSP_CopyRAM77 set to 0 by default to not use a freeram).<br>\r\n\t--Removing !Freeram_SSP_CarrySpr would still works with carried sprites. Thus this is redundant.<br>\r\n\t-Added optional Freeram: !Freeram_SSP_InvisbleFlag, due to having both visible and invisible states for<br>\r\n\t doors and glass pipe support (will be used if !Setting_SSP_HideDuringPipeStemTravel == 0).<br>\r\n\t-Added walking animation for horizontal pipe caps (note that it runs the vanilla code that handles<br>\r\n\t walking animations, as seen when $71 == #$05), which are JSL $00CEB1, JSL $00CFBC and<br>\r\n\t JSR $00D1F4. Finally fulfilled RPG Hacker's recommendation (https://smwc.me/s/41236/12725 ).<br>\r\n\t-Moved aiming routine used by warp/drag mode to newer uberasm tool's routines.<br>\r\n\t-Added an optional feature for warp/drag mode to make the player move faster if the destination is far<br>\r\n\t away enough.<br>\r\n\t-Renamed various defines that start with \"!SSP\" with \"!Setting_SSP\" for consistency.<br>\r\n\t-Sound effects can now be configured.<br>\r\n08/16/2026 v 4.0.5 Hotfix of a sneaky branch that jump to middle of hijack<br>\r\n\t-Fixed a crash that could happen due to a branch at $00C5C9.</pre></div></div>",
-    "latest_version": "4.0.5",
+    "description": "<span style=\"color: #FF0000\"><b>See tutorial <a href=\"https://www.smwcentral.net/?p=section&a=details&id=41525\">here</a>. The blocks section has a small 1MIB limit preventing me from submitting this as a whole.</b></span><br>\r\n<br>\r\nThese pipes, when entered, will cause the player to travel through them within the same level rather than refreshing the screen. Useful for maze levels for those who refuse to use screen exits.<br>\r\n<br>\r\nNotes:<br>\r\n* If there are at least 2 sprites on screen, and Mario enters a pipe, he will partially disappear as he enters a pipe. You should patch <a href=\"https://smwc.me/s/40702\">NMSTL</a> to prevent that.<br>\r\n* If you have a low-gravity generator that does <div class=\"code inline filter-noemote filter-nobr\"><pre>DEC $7D</pre></div> (Mario's Y speed), make sure that you add a check that if $9D is nonzero, or the low nibble (low 4 bits, %----XXXX) of RAM address <div class=\"code inline filter-noemote filter-nobr\"><pre>!pipe_dir</pre></div> is non-zero, then skip/return, because otherwise Mario will rise up slowly while traveling through horizontal pipes. You absolutely don't want to touch his physics while inside pipes.<br>\r\n<br>\r\nGitHub: <a href=\"https://github.com/GhbSmwc/SMB3_ScreenScrollingPipes\" rel=\"nofollow\">https://github.com/GhbSmwc/SMB3_ScreenScrollingPipes</a><br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\"><pre>01-01-2025 4.0.3<br>\r\n\t-Fixed an oversight where some sprites still interacts with the player while inside a pipe, such as<br>\r\n\t a boo ring. Give thanks to AmperSam for reporting on it.<br>\r\n12/26/2025 4.0.4<br>\r\n\t-Bug fixes:<br>\r\n\t--Fixed a missing TopCorner for small pipes that I forgot to include for small-mario-only pipes.<br>\r\n\t--Fixed a problem where sprite interaction with the player during pipe travel still happens (lose yoshi)<br>\r\n\t  when the player is riding yoshi.<br>\r\n\t--Fixed a problem where if player is off yoshi, and enters a pipe and turns invisible, so too will<br>\r\n\t  yoshi. Credit to AmperSam (https://www.smwcentral.net/?p=profile&id=41223). Note that this isn't a<br>\r\n\t  true fix since yoshi checks if RAM $78 is #$FF would hide him. Problem is that the yoshi routine<br>\r\n\t  that checks the RAM is hijacked by SA-1.<br>\r\n\t--Fixed a minor visual quirk where if the player crouch-slide into the top of a pipe and enters it,<br>\r\n\t  the player will retain his crouching state throughout the pipe travel.<br>\r\n\t--Fixed an issue with Warp/Drag mode in SA-1 breaking on accurate emulators (when applied to SA-1 game,<br>\r\n\t  the main pipes code for UAT's gamemode 14 would still run in SNES CPU, runs an aiming routine that<br>\r\n\t  would use SA-1 math registers, which would fail). This now invokes SA-1 when the game is SA-1.<br>\r\n\t--Fixed a slight error where dying the same frame the player enters a pipe with !Setting_SSP_FreezeTime<br>\r\n\t  set to 1 would cause an abrupt fade out on the dying animation.<br>\r\n\t--Fixed a bug where yoshi turning around animation persists when traveling through vertical pipes.<br>\r\n\t--Made horizontal pipes also set X position and vertical pipes set Y position in addition to centering<br>\r\n\t  the player so that the player goes from entering to stem state at a consistent position (sprites,<br>\r\n\t  wind generators or anything that would position the player slightly off can affect this).<br>\r\n\t-Added an optional fix for camera panning to allow the camera to pan in the direction the player is<br>\r\n\t facing when enabling freezing during pipe travel (previously, the camera would pan in front of<br>\r\n\t player's facing when the freeze setting is off, but does not do so when on).<br>\r\n\t-Player's XY Subpixels position (RAM $13DA and $13DC) updates:<br>\r\n\t--Centering codes now also sets the player's XY subpixel position, thus movement no longer have a 1<br>\r\n\t  pixel variance of the player's XY position upon exiting pipe caps.<br>\r\n\t--Made an extremely minor change on \"Fixes.asm\" to include clearing the player's Y position subpixel<br>\r\n\t  when standing on layer 1 & 2 platforms.<br>\r\n\t -Moved several block codes to subroutines:<br>\r\n\t--Vertical centering code (accounting for whether or not riding yoshi or powerup states) now moved<br>\r\n\t  to subroutines.<br>\r\n\t--Majority of the code handling exiting vertical pipe caps and turn corners now moved to block<br>\r\n\t  subroutines, saving significant space.<br>\r\n\t-!Freeram_SSP_EntrExtFlg updated to now have values for entering, stem traveling, exiting normally,<br>\r\n\t and cannon exiting. Also the defines now reflect on this.<br>\r\n\t-Renamed several routine files to have a \"SSP\" at the beginning of the name using freeram of screen<br>\r\n\t scrolling pipes (It's better to have ASM resource-specific routines have their name (in this case,<br>\r\n\t \"screen scrolling pipes\") in so that (1) reduce the risk of filename conflicts, and (2) be more<br>\r\n\t informative that it is resource-specific).<br>\r\n\t-Vertical regular-sized pipe caps and turn corners will now check if the player is centered enough to<br>\r\n\t trigger them. This allows setups like seen here:<br>\r\n\t \"Readme_files/VerticalExitCapsRequirePlayerCenteredHorizontally.png\"<br>\r\n\t--Did a similar thing with the warp/drag mode block as well as the new \"set_visibility_off.asm\" and<br>\r\n\t  \"set_visibility_on.asm\", however it accepts both single-block centered and 2-block centered (half<br>\r\n\t  block to the right).<br>\r\n\t-Added an option !Setting_SSP_HideDuringPipeStemTravel, which can be set to 0 so that the player and<br>\r\n\t carried sprite does not turn invisible inside pipes, ideal for glass pipes.<br>\r\n\t-Map16 files for LM's map16 and tile list for GPS for \"v2\" versions now have page 4 and page 5 merged<br>\r\n\t rather than having one file per-page.<br>\r\n\t-Depreciated files:<br>\r\n\t--Deleted the old version of the map16 blocks and for the GPS tool.<br>\r\n\t--Got rid of the old level file since it is now depreciated and causing confusion.<br>\r\n\t-Made moving blocks to a different block number for blocks list for GPS much MUCH easier, by including<br>\r\n\t a tool, \"JS_GPSBlockListRelocator.html\" which will offset them to a different map16 number.<br>\r\n\t-Facing directions are now corrected when traveling through pipes rather than just when the player<br>\r\n\t exits horizontal pipe caps, so that the player doesn't appear going backwards in glass pipes.<br>\r\n\t-The uberasm tool code is no longer a library code to be called from a gamemode 14 ASM file, because<br>\r\n\t UAT2.0 now supports multiple separate ASM files for the same N where N is the level/gamemode/<br>\r\n\t overworld number to apply its effects on.<br>\r\n\t-Added a per-level wraparound feature for warp-drag mode: If the player pipe traveling heads into the<br>\r\n\t edge of a level, will send him to the opposite edge of the level. If V/H scrolling disabled, then<br>\r\n\t wraparound will adjust to be the screen's width. It also comes with an extra byte setting to also<br>\r\n\t invert along the edge.<br>\r\n\t-Added a uberasm tool level file that adds wraparound effect for screen scrolling pipes when the<br>\r\n\t traveling player hits the edge of the level.<br>\r\n\t-Several removed freerams:<br>\r\n\t--Late discovery that somebody (MarioFanGamer) found that RAM $8F is a reliable copy of $72 for<br>\r\n\t  checking if Mario is on the ground. Thus, freeram !Freeram_BlockedStatBkp will optionally not be used<br>\r\n\t  (!Setting_SSP_CopyRAM77 set to 0 by default to not use a freeram).<br>\r\n\t--Removing !Freeram_SSP_CarrySpr would still works with carried sprites. Thus this is redundant.<br>\r\n\t-Added optional Freeram: !Freeram_SSP_InvisbleFlag, due to having both visible and invisible states for<br>\r\n\t doors and glass pipe support (will be used if !Setting_SSP_HideDuringPipeStemTravel == 0).<br>\r\n\t-Added walking animation for horizontal pipe caps (note that it runs the vanilla code that handles<br>\r\n\t walking animations, as seen when $71 == #$05), which are JSL $00CEB1, JSL $00CFBC and<br>\r\n\t JSR $00D1F4. Finally fulfilled RPG Hacker's recommendation (https://smwc.me/s/41236/12725 ).<br>\r\n\t-Moved aiming routine used by warp/drag mode to newer uberasm tool's routines.<br>\r\n\t-Added an optional feature for warp/drag mode to make the player move faster if the destination is far<br>\r\n\t away enough.<br>\r\n\t-Renamed various defines that start with \"!SSP\" with \"!Setting_SSP\" for consistency.<br>\r\n\t-Sound effects can now be configured.<br>\r\n08/16/2026 v 4.0.5 Hotfix of a sneaky branch that jump to middle of hijack<br>\r\n\t-Fixed a crash that could happen due to a branch at $00C5C9.<br>\r\n09/19/2026 v 4.0.6 Fixes<br>\r\n\t-Bug fixes:<br>\r\n\t--Fixed depreciation issue with \"routines/sspdragmariomode.asm\". Credit to \"MrDeePay\" for pointing it<br>\r\n\t  out.<br>\r\n\t--Fixed an issue with several GPS routines files potentially accessing data at the wrong bank, mainly<br>\r\n\t  because they're using 16-bit addressing without using \"PHB : PHK : PLB : &lt;CodeHere&gt; : PLB\" or using<br>\r\n\t  24-bit address (&lt;opcode&gt;.l Table,x), the files in question are: \"SSPExitDoor.asm\" and<br>\r\n\t  \"SSPReverseDirection.asm\".</pre></div></div>",
+    "latest_version": "smwc-43183-1789909853",
     "install_kind": "gps_block",
     "versions": [
       {
-        "upstream_id": 42862,
-        "title": "Super Mario Bros. 3 Screen Scrolling Pipes v4.0.5",
-        "version": "4.0.5",
-        "upstream_time": 1786922863,
-        "download_url": "https://dl.smwcentral.net/42862/SMB3_ScreenScrollingPipes_v4_0_5.zip",
-        "filename": "SMB3_ScreenScrollingPipes_v4_0_5.zip",
-        "size": 194172,
+        "upstream_id": 43183,
+        "title": "Super Mario Bros. 3 Screen Scrolling Pipes v4.0.6",
+        "version": "smwc-43183-1789909853",
+        "upstream_time": 1789909853,
+        "download_url": "https://dl.smwcentral.net/43183/SMB3_ScreenScrollingPipes_v4_0_6.zip",
+        "filename": "SMB3_ScreenScrollingPipes_v4_0_6.zip",
+        "size": 194361,
         "sha256": null,
         "dependencies": [
           "gps"
@@ -3454,6 +3417,39 @@
     ]
   },
   {
+    "name": "smwmusic-aeron-s-golden-cookie-quest-special-edition-tower-of-memories",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42465,
+    "title": "Aeron's Golden Cookie Quest ~ Special Edition - Tower of Memories",
+    "authors": [
+      "Daizo Dee Von"
+    ],
+    "tags": [
+      "calm",
+      "castle"
+    ],
+    "description": "A very calming theme for heroes after a long quest from <span class=\"un-outer\" title=\"Anorakun\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=42525\" style=\"color: #fe1d02;\" class=\"un\">Anorakun</a></span>'s hack.<br>\r\n<br>\r\nCredit would be appreciated.",
+    "latest_version": "smwc-42465-1789928571",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42465,
+        "title": "Aeron's Golden Cookie Quest ~ Special Edition - Tower of Memories",
+        "version": "smwc-42465-1789928571",
+        "upstream_time": 1789928571,
+        "download_url": "https://dl.smwcentral.net/42465/%5BS%5D%20Aeron%27s%20Golden%20Cookie%20Quest%20Director%27s%20Cut%20-%20Tower%20of%20Memories.zip",
+        "filename": "%5BS%5D Aeron%27s Golden Cookie Quest Director%27s Cut - Tower of Memories.zip",
+        "size": 46308,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
     "name": "smwmusic-aladdin-snes-a-snake-am-i",
     "aliases": [],
     "section": "smwmusic",
@@ -3556,6 +3552,45 @@
     ]
   },
   {
+    "name": "smwmusic-brandish",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42616,
+    "title": "Brandish 2: The Planet Buster (SNES) - Epilogue",
+    "authors": [
+      "SiameseTwins"
+    ],
+    "tags": [
+      "calm",
+      "credits",
+      "forest",
+      "mountain",
+      "night",
+      "overworld",
+      "sea",
+      "snow"
+    ],
+    "description": "Plays during the ending cutscene in SFC Brandish 2. Good for forest, snow levels and credits.<br>\r\n<span style=\"color: #ff0000;\">Not compatible with Bonus End, Yoshi, P-switch, and Thunder/Blargg/Fireworks; Miss will sound off.</span>",
+    "latest_version": "smwc-42616-1790110997",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42616,
+        "title": "Brandish 2: The Planet Buster (SNES) - Epilogue",
+        "version": "smwc-42616-1790110997",
+        "upstream_time": 1790110997,
+        "download_url": "https://dl.smwcentral.net/42616/Brandish%202%20%28SFC%29%20-%20Epilogue%20.zip",
+        "filename": "Brandish 2 (SFC) - Epilogue .zip",
+        "size": 96153,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
     "name": "smwmusic-castlevania-bloodlines-iron-blue-intention",
     "aliases": [],
     "section": "smwmusic",
@@ -3592,35 +3627,32 @@
     ]
   },
   {
-    "name": "smwmusic-deltarune-ever-higher",
+    "name": "smwmusic-deltarune-dark-sanctuary",
     "aliases": [],
     "section": "smwmusic",
-    "upstream_id": 41842,
-    "title": "Deltarune - Ever Higher",
+    "upstream_id": 42140,
+    "title": "Deltarune - Dark Sanctuary",
     "authors": [
-      "Forgado"
+      "PolyPlayer"
     ],
     "tags": [
-      "airship",
-      "overworld",
-      "retro",
-      "ruins",
-      "sky",
-      "temple",
-      "upbeat"
+      "castle",
+      "dark",
+      "mysterious",
+      "night"
     ],
-    "description": "The song \"Ever Higher\" from Chapter 4 of Deltarune, which plays in climbing sections, originally composed by Toby Fox. Would fit in vertical levels, maybe airships too. Could also be fine for overworlds due to its relatively short length?<br>\r\n<br>\r\nThe original samples were found using stormstudios1's Deltarune Sample Sheet.",
-    "latest_version": "smwc-41842-1788005346",
+    "description": "Toby Fox's Dark Sanctuary from Deltarune (Chapter 4)<br>\r\nThis song plays during the chapter's first Dark World.<br>\r\nCould be used for night or castle themed levels<br>\r\n<br>\r\nSamples taken from stormstudios1's recreation",
+    "latest_version": "2",
     "install_kind": "add_music_k_music",
     "versions": [
       {
-        "upstream_id": 41842,
-        "title": "Deltarune - Ever Higher",
-        "version": "smwc-41842-1788005346",
-        "upstream_time": 1788005346,
-        "download_url": "https://dl.smwcentral.net/41842/Ever%20Higher.zip",
-        "filename": "Ever Higher.zip",
-        "size": 68640,
+        "upstream_id": 42140,
+        "title": "Deltarune - Dark Sanctuary",
+        "version": "2",
+        "upstream_time": 1789929349,
+        "download_url": "https://dl.smwcentral.net/42140/Deltarune%20-%20Dark%20Sanctuary.zip",
+        "filename": "Deltarune - Dark Sanctuary.zip",
+        "size": 74919,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -3882,6 +3914,79 @@
     ]
   },
   {
+    "name": "smwmusic-kirby-super-star-trees-in-the-depths-of-the-earth",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42664,
+    "title": "Kirby Super Star - Trees in the Depths of the Earth",
+    "authors": [
+      "Fullcannon"
+    ],
+    "tags": [
+      "castle",
+      "cave",
+      "chase",
+      "desert",
+      "fire",
+      "forest",
+      "jungle",
+      "temple",
+      "tense"
+    ],
+    "description": "Sub-Tree area theme from 'The Great Cave Offensive' in Kirby Super Star.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Devazure\"><span title=\"Devazure donated $25.00.\" class=\"icon icon-donor\"></span><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=93\" style=\"color: #3e75d9;\" class=\"un\">Devazure</a></span>.",
+    "latest_version": "smwc-42664-1790178814",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42664,
+        "title": "Kirby Super Star - Trees in the Depths of the Earth",
+        "version": "smwc-42664-1790178814",
+        "upstream_time": 1790178814,
+        "download_url": "https://dl.smwcentral.net/42664/Kirby%20Super%20Star%20-%20Trees%20in%20the%20Depths%20of%20the%20Earth.zip",
+        "filename": "Kirby Super Star - Trees in the Depths of the Earth.zip",
+        "size": 60427,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-luigi-s-mansion-controls",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42363,
+    "title": "Luigi's Mansion - Controls",
+    "authors": [
+      "lordlydumbass"
+    ],
+    "tags": [
+      "menu",
+      "title"
+    ],
+    "description": "One bar loop with a twist after 3 minutes. Spoiler: Totaka's song is here.<br>\r\n<br>\r\nFits a menu or tutorial level maybe?<br>\r\n<br>\r\nmod note: the hurry up tempo hike will make the engine samples in the Totaka's song section sound offbeat",
+    "latest_version": "smwc-42363-1789929973",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42363,
+        "title": "Luigi's Mansion - Controls",
+        "version": "smwc-42363-1789929973",
+        "upstream_time": 1789929973,
+        "download_url": "https://dl.smwcentral.net/42363/Luigi%27s%20Mansion%20-%20Controls.zip",
+        "filename": "Luigi%27s Mansion - Controls.zip",
+        "size": 97547,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
     "name": "smwmusic-mario-no-super-picross-mario-puzzle",
     "aliases": [],
     "section": "smwmusic",
@@ -4126,137 +4231,6 @@
         "download_url": "https://dl.smwcentral.net/42422/Pebble%20Beach%20Golf%20Links%20%28SAT%29%20-%20Course%20BGM%203.zip",
         "filename": "Pebble Beach Golf Links (SAT) - Course BGM 3.zip",
         "size": 59364,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      },
-      {
-        "upstream_id": 42421,
-        "title": "Pebble Beach Golf Links (Saturn) - Course BGM 2",
-        "version": "smwc-42421-1788014440",
-        "upstream_time": 1788014440,
-        "download_url": "https://dl.smwcentral.net/42421/Pebble%20Beach%20Golf%20Links%20%28SAT%29%20-%20Course%20BGM%202.zip",
-        "filename": "Pebble Beach Golf Links (SAT) - Course BGM 2.zip",
-        "size": 68387,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      },
-      {
-        "upstream_id": 42420,
-        "title": "Pebble Beach Golf Links (Saturn) - Course BGM 1",
-        "version": "smwc-42420-1788013828",
-        "upstream_time": 1788013828,
-        "download_url": "https://dl.smwcentral.net/42420/Pebble%20Beach%20Golf%20Links%20%28SAT%29%20-%20Course%20BGM%201.zip",
-        "filename": "Pebble Beach Golf Links (SAT) - Course BGM 1.zip",
-        "size": 79817,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-pebble-beach-golf-links-saturn-results",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42423,
-    "title": "Pebble Beach Golf Links (Saturn) - Results",
-    "authors": [
-      "Fullcannon"
-    ],
-    "tags": [
-      "cutscene",
-      "menu",
-      "sea",
-      "sky"
-    ],
-    "description": "Course results music after finishing any regular day in a tournament heard in the Sega Saturn port of Pebble Beach Golf Links: Stadler ni Chousen.",
-    "latest_version": "smwc-42423-1788013374",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42423,
-        "title": "Pebble Beach Golf Links (Saturn) - Results",
-        "version": "smwc-42423-1788013374",
-        "upstream_time": 1788013374,
-        "download_url": "https://dl.smwcentral.net/42423/Pebble%20Beach%20Golf%20Links%20%28SAT%29%20-%20Results.zip",
-        "filename": "Pebble Beach Golf Links (SAT) - Results.zip",
-        "size": 67195,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-pebble-beach-golf-links-saturn-settings",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42418,
-    "title": "Pebble Beach Golf Links (Saturn) - Settings",
-    "authors": [
-      "Fullcannon"
-    ],
-    "tags": [
-      "menu",
-      "sea"
-    ],
-    "description": "Settings menu tune heard in the Sega Saturn port of Pebble Beach Golf Links: Stadler ni Chousen.",
-    "latest_version": "smwc-42418-1788011249",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42418,
-        "title": "Pebble Beach Golf Links (Saturn) - Settings",
-        "version": "smwc-42418-1788011249",
-        "upstream_time": 1788011249,
-        "download_url": "https://dl.smwcentral.net/42418/Pebble%20Beach%20Golf%20Links%20%28SAT%29%20-%20Settings.zip",
-        "filename": "Pebble Beach Golf Links (SAT) - Settings.zip",
-        "size": 72943,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-pebble-beach-golf-links-saturn-tutorial",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42419,
-    "title": "Pebble Beach Golf Links (Saturn) - Tutorial",
-    "authors": [
-      "Fullcannon"
-    ],
-    "tags": [
-      "athletic",
-      "grassland",
-      "menu",
-      "mountain"
-    ],
-    "description": "Gameplay tutorial scenes heard in the Sega Saturn port of Pebble Beach Golf Links: Stadler ni Chousen.",
-    "latest_version": "smwc-42419-1788012348",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42419,
-        "title": "Pebble Beach Golf Links (Saturn) - Tutorial",
-        "version": "smwc-42419-1788012348",
-        "upstream_time": 1788012348,
-        "download_url": "https://dl.smwcentral.net/42419/Pebble%20Beach%20Golf%20Links%20%28SAT%29%20-%20Tutorial.zip",
-        "filename": "Pebble Beach Golf Links (SAT) - Tutorial.zip",
-        "size": 77150,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -4827,6 +4801,39 @@
         "download_url": "https://dl.smwcentral.net/42342/Low%20Cortisol%20%28Star-mix%29.zip",
         "filename": "Low Cortisol (Star-mix).zip",
         "size": 125139,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-touhou-yumejikuu-the-phantasmagoria-of-dim-dream-dream-of-eternity",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42371,
+    "title": "Touhou Yumejikuu ~ The Phantasmagoria of Dim.Dream - Dream of Eternity",
+    "authors": [
+      "monkey03297"
+    ],
+    "tags": [
+      "cutscene",
+      "ending"
+    ],
+    "description": "久遠の夢",
+    "latest_version": "smwc-42371-1789928258",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42371,
+        "title": "Touhou Yumejikuu ~ The Phantasmagoria of Dim.Dream - Dream of Eternity",
+        "version": "smwc-42371-1789928258",
+        "upstream_time": 1789928258,
+        "download_url": "https://dl.smwcentral.net/42371/th3_15.zip",
+        "filename": "th3_15.zip",
+        "size": 33092,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -6267,7 +6274,7 @@
       "lorom",
       "sa-1"
     ],
-    "description": "This patch adds a flag which changes if fireballs interact with sprites or hurt the player.<br>\r\nAffects Yoshi and player fireballs.<br>\r\n<br>\r\nIf you spawn fireballs via asm, make sure you set the flag to interact with the player or with sprites. If you don't set this flag, it might still be set or not set from the previous sprite.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #ff7777;\" class=\"un\">Arinsu</a></span>.",
+    "description": "This patch adds a flag which changes if fireballs interact with sprites or hurt the player.<br>\r\nAffects Yoshi and player fireballs.<br>\r\n<br>\r\nIf you spawn fireballs via asm, make sure you set the flag to interact with the player or with sprites. If you don't set this flag, it might still be set or not set from the previous sprite.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #e75151;\" class=\"un\">Arinsu</a></span>.",
     "latest_version": "v1.2.1",
     "install_kind": "asar_patch",
     "versions": [
@@ -6889,33 +6896,34 @@
     ]
   },
   {
-    "name": "smwsprites-baby-reznor-rotating-block",
+    "name": "smwsprites-amazing-flyin-hammer-lotus",
     "aliases": [],
     "section": "smwsprites",
-    "upstream_id": 40567,
-    "title": "Baby Reznor + Rotating Block",
+    "upstream_id": 42753,
+    "title": "Amazing Flyin' Hammer Lotus",
     "authors": [
-      "Koopster"
+      "RussianMan"
     ],
     "tags": [
-      "boss",
       "enemy",
+      "hammer",
       "lorom",
-      "reznor",
-      "sa-1"
+      "lotus",
+      "sa-1",
+      "volcano lotus"
     ],
-    "description": "This includes:<br>\r\n1) a baby Reznor that shoots fireballs;<br>\r\n2) a rotating block that moves like the gray chained platforms, but otherwise behaves like a single-block Hammer Brother platform.<br>\r\nThe two sprites can be used as standalone, but they also function in conjuction.<br>\r\n<br>\r\n<br>\r\nRegarding the baby Reznor, depending on the extra bit, it will either walk around occasionally facing the player, or attach to the included rotating block sprite. They take 3 fireballs to kill by default.<br>\r\n<br>\r\nWhen attached to a rotating block, hitting it with a fireball will make it drop and start walking. When its block is hit from below, it can either drop and start walking, drop and start walking with 1 health point diminished or be killed. The last option is default, but this behavior can be changed in rotating_block.asm.<br>\r\n<br>\r\n<br>\r\nRegarding the rotating block, the extra bit determines its rotation direction, and with the extra bytes you can set its speed, radius and initial angle (rotating_block.asm describes some angle values you can use to place evenly spaced concentric platforms like those seen in the screenshots). Additionally, you can enable a functionality so the level exit activates once no baby Reznors are present in the level, effectively making these sprites work as a boss.<br>\r\n<br>\r\n<br>\r\n<b><u>IMPORTANT!</u></b> For both sprites to work in conjuction, they must be inserted in sequence in the sprite list like so (08 and 09 are just an example - they can be on any sequential pair of numbers):<br>\r\n<br>\r\n08 baby_reznor.json<br>\r\n09 rotating_block.json",
-    "latest_version": "smwc-40567-1774977929",
+    "description": "A volcano lotus that flies in the same pattern as platform for hammer brother, and spits hammers.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Daizo Dee Von\"><span title=\"Helper\" class=\"icon icon-helper\"></span><a href=\"/?p=profile&amp;id=11520\" style=\"color: var(--user-color-2);\" class=\"un\">Daizo Dee Von</a></span> during Winter C3 2023.",
+    "latest_version": "V1.0.1",
     "install_kind": "pixi_sprite",
     "versions": [
       {
-        "upstream_id": 40567,
-        "title": "Baby Reznor + Rotating Block",
-        "version": "smwc-40567-1774977929",
-        "upstream_time": 1774977929,
-        "download_url": "https://dl.smwcentral.net/40567/baby_reznor_rotating_block.zip",
-        "filename": "baby_reznor_rotating_block.zip",
-        "size": 12699,
+        "upstream_id": 42753,
+        "title": "Amazing Flyin' Hammer Lotus",
+        "version": "V1.0.1",
+        "upstream_time": 1790016441,
+        "download_url": "https://dl.smwcentral.net/42753/AmazingFlyinHammerLotusV1.0.1.zip",
+        "filename": "AmazingFlyinHammerLotusV1.0.1.zip",
+        "size": 4995,
         "sha256": null,
         "dependencies": [
           "pixi"
@@ -7066,6 +7074,77 @@
         "download_url": "https://dl.smwcentral.net/42177/fire_trail_bob_omb.zip",
         "filename": "fire_trail_bob_omb.zip",
         "size": 6916,
+        "sha256": null,
+        "dependencies": [
+          "pixi"
+        ],
+        "install_kind": "pixi_sprite"
+      }
+    ]
+  },
+  {
+    "name": "smwsprites-bouncing-spiny-egg-rolling-spiny-egg",
+    "aliases": [],
+    "section": "smwsprites",
+    "upstream_id": 43163,
+    "title": "Bouncing Spiny Egg + Rolling Spiny Egg",
+    "authors": [
+      "MellyMellouange"
+    ],
+    "tags": [
+      "lorom",
+      "sa-1",
+      "spiny egg",
+      "vanilla graphics",
+      "vanilla-ish"
+    ],
+    "description": "Bouncing Spiny Egg will bounce off the ground slopes at a strict angle. (Set Extra bits to 2)<br>\r\nRolling Spiny Egg will pick up speed if placed on a slope and even decelerate and go the other way. (Set Extra bits to 3)<br>\r\n<br>\r\nThere's a bunch more that can be done with this, but that's the gist of it.<br>\r\n<br>\r\nUpdate March 9th 2017: Horizontal Speed adjustments for the bouncing spinies! They will bounce off slope with half the speed they did before in order to facilitate level design. As such, the screenshots depicting them are no longer accurate until I update those as well. Sorry for the inconvenience!",
+    "latest_version": "2",
+    "install_kind": "pixi_sprite",
+    "versions": [
+      {
+        "upstream_id": 43163,
+        "title": "Bouncing Spiny Egg + Rolling Spiny Egg",
+        "version": "2",
+        "upstream_time": 1789946173,
+        "download_url": "https://dl.smwcentral.net/43163/Bouncing_Rolling_Spiny.zip",
+        "filename": "Bouncing_Rolling_Spiny.zip",
+        "size": 3005,
+        "sha256": null,
+        "dependencies": [
+          "pixi"
+        ],
+        "install_kind": "pixi_sprite"
+      }
+    ]
+  },
+  {
+    "name": "smwsprites-brutal-bill",
+    "aliases": [],
+    "section": "smwsprites",
+    "upstream_id": 42497,
+    "title": "Brutal Bill",
+    "authors": [
+      "Sonikku"
+    ],
+    "tags": [
+      "bullet bill",
+      "homing",
+      "lorom",
+      "sa-1"
+    ],
+    "description": "This is a recreation of the famous Homing Bullet Bill seen in many hacks. Affectionately dubbed the \"Brutal Bill\", as it is based on a sprite made by Carol and debuted in Brutal Mario.<br>\r\n<br>\r\nThis was made partially because Carol's was never released with his explicit permission, and is considered a leaked resource. It uses none of Carol's code, so it's not 1:1, but it is close enough that most people will never notice.<br>\r\n<br>\r\nThis sprite was also posted to <a href=\"https://www.patreon.com/posts/160317962\" rel=\"nofollow\">my Patreon</a>. Should anything happen to this submission, it can be found there as well.",
+    "latest_version": "1.1",
+    "install_kind": "pixi_sprite",
+    "versions": [
+      {
+        "upstream_id": 42497,
+        "title": "Brutal Bill",
+        "version": "1.1",
+        "upstream_time": 1790135368,
+        "download_url": "https://dl.smwcentral.net/42497/BrutalBill.zip",
+        "filename": "BrutalBill.zip",
+        "size": 6219,
         "sha256": null,
         "dependencies": [
           "pixi"
@@ -7871,6 +7950,47 @@
     ]
   },
   {
+    "name": "smwsprites-ice-bro",
+    "aliases": [],
+    "section": "smwsprites",
+    "upstream_id": 42789,
+    "title": "Ice Bro",
+    "authors": [
+      "DrAnas",
+      "Sonikku",
+      "Telinc1",
+      "lx5"
+    ],
+    "tags": [
+      "bros",
+      "enemy",
+      "freeze",
+      "ice",
+      "ice bro",
+      "lorom",
+      "sa-1"
+    ],
+    "description": "An Ice Bro. It walks back and forth, occasionally hopping and periodically throwing two iceballs, which will disappear when they hit the ground. They will freeze and hurt Mario (both can be turned off independently of each other).<br>\r\n<br>\r\nMake sure to specify the extended sprite number of the iceball ('extended/iceball.asm') from 'list.txt' in the Ice Bro's ASM file ('sprites/IceBro.asm')!",
+    "latest_version": "v2.0.1",
+    "install_kind": "pixi_sprite",
+    "versions": [
+      {
+        "upstream_id": 42789,
+        "title": "Ice Bro",
+        "version": "v2.0.1",
+        "upstream_time": 1789934942,
+        "download_url": "https://dl.smwcentral.net/42789/nsmbw_ice_broV2.0.1.zip",
+        "filename": "nsmbw_ice_broV2.0.1.zip",
+        "size": 8972,
+        "sha256": null,
+        "dependencies": [
+          "pixi"
+        ],
+        "install_kind": "pixi_sprite"
+      }
+    ]
+  },
+  {
     "name": "smwsprites-ice-skating-koopa",
     "aliases": [],
     "section": "smwsprites",
@@ -8335,78 +8455,6 @@
     ]
   },
   {
-    "name": "smwsprites-random-chance-sprite-spawner",
-    "aliases": [],
-    "section": "smwsprites",
-    "upstream_id": 42074,
-    "title": "Random Chance Sprite Spawner",
-    "authors": [
-      "Arinsu"
-    ],
-    "tags": [
-      "lorom",
-      "random",
-      "sa-1",
-      "spawn",
-      "uberasm needed"
-    ],
-    "description": "This helper sprite will replace itself with another sprite with a given probability. If it fails, nothing will spawn.<br>\r\n<br>\r\nRespawn when going offscreen and returned is handled in two ways, via the <div class=\"code inline filter-noemote filter-nobr\"><pre>!keep_track</pre></div> define.<br>\r\n<ul><li>If <div class=\"code inline filter-noemote filter-nobr\"><pre>!keep_track = 0</pre></div>, the spawn succeeds, and you go off-screen and return, the sprite's probability to spawn is re-rolled.</li>\n<li>If <div class=\"code inline filter-noemote filter-nobr\"><pre>!keep_track = 1</pre></div>, the spawn succeeds, and you go off-screen and return, the sprite will ALWAYS spawn again. This feature requires 32 bytes of free RAM and, if you're not clearing RAM elsewhere, UberASM.</li></ul><br>\r\n<br>\r\nCan spawn a vanilla or custom sprite, with the extra bit clear or set, with any given X/Y offset, and with up to four extra bytes.",
-    "latest_version": "smwc-42074-1775269547",
-    "install_kind": "pixi_sprite",
-    "versions": [
-      {
-        "upstream_id": 42074,
-        "title": "Random Chance Sprite Spawner",
-        "version": "smwc-42074-1775269547",
-        "upstream_time": 1775269547,
-        "download_url": "https://dl.smwcentral.net/42074/Random%20Chance%20Spawner.zip",
-        "filename": "Random Chance Spawner.zip",
-        "size": 4218,
-        "sha256": null,
-        "dependencies": [
-          "pixi"
-        ],
-        "install_kind": "pixi_sprite"
-      }
-    ]
-  },
-  {
-    "name": "smwsprites-random-different-sprite-spawner",
-    "aliases": [],
-    "section": "smwsprites",
-    "upstream_id": 42075,
-    "title": "Random Different Sprite Spawner",
-    "authors": [
-      "Arinsu"
-    ],
-    "tags": [
-      "lorom",
-      "random",
-      "sa-1",
-      "spawn",
-      "uberasm needed"
-    ],
-    "description": "This helper sprite will spawn one of two different sprites, depending on a probability.<br>\r\n<br>\r\nRespawn when going offscreen and returned is handled in three ways, via the <div class=\"code inline filter-noemote filter-nobr\"><pre>!respawn_type</pre></div> define.<br>\r\n<ul><li>If <div class=\"code inline filter-noemote filter-nobr\"><pre>!respawn_type= 0</pre></div>, when you go off-screen and return, nothing will spawn anymore.</li>\n<li>If <div class=\"code inline filter-noemote filter-nobr\"><pre>!respawn_type= 1</pre></div>, when you go off-screen and return, the same sprite will spawn again. This feature requires 64 bytes of free RAM and, if you're not clearing RAM elsewhere, UberASM.</li>\n<li>If <div class=\"code inline filter-noemote filter-nobr\"><pre>!respawn_type= 2</pre></div>, when you go off-screen and return, the probability will be re-rolled and the other sprite might spawn.</li></ul><br>\r\n<br>\r\nCan spawn vanilla and/or custom sprites, with the extra bit clear or set, and with up to four different extra bytes for either. Be sure to read the asm file thoroughly, this uses 12 extra bytes!",
-    "latest_version": "smwc-42075-1775280826",
-    "install_kind": "pixi_sprite",
-    "versions": [
-      {
-        "upstream_id": 42075,
-        "title": "Random Different Sprite Spawner",
-        "version": "smwc-42075-1775280826",
-        "upstream_time": 1775280826,
-        "download_url": "https://dl.smwcentral.net/42075/Random%20Different%20Sprite.zip",
-        "filename": "Random Different Sprite.zip",
-        "size": 4207,
-        "sha256": null,
-        "dependencies": [
-          "pixi"
-        ],
-        "install_kind": "pixi_sprite"
-      }
-    ]
-  },
-  {
     "name": "smwsprites-shyguy-snifit",
     "aliases": [],
     "section": "smwsprites",
@@ -8581,42 +8629,6 @@
         "download_url": "https://dl.smwcentral.net/42638/Super%20Bob%20Omb.zip",
         "filename": "Super Bob Omb.zip",
         "size": 2849,
-        "sha256": null,
-        "dependencies": [
-          "pixi"
-        ],
-        "install_kind": "pixi_sprite"
-      }
-    ]
-  },
-  {
-    "name": "smwsprites-super-mario-bros",
-    "aliases": [],
-    "section": "smwsprites",
-    "upstream_id": 42078,
-    "title": "Super Mario Bros. 3 - Spike and Spike Ball",
-    "authors": [
-      "Luknight"
-    ],
-    "tags": [
-      "lorom",
-      "sa-1",
-      "smb 3",
-      "spike",
-      "spike balls"
-    ],
-    "description": "SMB3 style Spike and spike ball<br>\r\n<br>\r\nGreen - SMB3 Spike<br>\r\nBlue - Stone Spike (throws spike balls towards the screen)<br>\r\nRed - Fire Spike (throws fireballs instead of a spike ball)<br>\r\nExtra bit - move/stay flag<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"CalHal\"><a href=\"/?p=profile&amp;id=33725\" style=\"color: var(--user-color-1);\" class=\"un\">CalHal</a></span>",
-    "latest_version": "smwc-42078-1775670513",
-    "install_kind": "pixi_sprite",
-    "versions": [
-      {
-        "upstream_id": 42078,
-        "title": "Super Mario Bros. 3 - Spike and Spike Ball",
-        "version": "smwc-42078-1775670513",
-        "upstream_time": 1775670513,
-        "download_url": "https://dl.smwcentral.net/42078/SMB3_Spike.zip",
-        "filename": "SMB3_Spike.zip",
-        "size": 7926,
         "sha256": null,
         "dependencies": [
           "pixi"
@@ -9701,6 +9713,41 @@
         "download_url": "https://dl.smwcentral.net/31275/le120.zip",
         "filename": "le120.zip",
         "size": 135443,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "tool"
+      }
+    ]
+  },
+  {
+    "name": "tools-lunar-magic-3",
+    "aliases": [],
+    "section": "tools",
+    "upstream_id": 43216,
+    "title": "Lunar Magic 3.70",
+    "authors": [
+      "FuSoYa"
+    ],
+    "tags": [
+      "editor",
+      "level editor",
+      "lorom",
+      "lunar magic",
+      "sa-1",
+      "super fx"
+    ],
+    "description": "Lunar Magic is a level editor for the American and Japanese version 1.00 Super Mario World SNES ROMs, and the SMW portion of the American version 1.00 Mario All Stars + World SNES ROM.<br>\r\n<br>\r\nIt's a Windows program with a fairly easy to use WYSIWYG interface that includes clipboard and drag/drop support, external level file saving and loading, graphics editing, palette editing, enemy support, world map editing, text editing, plus numerous 65816 ASM enhancements to expand the original game's capabilities.<br>\r\n<br>\r\nSee the \"What's new in this version\" section of the Contents file for more details.",
+    "latest_version": "smwc-43216-1790302403",
+    "install_kind": "tool",
+    "versions": [
+      {
+        "upstream_id": 43216,
+        "title": "Lunar Magic 3.70",
+        "version": "smwc-43216-1790302403",
+        "upstream_time": 1790302403,
+        "download_url": "https://dl.smwcentral.net/43216/lm370.zip",
+        "filename": "lm370.zip",
+        "size": 3939437,
         "sha256": null,
         "dependencies": [],
         "install_kind": "tool"
@@ -11357,7 +11404,7 @@
       "sa-1",
       "smb2"
     ],
-    "description": "This UberASM allows the player to have the skills Peach had back in SMB2, including the Peach Bomber from SSB, the SMB2 Hi-Jump (Charged Jump) and the Floating Ability from SMB2.<br>\r\n<br>\r\nOriginally an Asar Patch made by Ladida (Noobish Noobsicle and scepile3 are credited too), now unified, reconverted and reorganized into an unique UberASM for a better use by Black Goku... the changes were:<br>\r\n<br>\r\n- Added additional customization and timers.<br>\r\n- Added a flag for the players in case they want to have only a player with the skills.<br>\r\n- Fixed the Cape bug from the Asar Patch (and the ones that triggered restricting the skills in the powerups).<br>\r\n<br>\r\nNotes of the original readme made by Ladida:<br>\r\n- Originally, the hijump was coded by <span class=\"un-outer\" title=\"Noobish Noobsicle\"><a href=\"/?p=profile&amp;id=4297\" style=\"color: var(--user-color-3);\" class=\"un unavailable inactive\">Noobish Noobsicle</a></span> and i just tweaked it. but now its been coded it from scratch.<br>\r\n- Originally, the float was a Yoshi Flutter by <span class=\"un-outer\" title=\"scepile3\"><a href=\"/?p=profile&amp;id=2889\" style=\"color: var(--user-color-1);\" class=\"un unavailable inactive\">scepile3</a></span>and i just edited it. but now its been coded it from scratch.<br>\r\n<br>\r\nCredit to me is optional.<br>\r\n<br>\r\nThis is my first ASM conversion, so any suggestions are welcome.<br>\r\n<br>\r\nSMW Styled Peach shown here belongs to <span class=\"un-outer\" title=\"LinkstormZ\"><a href=\"/?p=profile&amp;id=45312\" style=\"color: var(--user-color-1);\" class=\"un\">LinkstormZ</a></span>.",
+    "description": "This UberASM allows the player to have the skills Peach had back in SMB2, including the Peach Bomber from SSB, the SMB2 Hi-Jump (Charged Jump) and the Floating Ability from SMB2.<br>\r\n<br>\r\nOriginally an Asar Patch made by Ladida (Noobish Noobsicle and scepile3 are credited too), now unified, reconverted and reorganized into an unique UberASM for a better use by Black Goku... the changes were:<br>\r\n<br>\r\n- Added additional customization and timers.<br>\r\n- Added a flag for the players in case they want to have only a player with the skills.<br>\r\n- Fixed the Cape bug from the Asar Patch (and the ones that triggered restricting the skills in the powerups).<br>\r\n<br>\r\nNotes of the original readme made by Ladida:<br>\r\n- Originally, the hijump was coded by <span class=\"un-outer\" title=\"Noobish Noobsicle\"><a href=\"/?p=profile&amp;id=4297\" style=\"color: var(--user-color-3);\" class=\"un unavailable inactive\">Noobish Noobsicle</a></span> and i just tweaked it. but now its been coded it from scratch.<br>\r\n- Originally, the float was a Yoshi Flutter by <span class=\"un-outer\" title=\"scepile3\"><a href=\"/?p=profile&amp;id=2889\" style=\"color: var(--user-color-1);\" class=\"un unavailable inactive\">scepile3</a></span>and i just edited it. but now its been coded it from scratch.<br>\r\n<br>\r\nCredit to me is optional.<br>\r\n<br>\r\nThis is my first ASM conversion, so any suggestions are welcome.<br>\r\n<br>\r\nSMW Styled Peach shown here belongs to <span class=\"un-outer\" title=\"LinkstormZ\"><a href=\"/?p=profile&amp;id=45312\" style=\"color: var(--user-color-1);\" class=\"un unavailable inactive\">LinkstormZ</a></span>.",
     "latest_version": "smwc-42483-1782085948",
     "install_kind": "uber_asm",
     "versions": [
@@ -11848,7 +11895,7 @@
       "sa-1",
       "tile"
     ],
-    "description": "<span class=\"un-outer\" title=\"MellyMellouange\"><a href=\"/?p=profile&amp;id=565\" style=\"color: var(--user-color-2);\" class=\"un\">MellyMellouange</a></span>'s old Wing Cap sprite, cleaned up, optimized, made LM3 compatible, bugfixed and converted to UberASM by <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #ff7777;\" class=\"un\">Arinsu</a></span>. <br>\r\n<br>\r\nGives the player the ability to fly: also includes an optional spinjump drill down and glide ability.",
+    "description": "<span class=\"un-outer\" title=\"MellyMellouange\"><a href=\"/?p=profile&amp;id=565\" style=\"color: var(--user-color-2);\" class=\"un\">MellyMellouange</a></span>'s old Wing Cap sprite, cleaned up, optimized, made LM3 compatible, bugfixed and converted to UberASM by <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #e75151;\" class=\"un\">Arinsu</a></span>. <br>\r\n<br>\r\nGives the player the ability to fly: also includes an optional spinjump drill down and glide ability.",
     "latest_version": "1.1.1",
     "install_kind": "uber_asm",
     "versions": [

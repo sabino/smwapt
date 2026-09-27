@@ -1,5 +1,38 @@
 [
   {
+    "name": "smwmusic-aeron-s-golden-cookie-quest-special-edition-tower-of-memories",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42465,
+    "title": "Aeron's Golden Cookie Quest ~ Special Edition - Tower of Memories",
+    "authors": [
+      "Daizo Dee Von"
+    ],
+    "tags": [
+      "calm",
+      "castle"
+    ],
+    "description": "A very calming theme for heroes after a long quest from <span class=\"un-outer\" title=\"Anorakun\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=42525\" style=\"color: #fe1d02;\" class=\"un\">Anorakun</a></span>'s hack.<br>\r\n<br>\r\nCredit would be appreciated.",
+    "latest_version": "smwc-42465-1789928571",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42465,
+        "title": "Aeron's Golden Cookie Quest ~ Special Edition - Tower of Memories",
+        "version": "smwc-42465-1789928571",
+        "upstream_time": 1789928571,
+        "download_url": "https://dl.smwcentral.net/42465/%5BS%5D%20Aeron%27s%20Golden%20Cookie%20Quest%20Director%27s%20Cut%20-%20Tower%20of%20Memories.zip",
+        "filename": "%5BS%5D Aeron%27s Golden Cookie Quest Director%27s Cut - Tower of Memories.zip",
+        "size": 46308,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
     "name": "smwmusic-aladdin-snes-a-snake-am-i",
     "aliases": [],
     "section": "smwmusic",
@@ -102,6 +135,45 @@
     ]
   },
   {
+    "name": "smwmusic-brandish",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42616,
+    "title": "Brandish 2: The Planet Buster (SNES) - Epilogue",
+    "authors": [
+      "SiameseTwins"
+    ],
+    "tags": [
+      "calm",
+      "credits",
+      "forest",
+      "mountain",
+      "night",
+      "overworld",
+      "sea",
+      "snow"
+    ],
+    "description": "Plays during the ending cutscene in SFC Brandish 2. Good for forest, snow levels and credits.<br>\r\n<span style=\"color: #ff0000;\">Not compatible with Bonus End, Yoshi, P-switch, and Thunder/Blargg/Fireworks; Miss will sound off.</span>",
+    "latest_version": "smwc-42616-1790110997",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42616,
+        "title": "Brandish 2: The Planet Buster (SNES) - Epilogue",
+        "version": "smwc-42616-1790110997",
+        "upstream_time": 1790110997,
+        "download_url": "https://dl.smwcentral.net/42616/Brandish%202%20%28SFC%29%20-%20Epilogue%20.zip",
+        "filename": "Brandish 2 (SFC) - Epilogue .zip",
+        "size": 96153,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
     "name": "smwmusic-castlevania-bloodlines-iron-blue-intention",
     "aliases": [],
     "section": "smwmusic",
@@ -138,35 +210,32 @@
     ]
   },
   {
-    "name": "smwmusic-deltarune-ever-higher",
+    "name": "smwmusic-deltarune-dark-sanctuary",
     "aliases": [],
     "section": "smwmusic",
-    "upstream_id": 41842,
-    "title": "Deltarune - Ever Higher",
+    "upstream_id": 42140,
+    "title": "Deltarune - Dark Sanctuary",
     "authors": [
-      "Forgado"
+      "PolyPlayer"
     ],
     "tags": [
-      "airship",
-      "overworld",
-      "retro",
-      "ruins",
-      "sky",
-      "temple",
-      "upbeat"
+      "castle",
+      "dark",
+      "mysterious",
+      "night"
     ],
-    "description": "The song \"Ever Higher\" from Chapter 4 of Deltarune, which plays in climbing sections, originally composed by Toby Fox. Would fit in vertical levels, maybe airships too. Could also be fine for overworlds due to its relatively short length?<br>\r\n<br>\r\nThe original samples were found using stormstudios1's Deltarune Sample Sheet.",
-    "latest_version": "smwc-41842-1788005346",
+    "description": "Toby Fox's Dark Sanctuary from Deltarune (Chapter 4)<br>\r\nThis song plays during the chapter's first Dark World.<br>\r\nCould be used for night or castle themed levels<br>\r\n<br>\r\nSamples taken from stormstudios1's recreation",
+    "latest_version": "2",
     "install_kind": "add_music_k_music",
     "versions": [
       {
-        "upstream_id": 41842,
-        "title": "Deltarune - Ever Higher",
-        "version": "smwc-41842-1788005346",
-        "upstream_time": 1788005346,
-        "download_url": "https://dl.smwcentral.net/41842/Ever%20Higher.zip",
-        "filename": "Ever Higher.zip",
-        "size": 68640,
+        "upstream_id": 42140,
+        "title": "Deltarune - Dark Sanctuary",
+        "version": "2",
+        "upstream_time": 1789929349,
+        "download_url": "https://dl.smwcentral.net/42140/Deltarune%20-%20Dark%20Sanctuary.zip",
+        "filename": "Deltarune - Dark Sanctuary.zip",
+        "size": 74919,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -428,6 +497,79 @@
     ]
   },
   {
+    "name": "smwmusic-kirby-super-star-trees-in-the-depths-of-the-earth",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42664,
+    "title": "Kirby Super Star - Trees in the Depths of the Earth",
+    "authors": [
+      "Fullcannon"
+    ],
+    "tags": [
+      "castle",
+      "cave",
+      "chase",
+      "desert",
+      "fire",
+      "forest",
+      "jungle",
+      "temple",
+      "tense"
+    ],
+    "description": "Sub-Tree area theme from 'The Great Cave Offensive' in Kirby Super Star.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Devazure\"><span title=\"Devazure donated $25.00.\" class=\"icon icon-donor\"></span><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=93\" style=\"color: #3e75d9;\" class=\"un\">Devazure</a></span>.",
+    "latest_version": "smwc-42664-1790178814",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42664,
+        "title": "Kirby Super Star - Trees in the Depths of the Earth",
+        "version": "smwc-42664-1790178814",
+        "upstream_time": 1790178814,
+        "download_url": "https://dl.smwcentral.net/42664/Kirby%20Super%20Star%20-%20Trees%20in%20the%20Depths%20of%20the%20Earth.zip",
+        "filename": "Kirby Super Star - Trees in the Depths of the Earth.zip",
+        "size": 60427,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-luigi-s-mansion-controls",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42363,
+    "title": "Luigi's Mansion - Controls",
+    "authors": [
+      "lordlydumbass"
+    ],
+    "tags": [
+      "menu",
+      "title"
+    ],
+    "description": "One bar loop with a twist after 3 minutes. Spoiler: Totaka's song is here.<br>\r\n<br>\r\nFits a menu or tutorial level maybe?<br>\r\n<br>\r\nmod note: the hurry up tempo hike will make the engine samples in the Totaka's song section sound offbeat",
+    "latest_version": "smwc-42363-1789929973",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42363,
+        "title": "Luigi's Mansion - Controls",
+        "version": "smwc-42363-1789929973",
+        "upstream_time": 1789929973,
+        "download_url": "https://dl.smwcentral.net/42363/Luigi%27s%20Mansion%20-%20Controls.zip",
+        "filename": "Luigi%27s Mansion - Controls.zip",
+        "size": 97547,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
     "name": "smwmusic-mario-no-super-picross-mario-puzzle",
     "aliases": [],
     "section": "smwmusic",
@@ -672,137 +814,6 @@
         "download_url": "https://dl.smwcentral.net/42422/Pebble%20Beach%20Golf%20Links%20%28SAT%29%20-%20Course%20BGM%203.zip",
         "filename": "Pebble Beach Golf Links (SAT) - Course BGM 3.zip",
         "size": 59364,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      },
-      {
-        "upstream_id": 42421,
-        "title": "Pebble Beach Golf Links (Saturn) - Course BGM 2",
-        "version": "smwc-42421-1788014440",
-        "upstream_time": 1788014440,
-        "download_url": "https://dl.smwcentral.net/42421/Pebble%20Beach%20Golf%20Links%20%28SAT%29%20-%20Course%20BGM%202.zip",
-        "filename": "Pebble Beach Golf Links (SAT) - Course BGM 2.zip",
-        "size": 68387,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      },
-      {
-        "upstream_id": 42420,
-        "title": "Pebble Beach Golf Links (Saturn) - Course BGM 1",
-        "version": "smwc-42420-1788013828",
-        "upstream_time": 1788013828,
-        "download_url": "https://dl.smwcentral.net/42420/Pebble%20Beach%20Golf%20Links%20%28SAT%29%20-%20Course%20BGM%201.zip",
-        "filename": "Pebble Beach Golf Links (SAT) - Course BGM 1.zip",
-        "size": 79817,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-pebble-beach-golf-links-saturn-results",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42423,
-    "title": "Pebble Beach Golf Links (Saturn) - Results",
-    "authors": [
-      "Fullcannon"
-    ],
-    "tags": [
-      "cutscene",
-      "menu",
-      "sea",
-      "sky"
-    ],
-    "description": "Course results music after finishing any regular day in a tournament heard in the Sega Saturn port of Pebble Beach Golf Links: Stadler ni Chousen.",
-    "latest_version": "smwc-42423-1788013374",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42423,
-        "title": "Pebble Beach Golf Links (Saturn) - Results",
-        "version": "smwc-42423-1788013374",
-        "upstream_time": 1788013374,
-        "download_url": "https://dl.smwcentral.net/42423/Pebble%20Beach%20Golf%20Links%20%28SAT%29%20-%20Results.zip",
-        "filename": "Pebble Beach Golf Links (SAT) - Results.zip",
-        "size": 67195,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-pebble-beach-golf-links-saturn-settings",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42418,
-    "title": "Pebble Beach Golf Links (Saturn) - Settings",
-    "authors": [
-      "Fullcannon"
-    ],
-    "tags": [
-      "menu",
-      "sea"
-    ],
-    "description": "Settings menu tune heard in the Sega Saturn port of Pebble Beach Golf Links: Stadler ni Chousen.",
-    "latest_version": "smwc-42418-1788011249",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42418,
-        "title": "Pebble Beach Golf Links (Saturn) - Settings",
-        "version": "smwc-42418-1788011249",
-        "upstream_time": 1788011249,
-        "download_url": "https://dl.smwcentral.net/42418/Pebble%20Beach%20Golf%20Links%20%28SAT%29%20-%20Settings.zip",
-        "filename": "Pebble Beach Golf Links (SAT) - Settings.zip",
-        "size": 72943,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-pebble-beach-golf-links-saturn-tutorial",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42419,
-    "title": "Pebble Beach Golf Links (Saturn) - Tutorial",
-    "authors": [
-      "Fullcannon"
-    ],
-    "tags": [
-      "athletic",
-      "grassland",
-      "menu",
-      "mountain"
-    ],
-    "description": "Gameplay tutorial scenes heard in the Sega Saturn port of Pebble Beach Golf Links: Stadler ni Chousen.",
-    "latest_version": "smwc-42419-1788012348",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42419,
-        "title": "Pebble Beach Golf Links (Saturn) - Tutorial",
-        "version": "smwc-42419-1788012348",
-        "upstream_time": 1788012348,
-        "download_url": "https://dl.smwcentral.net/42419/Pebble%20Beach%20Golf%20Links%20%28SAT%29%20-%20Tutorial.zip",
-        "filename": "Pebble Beach Golf Links (SAT) - Tutorial.zip",
-        "size": 77150,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -1373,6 +1384,39 @@
         "download_url": "https://dl.smwcentral.net/42342/Low%20Cortisol%20%28Star-mix%29.zip",
         "filename": "Low Cortisol (Star-mix).zip",
         "size": 125139,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-touhou-yumejikuu-the-phantasmagoria-of-dim-dream-dream-of-eternity",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42371,
+    "title": "Touhou Yumejikuu ~ The Phantasmagoria of Dim.Dream - Dream of Eternity",
+    "authors": [
+      "monkey03297"
+    ],
+    "tags": [
+      "cutscene",
+      "ending"
+    ],
+    "description": "久遠の夢",
+    "latest_version": "smwc-42371-1789928258",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42371,
+        "title": "Touhou Yumejikuu ~ The Phantasmagoria of Dim.Dream - Dream of Eternity",
+        "version": "smwc-42371-1789928258",
+        "upstream_time": 1789928258,
+        "download_url": "https://dl.smwcentral.net/42371/th3_15.zip",
+        "filename": "th3_15.zip",
+        "size": 33092,
         "sha256": null,
         "dependencies": [
           "addmusick"
