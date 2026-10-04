@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-deltarune-doom-board",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42333,
+  "title": "Deltarune - Doom Board",
+  "authors": [
+    "E-man38"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "cutscene",
+    "dark",
+    "fire",
+    "overworld",
+    "tense"
+  ],
+  "description": "A song that plays during the third board from Chapter 3 of Deltarune. It can work for dark lands or tense situations.",
+  "latest_version": "smwc-42333-1790525758",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42333,
+      "title": "Deltarune - Doom Board",
+      "version": "smwc-42333-1790525758",
+      "upstream_time": 1790525758,
+      "download_url": "https://dl.smwcentral.net/42333/doom_board.zip",
+      "filename": "doom_board.zip",
+      "size": 31938,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

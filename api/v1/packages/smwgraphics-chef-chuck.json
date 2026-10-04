@@ -1,0 +1,31 @@
+{
+  "name": "smwgraphics-chef-chuck",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 43081,
+  "title": "Chef Chuck",
+  "authors": [
+    "NBTD"
+  ],
+  "tags": [
+    "chargin' chuck",
+    "chuck"
+  ],
+  "description": "A chef skin for the various Chuck sprites.  Looks oddly similar to Chef Kawasaki from the Kirby series.  To fix the shoulder, please apply <a href=\"https://www.smwcentral.net/?p=tweaks&a=details&id=195\"> this tweak</a>.<br>\r\n<br>\r\nMade by No Body the Dragon.",
+  "latest_version": "smwc-43081-1791080573",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 43081,
+      "title": "Chef Chuck",
+      "version": "smwc-43081-1791080573",
+      "upstream_time": 1791080573,
+      "download_url": "https://dl.smwcentral.net/43081/Chef%20Chuck.zip",
+      "filename": "Chef Chuck.zip",
+      "size": 12443,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

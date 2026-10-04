@@ -718,17 +718,17 @@ X-SMWAPT-Kind: AssetOnly
 X-SMWAPT-URL: https://dl.smwcentral.net/42627/Cave2026.zip
 Description: Cave 2026
 
-Package: smwgraphics-chuck-rock
-Version: smwc-42531-1781394803
+Package: smwgraphics-chef-chuck
+Version: smwc-43081-1791080573
 Section: smwgraphics
 Architecture: smw
-Maintainer: Brutapode89
-Filename: pool/smwgraphics/42531/Chuck Rock 2 Son of Chuck - Butterfly Grove.zip
-Size: 4412
-X-SMWC-ID: 42531
+Maintainer: NBTD
+Filename: pool/smwgraphics/43081/Chef Chuck.zip
+Size: 12443
+X-SMWC-ID: 43081
 X-SMWAPT-Kind: AssetOnly
-X-SMWAPT-URL: https://dl.smwcentral.net/42531/Chuck%20Rock%202%20Son%20of%20Chuck%20-%20Butterfly%20Grove.zip
-Description: Chuck Rock 2: Son of Chuck (Genesis) - Butterfly Grove
+X-SMWAPT-URL: https://dl.smwcentral.net/43081/Chef%20Chuck.zip
+Description: Chef Chuck
 
 Package: smwgraphics-doraemon
 Version: smwc-42949-1787462144
@@ -982,6 +982,18 @@ X-SMWAPT-Kind: AssetOnly
 X-SMWAPT-URL: https://dl.smwcentral.net/42922/SMWGFX-toyland.zip
 Description: Ribbon Toyland
 
+Package: smwgraphics-skull-banzai-bill
+Version: smwc-43080-1791080562
+Section: smwgraphics
+Architecture: smw
+Maintainer: NBTD
+Filename: pool/smwgraphics/43080/Skull Banzai Bill.zip
+Size: 2278
+X-SMWC-ID: 43080
+X-SMWAPT-Kind: AssetOnly
+X-SMWAPT-URL: https://dl.smwcentral.net/43080/Skull%20Banzai%20Bill.zip
+Description: Skull Banzai Bill
+
 Package: smwgraphics-snow-bros-arcade-world
 Version: smwc-42567-1782354729
 Section: smwgraphics
@@ -1053,18 +1065,6 @@ X-SMWC-ID: 42852
 X-SMWAPT-Kind: AssetOnly
 X-SMWAPT-URL: https://dl.smwcentral.net/42852/SMBX%20-%20MarioSprite-OnlyBlocks.zip
 Description: Super Mario Bros. X - Mario-Only and Sprite-Only Blocks
-
-Package: smwgraphics-super-mario-maker
-Version: smwc-42536-1781457423
-Section: smwgraphics
-Architecture: smw
-Maintainer: Hamilton Silva de Almeida
-Filename: pool/smwgraphics/42536/SMM2 Firebar Block.zip
-Size: 2942
-X-SMWC-ID: 42536
-X-SMWAPT-Kind: AssetOnly
-X-SMWAPT-URL: https://dl.smwcentral.net/42536/SMM2%20Firebar%20Block.zip
-Description: Super Mario Maker 2 : Super Mario World - Firebar Block
 
 Package: smwgraphics-super-mario-world-styled-dark-ages-the-lost-vikings
 Version: smwc-42678-1783982544
@@ -1210,30 +1210,6 @@ X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/42465/%5BS%5D%20Aeron%27s%20Golden%20Cookie%20Quest%20Director%27s%20Cut%20-%20Tower%20of%20Memories.zip
 Description: Aeron's Golden Cookie Quest ~ Special Edition - Tower of Memories
 
-Package: smwmusic-aladdin-snes-a-snake-am-i
-Version: smwc-42487-1788979574
-Section: smwmusic
-Architecture: smw
-Maintainer: h.carrell
-Filename: pool/smwmusic/42487/Jafar Prelude.zip
-Size: 39258
-X-SMWC-ID: 42487
-X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/42487/Jafar%20Prelude.zip
-Description: Aladdin (SNES) - "A Snake, Am I?"
-
-Package: smwmusic-arabian-nights-amiga-forest
-Version: smwc-42202-1788237681
-Section: smwmusic
-Architecture: smw
-Maintainer: EDIT3333
-Filename: pool/smwmusic/42202/Forest.zip
-Size: 42278
-X-SMWC-ID: 42202
-X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/42202/Forest.zip
-Description: Arabian Nights (Amiga) - Forest
-
 Package: smwmusic-bomberman-max-2-red-advance-bonus-game
 Version: smwc-42253-1789217363
 Section: smwmusic
@@ -1258,17 +1234,17 @@ X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/42616/Brandish%202%20%28SFC%29%20-%20Epilogue%20.zip
 Description: Brandish 2: The Planet Buster (SNES) - Epilogue
 
-Package: smwmusic-castlevania-bloodlines-iron-blue-intention
-Version: smwc-42327-1788109687
+Package: smwmusic-chronos-zx-spectrum-title-theme
+Version: smwc-42340-1790569961
 Section: smwmusic
 Architecture: smw
-Maintainer: Dzing
-Filename: pool/smwmusic/42327/cbl-IBI.zip
-Size: 35513
-X-SMWC-ID: 42327
+Maintainer: lordlydumbass
+Filename: pool/smwmusic/42340/Chronos - Title  .zip
+Size: 69113
+X-SMWC-ID: 42340
 X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/42327/cbl-IBI.zip
-Description: Castlevania: Bloodlines - Iron Blue Intention
+X-SMWAPT-URL: https://dl.smwcentral.net/42340/Chronos%20-%20Title%20%20.zip
+Description: Chronos (ZX Spectrum) - Title Theme
 
 Package: smwmusic-deltarune-dark-sanctuary
 Version: 2
@@ -1281,6 +1257,18 @@ X-SMWC-ID: 42140
 X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/42140/Deltarune%20-%20Dark%20Sanctuary.zip
 Description: Deltarune - Dark Sanctuary
+
+Package: smwmusic-deltarune-doom-board
+Version: smwc-42333-1790525758
+Section: smwmusic
+Architecture: smw
+Maintainer: E-man38
+Filename: pool/smwmusic/42333/doom_board.zip
+Size: 31938
+X-SMWC-ID: 42333
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42333/doom_board.zip
+Description: Deltarune - Doom Board
 
 Package: smwmusic-deltarune-gingerbread-house
 Version: smwc-42463-1789418704
@@ -1306,18 +1294,6 @@ X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/42462/Physical%20Challenge.zip
 Description: Deltarune - Physical Challenge
 
-Package: smwmusic-dynamite-headdy-south-town-s-theme
-Version: smwc-42441-1788131007
-Section: smwmusic
-Architecture: smw
-Maintainer: Moose
-Filename: pool/smwmusic/42441/dh-south town.zip
-Size: 34027
-X-SMWC-ID: 42441
-X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/42441/dh-south%20town.zip
-Description: Dynamite Headdy - South Town's Theme
-
 Package: smwmusic-dynamitracer-skull-bone
 Version: smwc-42605-1789457959
 Section: smwmusic
@@ -1329,6 +1305,18 @@ X-SMWC-ID: 42605
 X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/42605/Skull%20Bone%201.zip
 Description: DynamiTracer - Skull Bone 1
+
+Package: smwmusic-final-fantasy-vi-epitaph
+Version: smwc-42604-1790695991
+Section: smwmusic
+Architecture: smw
+Maintainer: h.carrell
+Filename: pool/smwmusic/42604/Epitaph.zip
+Size: 46641
+X-SMWC-ID: 42604
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42604/Epitaph.zip
+Description: Final Fantasy VI - Epitaph
 
 Package: smwmusic-freddy-s-hot-drinks-remix-of-nightmare-by-tuesday-knight
 Version: smwc-42388-1789314307
@@ -1353,6 +1341,18 @@ X-SMWC-ID: 42325
 X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/42325/Gigi%20D%27Agostino%20-%20BlaBlaBla.zip
 Description: Gigi D'Agostino - Bla Bla Bla
+
+Package: smwmusic-here-we-ghost
+Version: smwc-42673-1790627108
+Section: smwmusic
+Architecture: smw
+Maintainer: imamelia
+Filename: pool/smwmusic/42673/REMIX - Here We Ghost.zip
+Size: 61655
+X-SMWC-ID: 42673
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42673/REMIX%20-%20Here%20We%20Ghost.zip
+Description: Here We Ghost
 
 Package: smwmusic-kidou-gekidan-haro-ichiza-gundam-mahjong-ds-bgm
 Version: smwc-42332-1789400331
@@ -1390,6 +1390,18 @@ X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/42363/Luigi%27s%20Mansion%20-%20Controls.zip
 Description: Luigi's Mansion - Controls
 
+Package: smwmusic-mario-luigi-superstar-saga-beanbean-fields
+Version: smwc-42516-1790527204
+Section: smwmusic
+Architecture: smw
+Maintainer: NamyX
+Filename: pool/smwmusic/42516/Beanbean Fields.zip
+Size: 63413
+X-SMWC-ID: 42516
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42516/Beanbean%20Fields.zip
+Description: Mario & Luigi: Superstar Saga - Beanbean Fields
+
 Package: smwmusic-mario-no-super-picross-mario-puzzle
 Version: smwc-42513-1789417217
 Section: smwmusic
@@ -1414,6 +1426,18 @@ X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/42491/Mario%20no%20Super%20Picross%20-%20Wario%20Puzzle%202.zip
 Description: Mario no Super Picross - Wario Puzzle 2
 
+Package: smwmusic-mega-man-ii-gb-magnet-man-mega-man-x-style
+Version: smwc-42518-1790695696
+Section: smwmusic
+Architecture: smw
+Maintainer: JX444444
+Filename: pool/smwmusic/42518/MagnetGB_X1.zip
+Size: 61823
+X-SMWC-ID: 42518
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42518/MagnetGB_X1.zip
+Description: Mega Man II(GB) - Magnet Man (Mega Man X Style)
+
 Package: smwmusic-mega-man-x-burnt-out-rhythm-flame-mammoth-remix
 Version: smwc-42387-1789315134
 Section: smwmusic
@@ -1425,18 +1449,6 @@ X-SMWC-ID: 42387
 X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/42387/Burnt%20Out%20Rhythm.zip
 Description: Mega Man X - Burnt Out Rhythm 🔥 ~ Flame Mammoth (Remix)
-
-Package: smwmusic-metroid-zero-mission-ridley-s-lair-mega-man-x3-style
-Version: smwc-42150-1788236356
-Section: smwmusic
-Architecture: smw
-Maintainer: JX444444
-Filename: pool/smwmusic/42150/RidleyLair_MZM_X3.zip
-Size: 52924
-X-SMWC-ID: 42150
-X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/42150/RidleyLair_MZM_X3.zip
-Description: Metroid Zero Mission - Ridley's Lair (Mega Man X3 Style)
 
 Package: smwmusic-mr-bean-ecce-homo-qui-est-faba
 Version: smwc-42551-1789372814
@@ -1450,29 +1462,17 @@ X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/42551/Mr.%20Bean%20-%20Ecce%20Homo%20Qui%20Est%20Faba.zip
 Description: Mr. Bean - Ecce Homo Qui Est Faba
 
-Package: smwmusic-pebble-beach-golf-links-saturn-course-bgm
-Version: smwc-42422-1788014822
-Section: smwmusic
-Architecture: smw
-Maintainer: Fullcannon
-Filename: pool/smwmusic/42422/Pebble Beach Golf Links (SAT) - Course BGM 3.zip
-Size: 59364
-X-SMWC-ID: 42422
-X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/42422/Pebble%20Beach%20Golf%20Links%20%28SAT%29%20-%20Course%20BGM%203.zip
-Description: Pebble Beach Golf Links (Saturn) - Course BGM 3
-
 Package: smwmusic-persona
-Version: smwc-42439-1788142928
+Version: smwc-42440-1790525989
 Section: smwmusic
 Architecture: smw
 Maintainer: Ahrion
-Filename: pool/smwmusic/42439/W Slash.zip
-Size: 102644
-X-SMWC-ID: 42439
+Filename: pool/smwmusic/42440/Enigma.zip
+Size: 103803
+X-SMWC-ID: 42440
 X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/42439/W%20Slash.zip
-Description: Persona 2: Innocent Sin - W Slash
+X-SMWAPT-URL: https://dl.smwcentral.net/42440/Enigma.zip
+Description: Persona 2: Eternal Punishment - Enigma
 
 Package: smwmusic-pizza-tower-what-s-on-the-kids-menu
 Version: smwc-42207-1789848306
@@ -1498,6 +1498,18 @@ X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/42404/Planet%20of%20Cartmans%20-%20The%20Ultimate%20Faceoff.zip
 Description: Planet of Cartmans - The Ultimate Faceoff
 
+Package: smwmusic-pok-mon-diamond-pearl-platinum-mystery-zone
+Version: smwc-42658-1790570054
+Section: smwmusic
+Architecture: smw
+Maintainer: sinseiga
+Filename: pool/smwmusic/42658/Route 206 (Mystery).zip
+Size: 108010
+X-SMWC-ID: 42658
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42658/Route%20206%20%28Mystery%29.zip
+Description: Pokémon Diamond/Pearl/Platinum - Mystery Zone
+
 Package: smwmusic-pok-mon-diamond-pearl-platinum-oreburgh-city-day
 Version: smwc-42472-1789416077
 Section: smwmusic
@@ -1522,41 +1534,17 @@ X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/42473/Oreburgh%20City%20%28Night%29%20.zip
 Description: Pokémon Diamond/Pearl/Platinum - Oreburgh City (Night)
 
-Package: smwmusic-quack-shot-duckburg
-Version: smwc-42282-1788026676
+Package: smwmusic-pok-mon-diamond-pearl-platinum-route
+Version: smwc-42657-1790570003
 Section: smwmusic
 Architecture: smw
-Maintainer: Dzing
-Filename: pool/smwmusic/42282/quackshot-duckburg.zip
-Size: 96107
-X-SMWC-ID: 42282
+Maintainer: sinseiga
+Filename: pool/smwmusic/42657/Route 206 (Night).zip
+Size: 84911
+X-SMWC-ID: 42657
 X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/42282/quackshot-duckburg.zip
-Description: Quack Shot - Duckburg
-
-Package: smwmusic-romancing-saga
-Version: smwc-42382-1788408986
-Section: smwmusic
-Architecture: smw
-Maintainer: scratch
-Filename: pool/smwmusic/42382/rs3_sailing.zip
-Size: 55665
-X-SMWC-ID: 42382
-X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/42382/rs3_sailing.zip
-Description: Romancing Saga 3 - Sailing
-
-Package: smwmusic-shanghai-exe-genso-network-it-s-genso-liberation-time-virus-busting-mega-mix
-Version: smwc-42237-1788238515
-Section: smwmusic
-Architecture: smw
-Maintainer: Hooded Edge
-Filename: pool/smwmusic/42237/IT%27S GENSO-LIBERATION TIME%21%21%21.zip
-Size: 307749
-X-SMWC-ID: 42237
-X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/42237/IT%27S%20GENSO-LIBERATION%20TIME%21%21%21.zip
-Description: Shanghai.EXE: Genso Network - IT'S GENSO-LIBERATION TIME!!! 🔫 ~ Virus Busting (Mega-mix)
+X-SMWAPT-URL: https://dl.smwcentral.net/42657/Route%20206%20%28Night%29.zip
+Description: Pokémon Diamond/Pearl/Platinum - Route 206 (Night)
 
 Package: smwmusic-sim-city-good-night
 Version: smwc-42460-1789401575
@@ -1570,65 +1558,77 @@ X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/42460/GoodNight.zip
 Description: Sim City - Good Night
 
-Package: smwmusic-star-fox-trust-your-instincts-corneria-remix
-Version: smwc-42322-1788036549
+Package: smwmusic-star-fox
+Version: smwc-43066-1791005223
 Section: smwmusic
 Architecture: smw
-Maintainer: Hooded Edge
-Filename: pool/smwmusic/42322/Trust your Instincts.zip
-Size: 712015
-X-SMWC-ID: 42322
+Maintainer: ggamer77
+Filename: pool/smwmusic/43066/Star Fox 64 - Aquas.zip
+Size: 81395
+X-SMWC-ID: 43066
 X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/42322/Trust%20your%20Instincts.zip
-Description: Star Fox - Trust your Instincts 🕶️ ~ Corneria (Remix)
+X-SMWAPT-URL: https://dl.smwcentral.net/43066/Star%20Fox%2064%20-%20Aquas.zip
+Description: Star Fox 64 - Aquas
 
-Package: smwmusic-super-castlevania-iv-forest-of-monsters
-Version: smwc-42412-1788208569
+Package: smwmusic-super-mario
+Version: smwc-42341-1790526330
+Section: smwmusic
+Architecture: smw
+Maintainer: brickblock369
+Filename: pool/smwmusic/42341/Super Mario 64 - Slide.zip
+Size: 204729
+X-SMWC-ID: 42341
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42341/Super%20Mario%2064%20-%20Slide.zip
+Description: Super Mario 64 - Slider
+
+Package: smwmusic-super-mario-rpg-legend-of-the-seven-stars-conversation-with-culex
+Version: smwc-42686-1790628668
 Section: smwmusic
 Architecture: smw
 Maintainer: h.carrell
-Filename: pool/smwmusic/42412/Forest of Decay act 2.zip
-Size: 76073
-X-SMWC-ID: 42412
+Filename: pool/smwmusic/42686/SMRPG Prelude.zip
+Size: 25851
+X-SMWC-ID: 42686
 X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/42412/Forest%20of%20Decay%20act%202.zip
-Description: Super Castlevania IV - Forest of Monsters
+X-SMWAPT-URL: https://dl.smwcentral.net/42686/SMRPG%20Prelude.zip
+Description: Super Mario RPG: Legend of the Seven Stars - Conversation with Culex
 
-Package: smwmusic-super-mario
-Version: smwc-42164-1789692689
+Package: smwmusic-tales-of-phantasia-second-act
+Version: smwc-42742-1790633401
 Section: smwmusic
 Architecture: smw
-Maintainer: NamyX
-Filename: pool/smwmusic/42164/SM64 Metallic Mario.zip
-Size: 105989
-X-SMWC-ID: 42164
+Maintainer: Ahrion
+Filename: pool/smwmusic/42742/Second_Act.zip
+Size: 62823
+X-SMWC-ID: 42742
 X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/42164/SM64%20Metallic%20Mario.zip
-Description: Super Mario 64 - Metallic Mario
+X-SMWAPT-URL: https://dl.smwcentral.net/42742/Second_Act.zip
+Description: Tales of Phantasia - Second Act
 
-Package: smwmusic-super-mario-bros-game-over
-Version: smwc-42088-1788116401
+Package: smwmusic-tetris-dr-mario-fever
+Version: smwc-42719-1790631972
 Section: smwmusic
 Architecture: smw
-Maintainer: 7 up
-Filename: pool/smwmusic/42088/smb1 gameover.zip
-Size: 30817
-X-SMWC-ID: 42088
+Maintainer: h.carrell
+Filename: pool/smwmusic/42719/T%26DM Fever.zip
+Size: 53446
+X-SMWC-ID: 42719
 X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/42088/smb1%20gameover.zip
-Description: Super Mario Bros. - Game Over
+X-SMWAPT-URL: https://dl.smwcentral.net/42719/T%26DM%20Fever.zip
+Description: Tetris & Dr. Mario - Fever
 
-Package: smwmusic-tia-ai-a-em-v-low-cortisol-song-star-mix
-Version: smwc-42342-1788424880
+Package: smwmusic-the-15th-vanilla-level-design-contest-prison-cages
+Version: smwc-42674-1790628477
 Section: smwmusic
 Architecture: smw
-Maintainer: Hooded Edge
-Filename: pool/smwmusic/42342/Low Cortisol (Star-mix).zip
-Size: 125139
-X-SMWC-ID: 42342
+Maintainer: Daizo Dee Von
+Filename: pool/smwmusic/42674/%5BS%5D VLDC 15 - Tectonic Complex.zip
+Size: 81006
+X-SMWC-ID: 42674
 X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/42342/Low%20Cortisol%20%28Star-mix%29.zip
-Description: TIA - Ai Đưa Em Về (Low Cortisol Song) (Star-mix)
+X-SMWAPT-URL: https://dl.smwcentral.net/42674/%5BS%5D%20VLDC%2015%20-%20Tectonic%20Complex.zip
+Description: The 15th Vanilla Level Design Contest - Prison Cages
 
 Package: smwmusic-touhou-yumejikuu-the-phantasmagoria-of-dim-dream-dream-of-eternity
 Version: smwc-42371-1789928258
@@ -1654,41 +1654,41 @@ X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/42868/indignantdivinity.zip
 Description: Tower of Heaven - Indignant Divinity
 
-Package: smwmusic-trials-of-mana-frenzy
-Version: smwc-42240-1788206362
+Package: smwmusic-watermelon-valley
+Version: smwc-42711-1790632226
 Section: smwmusic
 Architecture: smw
-Maintainer: scratch
-Filename: pool/smwmusic/42240/sd3 frenzy.zip
-Size: 115621
-X-SMWC-ID: 42240
+Maintainer: EDIT3333
+Filename: pool/smwmusic/42711/Watermelon Valley .zip
+Size: 31369
+X-SMWC-ID: 42711
 X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/42240/sd3%20frenzy.zip
-Description: Trials of Mana - Frenzy
+X-SMWAPT-URL: https://dl.smwcentral.net/42711/Watermelon%20Valley%20.zip
+Description: Watermelon Valley
 
-Package: smwmusic-undertale-premonition
-Version: smwc-42190-1788540184
+Package: smwmusic-yoshi-topsy-turvy-tale-of-the-spirit-of-cuteness
+Version: smwc-42666-1790628236
 Section: smwmusic
 Architecture: smw
-Maintainer: h.carrell
-Filename: pool/smwmusic/42190/Premonition.zip
-Size: 71221
-X-SMWC-ID: 42190
+Maintainer: Moose
+Filename: pool/smwmusic/42666/ytt-cuteness.zip
+Size: 39564
+X-SMWC-ID: 42666
 X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/42190/Premonition.zip
-Description: Undertale - Premonition
+X-SMWAPT-URL: https://dl.smwcentral.net/42666/ytt-cuteness.zip
+Description: Yoshi Topsy-Turvy - Tale of the Spirit of Cuteness
 
-Package: smwmusic-undertale-song-that-might-play-when-you-fight-sans
-Version: smwc-42444-1788131363
+Package: smwmusic-yoshi-topsy-turvy-tale-of-the-spirit-of-power
+Version: smwc-42705-1790628981
 Section: smwmusic
 Architecture: smw
-Maintainer: Forgado
-Filename: pool/smwmusic/42444/song that might play when you fight sans.zip
-Size: 74791
-X-SMWC-ID: 42444
+Maintainer: Moose
+Filename: pool/smwmusic/42705/ytt-power26.zip
+Size: 39880
+X-SMWC-ID: 42705
 X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/42444/song%20that%20might%20play%20when%20you%20fight%20sans.zip
-Description: Undertale - song that might play when you fight sans
+X-SMWAPT-URL: https://dl.smwcentral.net/42705/ytt-power26.zip
+Description: Yoshi Topsy-Turvy - Tale of the Spirit of Power
 
 Package: smwmusic-yoshi-touch-go-invincible
 Version: smwc-42596-1789374134
@@ -1702,17 +1702,17 @@ X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/42596/Invincible%20%5BU%5D.zip
 Description: Yoshi Touch & Go - Invincible
 
-Package: smwmusic-zeliard-beauty-in-destruction-cavern-of-malicia
-Version: smwc-41916-1788117219
-Section: smwmusic
+Package: smwpatches-air-bubbles-priority-fix
+Version: v1.0
+Section: smwpatches
 Architecture: smw
-Maintainer: Daizo Dee Von
-Filename: pool/smwmusic/41916/%5BS%5D Zeliard - Beauty in Destruction ~ Cavern of Malicia.zip
-Size: 85812
-X-SMWC-ID: 41916
-X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/41916/%5BS%5D%20Zeliard%20-%20Beauty%20in%20Destruction%20~%20Cavern%20of%20Malicia.zip
-Description: Zeliard - Beauty in Destruction ~ Cavern of Malicia
+Maintainer: Kevin
+Filename: pool/smwpatches/43125/bubble_fix.zip
+Size: 349
+X-SMWC-ID: 43125
+X-SMWAPT-Kind: AsarPatch
+X-SMWAPT-URL: https://dl.smwcentral.net/43125/bubble_fix.zip
+Description: Air Bubbles Priority Fix
 
 Package: smwpatches-all-in-one-multiple-death-songs-1
 Version: smwc-41569-1770839369
@@ -1737,18 +1737,6 @@ X-SMWC-ID: 41249
 X-SMWAPT-Kind: AsarPatch
 X-SMWAPT-URL: https://dl.smwcentral.net/41249/RNG_3_1_1.zip
 Description: Better Random Number Generator
-
-Package: smwpatches-bonus-stars-sum-game
-Version: smwc-41476-1769355627
-Section: smwpatches
-Architecture: smw
-Maintainer: Koopster
-Filename: pool/smwpatches/41476/sum_game.zip
-Size: 4416
-X-SMWC-ID: 41476
-X-SMWAPT-Kind: AsarPatch
-X-SMWAPT-URL: https://dl.smwcentral.net/41476/sum_game.zip
-Description: Bonus Stars Sum Game
 
 Package: smwpatches-bounce-block-fixes-v1-2
 Version: smwc-41825-1773695911
@@ -1810,18 +1798,6 @@ X-SMWAPT-Kind: AsarPatch
 X-SMWAPT-URL: https://dl.smwcentral.net/41799/collected_moon_outline.zip
 Description: Collected Moon Outline
 
-Package: smwpatches-custom-end-level-stars-text
-Version: smwc-41442-1768757665
-Section: smwpatches
-Architecture: smw
-Maintainer: Kevin
-Filename: pool/smwpatches/41442/GoalTapeGG_Asar2.zip
-Size: 1541
-X-SMWC-ID: 41442
-X-SMWAPT-Kind: AsarPatch
-X-SMWAPT-URL: https://dl.smwcentral.net/41442/GoalTapeGG_Asar2.zip
-Description: Custom End Level Stars Text
-
 Package: smwpatches-disable-item-toss-while-flying
 Version: smwc-42619-1788987101
 Section: smwpatches
@@ -1858,6 +1834,18 @@ X-SMWAPT-Kind: AsarPatch
 X-SMWAPT-URL: https://dl.smwcentral.net/41544/dma_remap.zip
 Description: DMA Remap v3.0
 
+Package: smwpatches-dry-bones-and-bony-beetle-reanimation-sfx
+Version: V1.0.1
+Section: smwpatches
+Architecture: smw
+Maintainer: Segment1Zone2
+Filename: pool/smwpatches/43187/Dry Bones Reanimation SFX v1.01.zip
+Size: 67619
+X-SMWC-ID: 43187
+X-SMWAPT-Kind: AsarPatch
+X-SMWAPT-URL: https://dl.smwcentral.net/43187/Dry%20Bones%20Reanimation%20SFX%20v1.01.zip
+Description: Dry Bones and Bony Beetle Reanimation SFX
+
 Package: smwpatches-dry-bones-and-bony-beetle-suboffscreen-fix
 Version: V1.0.1
 Section: smwpatches
@@ -1881,6 +1869,18 @@ X-SMWC-ID: 42372
 X-SMWAPT-Kind: AsarPatch
 X-SMWAPT-URL: https://dl.smwcentral.net/42372/endsprfix%200.031.zip
 Description: Enemy Credit Sprite Changer (With Graphical Fix)
+
+Package: smwpatches-enter-level-pipe-star-road-sounds
+Version: v1.1.1
+Section: smwpatches
+Architecture: smw
+Maintainer: Ersanio, Moltz
+Filename: pool/smwpatches/43246/OW Tile Sounds v1.1.1.zip
+Size: 966
+X-SMWC-ID: 43246
+X-SMWAPT-Kind: AsarPatch
+X-SMWAPT-URL: https://dl.smwcentral.net/43246/OW%20Tile%20Sounds%20v1.1.1.zip
+Description: Enter Level/Pipe/Star Road Sounds
 
 Package: smwpatches-fade-in-pack
 Version: V1.1.1
@@ -2206,18 +2206,6 @@ X-SMWAPT-Kind: AsarPatch
 X-SMWAPT-URL: https://dl.smwcentral.net/42318/Reznor%20Fireball%20Fix%2B%2B%2B.zip
 Description: Reznor Fireball Fix + Smoke Effect Patch
 
-Package: smwpatches-score-sprite-fix-remapper
-Version: smwc-40562-1769052806
-Section: smwpatches
-Architecture: smw
-Maintainer: DrAnas
-Filename: pool/smwpatches/40562/score_sprite_fix_and_remapper.zip
-Size: 1764
-X-SMWC-ID: 40562
-X-SMWAPT-Kind: AsarPatch
-X-SMWAPT-URL: https://dl.smwcentral.net/40562/score_sprite_fix_and_remapper.zip
-Description: Score Sprite Fix & Remapper
-
 Package: smwpatches-separate-mario-and-luigi-game-over-themes
 Version: 1.0.1
 Section: smwpatches
@@ -2266,18 +2254,6 @@ X-SMWAPT-Kind: AsarPatch
 X-SMWAPT-URL: https://dl.smwcentral.net/42123/spritehealthbar.zip
 Description: Sprite Health Bar
 
-Package: smwpatches-time-to-score-fix
-Version: smwc-41475-1769298178
-Section: smwpatches
-Architecture: smw
-Maintainer: Koopster
-Filename: pool/smwpatches/41475/time_to_score_fix.zip
-Size: 1122
-X-SMWC-ID: 41475
-X-SMWAPT-Kind: AsarPatch
-X-SMWAPT-URL: https://dl.smwcentral.net/41475/time_to_score_fix.zip
-Description: Time To Score Fix
-
 Package: smwpatches-tolerance-timer-aka-input-buffering-coyote-time
 Version: smwc-41751-1771791566
 Section: smwpatches
@@ -2301,6 +2277,18 @@ X-SMWC-ID: 43129
 X-SMWAPT-Kind: AsarPatch
 X-SMWAPT-URL: https://dl.smwcentral.net/43129/WallSpringboardInteractionWrapFix.zip
 Description: Wall Springboard Interaction Wraparound Fix
+
+Package: smwpatches-wiggler-fixes
+Version: 1.0.2
+Section: smwpatches
+Architecture: smw
+Maintainer: HammerBrother
+Filename: pool/smwpatches/43130/WigglerFixesV1.0.2.zip
+Size: 1204
+X-SMWC-ID: 43130
+X-SMWAPT-Kind: AsarPatch
+X-SMWAPT-URL: https://dl.smwcentral.net/43130/WigglerFixesV1.0.2.zip
+Description: Wiggler Fixes
 
 Package: smwpatches-xorshift-pseudo-random-number-generator
 Version: smwc-42146-1778281143
@@ -2361,6 +2349,18 @@ X-SMWC-ID: 42209
 X-SMWAPT-Kind: PixiSprite
 X-SMWAPT-URL: https://dl.smwcentral.net/42209/bettersnake_v1.2.1.zip
 Description: Better Creating/Eating Block Snakes
+
+Package: smwsprites-bird
+Version: smwc-42802-1790784661
+Section: smwsprites
+Architecture: smw
+Maintainer: Arinsu
+Filename: pool/smwsprites/42802/OW Bird.zip
+Size: 1726
+X-SMWC-ID: 42802
+X-SMWAPT-Kind: PixiSprite
+X-SMWAPT-URL: https://dl.smwcentral.net/42802/OW%20Bird.zip
+Description: Bird
 
 Package: smwsprites-bob-omb-leaves-fire-trail
 Version: smwc-42177-1777077860
@@ -2542,18 +2542,6 @@ X-SMWAPT-Kind: PixiSprite
 X-SMWAPT-URL: https://dl.smwcentral.net/42731/Fire_Magikoopa.zip
 Description: Fire Magikoopa
 
-Package: smwsprites-fling-blocks
-Version: 0.1
-Section: smwsprites
-Architecture: smw
-Maintainer: MellyMellouange
-Filename: pool/smwsprites/42187/fling_blocks %5BPIXI%5D.zip
-Size: 6303
-X-SMWC-ID: 42187
-X-SMWAPT-Kind: PixiSprite
-X-SMWAPT-URL: https://dl.smwcentral.net/42187/fling_blocks%20%5BPIXI%5D.zip
-Description: Fling Blocks
-
 Package: smwsprites-floor-button
 Version: v1.5.2
 Section: smwsprites
@@ -2639,15 +2627,15 @@ X-SMWAPT-URL: https://dl.smwcentral.net/43164/goaltapeV1.0.1.zip
 Description: Goal Tape
 
 Package: smwsprites-growing-vine
-Version: 1.2
+Version: 1.3
 Section: smwsprites
 Architecture: smw
 Maintainer: imamelia
-Filename: pool/smwsprites/42695/growing vine disassembly v1.2.zip
-Size: 4757
-X-SMWC-ID: 42695
+Filename: pool/smwsprites/43248/growing vine disassembly v1.3.zip
+Size: 4741
+X-SMWC-ID: 43248
 X-SMWAPT-Kind: PixiSprite
-X-SMWAPT-URL: https://dl.smwcentral.net/42695/growing%20vine%20disassembly%20v1.2.zip
+X-SMWAPT-URL: https://dl.smwcentral.net/43248/growing%20vine%20disassembly%20v1.3.zip
 Description: Growing Vine
 
 Package: smwsprites-homing-torpedo-ted
@@ -2710,17 +2698,17 @@ X-SMWAPT-Kind: PixiSprite
 X-SMWAPT-URL: https://dl.smwcentral.net/43161/Lemon%20Drop.zip
 Description: Lemon Drop
 
-Package: smwsprites-mother-dino-rhino-dino-torch-egg
-Version: V1.0.1
+Package: smwsprites-npcs
+Version: 4.5
 Section: smwsprites
 Architecture: smw
-Maintainer: Koopster
-Filename: pool/smwsprites/42183/mother_dino_rhino_and_egg_asar2.zip
-Size: 7018
-X-SMWC-ID: 42183
+Maintainer: wye
+Filename: pool/smwsprites/42144/NPCs_v4.5.zip
+Size: 75467
+X-SMWC-ID: 42144
 X-SMWAPT-Kind: PixiSprite
-X-SMWAPT-URL: https://dl.smwcentral.net/42183/mother_dino_rhino_and_egg_asar2.zip
-Description: Mother Dino Rhino + Dino Torch Egg
+X-SMWAPT-URL: https://dl.smwcentral.net/42144/NPCs_v4.5.zip
+Description: NPCs
 
 Package: smwsprites-optimized-banzai-bill
 Version: 1.13
@@ -3286,17 +3274,17 @@ X-SMWAPT-Kind: Tool
 X-SMWAPT-URL: https://dl.smwcentral.net/31275/le120.zip
 Description: Lunar Expand v1.20
 
-Package: tools-lunar-magic-3
-Version: smwc-43216-1790302403
+Package: tools-lunar-magic
+Version: 3.71
 Section: tools
 Architecture: smw
 Maintainer: FuSoYa
-Filename: pool/tools/43216/lm370.zip
-Size: 3939437
-X-SMWC-ID: 43216
+Filename: pool/tools/43245/lm371.zip
+Size: 3938373
+X-SMWC-ID: 43245
 X-SMWAPT-Kind: Tool
-X-SMWAPT-URL: https://dl.smwcentral.net/43216/lm370.zip
-Description: Lunar Magic 3.70
+X-SMWAPT-URL: https://dl.smwcentral.net/43245/lm371.zip
+Description: Lunar Magic 3.71
 
 Package: tools-lunar-magic-archive-of-older-versions
 Version: smwc-39449-1740848883

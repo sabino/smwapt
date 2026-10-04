@@ -31,20 +31,6 @@
         "addmusick"
       ],
       "install_kind": "add_music_k_music"
-    },
-    {
-      "upstream_id": 42414,
-      "title": "Mario no Super Picross - Mario Puzzle 2",
-      "version": "smwc-42414-1788110251",
-      "upstream_time": 1788110251,
-      "download_url": "https://dl.smwcentral.net/42414/Mario%20no%20Super%20Picross%20-%20Mario%20Puzzle%202.zip",
-      "filename": "Mario no Super Picross - Mario Puzzle 2.zip",
-      "size": 67317,
-      "sha256": null,
-      "dependencies": [
-        "addmusick"
-      ],
-      "install_kind": "add_music_k_music"
     }
   ]
 }

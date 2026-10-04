@@ -1,0 +1,30 @@
+{
+  "name": "smwgraphics-skull-banzai-bill",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 43080,
+  "title": "Skull Banzai Bill",
+  "authors": [
+    "NBTD"
+  ],
+  "tags": [
+    "banzai bill"
+  ],
+  "description": "A skull shaped Banzai Bill, meant for spooky or scary levels.<br>\r\n<br>\r\nMade by No Body the Dragon.",
+  "latest_version": "smwc-43080-1791080562",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 43080,
+      "title": "Skull Banzai Bill",
+      "version": "smwc-43080-1791080562",
+      "upstream_time": 1791080562,
+      "download_url": "https://dl.smwcentral.net/43080/Skull%20Banzai%20Bill.zip",
+      "filename": "Skull Banzai Bill.zip",
+      "size": 2278,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

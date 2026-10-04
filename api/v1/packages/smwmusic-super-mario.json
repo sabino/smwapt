@@ -2,19 +2,39 @@
   "name": "smwmusic-super-mario",
   "aliases": [],
   "section": "smwmusic",
-  "upstream_id": 42164,
-  "title": "Super Mario 64 - Metallic Mario",
+  "upstream_id": 42341,
+  "title": "Super Mario 64 - Slider",
   "authors": [
-    "NamyX"
+    "brickblock369"
   ],
   "tags": [
+    "athletic",
     "bonus",
-    "boss"
+    "boss",
+    "carnival",
+    "chaotic",
+    "chase",
+    "sky",
+    "upbeat"
   ],
-  "description": "Metallic Mario from Super Mario 64.<br>\r\n<br>\r\nNote: Incompatible with Bonus End.",
-  "latest_version": "smwc-42164-1789692689",
+  "description": "Music that plays in slider levels, Koopa the Quick races, Tick-Tock Clock, Rainbow Ride, and many secret courses.<br>\r\n<br>\r\nI was indecisive about which timbres to choose for the lead fiddle and the banjo, though I'd highly recommend @4 for the fiddle and @14 for the banjo.",
+  "latest_version": "smwc-42341-1790526330",
   "install_kind": "add_music_k_music",
   "versions": [
+    {
+      "upstream_id": 42341,
+      "title": "Super Mario 64 - Slider",
+      "version": "smwc-42341-1790526330",
+      "upstream_time": 1790526330,
+      "download_url": "https://dl.smwcentral.net/42341/Super%20Mario%2064%20-%20Slide.zip",
+      "filename": "Super Mario 64 - Slide.zip",
+      "size": 204729,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
     {
       "upstream_id": 42164,
       "title": "Super Mario 64 - Metallic Mario",

@@ -1,0 +1,67 @@
+{
+  "name": "smwmusic-star-fox",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 43066,
+  "title": "Star Fox 64 - Aquas",
+  "authors": [
+    "ggamer77"
+  ],
+  "tags": [
+    "ambient",
+    "calm",
+    "menu",
+    "space",
+    "tense",
+    "title",
+    "underwater",
+    "water"
+  ],
+  "description": "Calm aquatic song from Star Fox 64.<br>\r\n<br>\r\nIncompatible with thunder SFX.",
+  "latest_version": "smwc-43066-1791005223",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 43066,
+      "title": "Star Fox 64 - Aquas",
+      "version": "smwc-43066-1791005223",
+      "upstream_time": 1791005223,
+      "download_url": "https://dl.smwcentral.net/43066/Star%20Fox%2064%20-%20Aquas.zip",
+      "filename": "Star Fox 64 - Aquas.zip",
+      "size": 81395,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 42389,
+      "title": "Star Fox 64 - Meteo",
+      "version": "smwc-42389-1790526614",
+      "upstream_time": 1790526614,
+      "download_url": "https://dl.smwcentral.net/42389/%5BU%5D%20Star%20Fox%2064%20-%20Meteo.zip",
+      "filename": "%5BU%5D Star Fox 64 - Meteo.zip",
+      "size": 33425,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 42370,
+      "title": "Star Fox 64 - Main Menu",
+      "version": "smwc-42370-1790526488",
+      "upstream_time": 1790526488,
+      "download_url": "https://dl.smwcentral.net/42370/%5BU%5D%20Star%20Fox%2064%20-%20Main%20Menu.zip",
+      "filename": "%5BU%5D Star Fox 64 - Main Menu.zip",
+      "size": 32452,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

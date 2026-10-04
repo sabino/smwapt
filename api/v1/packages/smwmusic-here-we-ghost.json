@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-here-we-ghost",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42673,
+  "title": "Here We Ghost",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "ghost house",
+    "spooky"
+  ],
+  "description": "This is an arrangement of SMW's leitmotif/main theme suitable for ghost houses and other haunted levels.  It was used in the level that I would have submitted to VLDC15.",
+  "latest_version": "smwc-42673-1790627108",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42673,
+      "title": "Here We Ghost",
+      "version": "smwc-42673-1790627108",
+      "upstream_time": 1790627108,
+      "download_url": "https://dl.smwcentral.net/42673/REMIX%20-%20Here%20We%20Ghost.zip",
+      "filename": "REMIX - Here We Ghost.zip",
+      "size": 61655,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

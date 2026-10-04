@@ -188,30 +188,30 @@
     ]
   },
   {
-    "name": "smwgraphics-chuck-rock",
+    "name": "smwgraphics-chef-chuck",
     "aliases": [],
     "section": "smwgraphics",
-    "upstream_id": 42531,
-    "title": "Chuck Rock 2: Son of Chuck (Genesis) - Butterfly Grove",
+    "upstream_id": 43081,
+    "title": "Chef Chuck",
     "authors": [
-      "Brutapode89"
+      "NBTD"
     ],
     "tags": [
-      "forest",
-      "grassland"
+      "chargin' chuck",
+      "chuck"
     ],
-    "description": "Ripped from the called level \"Butterfly Grove\" in Chuck Rock 2: Son of Chuck on Megadrive/Genesis.",
-    "latest_version": "smwc-42531-1781394803",
+    "description": "A chef skin for the various Chuck sprites.  Looks oddly similar to Chef Kawasaki from the Kirby series.  To fix the shoulder, please apply <a href=\"https://www.smwcentral.net/?p=tweaks&a=details&id=195\"> this tweak</a>.<br>\r\n<br>\r\nMade by No Body the Dragon.",
+    "latest_version": "smwc-43081-1791080573",
     "install_kind": "asset_only",
     "versions": [
       {
-        "upstream_id": 42531,
-        "title": "Chuck Rock 2: Son of Chuck (Genesis) - Butterfly Grove",
-        "version": "smwc-42531-1781394803",
-        "upstream_time": 1781394803,
-        "download_url": "https://dl.smwcentral.net/42531/Chuck%20Rock%202%20Son%20of%20Chuck%20-%20Butterfly%20Grove.zip",
-        "filename": "Chuck Rock 2 Son of Chuck - Butterfly Grove.zip",
-        "size": 4412,
+        "upstream_id": 43081,
+        "title": "Chef Chuck",
+        "version": "smwc-43081-1791080573",
+        "upstream_time": 1791080573,
+        "download_url": "https://dl.smwcentral.net/43081/Chef%20Chuck.zip",
+        "filename": "Chef Chuck.zip",
+        "size": 12443,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -928,6 +928,36 @@
     ]
   },
   {
+    "name": "smwgraphics-skull-banzai-bill",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 43080,
+    "title": "Skull Banzai Bill",
+    "authors": [
+      "NBTD"
+    ],
+    "tags": [
+      "banzai bill"
+    ],
+    "description": "A skull shaped Banzai Bill, meant for spooky or scary levels.<br>\r\n<br>\r\nMade by No Body the Dragon.",
+    "latest_version": "smwc-43080-1791080562",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 43080,
+        "title": "Skull Banzai Bill",
+        "version": "smwc-43080-1791080562",
+        "upstream_time": 1791080562,
+        "download_url": "https://dl.smwcentral.net/43080/Skull%20Banzai%20Bill.zip",
+        "filename": "Skull Banzai Bill.zip",
+        "size": 2278,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
     "name": "smwgraphics-snow-bros-arcade-world",
     "aliases": [],
     "section": "smwgraphics",
@@ -1110,36 +1140,6 @@
         "download_url": "https://dl.smwcentral.net/42852/SMBX%20-%20MarioSprite-OnlyBlocks.zip",
         "filename": "SMBX - MarioSprite-OnlyBlocks.zip",
         "size": 1461,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
-    "name": "smwgraphics-super-mario-maker",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 42536,
-    "title": "Super Mario Maker 2 : Super Mario World  - Firebar Block",
-    "authors": [
-      "Hamilton Silva de Almeida"
-    ],
-    "tags": [
-      "block"
-    ],
-    "description": "Super Mario Maker 2 Firebar blocks, compatible with Isokoro's <a href=\"https://www.smwcentral.net/?p=section&a=details&id=36788\">Customizable Circle Sprites v1.2</a> . ",
-    "latest_version": "smwc-42536-1781457423",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 42536,
-        "title": "Super Mario Maker 2 : Super Mario World  - Firebar Block",
-        "version": "smwc-42536-1781457423",
-        "upstream_time": 1781457423,
-        "download_url": "https://dl.smwcentral.net/42536/SMM2%20Firebar%20Block.zip",
-        "filename": "SMM2 Firebar Block.zip",
-        "size": 2942,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"

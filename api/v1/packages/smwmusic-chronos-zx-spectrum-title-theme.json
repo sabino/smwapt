@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-chronos-zx-spectrum-title-theme",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42340,
+  "title": "Chronos (ZX Spectrum) - Title Theme",
+  "authors": [
+    "lordlydumbass"
+  ],
+  "tags": [
+    "credits",
+    "final",
+    "space",
+    "title"
+  ],
+  "description": "Title screen from the ZX Spectrum 48K game, composed by Tim Follin. He managed to software mix a beeper to have 6 channels when he was 15.<br>\r\n<br>\r\nCould fit on a title screen or maybe a space level.<br>\r\n<br>\r\nA version with the original ending is provided, as well as a looped version.<br>\r\n<br>\r\nOriginal (warning: quite harsh on the ears): <a href=\"https://www.youtube.com/watch?v=u-D24A_N4d4\" rel=\"nofollow\">https://www.youtube.com/watch?v=u-D24A_N4d4</a><br>\r\n",
+  "latest_version": "smwc-42340-1790569961",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42340,
+      "title": "Chronos (ZX Spectrum) - Title Theme",
+      "version": "smwc-42340-1790569961",
+      "upstream_time": 1790569961,
+      "download_url": "https://dl.smwcentral.net/42340/Chronos%20-%20Title%20%20.zip",
+      "filename": "Chronos - Title  .zip",
+      "size": 69113,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-yoshi-topsy-turvy-tale-of-the-spirit-of-cuteness",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42666,
+  "title": "Yoshi Topsy-Turvy - Tale of the Spirit of Cuteness",
+  "authors": [
+    "Moose"
+  ],
+  "tags": [
+    "forest",
+    "grassland",
+    "ice",
+    "mountain",
+    "sky",
+    "snow",
+    "upbeat"
+  ],
+  "description": "been wanting to do this since i first got into music porting. i guess this is what i've been building up to all these years lol",
+  "latest_version": "smwc-42666-1790628236",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42666,
+      "title": "Yoshi Topsy-Turvy - Tale of the Spirit of Cuteness",
+      "version": "smwc-42666-1790628236",
+      "upstream_time": 1790628236,
+      "download_url": "https://dl.smwcentral.net/42666/ytt-cuteness.zip",
+      "filename": "ytt-cuteness.zip",
+      "size": 39564,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

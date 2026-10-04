@@ -8,16 +8,25 @@
     "SiameseTwins"
   ],
   "tags": [
+    "boss",
     "calm",
+    "cave",
+    "chaotic",
+    "chase",
     "credits",
+    "final",
     "forest",
+    "industrial",
+    "jungle",
     "mountain",
     "night",
     "overworld",
     "sea",
-    "snow"
+    "snow",
+    "temple",
+    "urban"
   ],
-  "description": "Plays during the ending cutscene in SFC Brandish 2. Good for forest, snow levels and credits.<br>\r\n<span style=\"color: #ff0000;\">Not compatible with Bonus End, Yoshi, P-switch, and Thunder/Blargg/Fireworks; Miss will sound off.</span>",
+  "description": "A very japanese-y tune from SFC Brandish 2.<br>\r\nRequested by <span class=\"un-outer\" title=\"Anorakun\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=42525\" style=\"color: #fe1d02;\" class=\"un\">Anorakun</a></span>",
   "latest_version": "smwc-42616-1790110997",
   "install_kind": "add_music_k_music",
   "versions": [
@@ -29,6 +38,34 @@
       "download_url": "https://dl.smwcentral.net/42616/Brandish%202%20%28SFC%29%20-%20Epilogue%20.zip",
       "filename": "Brandish 2 (SFC) - Epilogue .zip",
       "size": 96153,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 42522,
+      "title": "Brandish 2: The Planet Buster (SNES) - Ninja Yashiki ~ Spilling Innocent Blood",
+      "version": "smwc-42522-1790694895",
+      "upstream_time": 1790694895,
+      "download_url": "https://dl.smwcentral.net/42522/Brandish%202%20%28SFC%29%20-%20Ninja%20Yashiki%20~%20Spilling%20Innocent%20Blood.zip",
+      "filename": "Brandish 2 (SFC) - Ninja Yashiki ~ Spilling Innocent Blood.zip",
+      "size": 77882,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 42629,
+      "title": "Brandish 2: The Planet Buster (SNES) - Gadobadorrer",
+      "version": "1.1",
+      "upstream_time": 1790694581,
+      "download_url": "https://dl.smwcentral.net/42629/Brandish%202%20%28SFC%29%20-%20Gadobadorrer.zip",
+      "filename": "Brandish 2 (SFC) - Gadobadorrer.zip",
+      "size": 69995,
       "sha256": null,
       "dependencies": [
         "addmusick"

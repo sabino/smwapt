@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-yoshi-topsy-turvy-tale-of-the-spirit-of-power",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42705,
+  "title": "Yoshi Topsy-Turvy - Tale of the Spirit of Power",
+  "authors": [
+    "Moose"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "castle",
+    "cave",
+    "dark",
+    "fire",
+    "tense"
+  ],
+  "description": "wanted to come back to this after all these years",
+  "latest_version": "smwc-42705-1790628981",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42705,
+      "title": "Yoshi Topsy-Turvy - Tale of the Spirit of Power",
+      "version": "smwc-42705-1790628981",
+      "upstream_time": 1790628981,
+      "download_url": "https://dl.smwcentral.net/42705/ytt-power26.zip",
+      "filename": "ytt-power26.zip",
+      "size": 39880,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

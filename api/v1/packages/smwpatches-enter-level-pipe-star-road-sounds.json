@@ -1,0 +1,37 @@
+{
+  "name": "smwpatches-enter-level-pipe-star-road-sounds",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 43246,
+  "title": "Enter Level/Pipe/Star Road Sounds",
+  "authors": [
+    "Ersanio",
+    "Moltz"
+  ],
+  "tags": [
+    "lorom",
+    "overworld",
+    "sa-1",
+    "sfx",
+    "sound effect"
+  ],
+  "description": "This patch makes the game play a sound effect when you enter levels and use pipes from the overworld (much like in SMB3) while also including the ability to change the sound star roads use for their warping shenanigans for the sake of convenience.<br>\r\n<br>\r\nSFX to be played for each tile is customizable in the ASM file.",
+  "latest_version": "v1.1.1",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 43246,
+      "title": "Enter Level/Pipe/Star Road Sounds",
+      "version": "v1.1.1",
+      "upstream_time": 1790797270,
+      "download_url": "https://dl.smwcentral.net/43246/OW%20Tile%20Sounds%20v1.1.1.zip",
+      "filename": "OW Tile Sounds v1.1.1.zip",
+      "size": 966,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

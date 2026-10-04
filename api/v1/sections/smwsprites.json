@@ -150,6 +150,40 @@
     ]
   },
   {
+    "name": "smwsprites-bird",
+    "aliases": [],
+    "section": "smwsprites",
+    "upstream_id": 42802,
+    "title": "Bird",
+    "authors": [
+      "Arinsu"
+    ],
+    "tags": [
+      "lorom",
+      "pacifist",
+      "sa-1"
+    ],
+    "description": "A bird which picks around and randomly flips directions.<br>\r\n<br>\r\nOriginally made for <span class=\"un-outer\" title=\"Tob\"><a href=\"/?p=profile&amp;id=25442\" style=\"color: var(--user-color-1);\" class=\"un\">Tob</a></span> and I's OWDC3 entry, which placed 1st.",
+    "latest_version": "smwc-42802-1790784661",
+    "install_kind": "pixi_sprite",
+    "versions": [
+      {
+        "upstream_id": 42802,
+        "title": "Bird",
+        "version": "smwc-42802-1790784661",
+        "upstream_time": 1790784661,
+        "download_url": "https://dl.smwcentral.net/42802/OW%20Bird.zip",
+        "filename": "OW Bird.zip",
+        "size": 1726,
+        "sha256": null,
+        "dependencies": [
+          "pixi"
+        ],
+        "install_kind": "pixi_sprite"
+      }
+    ]
+  },
+  {
     "name": "smwsprites-bob-omb-leaves-fire-trail",
     "aliases": [],
     "section": "smwsprites",
@@ -692,46 +726,6 @@
     ]
   },
   {
-    "name": "smwsprites-fling-blocks",
-    "aliases": [],
-    "section": "smwsprites",
-    "upstream_id": 42187,
-    "title": "Fling Blocks",
-    "authors": [
-      "MellyMellouange"
-    ],
-    "tags": [
-      "boost",
-      "double jump",
-      "fling",
-      "fling upwards",
-      "interaction",
-      "lorom",
-      "pacifist",
-      "platform",
-      "sa-1"
-    ],
-    "description": "Fling Blocks will activate, and fling Mario or sprites upwards upon contact.<br>\r\n<br>\r\nWhen flinging Mario, the Fling Blocks will not stop spinning until he touches the ground. When flinging sprites, the Fling Blocks will spin for 15 frames. None can interact with Fling Blocks are they are spinning.<br>\r\n<br>\r\nAlso included is a Red Fling Block variation, as the extra bit option. Red Fling Blocks only get activated by sprites, and Mario can use it as a sprite platform.<br>\r\n<br>\r\nNow PIXI compatible.",
-    "latest_version": "0.1",
-    "install_kind": "pixi_sprite",
-    "versions": [
-      {
-        "upstream_id": 42187,
-        "title": "Fling Blocks",
-        "version": "0.1",
-        "upstream_time": 1776168386,
-        "download_url": "https://dl.smwcentral.net/42187/fling_blocks%20%5BPIXI%5D.zip",
-        "filename": "fling_blocks %5BPIXI%5D.zip",
-        "size": 6303,
-        "sha256": null,
-        "dependencies": [
-          "pixi"
-        ],
-        "install_kind": "pixi_sprite"
-      }
-    ]
-  },
-  {
     "name": "smwsprites-floor-button",
     "aliases": [],
     "section": "smwsprites",
@@ -986,7 +980,7 @@
     "name": "smwsprites-growing-vine",
     "aliases": [],
     "section": "smwsprites",
-    "upstream_id": 42695,
+    "upstream_id": 43248,
     "title": "Growing Vine",
     "authors": [
       "imamelia"
@@ -999,17 +993,17 @@
       "vine"
     ],
     "description": "This is a disassembly of the growing vine.  I modified the code slightly (the graphics routine, for example, was just plain weird), but I also included the original code ripped directly from all.log.",
-    "latest_version": "1.2",
+    "latest_version": "1.3",
     "install_kind": "pixi_sprite",
     "versions": [
       {
-        "upstream_id": 42695,
+        "upstream_id": 43248,
         "title": "Growing Vine",
-        "version": "1.2",
-        "upstream_time": 1784123069,
-        "download_url": "https://dl.smwcentral.net/42695/growing%20vine%20disassembly%20v1.2.zip",
-        "filename": "growing vine disassembly v1.2.zip",
-        "size": 4757,
+        "version": "1.3",
+        "upstream_time": 1790826543,
+        "download_url": "https://dl.smwcentral.net/43248/growing%20vine%20disassembly%20v1.3.zip",
+        "filename": "growing vine disassembly v1.3.zip",
+        "size": 4741,
         "sha256": null,
         "dependencies": [
           "pixi"
@@ -1199,32 +1193,37 @@
     ]
   },
   {
-    "name": "smwsprites-mother-dino-rhino-dino-torch-egg",
+    "name": "smwsprites-npcs",
     "aliases": [],
     "section": "smwsprites",
-    "upstream_id": 42183,
-    "title": "Mother Dino Rhino + Dino Torch Egg",
+    "upstream_id": 42144,
+    "title": "NPCs",
     "authors": [
-      "Koopster"
+      "wye"
     ],
     "tags": [
-      "dino rhino",
-      "egg",
+      "customizable",
       "lorom",
-      "sa-1"
+      "message",
+      "npc",
+      "npcs",
+      "pacifist",
+      "sa-1",
+      "vwf",
+      "vwf dialogues"
     ],
-    "description": "A Dino Rhino that occasionally lays eggs with Dino Torches inside. The eggs will hatch immediately.<br>\r\n<br>\r\nIf the extra bit is set, this sprite is instead an independent Dino Torch egg. It will hatch when the player is in close proximity, like baby Yoshi eggs.<br>\r\n<br>\r\nThe .asm file features many customisation options, including changing which sprite hatches out of the egg and even which sprite the Dino Rhino becomes when stomped.",
-    "latest_version": "V1.0.1",
+    "description": "This is a sprite that doesn't hurt the player and doesn't interact with any other sprites. It can stay still, walk around, or jump, and also display a message if the player presses a button while touching it.<br>\r\n<br>\r\nIt's compatible with SMW's regular message boxes (can use any message in any level and show up to two at once), the Message Box Expansion patch, and also the VWF Dialogues patch.<br>\r\n<br>\r\nThe movement, graphics and message behavior are <em>highly</em> customizable. All the options are in the extra bytes (of which it uses all 12). This means you only need to have <em>one entry</em> in your sprite list and can fully customize it <em>as you place it in your level</em>!<br>\r\n<br>\r\nAll the customization options are explained in HOW_TO_USE.html, so please refer to that. It also has a user-friendly configuration tool.<br>\r\n<br>\r\n<b><span style=\"color: #ffc000;\">If you're updating to 4.5, you need to edit the sprites you've already placed (see INFO_IF_YOUVE_USED_AN_OLDER_VERSION.txt).</span></b><br>\r\n<br>\r\n&nbsp;",
+    "latest_version": "4.5",
     "install_kind": "pixi_sprite",
     "versions": [
       {
-        "upstream_id": 42183,
-        "title": "Mother Dino Rhino + Dino Torch Egg",
-        "version": "V1.0.1",
-        "upstream_time": 1776088092,
-        "download_url": "https://dl.smwcentral.net/42183/mother_dino_rhino_and_egg_asar2.zip",
-        "filename": "mother_dino_rhino_and_egg_asar2.zip",
-        "size": 7018,
+        "upstream_id": 42144,
+        "title": "NPCs",
+        "version": "4.5",
+        "upstream_time": 1790812786,
+        "download_url": "https://dl.smwcentral.net/42144/NPCs_v4.5.zip",
+        "filename": "NPCs_v4.5.zip",
+        "size": 75467,
         "sha256": null,
         "dependencies": [
           "pixi"

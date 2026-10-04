@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-mario-luigi-superstar-saga-beanbean-fields",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42516,
+  "title": "Mario & Luigi: Superstar Saga - Beanbean Fields",
+  "authors": [
+    "NamyX"
+  ],
+  "tags": [
+    "grassland",
+    "overworld"
+  ],
+  "description": "Beanbean Fields from Mario & Luigi: Superstar Saga.",
+  "latest_version": "smwc-42516-1790527204",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42516,
+      "title": "Mario & Luigi: Superstar Saga - Beanbean Fields",
+      "version": "smwc-42516-1790527204",
+      "upstream_time": 1790527204,
+      "download_url": "https://dl.smwcentral.net/42516/Beanbean%20Fields.zip",
+      "filename": "Beanbean Fields.zip",
+      "size": 63413,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

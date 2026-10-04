@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-tales-of-phantasia-second-act",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42742,
+  "title": "Tales of Phantasia - Second Act",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "airship",
+    "castle",
+    "credits",
+    "cutscene",
+    "final",
+    "title"
+  ],
+  "description": "A heroic song from Tales of Phantasia<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Zavok\"><a href=\"/?p=profile&amp;id=36942\" style=\"color: var(--user-color-1);\" class=\"un\">Zavok</a></span>",
+  "latest_version": "smwc-42742-1790633401",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42742,
+      "title": "Tales of Phantasia - Second Act",
+      "version": "smwc-42742-1790633401",
+      "upstream_time": 1790633401,
+      "download_url": "https://dl.smwcentral.net/42742/Second_Act.zip",
+      "filename": "Second_Act.zip",
+      "size": 62823,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

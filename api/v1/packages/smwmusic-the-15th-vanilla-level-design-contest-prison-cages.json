@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-the-15th-vanilla-level-design-contest-prison-cages",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42674,
+  "title": "The 15th Vanilla Level Design Contest - Prison Cages",
+  "authors": [
+    "Daizo Dee Von"
+  ],
+  "tags": [
+    "ambient",
+    "dark",
+    "environmental",
+    "ghost house"
+  ],
+  "description": "A spooky track for abandoned complexes.<br>\r\n<br>\r\nAppreciate credit if used.",
+  "latest_version": "smwc-42674-1790628477",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42674,
+      "title": "The 15th Vanilla Level Design Contest - Prison Cages",
+      "version": "smwc-42674-1790628477",
+      "upstream_time": 1790628477,
+      "download_url": "https://dl.smwcentral.net/42674/%5BS%5D%20VLDC%2015%20-%20Tectonic%20Complex.zip",
+      "filename": "%5BS%5D VLDC 15 - Tectonic Complex.zip",
+      "size": 81006,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

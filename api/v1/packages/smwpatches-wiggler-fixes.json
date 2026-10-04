@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-wiggler-fixes",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 43130,
+  "title": "Wiggler Fixes",
+  "authors": [
+    "HammerBrother"
+  ],
+  "tags": [
+    "flower",
+    "lorom",
+    "sa-1",
+    "wiggler"
+  ],
+  "description": "Fixes 2 glitches with the Wiggler:<br>\r\n<ul>\r\n<li>A hidden glitch that the game actually spawns the flower (extended sprite, see $029CF8) at an incorrect Y position if the Wiggler's Y position value is $0100 (256) or further down. This is because of a typo that it sets the flower's Y position <b>both</b> low and high bytes to the Wiggler's Y position low byte. However, because extended sprite offscreen check (that erases extended sprites) and OAM writes loops every 256 pixels on the Y axis, this causes it to visually appear as it should.</li>\r\n<li>If the Wiggler is at the top edge of the screen and the player happens to be at the bottom edge of the screen below the Wiggler, its interaction will loop vertically. This is because like the wall springboard (Pea Bouncer), it utilizes OAM for handling physics when processing each segment of the sprite, which requires using 8-bit low-byte XY positioning, which is prone to looping at every 256 pixels.</li>\r\n</ul>",
+  "latest_version": "1.0.2",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 43130,
+      "title": "Wiggler Fixes",
+      "version": "1.0.2",
+      "upstream_time": 1790538633,
+      "download_url": "https://dl.smwcentral.net/43130/WigglerFixesV1.0.2.zip",
+      "filename": "WigglerFixesV1.0.2.zip",
+      "size": 1204,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

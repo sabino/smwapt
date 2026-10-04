@@ -1,0 +1,33 @@
+{
+  "name": "smwpatches-air-bubbles-priority-fix",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 43125,
+  "title": "Air Bubbles Priority Fix",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This patch fixes a graphical issue where Mario's air bubbles will appear above layers even if Mario is swimming behind layers (like when going behind nets). It also fixes a rare issue where the bubbles may appear behind layers if a previously spawned extended sprite was set to go behind layers.",
+  "latest_version": "v1.0",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 43125,
+      "title": "Air Bubbles Priority Fix",
+      "version": "v1.0",
+      "upstream_time": 1790545094,
+      "download_url": "https://dl.smwcentral.net/43125/bubble_fix.zip",
+      "filename": "bubble_fix.zip",
+      "size": 349,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

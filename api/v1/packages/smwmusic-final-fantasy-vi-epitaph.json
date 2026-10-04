@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-final-fantasy-vi-epitaph",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42604,
+  "title": "Final Fantasy VI - Epitaph",
+  "authors": [
+    "h.carrell"
+  ],
+  "tags": [
+    "ambient",
+    "cutscene",
+    "menu",
+    "night"
+  ],
+  "description": "The songs that plays during Setzer's backstory, when he and the rest of your party are walking downstairs to the Falcon in FF6.<br>\r\n<br>\r\nOriginally made back in January.",
+  "latest_version": "smwc-42604-1790695991",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42604,
+      "title": "Final Fantasy VI - Epitaph",
+      "version": "smwc-42604-1790695991",
+      "upstream_time": 1790695991,
+      "download_url": "https://dl.smwcentral.net/42604/Epitaph.zip",
+      "filename": "Epitaph.zip",
+      "size": 46641,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

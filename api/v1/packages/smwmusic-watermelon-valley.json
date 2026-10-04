@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-watermelon-valley",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42711,
+  "title": "Watermelon Valley",
+  "authors": [
+    "EDIT3333"
+  ],
+  "tags": [
+    "athletic",
+    "bonus",
+    "grass",
+    "upbeat"
+  ],
+  "description": "A fun theme; it works well for colorful spaces.",
+  "latest_version": "smwc-42711-1790632226",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42711,
+      "title": "Watermelon Valley",
+      "version": "smwc-42711-1790632226",
+      "upstream_time": 1790632226,
+      "download_url": "https://dl.smwcentral.net/42711/Watermelon%20Valley%20.zip",
+      "filename": "Watermelon Valley .zip",
+      "size": 31369,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

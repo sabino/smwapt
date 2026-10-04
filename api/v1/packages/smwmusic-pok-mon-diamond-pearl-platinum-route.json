@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-pok-mon-diamond-pearl-platinum-route",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42657,
+  "title": "Pokémon Diamond/Pearl/Platinum - Route 206 (Night)",
+  "authors": [
+    "sinseiga"
+  ],
+  "tags": [
+    "forest",
+    "grassland",
+    "mountain",
+    "night",
+    "overworld"
+  ],
+  "description": "Upbeat and hopeful music from Pokémon Diamond/Pearl/Platinum.<br>\r\n<br>\r\nYou'll walk down this path at night too, to find Gible.",
+  "latest_version": "smwc-42657-1790570003",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42657,
+      "title": "Pokémon Diamond/Pearl/Platinum - Route 206 (Night)",
+      "version": "smwc-42657-1790570003",
+      "upstream_time": 1790570003,
+      "download_url": "https://dl.smwcentral.net/42657/Route%20206%20%28Night%29.zip",
+      "filename": "Route 206 (Night).zip",
+      "size": 84911,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 42656,
+      "title": "Pokémon Diamond/Pearl/Platinum - Route 206 (Day)",
+      "version": "smwc-42656-1790569999",
+      "upstream_time": 1790569999,
+      "download_url": "https://dl.smwcentral.net/42656/Route%20206%20%28Day%29.zip",
+      "filename": "Route 206 (Day).zip",
+      "size": 96074,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

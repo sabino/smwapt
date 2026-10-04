@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-tetris-dr-mario-fever",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42719,
+  "title": "Tetris & Dr. Mario - Fever",
+  "authors": [
+    "h.carrell"
+  ],
+  "tags": [
+    "athletic",
+    "bonus",
+    "boss",
+    "upbeat"
+  ],
+  "description": "One of 2 songs that you can play Dr. Mario with, as heard in Tetris & Dr. Mario.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Zavok\"><a href=\"/?p=profile&amp;id=36942\" style=\"color: var(--user-color-1);\" class=\"un\">Zavok</a></span>",
+  "latest_version": "smwc-42719-1790631972",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42719,
+      "title": "Tetris & Dr. Mario - Fever",
+      "version": "smwc-42719-1790631972",
+      "upstream_time": 1790631972,
+      "download_url": "https://dl.smwcentral.net/42719/T%26DM%20Fever.zip",
+      "filename": "T%26DM Fever.zip",
+      "size": 53446,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

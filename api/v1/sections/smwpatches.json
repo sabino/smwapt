@@ -1,5 +1,38 @@
 [
   {
+    "name": "smwpatches-air-bubbles-priority-fix",
+    "aliases": [],
+    "section": "smwpatches",
+    "upstream_id": 43125,
+    "title": "Air Bubbles Priority Fix",
+    "authors": [
+      "Kevin"
+    ],
+    "tags": [
+      "lorom",
+      "sa-1"
+    ],
+    "description": "This patch fixes a graphical issue where Mario's air bubbles will appear above layers even if Mario is swimming behind layers (like when going behind nets). It also fixes a rare issue where the bubbles may appear behind layers if a previously spawned extended sprite was set to go behind layers.",
+    "latest_version": "v1.0",
+    "install_kind": "asar_patch",
+    "versions": [
+      {
+        "upstream_id": 43125,
+        "title": "Air Bubbles Priority Fix",
+        "version": "v1.0",
+        "upstream_time": 1790545094,
+        "download_url": "https://dl.smwcentral.net/43125/bubble_fix.zip",
+        "filename": "bubble_fix.zip",
+        "size": 349,
+        "sha256": null,
+        "dependencies": [
+          "asar"
+        ],
+        "install_kind": "asar_patch"
+      }
+    ]
+  },
+  {
     "name": "smwpatches-all-in-one-multiple-death-songs-1",
     "aliases": [],
     "section": "smwpatches",
@@ -62,42 +95,6 @@
         "download_url": "https://dl.smwcentral.net/41249/RNG_3_1_1.zip",
         "filename": "RNG_3_1_1.zip",
         "size": 3011,
-        "sha256": null,
-        "dependencies": [
-          "asar"
-        ],
-        "install_kind": "asar_patch"
-      }
-    ]
-  },
-  {
-    "name": "smwpatches-bonus-stars-sum-game",
-    "aliases": [],
-    "section": "smwpatches",
-    "upstream_id": 41476,
-    "title": "Bonus Stars Sum Game",
-    "authors": [
-      "Koopster"
-    ],
-    "tags": [
-      "bonus stars",
-      "course clear",
-      "level end",
-      "lorom",
-      "sa-1"
-    ],
-    "description": "This patch enables a game that can be played when a goal tape is collected. By pressing L or R during the goal march, you're able to input the resulting sum of bonus stars. If input correctly before the sum starts to roll, the player gets a 1-up. You can optionally add a punishment for a wrong answer.<br>\r\n<br>\r\nOnce active, the controls of the game are the following:<br>\r\n&lt;, &gt;, L or R = Swap the selected digit.<br>\r\n^ and v = Increase and decrease the selected digit, respectively.<br>\r\nA and B = Increase and decrease the ones digit, respectively.<br>\r\nX and Y = Increase and decrease the tens digit, respectively.<br>\r\n<br>\r\nAn optional UberASM level code is included to change the palette of the numbers while the game is active, though it is only compatible with the vanilla status bar.",
-    "latest_version": "smwc-41476-1769355627",
-    "install_kind": "asar_patch",
-    "versions": [
-      {
-        "upstream_id": 41476,
-        "title": "Bonus Stars Sum Game",
-        "version": "smwc-41476-1769355627",
-        "upstream_time": 1769355627,
-        "download_url": "https://dl.smwcentral.net/41476/sum_game.zip",
-        "filename": "sum_game.zip",
-        "size": 4416,
         "sha256": null,
         "dependencies": [
           "asar"
@@ -281,41 +278,6 @@
     ]
   },
   {
-    "name": "smwpatches-custom-end-level-stars-text",
-    "aliases": [],
-    "section": "smwpatches",
-    "upstream_id": 41442,
-    "title": "Custom End Level Stars Text",
-    "authors": [
-      "Kevin"
-    ],
-    "tags": [
-      "effect",
-      "lorom",
-      "sa-1",
-      "tile"
-    ],
-    "description": "This patch will change what's displayed when touching the goal tape: instead of showing the number of bonus stars rewarded, it'll display a custom text (by default, \"GG\"). It's fairly easy to change what will be displayed or add more characters. There's also an option to show the text even if not grabbing the goal tape, but this is recommended to use only if bonus stars are disabled in the hack (since with this option they would be rewarded even if not touching the goal tape).<br>\r\nCheck the asm file for more info.",
-    "latest_version": "smwc-41442-1768757665",
-    "install_kind": "asar_patch",
-    "versions": [
-      {
-        "upstream_id": 41442,
-        "title": "Custom End Level Stars Text",
-        "version": "smwc-41442-1768757665",
-        "upstream_time": 1768757665,
-        "download_url": "https://dl.smwcentral.net/41442/GoalTapeGG_Asar2.zip",
-        "filename": "GoalTapeGG_Asar2.zip",
-        "size": 1541,
-        "sha256": null,
-        "dependencies": [
-          "asar"
-        ],
-        "install_kind": "asar_patch"
-      }
-    ]
-  },
-  {
     "name": "smwpatches-disable-item-toss-while-flying",
     "aliases": [],
     "section": "smwpatches",
@@ -425,6 +387,41 @@
     ]
   },
   {
+    "name": "smwpatches-dry-bones-and-bony-beetle-reanimation-sfx",
+    "aliases": [],
+    "section": "smwpatches",
+    "upstream_id": 43187,
+    "title": "Dry Bones and Bony Beetle Reanimation SFX",
+    "authors": [
+      "Segment1Zone2"
+    ],
+    "tags": [
+      "dry bones",
+      "lorom",
+      "sa-1",
+      "sfx"
+    ],
+    "description": "This patch adds in additional sound effects when Dry Bones and Bony Beetle is about to reanimate itself, similarly to the NSMB games.<br>\r\n<br>\r\nComes with two custom sound effects as well instructions on how to insert them.<br>\r\n<br>\r\nWhile not strictly required for this patch to work, it's meant to be used in conjunction with <a href=\"https://smwc.me/s/42569\">Dry Bones and Bony Beetle SubOffScreen Fix</a> so the sound effects don't play when said sprites are off-screen.",
+    "latest_version": "V1.0.1",
+    "install_kind": "asar_patch",
+    "versions": [
+      {
+        "upstream_id": 43187,
+        "title": "Dry Bones and Bony Beetle Reanimation SFX",
+        "version": "V1.0.1",
+        "upstream_time": 1790707414,
+        "download_url": "https://dl.smwcentral.net/43187/Dry%20Bones%20Reanimation%20SFX%20v1.01.zip",
+        "filename": "Dry Bones Reanimation SFX v1.01.zip",
+        "size": 67619,
+        "sha256": null,
+        "dependencies": [
+          "asar"
+        ],
+        "install_kind": "asar_patch"
+      }
+    ]
+  },
+  {
     "name": "smwpatches-dry-bones-and-bony-beetle-suboffscreen-fix",
     "aliases": [],
     "section": "smwpatches",
@@ -483,6 +480,43 @@
         "download_url": "https://dl.smwcentral.net/42372/endsprfix%200.031.zip",
         "filename": "endsprfix 0.031.zip",
         "size": 5506,
+        "sha256": null,
+        "dependencies": [
+          "asar"
+        ],
+        "install_kind": "asar_patch"
+      }
+    ]
+  },
+  {
+    "name": "smwpatches-enter-level-pipe-star-road-sounds",
+    "aliases": [],
+    "section": "smwpatches",
+    "upstream_id": 43246,
+    "title": "Enter Level/Pipe/Star Road Sounds",
+    "authors": [
+      "Ersanio",
+      "Moltz"
+    ],
+    "tags": [
+      "lorom",
+      "overworld",
+      "sa-1",
+      "sfx",
+      "sound effect"
+    ],
+    "description": "This patch makes the game play a sound effect when you enter levels and use pipes from the overworld (much like in SMB3) while also including the ability to change the sound star roads use for their warping shenanigans for the sake of convenience.<br>\r\n<br>\r\nSFX to be played for each tile is customizable in the ASM file.",
+    "latest_version": "v1.1.1",
+    "install_kind": "asar_patch",
+    "versions": [
+      {
+        "upstream_id": 43246,
+        "title": "Enter Level/Pipe/Star Road Sounds",
+        "version": "v1.1.1",
+        "upstream_time": 1790797270,
+        "download_url": "https://dl.smwcentral.net/43246/OW%20Tile%20Sounds%20v1.1.1.zip",
+        "filename": "OW Tile Sounds v1.1.1.zip",
+        "size": 966,
         "sha256": null,
         "dependencies": [
           "asar"
@@ -1131,7 +1165,7 @@
       "player",
       "sa-1"
     ],
-    "description": "This patch will allow you to selectively have straight fireballs in a per-player basis: either for player 1 or for player 2.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Zack-san\"><a href=\"/?p=profile&amp;id=23097\" style=\"color: var(--user-color-2);\" class=\"un\">Zack-san</a></span>.",
+    "description": "This patch will allow you to selectively have straight fireballs in a per-player basis: either for player 1 or for player 2.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Zack-san\"><a href=\"/?p=profile&amp;id=23097\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">Zack-san</a></span>.",
     "latest_version": "V1.0.1",
     "install_kind": "asar_patch",
     "versions": [
@@ -1479,43 +1513,6 @@
     ]
   },
   {
-    "name": "smwpatches-score-sprite-fix-remapper",
-    "aliases": [],
-    "section": "smwpatches",
-    "upstream_id": 40562,
-    "title": "Score Sprite Fix & Remapper",
-    "authors": [
-      "DrAnas"
-    ],
-    "tags": [
-      "5-up",
-      "coin",
-      "lorom",
-      "sa-1",
-      "score",
-      "score sprites"
-    ],
-    "description": "This patch allows you to customize the palettes of all score sprites in the game, including the unused 5-up and coin score sprites! Speaking of which, those unused score sprites I just mentioned are totally fixed now and you can separately change the 1-up palette from the 10- to 8,000-point score sprites! Requires 9 bytes of freespace in bank 02, starting from $02D523 by default.",
-    "latest_version": "smwc-40562-1769052806",
-    "install_kind": "asar_patch",
-    "versions": [
-      {
-        "upstream_id": 40562,
-        "title": "Score Sprite Fix & Remapper",
-        "version": "smwc-40562-1769052806",
-        "upstream_time": 1769052806,
-        "download_url": "https://dl.smwcentral.net/40562/score_sprite_fix_and_remapper.zip",
-        "filename": "score_sprite_fix_and_remapper.zip",
-        "size": 1764,
-        "sha256": null,
-        "dependencies": [
-          "asar"
-        ],
-        "install_kind": "asar_patch"
-      }
-    ]
-  },
-  {
     "name": "smwpatches-separate-mario-and-luigi-game-over-themes",
     "aliases": [],
     "section": "smwpatches",
@@ -1662,43 +1659,6 @@
     ]
   },
   {
-    "name": "smwpatches-time-to-score-fix",
-    "aliases": [],
-    "section": "smwpatches",
-    "upstream_id": 41475,
-    "title": "Time To Score Fix",
-    "authors": [
-      "Koopster"
-    ],
-    "tags": [
-      "course clear",
-      "level end",
-      "lorom",
-      "sa-1",
-      "score",
-      "timer"
-    ],
-    "description": "Fixes the level end time to score tallying resulting in wrong values when the timer is higher than 400.<br>\r\n<br>\r\nAdditionally, because tallying higher times would take longer than the level end sequence, it will tally twice as fast for times between 400-799 and thrice as fast for times between 800-999.",
-    "latest_version": "smwc-41475-1769298178",
-    "install_kind": "asar_patch",
-    "versions": [
-      {
-        "upstream_id": 41475,
-        "title": "Time To Score Fix",
-        "version": "smwc-41475-1769298178",
-        "upstream_time": 1769298178,
-        "download_url": "https://dl.smwcentral.net/41475/time_to_score_fix.zip",
-        "filename": "time_to_score_fix.zip",
-        "size": 1122,
-        "sha256": null,
-        "dependencies": [
-          "asar"
-        ],
-        "install_kind": "asar_patch"
-      }
-    ]
-  },
-  {
     "name": "smwpatches-tolerance-timer-aka-input-buffering-coyote-time",
     "aliases": [],
     "section": "smwpatches",
@@ -1778,6 +1738,41 @@
         "download_url": "https://dl.smwcentral.net/43129/WallSpringboardInteractionWrapFix.zip",
         "filename": "WallSpringboardInteractionWrapFix.zip",
         "size": 1728,
+        "sha256": null,
+        "dependencies": [
+          "asar"
+        ],
+        "install_kind": "asar_patch"
+      }
+    ]
+  },
+  {
+    "name": "smwpatches-wiggler-fixes",
+    "aliases": [],
+    "section": "smwpatches",
+    "upstream_id": 43130,
+    "title": "Wiggler Fixes",
+    "authors": [
+      "HammerBrother"
+    ],
+    "tags": [
+      "flower",
+      "lorom",
+      "sa-1",
+      "wiggler"
+    ],
+    "description": "Fixes 2 glitches with the Wiggler:<br>\r\n<ul>\r\n<li>A hidden glitch that the game actually spawns the flower (extended sprite, see $029CF8) at an incorrect Y position if the Wiggler's Y position value is $0100 (256) or further down. This is because of a typo that it sets the flower's Y position <b>both</b> low and high bytes to the Wiggler's Y position low byte. However, because extended sprite offscreen check (that erases extended sprites) and OAM writes loops every 256 pixels on the Y axis, this causes it to visually appear as it should.</li>\r\n<li>If the Wiggler is at the top edge of the screen and the player happens to be at the bottom edge of the screen below the Wiggler, its interaction will loop vertically. This is because like the wall springboard (Pea Bouncer), it utilizes OAM for handling physics when processing each segment of the sprite, which requires using 8-bit low-byte XY positioning, which is prone to looping at every 256 pixels.</li>\r\n</ul>",
+    "latest_version": "1.0.2",
+    "install_kind": "asar_patch",
+    "versions": [
+      {
+        "upstream_id": 43130,
+        "title": "Wiggler Fixes",
+        "version": "1.0.2",
+        "upstream_time": 1790538633,
+        "download_url": "https://dl.smwcentral.net/43130/WigglerFixesV1.0.2.zip",
+        "filename": "WigglerFixesV1.0.2.zip",
+        "size": 1204,
         "sha256": null,
         "dependencies": [
           "asar"

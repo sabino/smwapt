@@ -33,74 +33,6 @@
     ]
   },
   {
-    "name": "smwmusic-aladdin-snes-a-snake-am-i",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42487,
-    "title": "Aladdin (SNES) - \"A Snake, Am I?\"",
-    "authors": [
-      "h.carrell"
-    ],
-    "tags": [
-      "cutscene",
-      "dark",
-      "overworld"
-    ],
-    "description": "\"Are you afraid to fight me yourself, you cowardly snake?!\" - Aladdin (1992)<br>\r\n<br>\r\nThe short and ominous song that plays right before you fight Snake Jafar in the Aladdin SNES game. Might fit a similar purpose in a hack or during a cutscene",
-    "latest_version": "smwc-42487-1788979574",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42487,
-        "title": "Aladdin (SNES) - \"A Snake, Am I?\"",
-        "version": "smwc-42487-1788979574",
-        "upstream_time": 1788979574,
-        "download_url": "https://dl.smwcentral.net/42487/Jafar%20Prelude.zip",
-        "filename": "Jafar Prelude.zip",
-        "size": 39258,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-arabian-nights-amiga-forest",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42202,
-    "title": "Arabian Nights (Amiga) - Forest",
-    "authors": [
-      "EDIT3333"
-    ],
-    "tags": [
-      "cave",
-      "desert",
-      "forest"
-    ],
-    "description": "I modified the mix.",
-    "latest_version": "smwc-42202-1788237681",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42202,
-        "title": "Arabian Nights (Amiga) - Forest",
-        "version": "smwc-42202-1788237681",
-        "upstream_time": 1788237681,
-        "download_url": "https://dl.smwcentral.net/42202/Forest.zip",
-        "filename": "Forest.zip",
-        "size": 42278,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
     "name": "smwmusic-bomberman-max-2-red-advance-bonus-game",
     "aliases": [],
     "section": "smwmusic",
@@ -144,16 +76,25 @@
       "SiameseTwins"
     ],
     "tags": [
+      "boss",
       "calm",
+      "cave",
+      "chaotic",
+      "chase",
       "credits",
+      "final",
       "forest",
+      "industrial",
+      "jungle",
       "mountain",
       "night",
       "overworld",
       "sea",
-      "snow"
+      "snow",
+      "temple",
+      "urban"
     ],
-    "description": "Plays during the ending cutscene in SFC Brandish 2. Good for forest, snow levels and credits.<br>\r\n<span style=\"color: #ff0000;\">Not compatible with Bonus End, Yoshi, P-switch, and Thunder/Blargg/Fireworks; Miss will sound off.</span>",
+    "description": "A very japanese-y tune from SFC Brandish 2.<br>\r\nRequested by <span class=\"un-outer\" title=\"Anorakun\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=42525\" style=\"color: #fe1d02;\" class=\"un\">Anorakun</a></span>",
     "latest_version": "smwc-42616-1790110997",
     "install_kind": "add_music_k_music",
     "versions": [
@@ -170,37 +111,64 @@
           "addmusick"
         ],
         "install_kind": "add_music_k_music"
+      },
+      {
+        "upstream_id": 42522,
+        "title": "Brandish 2: The Planet Buster (SNES) - Ninja Yashiki ~ Spilling Innocent Blood",
+        "version": "smwc-42522-1790694895",
+        "upstream_time": 1790694895,
+        "download_url": "https://dl.smwcentral.net/42522/Brandish%202%20%28SFC%29%20-%20Ninja%20Yashiki%20~%20Spilling%20Innocent%20Blood.zip",
+        "filename": "Brandish 2 (SFC) - Ninja Yashiki ~ Spilling Innocent Blood.zip",
+        "size": 77882,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      },
+      {
+        "upstream_id": 42629,
+        "title": "Brandish 2: The Planet Buster (SNES) - Gadobadorrer",
+        "version": "1.1",
+        "upstream_time": 1790694581,
+        "download_url": "https://dl.smwcentral.net/42629/Brandish%202%20%28SFC%29%20-%20Gadobadorrer.zip",
+        "filename": "Brandish 2 (SFC) - Gadobadorrer.zip",
+        "size": 69995,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
       }
     ]
   },
   {
-    "name": "smwmusic-castlevania-bloodlines-iron-blue-intention",
+    "name": "smwmusic-chronos-zx-spectrum-title-theme",
     "aliases": [],
     "section": "smwmusic",
-    "upstream_id": 42327,
-    "title": "Castlevania: Bloodlines - Iron Blue Intention",
+    "upstream_id": 42340,
+    "title": "Chronos (ZX Spectrum) - Title Theme",
     "authors": [
-      "Dzing"
+      "lordlydumbass"
     ],
     "tags": [
-      "dark",
-      "night",
-      "ruins",
-      "temple",
-      "urban"
+      "credits",
+      "final",
+      "space",
+      "title"
     ],
-    "description": "Requested by <span class=\"un-outer\" title=\"Zavok\"><a href=\"/?p=profile&amp;id=36942\" style=\"color: var(--user-color-1);\" class=\"un\">Zavok</a></span>.",
-    "latest_version": "smwc-42327-1788109687",
+    "description": "Title screen from the ZX Spectrum 48K game, composed by Tim Follin. He managed to software mix a beeper to have 6 channels when he was 15.<br>\r\n<br>\r\nCould fit on a title screen or maybe a space level.<br>\r\n<br>\r\nA version with the original ending is provided, as well as a looped version.<br>\r\n<br>\r\nOriginal (warning: quite harsh on the ears): <a href=\"https://www.youtube.com/watch?v=u-D24A_N4d4\" rel=\"nofollow\">https://www.youtube.com/watch?v=u-D24A_N4d4</a><br>\r\n",
+    "latest_version": "smwc-42340-1790569961",
     "install_kind": "add_music_k_music",
     "versions": [
       {
-        "upstream_id": 42327,
-        "title": "Castlevania: Bloodlines - Iron Blue Intention",
-        "version": "smwc-42327-1788109687",
-        "upstream_time": 1788109687,
-        "download_url": "https://dl.smwcentral.net/42327/cbl-IBI.zip",
-        "filename": "cbl-IBI.zip",
-        "size": 35513,
+        "upstream_id": 42340,
+        "title": "Chronos (ZX Spectrum) - Title Theme",
+        "version": "smwc-42340-1790569961",
+        "upstream_time": 1790569961,
+        "download_url": "https://dl.smwcentral.net/42340/Chronos%20-%20Title%20%20.zip",
+        "filename": "Chronos - Title  .zip",
+        "size": 69113,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -236,6 +204,44 @@
         "download_url": "https://dl.smwcentral.net/42140/Deltarune%20-%20Dark%20Sanctuary.zip",
         "filename": "Deltarune - Dark Sanctuary.zip",
         "size": 74919,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-deltarune-doom-board",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42333,
+    "title": "Deltarune - Doom Board",
+    "authors": [
+      "E-man38"
+    ],
+    "tags": [
+      "boss",
+      "castle",
+      "cutscene",
+      "dark",
+      "fire",
+      "overworld",
+      "tense"
+    ],
+    "description": "A song that plays during the third board from Chapter 3 of Deltarune. It can work for dark lands or tense situations.",
+    "latest_version": "smwc-42333-1790525758",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42333,
+        "title": "Deltarune - Doom Board",
+        "version": "smwc-42333-1790525758",
+        "upstream_time": 1790525758,
+        "download_url": "https://dl.smwcentral.net/42333/doom_board.zip",
+        "filename": "doom_board.zip",
+        "size": 31938,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -315,45 +321,6 @@
     ]
   },
   {
-    "name": "smwmusic-dynamite-headdy-south-town-s-theme",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42441,
-    "title": "Dynamite Headdy - South Town's Theme",
-    "authors": [
-      "Moose"
-    ],
-    "tags": [
-      "abstract",
-      "athletic",
-      "carnival",
-      "forest",
-      "grassland",
-      "sky",
-      "town",
-      "upbeat"
-    ],
-    "description": "general purpose bouncy theme",
-    "latest_version": "smwc-42441-1788131007",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42441,
-        "title": "Dynamite Headdy - South Town's Theme",
-        "version": "smwc-42441-1788131007",
-        "upstream_time": 1788131007,
-        "download_url": "https://dl.smwcentral.net/42441/dh-south%20town.zip",
-        "filename": "dh-south town.zip",
-        "size": 34027,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
     "name": "smwmusic-dynamitracer-skull-bone",
     "aliases": [],
     "section": "smwmusic",
@@ -380,6 +347,41 @@
         "download_url": "https://dl.smwcentral.net/42605/Skull%20Bone%201.zip",
         "filename": "Skull Bone 1.zip",
         "size": 43599,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-final-fantasy-vi-epitaph",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42604,
+    "title": "Final Fantasy VI - Epitaph",
+    "authors": [
+      "h.carrell"
+    ],
+    "tags": [
+      "ambient",
+      "cutscene",
+      "menu",
+      "night"
+    ],
+    "description": "The songs that plays during Setzer's backstory, when he and the rest of your party are walking downstairs to the Falcon in FF6.<br>\r\n<br>\r\nOriginally made back in January.",
+    "latest_version": "smwc-42604-1790695991",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42604,
+        "title": "Final Fantasy VI - Epitaph",
+        "version": "smwc-42604-1790695991",
+        "upstream_time": 1790695991,
+        "download_url": "https://dl.smwcentral.net/42604/Epitaph.zip",
+        "filename": "Epitaph.zip",
+        "size": 46641,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -454,6 +456,39 @@
         "download_url": "https://dl.smwcentral.net/42325/Gigi%20D%27Agostino%20-%20BlaBlaBla.zip",
         "filename": "Gigi D%27Agostino - BlaBlaBla.zip",
         "size": 82550,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-here-we-ghost",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42673,
+    "title": "Here We Ghost",
+    "authors": [
+      "imamelia"
+    ],
+    "tags": [
+      "ghost house",
+      "spooky"
+    ],
+    "description": "This is an arrangement of SMW's leitmotif/main theme suitable for ghost houses and other haunted levels.  It was used in the level that I would have submitted to VLDC15.",
+    "latest_version": "smwc-42673-1790627108",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42673,
+        "title": "Here We Ghost",
+        "version": "smwc-42673-1790627108",
+        "upstream_time": 1790627108,
+        "download_url": "https://dl.smwcentral.net/42673/REMIX%20-%20Here%20We%20Ghost.zip",
+        "filename": "REMIX - Here We Ghost.zip",
+        "size": 61655,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -570,6 +605,39 @@
     ]
   },
   {
+    "name": "smwmusic-mario-luigi-superstar-saga-beanbean-fields",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42516,
+    "title": "Mario & Luigi: Superstar Saga - Beanbean Fields",
+    "authors": [
+      "NamyX"
+    ],
+    "tags": [
+      "grassland",
+      "overworld"
+    ],
+    "description": "Beanbean Fields from Mario & Luigi: Superstar Saga.",
+    "latest_version": "smwc-42516-1790527204",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42516,
+        "title": "Mario & Luigi: Superstar Saga - Beanbean Fields",
+        "version": "smwc-42516-1790527204",
+        "upstream_time": 1790527204,
+        "download_url": "https://dl.smwcentral.net/42516/Beanbean%20Fields.zip",
+        "filename": "Beanbean Fields.zip",
+        "size": 63413,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
     "name": "smwmusic-mario-no-super-picross-mario-puzzle",
     "aliases": [],
     "section": "smwmusic",
@@ -597,20 +665,6 @@
         "download_url": "https://dl.smwcentral.net/42513/Mario%20no%20Super%20Picross%20-%20Mario%20Puzzle%204%20.zip",
         "filename": "Mario no Super Picross - Mario Puzzle 4 .zip",
         "size": 66647,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      },
-      {
-        "upstream_id": 42414,
-        "title": "Mario no Super Picross - Mario Puzzle 2",
-        "version": "smwc-42414-1788110251",
-        "upstream_time": 1788110251,
-        "download_url": "https://dl.smwcentral.net/42414/Mario%20no%20Super%20Picross%20-%20Mario%20Puzzle%202.zip",
-        "filename": "Mario no Super Picross - Mario Puzzle 2.zip",
-        "size": 67317,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -670,6 +724,40 @@
     ]
   },
   {
+    "name": "smwmusic-mega-man-ii-gb-magnet-man-mega-man-x-style",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42518,
+    "title": "Mega Man II(GB) - Magnet Man (Mega Man X Style)",
+    "authors": [
+      "JX444444"
+    ],
+    "tags": [
+      "airship",
+      "industrial",
+      "temple"
+    ],
+    "description": "Based : Sigma Fortress 1 from Mega Man X<br>\r\n<br>\r\nThe Magnet Man theme song in the GB version went very well with Sigma Fortress 1.",
+    "latest_version": "smwc-42518-1790695696",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42518,
+        "title": "Mega Man II(GB) - Magnet Man (Mega Man X Style)",
+        "version": "smwc-42518-1790695696",
+        "upstream_time": 1790695696,
+        "download_url": "https://dl.smwcentral.net/42518/MagnetGB_X1.zip",
+        "filename": "MagnetGB_X1.zip",
+        "size": 61823,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
     "name": "smwmusic-mega-man-x-burnt-out-rhythm-flame-mammoth-remix",
     "aliases": [],
     "section": "smwmusic",
@@ -703,41 +791,6 @@
         "download_url": "https://dl.smwcentral.net/42387/Burnt%20Out%20Rhythm.zip",
         "filename": "Burnt Out Rhythm.zip",
         "size": 416682,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-metroid-zero-mission-ridley-s-lair-mega-man-x3-style",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42150,
-    "title": "Metroid Zero Mission - Ridley's Lair (Mega Man X3 Style)",
-    "authors": [
-      "JX444444"
-    ],
-    "tags": [
-      "castle",
-      "mysterious",
-      "ruins",
-      "spooky"
-    ],
-    "description": "Based : Doppler Theme",
-    "latest_version": "smwc-42150-1788236356",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42150,
-        "title": "Metroid Zero Mission - Ridley's Lair (Mega Man X3 Style)",
-        "version": "smwc-42150-1788236356",
-        "upstream_time": 1788236356,
-        "download_url": "https://dl.smwcentral.net/42150/RidleyLair_MZM_X3.zip",
-        "filename": "RidleyLair_MZM_X3.zip",
-        "size": 52924,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -788,115 +841,32 @@
     ]
   },
   {
-    "name": "smwmusic-pebble-beach-golf-links-saturn-course-bgm",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42422,
-    "title": "Pebble Beach Golf Links (Saturn) - Course BGM 3",
-    "authors": [
-      "Fullcannon"
-    ],
-    "tags": [
-      "athletic",
-      "forest",
-      "grassland",
-      "sea"
-    ],
-    "description": "Third of the three in-game golfing tunes heard in the Sega Saturn port of Pebble Beach Golf Links: Stadler ni Chousen.",
-    "latest_version": "smwc-42422-1788014822",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42422,
-        "title": "Pebble Beach Golf Links (Saturn) - Course BGM 3",
-        "version": "smwc-42422-1788014822",
-        "upstream_time": 1788014822,
-        "download_url": "https://dl.smwcentral.net/42422/Pebble%20Beach%20Golf%20Links%20%28SAT%29%20-%20Course%20BGM%203.zip",
-        "filename": "Pebble Beach Golf Links (SAT) - Course BGM 3.zip",
-        "size": 59364,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
     "name": "smwmusic-persona",
     "aliases": [],
     "section": "smwmusic",
-    "upstream_id": 42439,
-    "title": "Persona 2: Innocent Sin - W Slash",
+    "upstream_id": 42440,
+    "title": "Persona 2: Eternal Punishment - Enigma",
     "authors": [
       "Ahrion"
     ],
     "tags": [
       "abstract",
-      "beach",
-      "calm",
-      "city",
-      "credits",
       "cutscene",
-      "menu",
-      "mysterious",
-      "overworld",
-      "temple"
+      "industrial",
+      "mysterious"
     ],
     "description": "Note: This song is not compatible with the following Global Songs / SFX:<br>\r\nBonus End, Yoshi, Thunder/Firework/Blargg",
-    "latest_version": "smwc-42439-1788142928",
+    "latest_version": "smwc-42440-1790525989",
     "install_kind": "add_music_k_music",
     "versions": [
       {
-        "upstream_id": 42439,
-        "title": "Persona 2: Innocent Sin - W Slash",
-        "version": "smwc-42439-1788142928",
-        "upstream_time": 1788142928,
-        "download_url": "https://dl.smwcentral.net/42439/W%20Slash.zip",
-        "filename": "W Slash.zip",
-        "size": 102644,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      },
-      {
-        "upstream_id": 42438,
-        "title": "Persona 2: Innocent Sin - Kaori",
-        "version": "smwc-42438-1788142640",
-        "upstream_time": 1788142640,
-        "download_url": "https://dl.smwcentral.net/42438/Kaori.zip",
-        "filename": "Kaori.zip",
-        "size": 99935,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      },
-      {
-        "upstream_id": 42437,
-        "title": "Persona 2: Eternal Punishment - Trish's Fountain",
-        "version": "smwc-42437-1788131391",
-        "upstream_time": 1788131391,
-        "download_url": "https://dl.smwcentral.net/42437/Trishs%20Fountain.zip",
-        "filename": "Trishs Fountain.zip",
-        "size": 104871,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      },
-      {
-        "upstream_id": 42436,
-        "title": "Persona 2: Eternal Punishment - Tony's Shop",
-        "version": "smwc-42436-1788142280",
-        "upstream_time": 1788142280,
-        "download_url": "https://dl.smwcentral.net/42436/Tonys%20Shop.zip",
-        "filename": "Tonys Shop.zip",
-        "size": 102419,
+        "upstream_id": 42440,
+        "title": "Persona 2: Eternal Punishment - Enigma",
+        "version": "smwc-42440-1790525989",
+        "upstream_time": 1790525989,
+        "download_url": "https://dl.smwcentral.net/42440/Enigma.zip",
+        "filename": "Enigma.zip",
+        "size": 103803,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -970,6 +940,44 @@
         "download_url": "https://dl.smwcentral.net/42404/Planet%20of%20Cartmans%20-%20The%20Ultimate%20Faceoff.zip",
         "filename": "Planet of Cartmans - The Ultimate Faceoff.zip",
         "size": 33094,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-pok-mon-diamond-pearl-platinum-mystery-zone",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42658,
+    "title": "Pokémon Diamond/Pearl/Platinum - Mystery Zone",
+    "authors": [
+      "sinseiga"
+    ],
+    "tags": [
+      "dark",
+      "forest",
+      "grassland",
+      "mountain",
+      "mysterious",
+      "night",
+      "overworld"
+    ],
+    "description": "Unused theme from Pokémon DPPt<br>\r\nIt's also known as Mystery Zone or SEQ_DUMMY<br>\r\n<br>\r\nI'm sure some of you have heard this before, whoever used cheats =)<br>\r\n<br>\r\n<span style=\"color: #ff0000;\"><b> This song uses TIGHT ARAM use with caution.<br>\r\nAlso, it will change some SFX and not compatible with:<br>\r\nThunder, P-switch, Bonus end </b></span>",
+    "latest_version": "smwc-42658-1790570054",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42658,
+        "title": "Pokémon Diamond/Pearl/Platinum - Mystery Zone",
+        "version": "smwc-42658-1790570054",
+        "upstream_time": 1790570054,
+        "download_url": "https://dl.smwcentral.net/42658/Route%20206%20%28Mystery%29.zip",
+        "filename": "Route 206 (Mystery).zip",
+        "size": 108010,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -1054,69 +1062,33 @@
     ]
   },
   {
-    "name": "smwmusic-quack-shot-duckburg",
+    "name": "smwmusic-pok-mon-diamond-pearl-platinum-route",
     "aliases": [],
     "section": "smwmusic",
-    "upstream_id": 42282,
-    "title": "Quack Shot - Duckburg",
+    "upstream_id": 42657,
+    "title": "Pokémon Diamond/Pearl/Platinum - Route 206 (Night)",
     "authors": [
-      "Dzing"
+      "sinseiga"
     ],
     "tags": [
-      "athletic",
+      "forest",
       "grassland",
-      "town",
-      "upbeat",
-      "urban"
+      "mountain",
+      "night",
+      "overworld"
     ],
-    "description": "Upbeat song. Fits first levels.",
-    "latest_version": "smwc-42282-1788026676",
+    "description": "Upbeat and hopeful music from Pokémon Diamond/Pearl/Platinum.<br>\r\n<br>\r\nYou'll walk down this path at night too, to find Gible.",
+    "latest_version": "smwc-42657-1790570003",
     "install_kind": "add_music_k_music",
     "versions": [
       {
-        "upstream_id": 42282,
-        "title": "Quack Shot - Duckburg",
-        "version": "smwc-42282-1788026676",
-        "upstream_time": 1788026676,
-        "download_url": "https://dl.smwcentral.net/42282/quackshot-duckburg.zip",
-        "filename": "quackshot-duckburg.zip",
-        "size": 96107,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-romancing-saga",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42382,
-    "title": "Romancing Saga 3 - Sailing",
-    "authors": [
-      "scratch"
-    ],
-    "tags": [
-      "calm",
-      "cutscene",
-      "overworld",
-      "sea",
-      "town"
-    ],
-    "description": "Such a calm travel theme.",
-    "latest_version": "smwc-42382-1788408986",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42382,
-        "title": "Romancing Saga 3 - Sailing",
-        "version": "smwc-42382-1788408986",
-        "upstream_time": 1788408986,
-        "download_url": "https://dl.smwcentral.net/42382/rs3_sailing.zip",
-        "filename": "rs3_sailing.zip",
-        "size": 55665,
+        "upstream_id": 42657,
+        "title": "Pokémon Diamond/Pearl/Platinum - Route 206 (Night)",
+        "version": "smwc-42657-1790570003",
+        "upstream_time": 1790570003,
+        "download_url": "https://dl.smwcentral.net/42657/Route%20206%20%28Night%29.zip",
+        "filename": "Route 206 (Night).zip",
+        "size": 84911,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -1124,50 +1096,13 @@
         "install_kind": "add_music_k_music"
       },
       {
-        "upstream_id": 42381,
-        "title": "Romancing Saga 3 - Lance ~ City of the Holy King",
-        "version": "smwc-42381-1788408972",
-        "upstream_time": 1788408972,
-        "download_url": "https://dl.smwcentral.net/42381/rs3_lance.zip",
-        "filename": "rs3_lance.zip",
-        "size": 59814,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-shanghai-exe-genso-network-it-s-genso-liberation-time-virus-busting-mega-mix",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42237,
-    "title": "Shanghai.EXE: Genso Network - IT'S GENSO-LIBERATION TIME!!! 🔫 ~ Virus Busting (Mega-mix)",
-    "authors": [
-      "Hooded Edge"
-    ],
-    "tags": [
-      "athletic",
-      "bonus",
-      "boss",
-      "industrial",
-      "switch palace",
-      "upbeat"
-    ],
-    "description": "<span style=\"font-size: 18pt;\"><span style=\"color: #68EFFF;\">❝ <i><b>Jack in! Shanghai.EXE! Execute!</b></i> ❞</span></span><br>\r\nㅤ<span style=\"font-size: 8pt;\">- Alice Shinki, <i>Shanghai.EXE</i></span><br>\r\n<br>\r\n<img src=\"https://bin.smwcentral.net/u/23547/ShanghaiEXE.webp\" alt=\"\"><br>\r\n<br>\r\nDid a simple arrangement of <b><a href=\"https://youtu.be/9KwWyHt-sAg\" rel=\"nofollow\">Virus Busting</a></b> from <i>Shanghai.EXE</i> <div class=\"spoiler\"><input type=\"checkbox\" class=\"spoiler-reveal\"><div class=\"spoilerInner\">(ft. <b><a href=\"https://youtu.be/AGoffp1amRw\" rel=\"nofollow\">Battle</a> <a href=\"https://youtu.be/XzW7Z-8lpZs\" rel=\"nofollow\">Start!</a></b> from & <i>Mega Man Battle Network 5</i>)</div></div>. Did every single battle network battle theme except for the secret seventh one from this gem of a fangame (the real Battle Network 7). Always felt like it was inspired by BN5's battle theme, so I thought I'd mash the two up.<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. Original Volume (OG Echo)ㅤ<span style=\"color: #C291EB;\">[Listening-Only]</span><br>\r\nㅤ2. Lower Volume (LOWER Echo)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤㅤ♠  What's disabled:<br>\r\nㅤㅤㅤ -  \"Bonus End\" (@7)<br>\r\nㅤㅤㅤ -  Thunder SFX<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable pitches for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. A# Minor (Original Pitch)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span> <br>\r\nㅤ2. B Minor (Custom Pitch 1)<br>\r\nㅤ3. G# Minor (Custom Pitch 2)",
-    "latest_version": "smwc-42237-1788238515",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42237,
-        "title": "Shanghai.EXE: Genso Network - IT'S GENSO-LIBERATION TIME!!! 🔫 ~ Virus Busting (Mega-mix)",
-        "version": "smwc-42237-1788238515",
-        "upstream_time": 1788238515,
-        "download_url": "https://dl.smwcentral.net/42237/IT%27S%20GENSO-LIBERATION%20TIME%21%21%21.zip",
-        "filename": "IT%27S GENSO-LIBERATION TIME%21%21%21.zip",
-        "size": 307749,
+        "upstream_id": 42656,
+        "title": "Pokémon Diamond/Pearl/Platinum - Route 206 (Day)",
+        "version": "smwc-42656-1790569999",
+        "upstream_time": 1790569999,
+        "download_url": "https://dl.smwcentral.net/42656/Route%20206%20%28Day%29.zip",
+        "filename": "Route 206 (Day).zip",
+        "size": 96074,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -1211,73 +1146,64 @@
     ]
   },
   {
-    "name": "smwmusic-star-fox-trust-your-instincts-corneria-remix",
+    "name": "smwmusic-star-fox",
     "aliases": [],
     "section": "smwmusic",
-    "upstream_id": 42322,
-    "title": "Star Fox - Trust your Instincts 🕶️ ~ Corneria (Remix)",
+    "upstream_id": 43066,
+    "title": "Star Fox 64 - Aquas",
     "authors": [
-      "Hooded Edge"
+      "ggamer77"
     ],
     "tags": [
-      "airship",
-      "athletic",
-      "bonus",
+      "ambient",
       "calm",
-      "chase",
-      "credits",
-      "final",
-      "mountain",
+      "menu",
       "space",
+      "tense",
       "title",
-      "upbeat"
+      "underwater",
+      "water"
     ],
-    "description": "<span style=\"font-size: 18pt;\"><span style=\"color: #F07E7E;\">❝ <i><b>HIYAAAAAAA</b></i> ❞</span></span><br>\r\nㅤ<span style=\"font-size: 8pt;\">- Fox McCloud, <i>Super Smash Bros. Melee</i> (2001)</span><br>\r\n<br>\r\n<img src=\"https://bin.smwcentral.net/u/23547/Star%2BFox.webp\" alt=\"\"><br>\r\n<br>\r\nDid an arrangement of <b><a href=\"https://youtu.be/oBD3FO6ozXc\" rel=\"nofollow\">Corn</a><a href=\"https://youtu.be/2jsHUd6sRow\" rel=\"nofollow\">eria</a></b> from <i>Star Fox 1</i>. I realized that I haven't even touched a song from this soundtrack at all (that's a crime), and the Mario Galaxy movie made me realize that. Was inspired by an old arrangement of this I heard in Project M YEARS BACK (but can't seem to find online 😭), and wanted to replicate its semi-chill yet upbeat vibe for this mix. Corneria's one of my favorite songs on the SNES, and not having done it for years is an actual crime, but hey! It's better late than never.<br>\r\n<br>\r\n<div class=\"spoiler\"><input type=\"checkbox\" class=\"spoiler-reveal\"><div class=\"spoilerInner\">Also, HOLY SHIT THAT TIMING AFTER THE REMAKE GOT ANNOUNCED!!!</div></div><br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. Original Echo Delay (OG Echo)ㅤ<span style=\"color: #C291EB;\">[Listening-Only]</span><br>\r\nㅤ2. Lower Volume (LOWER Volume)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤㅤ♠  What's disabled:<br>\r\nㅤㅤㅤ -  \"Bonus End\" (@7)<br>\r\nㅤㅤㅤ -  Yoshi SFX (@15)<br>\r\nㅤㅤㅤ -  Thunder SFX<br>\r\nㅤ3. Lower Volume & Decreased Echo Delay (LOWER Echo)<br>\r\nㅤㅤ♠  What's disabled:<br>\r\nㅤㅤㅤ -  \"Bonus End\" (@7)<br>\r\nㅤㅤㅤ -  Thunder SFX<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable pitches for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. F# Minor w/ Slight Detune (Remix Pitch)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤ2. F# Minor (Custom Pitch 1)<br>\r\nㅤ3. G Minor (Original Pitch)<br>\r\nㅤ4. G# Minor (Custom Pitch 2)<br>\r\nㅤ5. E Minor (Custom Pitch 3)",
-    "latest_version": "smwc-42322-1788036549",
+    "description": "Calm aquatic song from Star Fox 64.<br>\r\n<br>\r\nIncompatible with thunder SFX.",
+    "latest_version": "smwc-43066-1791005223",
     "install_kind": "add_music_k_music",
     "versions": [
       {
-        "upstream_id": 42322,
-        "title": "Star Fox - Trust your Instincts 🕶️ ~ Corneria (Remix)",
-        "version": "smwc-42322-1788036549",
-        "upstream_time": 1788036549,
-        "download_url": "https://dl.smwcentral.net/42322/Trust%20your%20Instincts.zip",
-        "filename": "Trust your Instincts.zip",
-        "size": 712015,
+        "upstream_id": 43066,
+        "title": "Star Fox 64 - Aquas",
+        "version": "smwc-43066-1791005223",
+        "upstream_time": 1791005223,
+        "download_url": "https://dl.smwcentral.net/43066/Star%20Fox%2064%20-%20Aquas.zip",
+        "filename": "Star Fox 64 - Aquas.zip",
+        "size": 81395,
         "sha256": null,
         "dependencies": [
           "addmusick"
         ],
         "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-super-castlevania-iv-forest-of-monsters",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42412,
-    "title": "Super Castlevania IV - Forest of Monsters",
-    "authors": [
-      "h.carrell"
-    ],
-    "tags": [
-      "forest",
-      "ghost house",
-      "swamp"
-    ],
-    "description": "The theme of Block 2 from Super Castlevania 4, also known for playing in Forest of Decay Act 2 in the Sonic Rom hack Hellfire Saga.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Anorakun\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=42525\" style=\"color: #fe1d02;\" class=\"un\">Anorakun</a></span>",
-    "latest_version": "smwc-42412-1788208569",
-    "install_kind": "add_music_k_music",
-    "versions": [
+      },
       {
-        "upstream_id": 42412,
-        "title": "Super Castlevania IV - Forest of Monsters",
-        "version": "smwc-42412-1788208569",
-        "upstream_time": 1788208569,
-        "download_url": "https://dl.smwcentral.net/42412/Forest%20of%20Decay%20act%202.zip",
-        "filename": "Forest of Decay act 2.zip",
-        "size": 76073,
+        "upstream_id": 42389,
+        "title": "Star Fox 64 - Meteo",
+        "version": "smwc-42389-1790526614",
+        "upstream_time": 1790526614,
+        "download_url": "https://dl.smwcentral.net/42389/%5BU%5D%20Star%20Fox%2064%20-%20Meteo.zip",
+        "filename": "%5BU%5D Star Fox 64 - Meteo.zip",
+        "size": 33425,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      },
+      {
+        "upstream_id": 42370,
+        "title": "Star Fox 64 - Main Menu",
+        "version": "smwc-42370-1790526488",
+        "upstream_time": 1790526488,
+        "download_url": "https://dl.smwcentral.net/42370/%5BU%5D%20Star%20Fox%2064%20-%20Main%20Menu.zip",
+        "filename": "%5BU%5D Star Fox 64 - Main Menu.zip",
+        "size": 32452,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -1290,19 +1216,39 @@
     "name": "smwmusic-super-mario",
     "aliases": [],
     "section": "smwmusic",
-    "upstream_id": 42164,
-    "title": "Super Mario 64 - Metallic Mario",
+    "upstream_id": 42341,
+    "title": "Super Mario 64 - Slider",
     "authors": [
-      "NamyX"
+      "brickblock369"
     ],
     "tags": [
+      "athletic",
       "bonus",
-      "boss"
+      "boss",
+      "carnival",
+      "chaotic",
+      "chase",
+      "sky",
+      "upbeat"
     ],
-    "description": "Metallic Mario from Super Mario 64.<br>\r\n<br>\r\nNote: Incompatible with Bonus End.",
-    "latest_version": "smwc-42164-1789692689",
+    "description": "Music that plays in slider levels, Koopa the Quick races, Tick-Tock Clock, Rainbow Ride, and many secret courses.<br>\r\n<br>\r\nI was indecisive about which timbres to choose for the lead fiddle and the banjo, though I'd highly recommend @4 for the fiddle and @14 for the banjo.",
+    "latest_version": "smwc-42341-1790526330",
     "install_kind": "add_music_k_music",
     "versions": [
+      {
+        "upstream_id": 42341,
+        "title": "Super Mario 64 - Slider",
+        "version": "smwc-42341-1790526330",
+        "upstream_time": 1790526330,
+        "download_url": "https://dl.smwcentral.net/42341/Super%20Mario%2064%20-%20Slide.zip",
+        "filename": "Super Mario 64 - Slide.zip",
+        "size": 204729,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      },
       {
         "upstream_id": 42164,
         "title": "Super Mario 64 - Metallic Mario",
@@ -1320,34 +1266,31 @@
     ]
   },
   {
-    "name": "smwmusic-super-mario-bros-game-over",
+    "name": "smwmusic-super-mario-rpg-legend-of-the-seven-stars-conversation-with-culex",
     "aliases": [],
     "section": "smwmusic",
-    "upstream_id": 42088,
-    "title": "Super Mario Bros. - Game Over",
+    "upstream_id": 42686,
+    "title": "Super Mario RPG: Legend of the Seven Stars - Conversation with Culex",
     "authors": [
-      "7 up"
+      "h.carrell"
     ],
     "tags": [
-      "ambient",
       "calm",
-      "game over",
-      "goal",
-      "miss",
-      "sad"
+      "cutscene",
+      "menu"
     ],
-    "description": "Super Mario Bros.' game over theme that you hear a lot, especially in The Lost Levels. Remixed in style of Super Mario World's electric piano theme. I originally made this last year, which marked the 40th anniversary of Super Mario Bros.<br>\r\n<br>\r\nI don't have to tell you what this fits in.",
-    "latest_version": "smwc-42088-1788116401",
+    "description": "The calm theme in SMRPG when you defeat Culex. This song is an arrangement of The Prelude from the Final Fantasy Series.",
+    "latest_version": "smwc-42686-1790628668",
     "install_kind": "add_music_k_music",
     "versions": [
       {
-        "upstream_id": 42088,
-        "title": "Super Mario Bros. - Game Over",
-        "version": "smwc-42088-1788116401",
-        "upstream_time": 1788116401,
-        "download_url": "https://dl.smwcentral.net/42088/smb1%20gameover.zip",
-        "filename": "smb1 gameover.zip",
-        "size": 30817,
+        "upstream_id": 42686,
+        "title": "Super Mario RPG: Legend of the Seven Stars - Conversation with Culex",
+        "version": "smwc-42686-1790628668",
+        "upstream_time": 1790628668,
+        "download_url": "https://dl.smwcentral.net/42686/SMRPG%20Prelude.zip",
+        "filename": "SMRPG Prelude.zip",
+        "size": 25851,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -1357,33 +1300,104 @@
     ]
   },
   {
-    "name": "smwmusic-tia-ai-a-em-v-low-cortisol-song-star-mix",
+    "name": "smwmusic-tales-of-phantasia-second-act",
     "aliases": [],
     "section": "smwmusic",
-    "upstream_id": 42342,
-    "title": "TIA - Ai Đưa Em Về (Low Cortisol Song) (Star-mix)",
+    "upstream_id": 42742,
+    "title": "Tales of Phantasia - Second Act",
     "authors": [
-      "Hooded Edge"
+      "Ahrion"
     ],
     "tags": [
+      "airship",
+      "castle",
       "credits",
       "cutscene",
-      "p-switch",
-      "star",
+      "final",
       "title"
     ],
-    "description": "<img src=\"https://media1.tenor.com/m/Dn12S2BHR0UAAAAd/agnes-tachyon-uma-musume.gif\" alt=\"\"><br>\r\n<br>\r\nDid a short arrangement of <a href=\"https://youtu.be/apqe_u3VJQ4\" rel=\"nofollow\">Ai Đưa Em Về</a> (aka the <a href=\"https://youtu.be/NOd291dK1Do?t=7\" rel=\"nofollow\">low cortisol meme</a> starring Agnes Tachyon from Umamusume: Pretty Derby). Let's just say I love Tachyon a li'l too much. :)<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. Enables the Intro (INTRO Enabled)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤ2. Skips the Intro (INTRO Skipped)<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. A# Minor (Original Pitch)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤ2. B Minor (Custom Pitch)",
-    "latest_version": "smwc-42342-1788424880",
+    "description": "A heroic song from Tales of Phantasia<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Zavok\"><a href=\"/?p=profile&amp;id=36942\" style=\"color: var(--user-color-1);\" class=\"un\">Zavok</a></span>",
+    "latest_version": "smwc-42742-1790633401",
     "install_kind": "add_music_k_music",
     "versions": [
       {
-        "upstream_id": 42342,
-        "title": "TIA - Ai Đưa Em Về (Low Cortisol Song) (Star-mix)",
-        "version": "smwc-42342-1788424880",
-        "upstream_time": 1788424880,
-        "download_url": "https://dl.smwcentral.net/42342/Low%20Cortisol%20%28Star-mix%29.zip",
-        "filename": "Low Cortisol (Star-mix).zip",
-        "size": 125139,
+        "upstream_id": 42742,
+        "title": "Tales of Phantasia - Second Act",
+        "version": "smwc-42742-1790633401",
+        "upstream_time": 1790633401,
+        "download_url": "https://dl.smwcentral.net/42742/Second_Act.zip",
+        "filename": "Second_Act.zip",
+        "size": 62823,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-tetris-dr-mario-fever",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42719,
+    "title": "Tetris & Dr. Mario - Fever",
+    "authors": [
+      "h.carrell"
+    ],
+    "tags": [
+      "athletic",
+      "bonus",
+      "boss",
+      "upbeat"
+    ],
+    "description": "One of 2 songs that you can play Dr. Mario with, as heard in Tetris & Dr. Mario.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Zavok\"><a href=\"/?p=profile&amp;id=36942\" style=\"color: var(--user-color-1);\" class=\"un\">Zavok</a></span>",
+    "latest_version": "smwc-42719-1790631972",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42719,
+        "title": "Tetris & Dr. Mario - Fever",
+        "version": "smwc-42719-1790631972",
+        "upstream_time": 1790631972,
+        "download_url": "https://dl.smwcentral.net/42719/T%26DM%20Fever.zip",
+        "filename": "T%26DM Fever.zip",
+        "size": 53446,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-the-15th-vanilla-level-design-contest-prison-cages",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42674,
+    "title": "The 15th Vanilla Level Design Contest - Prison Cages",
+    "authors": [
+      "Daizo Dee Von"
+    ],
+    "tags": [
+      "ambient",
+      "dark",
+      "environmental",
+      "ghost house"
+    ],
+    "description": "A spooky track for abandoned complexes.<br>\r\n<br>\r\nAppreciate credit if used.",
+    "latest_version": "smwc-42674-1790628477",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42674,
+        "title": "The 15th Vanilla Level Design Contest - Prison Cages",
+        "version": "smwc-42674-1790628477",
+        "upstream_time": 1790628477,
+        "download_url": "https://dl.smwcentral.net/42674/%5BS%5D%20VLDC%2015%20-%20Tectonic%20Complex.zip",
+        "filename": "%5BS%5D VLDC 15 - Tectonic Complex.zip",
+        "size": 81006,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -1466,35 +1480,32 @@
     ]
   },
   {
-    "name": "smwmusic-trials-of-mana-frenzy",
+    "name": "smwmusic-watermelon-valley",
     "aliases": [],
     "section": "smwmusic",
-    "upstream_id": 42240,
-    "title": "Trials of Mana - Frenzy",
+    "upstream_id": 42711,
+    "title": "Watermelon Valley",
     "authors": [
-      "scratch"
+      "EDIT3333"
     ],
     "tags": [
-      "abstract",
-      "boss",
-      "carnival",
-      "industrial",
-      "mountain",
-      "tense",
+      "athletic",
+      "bonus",
+      "grass",
       "upbeat"
     ],
-    "description": "This music plays when you enter Seaside Cavern and fight Mispolm the Wood Benevodon. Enjoy!",
-    "latest_version": "smwc-42240-1788206362",
+    "description": "A fun theme; it works well for colorful spaces.",
+    "latest_version": "smwc-42711-1790632226",
     "install_kind": "add_music_k_music",
     "versions": [
       {
-        "upstream_id": 42240,
-        "title": "Trials of Mana - Frenzy",
-        "version": "smwc-42240-1788206362",
-        "upstream_time": 1788206362,
-        "download_url": "https://dl.smwcentral.net/42240/sd3%20frenzy.zip",
-        "filename": "sd3 frenzy.zip",
-        "size": 115621,
+        "upstream_id": 42711,
+        "title": "Watermelon Valley",
+        "version": "smwc-42711-1790632226",
+        "upstream_time": 1790632226,
+        "download_url": "https://dl.smwcentral.net/42711/Watermelon%20Valley%20.zip",
+        "filename": "Watermelon Valley .zip",
+        "size": 31369,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -1504,65 +1515,73 @@
     ]
   },
   {
-    "name": "smwmusic-undertale-premonition",
+    "name": "smwmusic-yoshi-topsy-turvy-tale-of-the-spirit-of-cuteness",
     "aliases": [],
     "section": "smwmusic",
-    "upstream_id": 42190,
-    "title": "Undertale - Premonition",
+    "upstream_id": 42666,
+    "title": "Yoshi Topsy-Turvy - Tale of the Spirit of Cuteness",
     "authors": [
-      "h.carrell"
+      "Moose"
     ],
     "tags": [
-      "cutscene",
-      "mysterious",
+      "forest",
+      "grassland",
+      "ice",
+      "mountain",
+      "sky",
+      "snow",
+      "upbeat"
+    ],
+    "description": "been wanting to do this since i first got into music porting. i guess this is what i've been building up to all these years lol",
+    "latest_version": "smwc-42666-1790628236",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42666,
+        "title": "Yoshi Topsy-Turvy - Tale of the Spirit of Cuteness",
+        "version": "smwc-42666-1790628236",
+        "upstream_time": 1790628236,
+        "download_url": "https://dl.smwcentral.net/42666/ytt-cuteness.zip",
+        "filename": "ytt-cuteness.zip",
+        "size": 39564,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-yoshi-topsy-turvy-tale-of-the-spirit-of-power",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42705,
+    "title": "Yoshi Topsy-Turvy - Tale of the Spirit of Power",
+    "authors": [
+      "Moose"
+    ],
+    "tags": [
+      "athletic",
+      "boss",
+      "castle",
+      "cave",
+      "dark",
+      "fire",
       "tense"
     ],
-    "description": "\"have you heard of a <span style=\"color: #fbff00;\">talking flower?</span>\"<br>\r\n<br>\r\nOne of my first FL Studio ports. Based off a <a href=\"https://youtu.be/uUxZ8mWQAh4\" rel=\"nofollow\">recreation by storm</a><br>\r\n<br>\r\nIncludes an option for the OST or the game files speed.",
-    "latest_version": "smwc-42190-1788540184",
+    "description": "wanted to come back to this after all these years",
+    "latest_version": "smwc-42705-1790628981",
     "install_kind": "add_music_k_music",
     "versions": [
       {
-        "upstream_id": 42190,
-        "title": "Undertale - Premonition",
-        "version": "smwc-42190-1788540184",
-        "upstream_time": 1788540184,
-        "download_url": "https://dl.smwcentral.net/42190/Premonition.zip",
-        "filename": "Premonition.zip",
-        "size": 71221,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-undertale-song-that-might-play-when-you-fight-sans",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42444,
-    "title": "Undertale - song that might play when you fight sans",
-    "authors": [
-      "Forgado"
-    ],
-    "tags": [
-      "boss",
-      "chase",
-      "upbeat"
-    ],
-    "description": "The song \"song that might play when you fight sans\" from Undertale, which is the song that might play when you fight sans, originally composed by Toby Fox. Good music for action or boss segments. Might be good for when you fight sans from Undertale.<br>\r\n<br>\r\nThe original samples were found using the Toby Fox Sample Sheet.",
-    "latest_version": "smwc-42444-1788131363",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42444,
-        "title": "Undertale - song that might play when you fight sans",
-        "version": "smwc-42444-1788131363",
-        "upstream_time": 1788131363,
-        "download_url": "https://dl.smwcentral.net/42444/song%20that%20might%20play%20when%20you%20fight%20sans.zip",
-        "filename": "song that might play when you fight sans.zip",
-        "size": 74791,
+        "upstream_id": 42705,
+        "title": "Yoshi Topsy-Turvy - Tale of the Spirit of Power",
+        "version": "smwc-42705-1790628981",
+        "upstream_time": 1790628981,
+        "download_url": "https://dl.smwcentral.net/42705/ytt-power26.zip",
+        "filename": "ytt-power26.zip",
+        "size": 39880,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -1610,45 +1629,6 @@
         "download_url": "https://dl.smwcentral.net/42595/Invincible%20%5BS%5D.zip",
         "filename": "Invincible %5BS%5D.zip",
         "size": 96968,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-zeliard-beauty-in-destruction-cavern-of-malicia",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 41916,
-    "title": "Zeliard - Beauty in Destruction ~ Cavern of Malicia",
-    "authors": [
-      "Daizo Dee Von"
-    ],
-    "tags": [
-      "castle",
-      "cave",
-      "dark",
-      "final",
-      "fire",
-      "night",
-      "ruins",
-      "tense"
-    ],
-    "description": "The epic theme as heard in the first cavern of the game, remixed to add a lot more instruments and chords.<br>\r\n<br>\r\nI would appreciate credit, thank you.",
-    "latest_version": "smwc-41916-1788117219",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 41916,
-        "title": "Zeliard - Beauty in Destruction ~ Cavern of Malicia",
-        "version": "smwc-41916-1788117219",
-        "upstream_time": 1788117219,
-        "download_url": "https://dl.smwcentral.net/41916/%5BS%5D%20Zeliard%20-%20Beauty%20in%20Destruction%20~%20Cavern%20of%20Malicia.zip",
-        "filename": "%5BS%5D Zeliard - Beauty in Destruction ~ Cavern of Malicia.zip",
-        "size": 85812,
         "sha256": null,
         "dependencies": [
           "addmusick"

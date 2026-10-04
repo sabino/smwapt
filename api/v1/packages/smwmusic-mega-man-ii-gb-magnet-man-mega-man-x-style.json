@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-mega-man-ii-gb-magnet-man-mega-man-x-style",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42518,
+  "title": "Mega Man II(GB) - Magnet Man (Mega Man X Style)",
+  "authors": [
+    "JX444444"
+  ],
+  "tags": [
+    "airship",
+    "industrial",
+    "temple"
+  ],
+  "description": "Based : Sigma Fortress 1 from Mega Man X<br>\r\n<br>\r\nThe Magnet Man theme song in the GB version went very well with Sigma Fortress 1.",
+  "latest_version": "smwc-42518-1790695696",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42518,
+      "title": "Mega Man II(GB) - Magnet Man (Mega Man X Style)",
+      "version": "smwc-42518-1790695696",
+      "upstream_time": 1790695696,
+      "download_url": "https://dl.smwcentral.net/42518/MagnetGB_X1.zip",
+      "filename": "MagnetGB_X1.zip",
+      "size": 61823,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

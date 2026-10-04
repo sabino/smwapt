@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-pok-mon-diamond-pearl-platinum-mystery-zone",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42658,
+  "title": "Pokémon Diamond/Pearl/Platinum - Mystery Zone",
+  "authors": [
+    "sinseiga"
+  ],
+  "tags": [
+    "dark",
+    "forest",
+    "grassland",
+    "mountain",
+    "mysterious",
+    "night",
+    "overworld"
+  ],
+  "description": "Unused theme from Pokémon DPPt<br>\r\nIt's also known as Mystery Zone or SEQ_DUMMY<br>\r\n<br>\r\nI'm sure some of you have heard this before, whoever used cheats =)<br>\r\n<br>\r\n<span style=\"color: #ff0000;\"><b> This song uses TIGHT ARAM use with caution.<br>\r\nAlso, it will change some SFX and not compatible with:<br>\r\nThunder, P-switch, Bonus end </b></span>",
+  "latest_version": "smwc-42658-1790570054",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42658,
+      "title": "Pokémon Diamond/Pearl/Platinum - Mystery Zone",
+      "version": "smwc-42658-1790570054",
+      "upstream_time": 1790570054,
+      "download_url": "https://dl.smwcentral.net/42658/Route%20206%20%28Mystery%29.zip",
+      "filename": "Route 206 (Mystery).zip",
+      "size": 108010,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

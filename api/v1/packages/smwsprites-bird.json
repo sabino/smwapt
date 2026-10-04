@@ -1,0 +1,34 @@
+{
+  "name": "smwsprites-bird",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 42802,
+  "title": "Bird",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "lorom",
+    "pacifist",
+    "sa-1"
+  ],
+  "description": "A bird which picks around and randomly flips directions.<br>\r\n<br>\r\nOriginally made for <span class=\"un-outer\" title=\"Tob\"><a href=\"/?p=profile&amp;id=25442\" style=\"color: var(--user-color-1);\" class=\"un\">Tob</a></span> and I's OWDC3 entry, which placed 1st.",
+  "latest_version": "smwc-42802-1790784661",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 42802,
+      "title": "Bird",
+      "version": "smwc-42802-1790784661",
+      "upstream_time": 1790784661,
+      "download_url": "https://dl.smwcentral.net/42802/OW%20Bird.zip",
+      "filename": "OW Bird.zip",
+      "size": 1726,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

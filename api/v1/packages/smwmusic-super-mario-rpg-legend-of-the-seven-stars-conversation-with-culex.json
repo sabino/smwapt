@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-super-mario-rpg-legend-of-the-seven-stars-conversation-with-culex",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42686,
+  "title": "Super Mario RPG: Legend of the Seven Stars - Conversation with Culex",
+  "authors": [
+    "h.carrell"
+  ],
+  "tags": [
+    "calm",
+    "cutscene",
+    "menu"
+  ],
+  "description": "The calm theme in SMRPG when you defeat Culex. This song is an arrangement of The Prelude from the Final Fantasy Series.",
+  "latest_version": "smwc-42686-1790628668",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42686,
+      "title": "Super Mario RPG: Legend of the Seven Stars - Conversation with Culex",
+      "version": "smwc-42686-1790628668",
+      "upstream_time": 1790628668,
+      "download_url": "https://dl.smwcentral.net/42686/SMRPG%20Prelude.zip",
+      "filename": "SMRPG Prelude.zip",
+      "size": 25851,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

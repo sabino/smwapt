@@ -1,0 +1,40 @@
+{
+  "name": "smwsprites-npcs",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 42144,
+  "title": "NPCs",
+  "authors": [
+    "wye"
+  ],
+  "tags": [
+    "customizable",
+    "lorom",
+    "message",
+    "npc",
+    "npcs",
+    "pacifist",
+    "sa-1",
+    "vwf",
+    "vwf dialogues"
+  ],
+  "description": "This is a sprite that doesn't hurt the player and doesn't interact with any other sprites. It can stay still, walk around, or jump, and also display a message if the player presses a button while touching it.<br>\r\n<br>\r\nIt's compatible with SMW's regular message boxes (can use any message in any level and show up to two at once), the Message Box Expansion patch, and also the VWF Dialogues patch.<br>\r\n<br>\r\nThe movement, graphics and message behavior are <em>highly</em> customizable. All the options are in the extra bytes (of which it uses all 12). This means you only need to have <em>one entry</em> in your sprite list and can fully customize it <em>as you place it in your level</em>!<br>\r\n<br>\r\nAll the customization options are explained in HOW_TO_USE.html, so please refer to that. It also has a user-friendly configuration tool.<br>\r\n<br>\r\n<b><span style=\"color: #ffc000;\">If you're updating to 4.5, you need to edit the sprites you've already placed (see INFO_IF_YOUVE_USED_AN_OLDER_VERSION.txt).</span></b><br>\r\n<br>\r\n&nbsp;",
+  "latest_version": "4.5",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 42144,
+      "title": "NPCs",
+      "version": "4.5",
+      "upstream_time": 1790812786,
+      "download_url": "https://dl.smwcentral.net/42144/NPCs_v4.5.zip",
+      "filename": "NPCs_v4.5.zip",
+      "size": 75467,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}
