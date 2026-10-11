@@ -1,0 +1,83 @@
+{
+  "name": "smwmusic-super-mario-advance",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 43322,
+  "title": "Super Mario Advance 3: Yoshi's Island - Title",
+  "authors": [
+    "LadiesMan217",
+    "musicalman"
+  ],
+  "tags": [
+    "athletic",
+    "calm",
+    "credits",
+    "cutscene",
+    "grassland",
+    "menu",
+    "sad",
+    "title",
+    "upbeat"
+  ],
+  "description": "Part of The Super Mario World 2: Yoshi's Island Soundtrack.",
+  "latest_version": "smwc-43322-1791577525",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 43322,
+      "title": "Super Mario Advance 3: Yoshi's Island - Title",
+      "version": "smwc-43322-1791577525",
+      "upstream_time": 1791577525,
+      "download_url": "https://dl.smwcentral.net/43322/Yoshi%27s%20Island%20-%20Title.zip",
+      "filename": "Yoshi%27s Island - Title.zip",
+      "size": 36706,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 43321,
+      "title": "Super Mario Advance 3: Yoshi's Island - Perfect Ending",
+      "version": "smwc-43321-1791577434",
+      "upstream_time": 1791577434,
+      "download_url": "https://dl.smwcentral.net/43321/Yoshi%27s%20Island%20-%20Perfect%20Ending.zip",
+      "filename": "Yoshi%27s Island - Perfect Ending.zip",
+      "size": 80972,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 43320,
+      "title": "Super Mario Advance 3: Yoshi's Island - Perfect Clear",
+      "version": "smwc-43320-1791577432",
+      "upstream_time": 1791577432,
+      "download_url": "https://dl.smwcentral.net/43320/Yoshi%27s%20Island%20-%20Perfect%20Clear.zip",
+      "filename": "Yoshi%27s Island - Perfect Clear.zip",
+      "size": 64601,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 43319,
+      "title": "Super Mario Advance 3: Yoshi's Island - Choose a Game",
+      "version": "smwc-43319-1791577430",
+      "upstream_time": 1791577430,
+      "download_url": "https://dl.smwcentral.net/43319/Yoshi%27s%20Island%20-%20Choose%20a%20Game.zip",
+      "filename": "Yoshi%27s Island - Choose a Game.zip",
+      "size": 40123,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

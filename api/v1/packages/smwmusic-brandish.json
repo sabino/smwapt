@@ -2,48 +2,26 @@
   "name": "smwmusic-brandish",
   "aliases": [],
   "section": "smwmusic",
-  "upstream_id": 42616,
-  "title": "Brandish 2: The Planet Buster (SNES) - Epilogue",
+  "upstream_id": 42522,
+  "title": "Brandish 2: The Planet Buster (SNES) - Ninja Yashiki ~ Spilling Innocent Blood",
   "authors": [
     "SiameseTwins"
   ],
   "tags": [
     "boss",
-    "calm",
     "cave",
     "chaotic",
     "chase",
-    "credits",
     "final",
-    "forest",
     "industrial",
     "jungle",
-    "mountain",
-    "night",
-    "overworld",
-    "sea",
-    "snow",
     "temple",
     "urban"
   ],
   "description": "A very japanese-y tune from SFC Brandish 2.<br>\r\nRequested by <span class=\"un-outer\" title=\"Anorakun\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=42525\" style=\"color: #fe1d02;\" class=\"un\">Anorakun</a></span>",
-  "latest_version": "smwc-42616-1790110997",
+  "latest_version": "smwc-42522-1790694895",
   "install_kind": "add_music_k_music",
   "versions": [
-    {
-      "upstream_id": 42616,
-      "title": "Brandish 2: The Planet Buster (SNES) - Epilogue",
-      "version": "smwc-42616-1790110997",
-      "upstream_time": 1790110997,
-      "download_url": "https://dl.smwcentral.net/42616/Brandish%202%20%28SFC%29%20-%20Epilogue%20.zip",
-      "filename": "Brandish 2 (SFC) - Epilogue .zip",
-      "size": 96153,
-      "sha256": null,
-      "dependencies": [
-        "addmusick"
-      ],
-      "install_kind": "add_music_k_music"
-    },
     {
       "upstream_id": 42522,
       "title": "Brandish 2: The Planet Buster (SNES) - Ninja Yashiki ~ Spilling Innocent Blood",

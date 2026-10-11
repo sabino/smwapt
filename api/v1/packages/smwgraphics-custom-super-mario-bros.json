@@ -1,0 +1,37 @@
+{
+  "name": "smwgraphics-custom-super-mario-bros",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 43197,
+  "title": "Custom Super Mario Bros. 2 Shy Guy, Snifit, Beezo and Tweeter",
+  "authors": [
+    "Broozer"
+  ],
+  "tags": [
+    "beezo",
+    "giant beezo",
+    "giant shy guy",
+    "giant snifit",
+    "giant tweeter",
+    "shy guy",
+    "snifit",
+    "tweeter"
+  ],
+  "description": "Original graphic replacements for the following sprites:<br>\r\n<ul><li><a href=\"https://www.smwcentral.net/?p=section&a=details&id=16800\">SMB2 Shyguy + Giant Shyguy</a></li>\n<li><a href=\"https://www.smwcentral.net/?p=section&a=details&id=16801\">SMB2 Snifit + Giant Snifit</a></li>\n<li><a href=\"https://www.smwcentral.net/?p=section&a=details&id=16798\">Beezo + Giant Beezo</a></li>\n<li><a href=\"https://www.smwcentral.net/?p=section&a=details&id=16802\">Tweeter + Giant Tweeter</a></li></ul><br>\r\nMay or may not be compatible with other sprite adaptations of these enemies.<br>\r\n<br>\r\nAdditional information in the readme file. Credit is optional, but appreciated.",
+  "latest_version": "smwc-43197-1791145414",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 43197,
+      "title": "Custom Super Mario Bros. 2 Shy Guy, Snifit, Beezo and Tweeter",
+      "version": "smwc-43197-1791145414",
+      "upstream_time": 1791145414,
+      "download_url": "https://dl.smwcentral.net/43197/custom-shyguy-snifit-beezo-tweeter.zip",
+      "filename": "custom-shyguy-snifit-beezo-tweeter.zip",
+      "size": 14386,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

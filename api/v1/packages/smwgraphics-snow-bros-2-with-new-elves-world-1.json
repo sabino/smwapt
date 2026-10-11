@@ -1,0 +1,31 @@
+{
+  "name": "smwgraphics-snow-bros-2-with-new-elves-world-1",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 43189,
+  "title": "Snow Bros. 2: With New Elves - World 1-5",
+  "authors": [
+    "playagmes169"
+  ],
+  "tags": [
+    "castle",
+    "sky"
+  ],
+  "description": "The sky castle/fortress BG from Snow Bros. 2: With New Elves, this BG was surprisingly easy to port, but I had to omit the sun and the stars though...",
+  "latest_version": "smwc-43189-1791140140",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 43189,
+      "title": "Snow Bros. 2: With New Elves - World 1-5",
+      "version": "smwc-43189-1791140140",
+      "upstream_time": 1791140140,
+      "download_url": "https://dl.smwcentral.net/43189/snowbros2world1-5.zip",
+      "filename": "snowbros2world1-5.zip",
+      "size": 4387,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

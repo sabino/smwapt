@@ -15,9 +15,10 @@
     "mountain",
     "ruins",
     "sky",
-    "texture"
+    "texture",
+    "underwater"
   ],
-  "description": "The simple and pleasant Tetris-like background seen in a bonus room from the factory area from Doraemon 3 (SNES).  <br>\r\n<br>\r\nCan fit a variety of level themes.",
+  "description": "The underwater marine life, seen in one of the rooms of the Ancient Ruins, from Doraemon 3 for the Super Famicom. The source material uses wave HDMA, but maybe you can use parallax scrolling to move the fishes.<br>\r\n<br>\r\nSince it is a really tall background, it uses one of the expanded horizontal level modes.  To change it, click in the Mario head icon in Lunar Magic and put Horizontal Level Mode to the value you'd like.<br>\r\n<br>\r\nA good fit for underwater or bonus levels.",
   "latest_version": "smwc-42949-1787462144",
   "install_kind": "asset_only",
   "versions": [
@@ -29,6 +30,18 @@
       "download_url": "https://dl.smwcentral.net/42949/Doraemon%203%20%28SFC%29%20-%20Factory%20%28Bonus%20Room%29.zip",
       "filename": "Doraemon 3 (SFC) - Factory (Bonus Room).zip",
       "size": 1923,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 42902,
+      "title": "Doraemon 3: Nobita to Toki no Hougyoku - Ancient Ruins (Aquarium)",
+      "version": "smwc-42902-1791438938",
+      "upstream_time": 1791438938,
+      "download_url": "https://dl.smwcentral.net/42902/Doraemon%203%20%28SFC%29%20-%20Ancient%20Ruins%20%28Aquarium%29.zip",
+      "filename": "Doraemon 3 (SFC) - Ancient Ruins (Aquarium).zip",
+      "size": 6800,
       "sha256": null,
       "dependencies": [],
       "install_kind": "asset_only"

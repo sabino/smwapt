@@ -1,0 +1,31 @@
+{
+  "name": "smwgraphics-redrawn-styled-porcupos",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 43256,
+  "title": "Redrawn Styled Porcupos",
+  "authors": [
+    "Moltz"
+  ],
+  "tags": [
+    "porcupo",
+    "redrawn"
+  ],
+  "description": "Redrawn style graphics that reskin SMW Spiny into Super Mario Bros 2's Porcupo (the hedgehogs-looking dudes).<br>\r\n<br>\r\nAlternate variations are included based on whether the user wants the enemy's spikes to look brighter or darker, and also if they should use either Palette 9 or any other color. By default, A custom Palette 9 and C are included.<br>\r\n<br>\r\nCredit's not required but very much appreciated.",
+  "latest_version": "smwc-43256-1791151334",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 43256,
+      "title": "Redrawn Styled Porcupos",
+      "version": "smwc-43256-1791151334",
+      "upstream_time": 1791151334,
+      "download_url": "https://dl.smwcentral.net/43256/smb2%20Porcupos%20Redrawn.zip",
+      "filename": "smb2 Porcupos Redrawn.zip",
+      "size": 10679,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

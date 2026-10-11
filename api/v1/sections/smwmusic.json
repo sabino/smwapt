@@ -1,117 +1,28 @@
 [
   {
-    "name": "smwmusic-aeron-s-golden-cookie-quest-special-edition-tower-of-memories",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42465,
-    "title": "Aeron's Golden Cookie Quest ~ Special Edition - Tower of Memories",
-    "authors": [
-      "Daizo Dee Von"
-    ],
-    "tags": [
-      "calm",
-      "castle"
-    ],
-    "description": "A very calming theme for heroes after a long quest from <span class=\"un-outer\" title=\"Anorakun\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=42525\" style=\"color: #fe1d02;\" class=\"un\">Anorakun</a></span>'s hack.<br>\r\n<br>\r\nCredit would be appreciated.",
-    "latest_version": "smwc-42465-1789928571",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42465,
-        "title": "Aeron's Golden Cookie Quest ~ Special Edition - Tower of Memories",
-        "version": "smwc-42465-1789928571",
-        "upstream_time": 1789928571,
-        "download_url": "https://dl.smwcentral.net/42465/%5BS%5D%20Aeron%27s%20Golden%20Cookie%20Quest%20Director%27s%20Cut%20-%20Tower%20of%20Memories.zip",
-        "filename": "%5BS%5D Aeron%27s Golden Cookie Quest Director%27s Cut - Tower of Memories.zip",
-        "size": 46308,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-bomberman-max-2-red-advance-bonus-game",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42253,
-    "title": "Bomberman Max 2: Red Advance - Bonus Game 1",
-    "authors": [
-      "EDIT3333"
-    ],
-    "tags": [
-      "bonus",
-      "map",
-      "title"
-    ],
-    "description": "It works well in bonus areas.",
-    "latest_version": "smwc-42253-1789217363",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42253,
-        "title": "Bomberman Max 2: Red Advance - Bonus Game 1",
-        "version": "smwc-42253-1789217363",
-        "upstream_time": 1789217363,
-        "download_url": "https://dl.smwcentral.net/42253/Bonus%20Game%201.zip",
-        "filename": "Bonus Game 1.zip",
-        "size": 80900,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
     "name": "smwmusic-brandish",
     "aliases": [],
     "section": "smwmusic",
-    "upstream_id": 42616,
-    "title": "Brandish 2: The Planet Buster (SNES) - Epilogue",
+    "upstream_id": 42522,
+    "title": "Brandish 2: The Planet Buster (SNES) - Ninja Yashiki ~ Spilling Innocent Blood",
     "authors": [
       "SiameseTwins"
     ],
     "tags": [
       "boss",
-      "calm",
       "cave",
       "chaotic",
       "chase",
-      "credits",
       "final",
-      "forest",
       "industrial",
       "jungle",
-      "mountain",
-      "night",
-      "overworld",
-      "sea",
-      "snow",
       "temple",
       "urban"
     ],
     "description": "A very japanese-y tune from SFC Brandish 2.<br>\r\nRequested by <span class=\"un-outer\" title=\"Anorakun\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=42525\" style=\"color: #fe1d02;\" class=\"un\">Anorakun</a></span>",
-    "latest_version": "smwc-42616-1790110997",
+    "latest_version": "smwc-42522-1790694895",
     "install_kind": "add_music_k_music",
     "versions": [
-      {
-        "upstream_id": 42616,
-        "title": "Brandish 2: The Planet Buster (SNES) - Epilogue",
-        "version": "smwc-42616-1790110997",
-        "upstream_time": 1790110997,
-        "download_url": "https://dl.smwcentral.net/42616/Brandish%202%20%28SFC%29%20-%20Epilogue%20.zip",
-        "filename": "Brandish 2 (SFC) - Epilogue .zip",
-        "size": 96153,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      },
       {
         "upstream_id": 42522,
         "title": "Brandish 2: The Planet Buster (SNES) - Ninja Yashiki ~ Spilling Innocent Blood",
@@ -143,210 +54,31 @@
     ]
   },
   {
-    "name": "smwmusic-chronos-zx-spectrum-title-theme",
+    "name": "smwmusic-buzzer-frozen",
     "aliases": [],
     "section": "smwmusic",
-    "upstream_id": 42340,
-    "title": "Chronos (ZX Spectrum) - Title Theme",
+    "upstream_id": 42276,
+    "title": "Buzzer - Frozen",
     "authors": [
-      "lordlydumbass"
-    ],
-    "tags": [
-      "credits",
-      "final",
-      "space",
-      "title"
-    ],
-    "description": "Title screen from the ZX Spectrum 48K game, composed by Tim Follin. He managed to software mix a beeper to have 6 channels when he was 15.<br>\r\n<br>\r\nCould fit on a title screen or maybe a space level.<br>\r\n<br>\r\nA version with the original ending is provided, as well as a looped version.<br>\r\n<br>\r\nOriginal (warning: quite harsh on the ears): <a href=\"https://www.youtube.com/watch?v=u-D24A_N4d4\" rel=\"nofollow\">https://www.youtube.com/watch?v=u-D24A_N4d4</a><br>\r\n",
-    "latest_version": "smwc-42340-1790569961",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42340,
-        "title": "Chronos (ZX Spectrum) - Title Theme",
-        "version": "smwc-42340-1790569961",
-        "upstream_time": 1790569961,
-        "download_url": "https://dl.smwcentral.net/42340/Chronos%20-%20Title%20%20.zip",
-        "filename": "Chronos - Title  .zip",
-        "size": 69113,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-deltarune-dark-sanctuary",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42140,
-    "title": "Deltarune - Dark Sanctuary",
-    "authors": [
-      "PolyPlayer"
-    ],
-    "tags": [
-      "castle",
-      "dark",
-      "mysterious",
-      "night"
-    ],
-    "description": "Toby Fox's Dark Sanctuary from Deltarune (Chapter 4)<br>\r\nThis song plays during the chapter's first Dark World.<br>\r\nCould be used for night or castle themed levels<br>\r\n<br>\r\nSamples taken from stormstudios1's recreation",
-    "latest_version": "2",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42140,
-        "title": "Deltarune - Dark Sanctuary",
-        "version": "2",
-        "upstream_time": 1789929349,
-        "download_url": "https://dl.smwcentral.net/42140/Deltarune%20-%20Dark%20Sanctuary.zip",
-        "filename": "Deltarune - Dark Sanctuary.zip",
-        "size": 74919,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-deltarune-doom-board",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42333,
-    "title": "Deltarune - Doom Board",
-    "authors": [
-      "E-man38"
-    ],
-    "tags": [
-      "boss",
-      "castle",
-      "cutscene",
-      "dark",
-      "fire",
-      "overworld",
-      "tense"
-    ],
-    "description": "A song that plays during the third board from Chapter 3 of Deltarune. It can work for dark lands or tense situations.",
-    "latest_version": "smwc-42333-1790525758",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42333,
-        "title": "Deltarune - Doom Board",
-        "version": "smwc-42333-1790525758",
-        "upstream_time": 1790525758,
-        "download_url": "https://dl.smwcentral.net/42333/doom_board.zip",
-        "filename": "doom_board.zip",
-        "size": 31938,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-deltarune-gingerbread-house",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42463,
-    "title": "Deltarune - Gingerbread House",
-    "authors": [
-      "Forgado"
-    ],
-    "tags": [
-      "ice",
-      "overworld",
-      "snow",
-      "town",
-      "upbeat"
-    ],
-    "description": "The song \"Gingerbread House\" from Chapter 4 of Deltarune, which plays in Noelle's house, originally composed by Toby Fox. Would fit in chill snow levels or snowy overworlds.<br>\r\n<br>\r\nThe original samples were found using stormstudios1's Deltarune Sample Sheet.",
-    "latest_version": "smwc-42463-1789418704",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42463,
-        "title": "Deltarune - Gingerbread House",
-        "version": "smwc-42463-1789418704",
-        "upstream_time": 1789418704,
-        "download_url": "https://dl.smwcentral.net/42463/Gingerbread%20House.zip",
-        "filename": "Gingerbread House.zip",
-        "size": 83139,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-deltarune-physical-challenge",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42462,
-    "title": "Deltarune - Physical Challenge",
-    "authors": [
-      "Forgado"
+      "Samantha"
     ],
     "tags": [
       "athletic",
-      "bonus",
-      "upbeat"
+      "castle",
+      "ice"
     ],
-    "description": "The song \"Physical Challenge\" from Chapter 3 of Deltarune, which plays in most of the minigames, originally composed by Toby Fox. Could fit in athletic levels or bonus levels.<br>\r\n<br>\r\nThe original samples were found using stormstudios1's Deltarune Sample Sheet.",
-    "latest_version": "smwc-42462-1789418409",
+    "description": "A dance remix of <a href=\"https://www.youtube.com/watch?v=XS088Opj9o0\" rel=\"nofollow\">Frozen</a> from <a href=\"https://rateyourmusic.com/release/album/madonna/ray-of-light/\" rel=\"nofollow\">the best Madonna album</a>. Do note that the drum loop will sound cut off if the music speeds up due to time running out.",
+    "latest_version": "smwc-42276-1791321924",
     "install_kind": "add_music_k_music",
     "versions": [
       {
-        "upstream_id": 42462,
-        "title": "Deltarune - Physical Challenge",
-        "version": "smwc-42462-1789418409",
-        "upstream_time": 1789418409,
-        "download_url": "https://dl.smwcentral.net/42462/Physical%20Challenge.zip",
-        "filename": "Physical Challenge.zip",
-        "size": 65934,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-dynamitracer-skull-bone",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42605,
-    "title": "DynamiTracer - Skull Bone 1",
-    "authors": [
-      "h.carrell"
-    ],
-    "tags": [
-      "ambient",
-      "calm",
-      "ghost house",
-      "night"
-    ],
-    "description": "The calm bar theme from DynamiTracer's Skull Bone planet",
-    "latest_version": "smwc-42605-1789457959",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42605,
-        "title": "DynamiTracer - Skull Bone 1",
-        "version": "smwc-42605-1789457959",
-        "upstream_time": 1789457959,
-        "download_url": "https://dl.smwcentral.net/42605/Skull%20Bone%201.zip",
-        "filename": "Skull Bone 1.zip",
-        "size": 43599,
+        "upstream_id": 42276,
+        "title": "Buzzer - Frozen",
+        "version": "smwc-42276-1791321924",
+        "upstream_time": 1791321924,
+        "download_url": "https://dl.smwcentral.net/42276/Frozen.zip",
+        "filename": "Frozen.zip",
+        "size": 83929,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -391,339 +123,6 @@
     ]
   },
   {
-    "name": "smwmusic-freddy-s-hot-drinks-remix-of-nightmare-by-tuesday-knight",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42388,
-    "title": "Freddy's Hot Drinks (Remix of Nightmare by Tuesday Knight)",
-    "authors": [
-      "The Cheater",
-      "mmBeefStew"
-    ],
-    "tags": [
-      "abstract",
-      "athletic",
-      "upbeat",
-      "urban"
-    ],
-    "description": "A remix of \"Nightmare\" by Tuesday Knight (Opening song for A Nightmare on Elm Street 4: The Dream Master) in the style and instruments of the iconic \"Wendy's - Hot Drinks\" port by mmBeefStew. This remix is scarier than Freddy Krueger! Don't forget the power glove!<br>\r\n<br>\r\nThis was originally posted to SiIvaGunner under the name <br>\r\n\"Hot Drinks - Grand Poo World 3\"<br>\r\n<br>\r\nhttps://www.youtube.com/watch?v=mPKrtbWVmTA",
-    "latest_version": "smwc-42388-1789314307",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42388,
-        "title": "Freddy's Hot Drinks (Remix of Nightmare by Tuesday Knight)",
-        "version": "smwc-42388-1789314307",
-        "upstream_time": 1789314307,
-        "download_url": "https://dl.smwcentral.net/42388/Freddys_Hot_Drinks.zip",
-        "filename": "Freddys_Hot_Drinks.zip",
-        "size": 54391,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-gigi-d-agostino-bla-bla-bla",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42325,
-    "title": "Gigi D'Agostino - Bla Bla Bla",
-    "authors": [
-      "SiameseTwins"
-    ],
-    "tags": [
-      "athletic",
-      "bonus",
-      "carnival",
-      "credits",
-      "title",
-      "town",
-      "urban"
-    ],
-    "description": "A popular italo house song from Italian DJ Gigi D'Agostino.<br>\r\n<span style=\"color: #ff0000;\">Not compatible with Bonus End and Thunder/Blargg/Fireworks.</span>",
-    "latest_version": "smwc-42325-1789313690",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42325,
-        "title": "Gigi D'Agostino - Bla Bla Bla",
-        "version": "smwc-42325-1789313690",
-        "upstream_time": 1789313690,
-        "download_url": "https://dl.smwcentral.net/42325/Gigi%20D%27Agostino%20-%20BlaBlaBla.zip",
-        "filename": "Gigi D%27Agostino - BlaBlaBla.zip",
-        "size": 82550,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-here-we-ghost",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42673,
-    "title": "Here We Ghost",
-    "authors": [
-      "imamelia"
-    ],
-    "tags": [
-      "ghost house",
-      "spooky"
-    ],
-    "description": "This is an arrangement of SMW's leitmotif/main theme suitable for ghost houses and other haunted levels.  It was used in the level that I would have submitted to VLDC15.",
-    "latest_version": "smwc-42673-1790627108",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42673,
-        "title": "Here We Ghost",
-        "version": "smwc-42673-1790627108",
-        "upstream_time": 1790627108,
-        "download_url": "https://dl.smwcentral.net/42673/REMIX%20-%20Here%20We%20Ghost.zip",
-        "filename": "REMIX - Here We Ghost.zip",
-        "size": 61655,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-kidou-gekidan-haro-ichiza-gundam-mahjong-ds-bgm",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42332,
-    "title": "Kidou Gekidan Haro Ichiza Gundam Mahjong DS - BGM #01",
-    "authors": [
-      "HumASix"
-    ],
-    "tags": [
-      "grassland",
-      "town",
-      "upbeat"
-    ],
-    "description": "An upbeat and happy song. Could fit for grassland and town levels.",
-    "latest_version": "smwc-42332-1789400331",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42332,
-        "title": "Kidou Gekidan Haro Ichiza Gundam Mahjong DS - BGM #01",
-        "version": "smwc-42332-1789400331",
-        "upstream_time": 1789400331,
-        "download_url": "https://dl.smwcentral.net/42332/Kidou%20Gekidan%20Haro%20Ichiza%20Gundam%20Mahjong%20DS%20-%20BGM%20%2301.zip",
-        "filename": "Kidou Gekidan Haro Ichiza Gundam Mahjong DS - BGM %2301.zip",
-        "size": 76219,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-kirby-super-star-trees-in-the-depths-of-the-earth",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42664,
-    "title": "Kirby Super Star - Trees in the Depths of the Earth",
-    "authors": [
-      "Fullcannon"
-    ],
-    "tags": [
-      "castle",
-      "cave",
-      "chase",
-      "desert",
-      "fire",
-      "forest",
-      "jungle",
-      "temple",
-      "tense"
-    ],
-    "description": "Sub-Tree area theme from 'The Great Cave Offensive' in Kirby Super Star.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Devazure\"><span title=\"Devazure donated $25.00.\" class=\"icon icon-donor\"></span><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=93\" style=\"color: #3e75d9;\" class=\"un\">Devazure</a></span>.",
-    "latest_version": "smwc-42664-1790178814",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42664,
-        "title": "Kirby Super Star - Trees in the Depths of the Earth",
-        "version": "smwc-42664-1790178814",
-        "upstream_time": 1790178814,
-        "download_url": "https://dl.smwcentral.net/42664/Kirby%20Super%20Star%20-%20Trees%20in%20the%20Depths%20of%20the%20Earth.zip",
-        "filename": "Kirby Super Star - Trees in the Depths of the Earth.zip",
-        "size": 60427,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-luigi-s-mansion-controls",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42363,
-    "title": "Luigi's Mansion - Controls",
-    "authors": [
-      "lordlydumbass"
-    ],
-    "tags": [
-      "menu",
-      "title"
-    ],
-    "description": "One bar loop with a twist after 3 minutes. Spoiler: Totaka's song is here.<br>\r\n<br>\r\nFits a menu or tutorial level maybe?<br>\r\n<br>\r\nmod note: the hurry up tempo hike will make the engine samples in the Totaka's song section sound offbeat",
-    "latest_version": "smwc-42363-1789929973",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42363,
-        "title": "Luigi's Mansion - Controls",
-        "version": "smwc-42363-1789929973",
-        "upstream_time": 1789929973,
-        "download_url": "https://dl.smwcentral.net/42363/Luigi%27s%20Mansion%20-%20Controls.zip",
-        "filename": "Luigi%27s Mansion - Controls.zip",
-        "size": 97547,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-mario-luigi-superstar-saga-beanbean-fields",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42516,
-    "title": "Mario & Luigi: Superstar Saga - Beanbean Fields",
-    "authors": [
-      "NamyX"
-    ],
-    "tags": [
-      "grassland",
-      "overworld"
-    ],
-    "description": "Beanbean Fields from Mario & Luigi: Superstar Saga.",
-    "latest_version": "smwc-42516-1790527204",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42516,
-        "title": "Mario & Luigi: Superstar Saga - Beanbean Fields",
-        "version": "smwc-42516-1790527204",
-        "upstream_time": 1790527204,
-        "download_url": "https://dl.smwcentral.net/42516/Beanbean%20Fields.zip",
-        "filename": "Beanbean Fields.zip",
-        "size": 63413,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-mario-no-super-picross-mario-puzzle",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42513,
-    "title": "Mario no Super Picross - Mario Puzzle 4",
-    "authors": [
-      "Fullcannon"
-    ],
-    "tags": [
-      "bonus",
-      "forest",
-      "jungle",
-      "mysterious",
-      "sky"
-    ],
-    "description": "Mario's special nonogram puzzle levels from SFC edition of Mario no Super Picross.",
-    "latest_version": "smwc-42513-1789417217",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42513,
-        "title": "Mario no Super Picross - Mario Puzzle 4",
-        "version": "smwc-42513-1789417217",
-        "upstream_time": 1789417217,
-        "download_url": "https://dl.smwcentral.net/42513/Mario%20no%20Super%20Picross%20-%20Mario%20Puzzle%204%20.zip",
-        "filename": "Mario no Super Picross - Mario Puzzle 4 .zip",
-        "size": 66647,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-mario-no-super-picross-wario-puzzle",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42491,
-    "title": "Mario no Super Picross - Wario Puzzle 2",
-    "authors": [
-      "Fullcannon"
-    ],
-    "tags": [
-      "bonus",
-      "forest",
-      "mysterious",
-      "sky",
-      "upbeat"
-    ],
-    "description": "Wario's nonogram puzzle levels 1-4 from SFC edition of Mario no Super Picross.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"doppleganger\"><a href=\"/?p=profile&amp;id=66588\" style=\"color: var(--user-color-1);\" class=\"un\">doppleganger</a></span>.",
-    "latest_version": "smwc-42491-1789416784",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42491,
-        "title": "Mario no Super Picross - Wario Puzzle 2",
-        "version": "smwc-42491-1789416784",
-        "upstream_time": 1789416784,
-        "download_url": "https://dl.smwcentral.net/42491/Mario%20no%20Super%20Picross%20-%20Wario%20Puzzle%202.zip",
-        "filename": "Mario no Super Picross - Wario Puzzle 2.zip",
-        "size": 59737,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      },
-      {
-        "upstream_id": 42447,
-        "title": "Mario no Super Picross - Wario Puzzle 1",
-        "version": "smwc-42447-1789657568",
-        "upstream_time": 1789657568,
-        "download_url": "https://dl.smwcentral.net/42447/Mario%20no%20Super%20Picross%20-%20Wario%20Puzzle%201.zip",
-        "filename": "Mario no Super Picross - Wario Puzzle 1.zip",
-        "size": 84131,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
     "name": "smwmusic-mega-man-ii-gb-magnet-man-mega-man-x-style",
     "aliases": [],
     "section": "smwmusic",
@@ -758,394 +157,6 @@
     ]
   },
   {
-    "name": "smwmusic-mega-man-x-burnt-out-rhythm-flame-mammoth-remix",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42387,
-    "title": "Mega Man X - Burnt Out Rhythm 🔥 ~ Flame Mammoth (Remix)",
-    "authors": [
-      "Hooded Edge"
-    ],
-    "tags": [
-      "bonus",
-      "calm",
-      "credits",
-      "cutscene",
-      "fire",
-      "industrial",
-      "menu",
-      "title",
-      "town",
-      "upbeat",
-      "urban"
-    ],
-    "description": "<span style=\"font-size: 18pt;\"><span style=\"color: #DE4242;\">❝ 𝙃𝙖 𝙝𝙖 𝙝𝙖<i><b>.</b></i> 𝙉𝙤𝙬 𝙞𝙩'𝙨 𝙩𝙞𝙢𝙚 𝙛𝙤𝙧 𝙢𝙚 𝙩𝙤 𝙨𝙩𝙤𝙢𝙥 𝙩𝙝𝙚 𝙛𝙪𝙩𝙪𝙧𝙚 𝙞𝙣𝙩𝙤 𝙙𝙪𝙨𝙩<i><b>!</b></i> ❞</span></span><br>\r\nㅤ<span style=\"font-size: 8pt;\">- Flame Mammoth, <i>Mega Man Maverick Hunter X</i> (2005)</span><br>\r\n<br>\r\nㅤㅤㅤㅤ<img src=\"https://bin.smwcentral.net/u/23547/Flame%2BMammoth.webp\" alt=\"\"><br>\r\n<br>\r\nDid a chill arrangement of <b><a href=\"https://youtu.be/9mLajpEt_ZE\" rel=\"nofollow\">Flame</a> <a href=\"https://youtu.be/RyOcnAP_WDc\" rel=\"nofollow\">Mammoth's</a> <a href=\"https://youtu.be/1WZZto9FYBM\" rel=\"nofollow\">Stage</a></b> from <i>Mega Man X</i>. I realized I only had one Maverick Stage theme left to arrange from X1 and complete the whole roster. Initially started out working on a fast-paced upbeat arrangement heavily based off the original, but then I decided to scrap it for a slow 'n funky beat instead because it'd be really funny to see if it would actually come out right.<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable pitches for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. F Minor (Original Pitch)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span> <br>\r\nㅤ2. E Minor (Custom Pitch 1)<br>\r\nㅤ3. F# Minor (Custom Pitch 2)<br>\r\nㅤ4. G Minor (Custom Pitch 3)<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. Original Echo Delay, but sacrifices SMW-Compatibility (OG Echo)ㅤ<span style=\"color: #C291EB;\">[Listening-Only]</span><br>\r\nㅤ2. Decreased Echo Delay (LOWER Echo)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤㅤ ♠  What's disabled:<br>\r\nㅤㅤㅤ  -  \"Bonus End\" (@7) <span style=\"color: #3DDA8D;\">← (\"MMX1 Overdrive Loud.brr\" is in its place in case you really need it)</span><br>\r\nㅤㅤㅤ  -  \"P-Switch\" (@12) <span style=\"color: #3DDA8D;\">← (\"MIDI Cowbell.brr\" is in its place in case you really need it)</span><br>\r\nㅤㅤㅤ  -  Yoshi SFX (@15) <span style=\"color: #3DDA8D;\">← (\"THG Orch Hit 24K.brr\" is in its place in case you really need it)</span><br>\r\nㅤㅤㅤ  -  Thunder SFX",
-    "latest_version": "smwc-42387-1789315134",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42387,
-        "title": "Mega Man X - Burnt Out Rhythm 🔥 ~ Flame Mammoth (Remix)",
-        "version": "smwc-42387-1789315134",
-        "upstream_time": 1789315134,
-        "download_url": "https://dl.smwcentral.net/42387/Burnt%20Out%20Rhythm.zip",
-        "filename": "Burnt Out Rhythm.zip",
-        "size": 416682,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-mr-bean-ecce-homo-qui-est-faba",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42551,
-    "title": "Mr. Bean - Ecce Homo Qui Est Faba",
-    "authors": [
-      "ShivjotRangi"
-    ],
-    "tags": [
-      "ambient",
-      "calm",
-      "credits",
-      "cutscene",
-      "mysterious",
-      "night",
-      "sky",
-      "space",
-      "title",
-      "town"
-    ],
-    "description": "Mr. Bean's choral theme song (written by: Howard Goodall) are transposed from: MuseScore (and by ear)<br>\r\n<a href=\"https://musescore.com/user/3173131/scores/2886651\" rel=\"nofollow\">https://musescore.com/user/3173131/scores/2886651</a><br>\r\n<br>\r\nExtra other SPCs & TXTs are included (6 Total) for Intro, Cutscenes, and Ending.<br>\r\n<br>\r\nNote that this port does not loop.",
-    "latest_version": "smwc-42551-1789372814",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42551,
-        "title": "Mr. Bean - Ecce Homo Qui Est Faba",
-        "version": "smwc-42551-1789372814",
-        "upstream_time": 1789372814,
-        "download_url": "https://dl.smwcentral.net/42551/Mr.%20Bean%20-%20Ecce%20Homo%20Qui%20Est%20Faba.zip",
-        "filename": "Mr. Bean - Ecce Homo Qui Est Faba.zip",
-        "size": 191000,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-persona",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42440,
-    "title": "Persona 2: Eternal Punishment - Enigma",
-    "authors": [
-      "Ahrion"
-    ],
-    "tags": [
-      "abstract",
-      "cutscene",
-      "industrial",
-      "mysterious"
-    ],
-    "description": "Note: This song is not compatible with the following Global Songs / SFX:<br>\r\nBonus End, Yoshi, Thunder/Firework/Blargg",
-    "latest_version": "smwc-42440-1790525989",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42440,
-        "title": "Persona 2: Eternal Punishment - Enigma",
-        "version": "smwc-42440-1790525989",
-        "upstream_time": 1790525989,
-        "download_url": "https://dl.smwcentral.net/42440/Enigma.zip",
-        "filename": "Enigma.zip",
-        "size": 103803,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-pizza-tower-what-s-on-the-kids-menu",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42207,
-    "title": "Pizza Tower - What's on the Kids Menu",
-    "authors": [
-      "Forgado"
-    ],
-    "tags": [
-      "abstract",
-      "grassland",
-      "upbeat"
-    ],
-    "description": "The song \"What's on the Kids Menu\" from Pizza Tower's Fun Farm level, originally composed by ClascyJitto. Very goofy sounding music.<br>\r\n<br>\r\nThe original samples were found using the Pizza Tower Sound Sheet.",
-    "latest_version": "smwc-42207-1789848306",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42207,
-        "title": "Pizza Tower - What's on the Kids Menu",
-        "version": "smwc-42207-1789848306",
-        "upstream_time": 1789848306,
-        "download_url": "https://dl.smwcentral.net/42207/What%27s%20on%20the%20Kids%20Menu.zip",
-        "filename": "What%27s on the Kids Menu.zip",
-        "size": 75543,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-planet-of-cartmans-the-ultimate-faceoff",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42404,
-    "title": "Planet of Cartmans - The Ultimate Faceoff",
-    "authors": [
-      "Segment1Zone2"
-    ],
-    "tags": [
-      "dark",
-      "final",
-      "fire",
-      "ghost house",
-      "industrial",
-      "overworld",
-      "tense",
-      "title"
-    ],
-    "description": "The Ultimate Faceoff from Planet of Cartmans, ported on request for <span class=\"un-outer\" title=\"SF - The Dark Warrior\"><a href=\"/?p=profile&amp;id=5831\" style=\"color: var(--user-color-1);\" class=\"un\">SF - The Dark Warrior</a></span>.<br>\r\n<br>\r\nIt's very long.",
-    "latest_version": "smwc-42404-1789401185",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42404,
-        "title": "Planet of Cartmans - The Ultimate Faceoff",
-        "version": "smwc-42404-1789401185",
-        "upstream_time": 1789401185,
-        "download_url": "https://dl.smwcentral.net/42404/Planet%20of%20Cartmans%20-%20The%20Ultimate%20Faceoff.zip",
-        "filename": "Planet of Cartmans - The Ultimate Faceoff.zip",
-        "size": 33094,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-pok-mon-diamond-pearl-platinum-mystery-zone",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42658,
-    "title": "Pokémon Diamond/Pearl/Platinum - Mystery Zone",
-    "authors": [
-      "sinseiga"
-    ],
-    "tags": [
-      "dark",
-      "forest",
-      "grassland",
-      "mountain",
-      "mysterious",
-      "night",
-      "overworld"
-    ],
-    "description": "Unused theme from Pokémon DPPt<br>\r\nIt's also known as Mystery Zone or SEQ_DUMMY<br>\r\n<br>\r\nI'm sure some of you have heard this before, whoever used cheats =)<br>\r\n<br>\r\n<span style=\"color: #ff0000;\"><b> This song uses TIGHT ARAM use with caution.<br>\r\nAlso, it will change some SFX and not compatible with:<br>\r\nThunder, P-switch, Bonus end </b></span>",
-    "latest_version": "smwc-42658-1790570054",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42658,
-        "title": "Pokémon Diamond/Pearl/Platinum - Mystery Zone",
-        "version": "smwc-42658-1790570054",
-        "upstream_time": 1790570054,
-        "download_url": "https://dl.smwcentral.net/42658/Route%20206%20%28Mystery%29.zip",
-        "filename": "Route 206 (Mystery).zip",
-        "size": 108010,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-pok-mon-diamond-pearl-platinum-oreburgh-city-day",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42472,
-    "title": "Pokémon Diamond/Pearl/Platinum - Oreburgh City (Day)",
-    "authors": [
-      "sinseiga"
-    ],
-    "tags": [
-      "athletic",
-      "industrial",
-      "overworld",
-      "town",
-      "upbeat",
-      "urban"
-    ],
-    "description": "Welcome to the mining town where a massive coal mine is in operation<br>\r\n<br>\r\nCould fit well with industrial levels",
-    "latest_version": "smwc-42472-1789416077",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42472,
-        "title": "Pokémon Diamond/Pearl/Platinum - Oreburgh City (Day)",
-        "version": "smwc-42472-1789416077",
-        "upstream_time": 1789416077,
-        "download_url": "https://dl.smwcentral.net/42472/Oreburgh%20City%20%28Day%29%20.zip",
-        "filename": "Oreburgh City (Day) .zip",
-        "size": 73484,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-pok-mon-diamond-pearl-platinum-oreburgh-city-night",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42473,
-    "title": "Pokémon Diamond/Pearl/Platinum - Oreburgh City (Night)",
-    "authors": [
-      "sinseiga"
-    ],
-    "tags": [
-      "athletic",
-      "industrial",
-      "night",
-      "overworld",
-      "town",
-      "upbeat",
-      "urban"
-    ],
-    "description": "Welcome to the mining town where a massive coal mine is in operation<br>\r\n<br>\r\nCould fit well with industrial and night levels",
-    "latest_version": "smwc-42473-1789416086",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42473,
-        "title": "Pokémon Diamond/Pearl/Platinum - Oreburgh City (Night)",
-        "version": "smwc-42473-1789416086",
-        "upstream_time": 1789416086,
-        "download_url": "https://dl.smwcentral.net/42473/Oreburgh%20City%20%28Night%29%20.zip",
-        "filename": "Oreburgh City (Night) .zip",
-        "size": 85070,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-pok-mon-diamond-pearl-platinum-route",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42657,
-    "title": "Pokémon Diamond/Pearl/Platinum - Route 206 (Night)",
-    "authors": [
-      "sinseiga"
-    ],
-    "tags": [
-      "forest",
-      "grassland",
-      "mountain",
-      "night",
-      "overworld"
-    ],
-    "description": "Upbeat and hopeful music from Pokémon Diamond/Pearl/Platinum.<br>\r\n<br>\r\nYou'll walk down this path at night too, to find Gible.",
-    "latest_version": "smwc-42657-1790570003",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42657,
-        "title": "Pokémon Diamond/Pearl/Platinum - Route 206 (Night)",
-        "version": "smwc-42657-1790570003",
-        "upstream_time": 1790570003,
-        "download_url": "https://dl.smwcentral.net/42657/Route%20206%20%28Night%29.zip",
-        "filename": "Route 206 (Night).zip",
-        "size": 84911,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      },
-      {
-        "upstream_id": 42656,
-        "title": "Pokémon Diamond/Pearl/Platinum - Route 206 (Day)",
-        "version": "smwc-42656-1790569999",
-        "upstream_time": 1790569999,
-        "download_url": "https://dl.smwcentral.net/42656/Route%20206%20%28Day%29.zip",
-        "filename": "Route 206 (Day).zip",
-        "size": 96074,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-sim-city-good-night",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42460,
-    "title": "Sim City - Good Night",
-    "authors": [
-      "h.carrell"
-    ],
-    "tags": [
-      "cutscene",
-      "misc",
-      "night"
-    ],
-    "description": "A calm theme from Sim City.",
-    "latest_version": "smwc-42460-1789401575",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42460,
-        "title": "Sim City - Good Night",
-        "version": "smwc-42460-1789401575",
-        "upstream_time": 1789401575,
-        "download_url": "https://dl.smwcentral.net/42460/GoodNight.zip",
-        "filename": "GoodNight.zip",
-        "size": 31019,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
     "name": "smwmusic-star-fox",
     "aliases": [],
     "section": "smwmusic",
@@ -1157,10 +168,6 @@
     "tags": [
       "ambient",
       "calm",
-      "menu",
-      "space",
-      "tense",
-      "title",
       "underwater",
       "water"
     ],
@@ -1181,68 +188,42 @@
           "addmusick"
         ],
         "install_kind": "add_music_k_music"
-      },
-      {
-        "upstream_id": 42389,
-        "title": "Star Fox 64 - Meteo",
-        "version": "smwc-42389-1790526614",
-        "upstream_time": 1790526614,
-        "download_url": "https://dl.smwcentral.net/42389/%5BU%5D%20Star%20Fox%2064%20-%20Meteo.zip",
-        "filename": "%5BU%5D Star Fox 64 - Meteo.zip",
-        "size": 33425,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      },
-      {
-        "upstream_id": 42370,
-        "title": "Star Fox 64 - Main Menu",
-        "version": "smwc-42370-1790526488",
-        "upstream_time": 1790526488,
-        "download_url": "https://dl.smwcentral.net/42370/%5BU%5D%20Star%20Fox%2064%20-%20Main%20Menu.zip",
-        "filename": "%5BU%5D Star Fox 64 - Main Menu.zip",
-        "size": 32452,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
       }
     ]
   },
   {
-    "name": "smwmusic-super-mario",
+    "name": "smwmusic-super-mario-advance",
     "aliases": [],
     "section": "smwmusic",
-    "upstream_id": 42341,
-    "title": "Super Mario 64 - Slider",
+    "upstream_id": 43322,
+    "title": "Super Mario Advance 3: Yoshi's Island - Title",
     "authors": [
-      "brickblock369"
+      "LadiesMan217",
+      "musicalman"
     ],
     "tags": [
       "athletic",
-      "bonus",
-      "boss",
-      "carnival",
-      "chaotic",
-      "chase",
-      "sky",
+      "calm",
+      "credits",
+      "cutscene",
+      "grassland",
+      "menu",
+      "sad",
+      "title",
       "upbeat"
     ],
-    "description": "Music that plays in slider levels, Koopa the Quick races, Tick-Tock Clock, Rainbow Ride, and many secret courses.<br>\r\n<br>\r\nI was indecisive about which timbres to choose for the lead fiddle and the banjo, though I'd highly recommend @4 for the fiddle and @14 for the banjo.",
-    "latest_version": "smwc-42341-1790526330",
+    "description": "Part of The Super Mario World 2: Yoshi's Island Soundtrack.",
+    "latest_version": "smwc-43322-1791577525",
     "install_kind": "add_music_k_music",
     "versions": [
       {
-        "upstream_id": 42341,
-        "title": "Super Mario 64 - Slider",
-        "version": "smwc-42341-1790526330",
-        "upstream_time": 1790526330,
-        "download_url": "https://dl.smwcentral.net/42341/Super%20Mario%2064%20-%20Slide.zip",
-        "filename": "Super Mario 64 - Slide.zip",
-        "size": 204729,
+        "upstream_id": 43322,
+        "title": "Super Mario Advance 3: Yoshi's Island - Title",
+        "version": "smwc-43322-1791577525",
+        "upstream_time": 1791577525,
+        "download_url": "https://dl.smwcentral.net/43322/Yoshi%27s%20Island%20-%20Title.zip",
+        "filename": "Yoshi%27s Island - Title.zip",
+        "size": 36706,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -1250,13 +231,41 @@
         "install_kind": "add_music_k_music"
       },
       {
-        "upstream_id": 42164,
-        "title": "Super Mario 64 - Metallic Mario",
-        "version": "smwc-42164-1789692689",
-        "upstream_time": 1789692689,
-        "download_url": "https://dl.smwcentral.net/42164/SM64%20Metallic%20Mario.zip",
-        "filename": "SM64 Metallic Mario.zip",
-        "size": 105989,
+        "upstream_id": 43321,
+        "title": "Super Mario Advance 3: Yoshi's Island - Perfect Ending",
+        "version": "smwc-43321-1791577434",
+        "upstream_time": 1791577434,
+        "download_url": "https://dl.smwcentral.net/43321/Yoshi%27s%20Island%20-%20Perfect%20Ending.zip",
+        "filename": "Yoshi%27s Island - Perfect Ending.zip",
+        "size": 80972,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      },
+      {
+        "upstream_id": 43320,
+        "title": "Super Mario Advance 3: Yoshi's Island - Perfect Clear",
+        "version": "smwc-43320-1791577432",
+        "upstream_time": 1791577432,
+        "download_url": "https://dl.smwcentral.net/43320/Yoshi%27s%20Island%20-%20Perfect%20Clear.zip",
+        "filename": "Yoshi%27s Island - Perfect Clear.zip",
+        "size": 64601,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      },
+      {
+        "upstream_id": 43319,
+        "title": "Super Mario Advance 3: Yoshi's Island - Choose a Game",
+        "version": "smwc-43319-1791577430",
+        "upstream_time": 1791577430,
+        "download_url": "https://dl.smwcentral.net/43319/Yoshi%27s%20Island%20-%20Choose%20a%20Game.zip",
+        "filename": "Yoshi%27s Island - Choose a Game.zip",
+        "size": 40123,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -1266,31 +275,590 @@
     ]
   },
   {
-    "name": "smwmusic-super-mario-rpg-legend-of-the-seven-stars-conversation-with-culex",
+    "name": "smwmusic-super-mario-world",
     "aliases": [],
     "section": "smwmusic",
-    "upstream_id": 42686,
-    "title": "Super Mario RPG: Legend of the Seven Stars - Conversation with Culex",
+    "upstream_id": 43318,
+    "title": "Super Mario World 2: Yoshi's Island - The Journey Begins",
     "authors": [
-      "h.carrell"
+      "LadiesMan217"
     ],
     "tags": [
+      "ambient",
+      "athletic",
+      "beach",
+      "bonus",
+      "boss",
       "calm",
+      "carnival",
+      "castle",
+      "cave",
       "cutscene",
-      "menu"
+      "dark",
+      "environmental",
+      "final",
+      "fire",
+      "forest",
+      "ghost house",
+      "grassland",
+      "ice",
+      "industrial",
+      "jungle",
+      "menu",
+      "mountain",
+      "mysterious",
+      "night",
+      "overworld",
+      "sad",
+      "sky",
+      "temple",
+      "tense",
+      "title",
+      "upbeat"
     ],
-    "description": "The calm theme in SMRPG when you defeat Culex. This song is an arrangement of The Prelude from the Final Fantasy Series.",
-    "latest_version": "smwc-42686-1790628668",
+    "description": "Part of The Super Mario World 2: Yoshi's Island Soundtrack.",
+    "latest_version": "smwc-43318-1791577217",
     "install_kind": "add_music_k_music",
     "versions": [
       {
-        "upstream_id": 42686,
-        "title": "Super Mario RPG: Legend of the Seven Stars - Conversation with Culex",
-        "version": "smwc-42686-1790628668",
-        "upstream_time": 1790628668,
-        "download_url": "https://dl.smwcentral.net/42686/SMRPG%20Prelude.zip",
-        "filename": "SMRPG Prelude.zip",
-        "size": 25851,
+        "upstream_id": 43318,
+        "title": "Super Mario World 2: Yoshi's Island - The Journey Begins",
+        "version": "smwc-43318-1791577217",
+        "upstream_time": 1791577217,
+        "download_url": "https://dl.smwcentral.net/43318/Yoshi%27s%20Island%20-%20Yoshi%27s%20Start%20Demo.zip",
+        "filename": "Yoshi%27s Island - Yoshi%27s Start Demo.zip",
+        "size": 39952,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      },
+      {
+        "upstream_id": 43317,
+        "title": "Super Mario World 2: Yoshi's Island - World Complete",
+        "version": "smwc-43317-1791577215",
+        "upstream_time": 1791577215,
+        "download_url": "https://dl.smwcentral.net/43317/Yoshi%27s%20Island%20-%20World%20Complete.zip",
+        "filename": "Yoshi%27s Island - World Complete.zip",
+        "size": 35309,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      },
+      {
+        "upstream_id": 43316,
+        "title": "Super Mario World 2: Yoshi's Island - Yoshi's Island",
+        "version": "smwc-43316-1791577213",
+        "upstream_time": 1791577213,
+        "download_url": "https://dl.smwcentral.net/43316/Yoshi%27s%20Island%20-%20Welcome%20To%20Yoshi%27s%20Island.zip",
+        "filename": "Yoshi%27s Island - Welcome To Yoshi%27s Island.zip",
+        "size": 118496,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      },
+      {
+        "upstream_id": 43315,
+        "title": "Super Mario World 2: Yoshi's Island - Underground",
+        "version": "smwc-43315-1791577009",
+        "upstream_time": 1791577009,
+        "download_url": "https://dl.smwcentral.net/43315/Yoshi%27s%20Island%20-%20Underground.zip",
+        "filename": "Yoshi%27s Island - Underground.zip",
+        "size": 50011,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      },
+      {
+        "upstream_id": 43314,
+        "title": "Super Mario World 2: Yoshi's Island - Transform",
+        "version": "smwc-43314-1791577007",
+        "upstream_time": 1791577007,
+        "download_url": "https://dl.smwcentral.net/43314/Yoshi%27s%20Island%20-%20Transform.zip",
+        "filename": "Yoshi%27s Island - Transform.zip",
+        "size": 36331,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      },
+      {
+        "upstream_id": 43313,
+        "title": "Super Mario World 2: Yoshi's Island - Score",
+        "version": "smwc-43313-1791577004",
+        "upstream_time": 1791577004,
+        "download_url": "https://dl.smwcentral.net/43313/Yoshi%27s%20Island%20-%20Score.zip",
+        "filename": "Yoshi%27s Island - Score.zip",
+        "size": 44076,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      },
+      {
+        "upstream_id": 43312,
+        "title": "Super Mario World 2: Yoshi's Island - Practice Stage",
+        "version": "smwc-43312-1791576793",
+        "upstream_time": 1791576793,
+        "download_url": "https://dl.smwcentral.net/43312/Yoshi%27s%20Island%20-%20Practice%20Course.zip",
+        "filename": "Yoshi%27s Island - Practice Course.zip",
+        "size": 44416,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      },
+      {
+        "upstream_id": 43311,
+        "title": "Super Mario World 2: Yoshi's Island - Powerful Mario",
+        "version": "smwc-43311-1791576791",
+        "upstream_time": 1791576791,
+        "download_url": "https://dl.smwcentral.net/43311/Yoshi%27s%20Island%20-%20Powerful%20Infant.zip",
+        "filename": "Yoshi%27s Island - Powerful Infant.zip",
+        "size": 44665,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      },
+      {
+        "upstream_id": 43310,
+        "title": "Super Mario World 2: Yoshi's Island - Yoshi Down!",
+        "version": "smwc-43310-1791576789",
+        "upstream_time": 1791576789,
+        "download_url": "https://dl.smwcentral.net/43310/Yoshi%27s%20Island%20-%20Player%20Down.zip",
+        "filename": "Yoshi%27s Island - Player Down.zip",
+        "size": 35376,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      },
+      {
+        "upstream_id": 43309,
+        "title": "Super Mario World 2: Yoshi's Island - Overworld",
+        "version": "smwc-43309-1791576586",
+        "upstream_time": 1791576586,
+        "download_url": "https://dl.smwcentral.net/43309/Yoshi%27s%20Island%20-%20Overworld.zip",
+        "filename": "Yoshi%27s Island - Overworld.zip",
+        "size": 44510,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      },
+      {
+        "upstream_id": 43308,
+        "title": "Super Mario World 2: Yoshi's Island - Stage Boss",
+        "version": "smwc-43308-1791576585",
+        "upstream_time": 1791576585,
+        "download_url": "https://dl.smwcentral.net/43308/Yoshi%27s%20Island%20-%20Mid-Boss.zip",
+        "filename": "Yoshi%27s Island - Mid-Boss.zip",
+        "size": 47003,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      },
+      {
+        "upstream_id": 43307,
+        "title": "Super Mario World 2: Yoshi's Island - Mario Kidnapped",
+        "version": "smwc-43307-1791576583",
+        "upstream_time": 1791576583,
+        "download_url": "https://dl.smwcentral.net/43307/Yoshi%27s%20Island%20-%20Mario%20Kidnapped.zip",
+        "filename": "Yoshi%27s Island - Mario Kidnapped.zip",
+        "size": 33378,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      },
+      {
+        "upstream_id": 43298,
+        "title": "Super Mario World 2: Yoshi's Island - Rescuing Luigi",
+        "version": "smwc-43298-1791575923",
+        "upstream_time": 1791575923,
+        "download_url": "https://dl.smwcentral.net/43298/Yoshi%27s%20Island%20-%20Luigi%27s%20Rescue.zip",
+        "filename": "Yoshi%27s Island - Luigi%27s Rescue.zip",
+        "size": 48436,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      },
+      {
+        "upstream_id": 43297,
+        "title": "Super Mario World 2: Yoshi's Island - Kamek's Theme",
+        "version": "smwc-43297-1791575921",
+        "upstream_time": 1791575921,
+        "download_url": "https://dl.smwcentral.net/43297/Yoshi%27s%20Island%20-%20Kamek.zip",
+        "filename": "Yoshi%27s Island - Kamek.zip",
+        "size": 38929,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      },
+      {
+        "upstream_id": 43296,
+        "title": "Super Mario World 2: Yoshi's Island - In the Boss Room",
+        "version": "smwc-43296-1791575702",
+        "upstream_time": 1791575702,
+        "download_url": "https://dl.smwcentral.net/43296/Yoshi%27s%20Island%20-%20In%20Front%20of%20the%20Boss%27%20Room.zip",
+        "filename": "Yoshi%27s Island - In Front of the Boss%27 Room.zip",
+        "size": 34392,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      },
+      {
+        "upstream_id": 43295,
+        "title": "Super Mario World 2: Yoshi's Island - Goal!",
+        "version": "smwc-43295-1791575700",
+        "upstream_time": 1791575700,
+        "download_url": "https://dl.smwcentral.net/43295/Yoshi%27s%20Island%20-%20Goal.zip",
+        "filename": "Yoshi%27s Island - Goal.zip",
+        "size": 35496,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      },
+      {
+        "upstream_id": 43294,
+        "title": "Super Mario World 2: Yoshi's Island - Stage Start",
+        "version": "smwc-43294-1791575698",
+        "upstream_time": 1791575698,
+        "download_url": "https://dl.smwcentral.net/43294/Yoshi%27s%20Island%20-%20Game%20Start.zip",
+        "filename": "Yoshi%27s Island - Game Start.zip",
+        "size": 39342,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      },
+      {
+        "upstream_id": 43293,
+        "title": "Super Mario World 2: Yoshi's Island - Game Over",
+        "version": "smwc-43293-1791575378",
+        "upstream_time": 1791575378,
+        "download_url": "https://dl.smwcentral.net/43293/Yoshi%27s%20Island%20-%20Game%20Over.zip",
+        "filename": "Yoshi%27s Island - Game Over.zip",
+        "size": 32776,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      },
+      {
+        "upstream_id": 43292,
+        "title": "Super Mario World 2: Yoshi's Island - Flower Field",
+        "version": "smwc-43292-1791575376",
+        "upstream_time": 1791575376,
+        "download_url": "https://dl.smwcentral.net/43292/Yoshi%27s%20Island%20-%20Flower%20Garden.zip",
+        "filename": "Yoshi%27s Island - Flower Garden.zip",
+        "size": 51838,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      },
+      {
+        "upstream_id": 43289,
+        "title": "Super Mario World 2: Yoshi's Island - Castle & Fortress",
+        "version": "smwc-43289-1791575143",
+        "upstream_time": 1791575143,
+        "download_url": "https://dl.smwcentral.net/43289/Yoshi%27s%20Island%20-%20Castle%20%26%20Fortress.zip",
+        "filename": "Yoshi%27s Island - Castle %26 Fortress.zip",
+        "size": 45976,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      },
+      {
+        "upstream_id": 43288,
+        "title": "Super Mario World 2: Yoshi's Island - Bowser Defeated",
+        "version": "smwc-43288-1791575140",
+        "upstream_time": 1791575140,
+        "download_url": "https://dl.smwcentral.net/43288/Yoshi%27s%20Island%20-%20Bowser%20Clear.zip",
+        "filename": "Yoshi%27s Island - Bowser Clear.zip",
+        "size": 45584,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      },
+      {
+        "upstream_id": 43287,
+        "title": "Super Mario World 2: Yoshi's Island - Bowser",
+        "version": "smwc-43287-1791574903",
+        "upstream_time": 1791574903,
+        "download_url": "https://dl.smwcentral.net/43287/Yoshi%27s%20Island%20-%20Bowser.zip",
+        "filename": "Yoshi%27s Island - Bowser.zip",
+        "size": 137178,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      },
+      {
+        "upstream_id": 43286,
+        "title": "Super Mario World 2: Yoshi's Island - Bonus Challenge",
+        "version": "smwc-43286-1791574900",
+        "upstream_time": 1791574900,
+        "download_url": "https://dl.smwcentral.net/43286/Yoshi%27s%20Island%20-%20Bonus%20Game.zip",
+        "filename": "Yoshi%27s Island - Bonus Game.zip",
+        "size": 40107,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      },
+      {
+        "upstream_id": 43285,
+        "title": "Super Mario World 2: Yoshi's Island - Bonus Fanfare",
+        "version": "smwc-43285-1791574897",
+        "upstream_time": 1791574897,
+        "download_url": "https://dl.smwcentral.net/43285/Yoshi%27s%20Island%20-%20Bonus%20Fanfare.zip",
+        "filename": "Yoshi%27s Island - Bonus Fanfare.zip",
+        "size": 35303,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      },
+      {
+        "upstream_id": 43284,
+        "title": "Super Mario World 2: Yoshi's Island - Big Boss Clear",
+        "version": "smwc-43284-1791574693",
+        "upstream_time": 1791574693,
+        "download_url": "https://dl.smwcentral.net/43284/Yoshi%27s%20Island%20-%20Big%20Boss%20Clear.zip",
+        "filename": "Yoshi%27s Island - Big Boss Clear.zip",
+        "size": 39004,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      },
+      {
+        "upstream_id": 43283,
+        "title": "Super Mario World 2: Yoshi's Island - Big Boss",
+        "version": "smwc-43283-1791574690",
+        "upstream_time": 1791574690,
+        "download_url": "https://dl.smwcentral.net/43283/Yoshi%27s%20Island%20-%20Big%20Boss.zip",
+        "filename": "Yoshi%27s Island - Big Boss.zip",
+        "size": 91556,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      },
+      {
+        "upstream_id": 43282,
+        "title": "Super Mario World 2: Yoshi's Island - Athletic",
+        "version": "smwc-43282-1791574686",
+        "upstream_time": 1791574686,
+        "download_url": "https://dl.smwcentral.net/43282/Yoshi%27s%20Island%20-%20Athletic.zip",
+        "filename": "Yoshi%27s Island - Athletic.zip",
+        "size": 45358,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-super-mario-world-2-yoshi-s-island-ending-part",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 43291,
+    "title": "Super Mario World 2: Yoshi's Island - Ending (Part 2)",
+    "authors": [
+      "LadiesMan217"
+    ],
+    "tags": [
+      "calm",
+      "credits",
+      "cutscene",
+      "night",
+      "sad"
+    ],
+    "description": "Part of The Super Mario World 2: Yoshi's Island Soundtrack.",
+    "latest_version": "smwc-43291-1791575374",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 43291,
+        "title": "Super Mario World 2: Yoshi's Island - Ending (Part 2)",
+        "version": "smwc-43291-1791575374",
+        "upstream_time": 1791575374,
+        "download_url": "https://dl.smwcentral.net/43291/Yoshi%27s%20Island%20-%20Ending%20%28Part%202%29.zip",
+        "filename": "Yoshi%27s Island - Ending (Part 2).zip",
+        "size": 56158,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      },
+      {
+        "upstream_id": 43290,
+        "title": "Super Mario World 2: Yoshi's Island - Ending (Part 1)",
+        "version": "smwc-43290-1791575148",
+        "upstream_time": 1791575148,
+        "download_url": "https://dl.smwcentral.net/43290/Yoshi%27s%20Island%20-%20Ending%20%28Part%201%29.zip",
+        "filename": "Yoshi%27s Island - Ending (Part 1).zip",
+        "size": 81467,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-super-mario-world-2-yoshi-s-island-map-screen-world",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 43305,
+    "title": "Super Mario World 2: Yoshi's Island - Map Screen (World 7)",
+    "authors": [
+      "LadiesMan217"
+    ],
+    "tags": [
+      "overworld",
+      "upbeat"
+    ],
+    "description": "Part of The Super Mario World 2: Yoshi's Island Soundtrack.",
+    "latest_version": "smwc-43305-1791576338",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 43305,
+        "title": "Super Mario World 2: Yoshi's Island - Map Screen (World 7)",
+        "version": "smwc-43305-1791576338",
+        "upstream_time": 1791576338,
+        "download_url": "https://dl.smwcentral.net/43305/Yoshi%27s%20Island%20-%20Map%20%28World%207%29.zip",
+        "filename": "Yoshi%27s Island - Map (World 7).zip",
+        "size": 56348,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      },
+      {
+        "upstream_id": 43304,
+        "title": "Super Mario World 2: Yoshi's Island - Map Screen (World 6)",
+        "version": "smwc-43304-1791576336",
+        "upstream_time": 1791576336,
+        "download_url": "https://dl.smwcentral.net/43304/Yoshi%27s%20Island%20-%20Map%20%28World%206%29.zip",
+        "filename": "Yoshi%27s Island - Map (World 6).zip",
+        "size": 48610,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      },
+      {
+        "upstream_id": 43303,
+        "title": "Super Mario World 2: Yoshi's Island - Map Screen (World 5)",
+        "version": "smwc-43303-1791576334",
+        "upstream_time": 1791576334,
+        "download_url": "https://dl.smwcentral.net/43303/Yoshi%27s%20Island%20-%20Map%20%28World%205%29.zip",
+        "filename": "Yoshi%27s Island - Map (World 5).zip",
+        "size": 48585,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      },
+      {
+        "upstream_id": 43302,
+        "title": "Super Mario World 2: Yoshi's Island - Map Screen (World 4)",
+        "version": "smwc-43302-1791576152",
+        "upstream_time": 1791576152,
+        "download_url": "https://dl.smwcentral.net/43302/Yoshi%27s%20Island%20-%20Map%20%28World%204%29.zip",
+        "filename": "Yoshi%27s Island - Map (World 4).zip",
+        "size": 47748,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      },
+      {
+        "upstream_id": 43301,
+        "title": "Super Mario World 2: Yoshi's Island - Map Screen (World 3)",
+        "version": "smwc-43301-1791576149",
+        "upstream_time": 1791576149,
+        "download_url": "https://dl.smwcentral.net/43301/Yoshi%27s%20Island%20-%20Map%20%28World%203%29.zip",
+        "filename": "Yoshi%27s Island - Map (World 3).zip",
+        "size": 44137,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      },
+      {
+        "upstream_id": 43300,
+        "title": "Super Mario World 2: Yoshi's Island - Map Screen (World 2)",
+        "version": "smwc-43300-1791576147",
+        "upstream_time": 1791576147,
+        "download_url": "https://dl.smwcentral.net/43300/Yoshi%27s%20Island%20-%20Map%20%28World%202%29.zip",
+        "filename": "Yoshi%27s Island - Map (World 2).zip",
+        "size": 37705,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      },
+      {
+        "upstream_id": 43299,
+        "title": "Super Mario World 2: Yoshi's Island - Map Screen (World 1)",
+        "version": "smwc-43299-1791575924",
+        "upstream_time": 1791575924,
+        "download_url": "https://dl.smwcentral.net/43299/Yoshi%27s%20Island%20-%20Map%20%28World%201%29.zip",
+        "filename": "Yoshi%27s Island - Map (World 1).zip",
+        "size": 32116,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -1372,105 +940,31 @@
     ]
   },
   {
-    "name": "smwmusic-the-15th-vanilla-level-design-contest-prison-cages",
+    "name": "smwmusic-the-legend-of-zelda-ocarina-of-time-temple-of-time",
     "aliases": [],
     "section": "smwmusic",
-    "upstream_id": 42674,
-    "title": "The 15th Vanilla Level Design Contest - Prison Cages",
+    "upstream_id": 43268,
+    "title": "The Legend of Zelda: Ocarina of Time - Temple of Time",
     "authors": [
-      "Daizo Dee Von"
+      "ContinueGames17"
     ],
     "tags": [
       "ambient",
-      "dark",
-      "environmental",
-      "ghost house"
+      "calm",
+      "temple"
     ],
-    "description": "A spooky track for abandoned complexes.<br>\r\n<br>\r\nAppreciate credit if used.",
-    "latest_version": "smwc-42674-1790628477",
+    "description": "This is the classic and agradable Temple of Time song, from The Legend of Zelda: Ocarina of Time, which have some customizable variants. It have a great echo, so put it into rest or sacred-like areas, which doesn't have Yoshi or enemies (because it will be loud).",
+    "latest_version": "smwc-43268-1791319694",
     "install_kind": "add_music_k_music",
     "versions": [
       {
-        "upstream_id": 42674,
-        "title": "The 15th Vanilla Level Design Contest - Prison Cages",
-        "version": "smwc-42674-1790628477",
-        "upstream_time": 1790628477,
-        "download_url": "https://dl.smwcentral.net/42674/%5BS%5D%20VLDC%2015%20-%20Tectonic%20Complex.zip",
-        "filename": "%5BS%5D VLDC 15 - Tectonic Complex.zip",
-        "size": 81006,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-touhou-yumejikuu-the-phantasmagoria-of-dim-dream-dream-of-eternity",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42371,
-    "title": "Touhou Yumejikuu ~ The Phantasmagoria of Dim.Dream - Dream of Eternity",
-    "authors": [
-      "monkey03297"
-    ],
-    "tags": [
-      "cutscene",
-      "ending"
-    ],
-    "description": "久遠の夢",
-    "latest_version": "smwc-42371-1789928258",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42371,
-        "title": "Touhou Yumejikuu ~ The Phantasmagoria of Dim.Dream - Dream of Eternity",
-        "version": "smwc-42371-1789928258",
-        "upstream_time": 1789928258,
-        "download_url": "https://dl.smwcentral.net/42371/th3_15.zip",
-        "filename": "th3_15.zip",
-        "size": 33092,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-tower-of-heaven-indignant-divinity",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42868,
-    "title": "Tower of Heaven - Indignant Divinity",
-    "authors": [
-      "Dzing"
-    ],
-    "tags": [
-      "athletic",
-      "cave",
-      "dark",
-      "ice",
-      "industrial",
-      "night",
-      "sky",
-      "space",
-      "water"
-    ],
-    "description": "Chiptune song. Requested by <span class=\"un-outer\" title=\"7 up\"><a href=\"/?p=profile&amp;id=23507\" style=\"color: var(--user-color-2);\" class=\"un\">7 up</a></span>",
-    "latest_version": "smwc-42868-1789281026",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42868,
-        "title": "Tower of Heaven - Indignant Divinity",
-        "version": "smwc-42868-1789281026",
-        "upstream_time": 1789281026,
-        "download_url": "https://dl.smwcentral.net/42868/indignantdivinity.zip",
-        "filename": "indignantdivinity.zip",
-        "size": 37906,
+        "upstream_id": 43268,
+        "title": "The Legend of Zelda: Ocarina of Time - Temple of Time",
+        "version": "smwc-43268-1791319694",
+        "upstream_time": 1791319694,
+        "download_url": "https://dl.smwcentral.net/43268/TLoZ%20Ocarina%20of%20Time%20-%20Temple%20of%20Time.zip",
+        "filename": "TLoZ Ocarina of Time - Temple of Time.zip",
+        "size": 152441,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -1506,129 +1000,6 @@
         "download_url": "https://dl.smwcentral.net/42711/Watermelon%20Valley%20.zip",
         "filename": "Watermelon Valley .zip",
         "size": 31369,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-yoshi-topsy-turvy-tale-of-the-spirit-of-cuteness",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42666,
-    "title": "Yoshi Topsy-Turvy - Tale of the Spirit of Cuteness",
-    "authors": [
-      "Moose"
-    ],
-    "tags": [
-      "forest",
-      "grassland",
-      "ice",
-      "mountain",
-      "sky",
-      "snow",
-      "upbeat"
-    ],
-    "description": "been wanting to do this since i first got into music porting. i guess this is what i've been building up to all these years lol",
-    "latest_version": "smwc-42666-1790628236",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42666,
-        "title": "Yoshi Topsy-Turvy - Tale of the Spirit of Cuteness",
-        "version": "smwc-42666-1790628236",
-        "upstream_time": 1790628236,
-        "download_url": "https://dl.smwcentral.net/42666/ytt-cuteness.zip",
-        "filename": "ytt-cuteness.zip",
-        "size": 39564,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-yoshi-topsy-turvy-tale-of-the-spirit-of-power",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42705,
-    "title": "Yoshi Topsy-Turvy - Tale of the Spirit of Power",
-    "authors": [
-      "Moose"
-    ],
-    "tags": [
-      "athletic",
-      "boss",
-      "castle",
-      "cave",
-      "dark",
-      "fire",
-      "tense"
-    ],
-    "description": "wanted to come back to this after all these years",
-    "latest_version": "smwc-42705-1790628981",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42705,
-        "title": "Yoshi Topsy-Turvy - Tale of the Spirit of Power",
-        "version": "smwc-42705-1790628981",
-        "upstream_time": 1790628981,
-        "download_url": "https://dl.smwcentral.net/42705/ytt-power26.zip",
-        "filename": "ytt-power26.zip",
-        "size": 39880,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-yoshi-touch-go-invincible",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42596,
-    "title": "Yoshi Touch & Go - Invincible",
-    "authors": [
-      "NamyX"
-    ],
-    "tags": [
-      "athletic",
-      "star"
-    ],
-    "description": "Invincible / Starman from Yoshi Touch & Go.",
-    "latest_version": "smwc-42596-1789374134",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42596,
-        "title": "Yoshi Touch & Go - Invincible",
-        "version": "smwc-42596-1789374134",
-        "upstream_time": 1789374134,
-        "download_url": "https://dl.smwcentral.net/42596/Invincible%20%5BU%5D.zip",
-        "filename": "Invincible %5BU%5D.zip",
-        "size": 33226,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      },
-      {
-        "upstream_id": 42595,
-        "title": "Yoshi Touch & Go - Invincible",
-        "version": "smwc-42595-1789374128",
-        "upstream_time": 1789374128,
-        "download_url": "https://dl.smwcentral.net/42595/Invincible%20%5BS%5D.zip",
-        "filename": "Invincible %5BS%5D.zip",
-        "size": 96968,
         "sha256": null,
         "dependencies": [
           "addmusick"

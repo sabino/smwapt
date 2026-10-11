@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-the-legend-of-zelda-ocarina-of-time-temple-of-time",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 43268,
+  "title": "The Legend of Zelda: Ocarina of Time - Temple of Time",
+  "authors": [
+    "ContinueGames17"
+  ],
+  "tags": [
+    "ambient",
+    "calm",
+    "temple"
+  ],
+  "description": "This is the classic and agradable Temple of Time song, from The Legend of Zelda: Ocarina of Time, which have some customizable variants. It have a great echo, so put it into rest or sacred-like areas, which doesn't have Yoshi or enemies (because it will be loud).",
+  "latest_version": "smwc-43268-1791319694",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 43268,
+      "title": "The Legend of Zelda: Ocarina of Time - Temple of Time",
+      "version": "smwc-43268-1791319694",
+      "upstream_time": 1791319694,
+      "download_url": "https://dl.smwcentral.net/43268/TLoZ%20Ocarina%20of%20Time%20-%20Temple%20of%20Time.zip",
+      "filename": "TLoZ Ocarina of Time - Temple of Time.zip",
+      "size": 152441,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

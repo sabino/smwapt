@@ -1,5 +1,36 @@
 [
   {
+    "name": "smwgraphics-alternate-redrawn-muncher",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 43250,
+    "title": "Alternate Redrawn Muncher",
+    "authors": [
+      "Moltz"
+    ],
+    "tags": [
+      "muncher",
+      "redrawn"
+    ],
+    "description": "Alternate Redrawn graphics for the Muncher/Black Piranha Plant pseudo-enemy, now looking actually black to fit-in its more modern name.<br>\r\n<br>\r\nWhile it's meant to replace the original Muncher's graphics, files for the plants having four animation frames like in Super Mario Bros 3 are also included.<br>\r\n<br>\r\nCredit's not needed but very much appreciated.",
+    "latest_version": "smwc-43250-1791150961",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 43250,
+        "title": "Alternate Redrawn Muncher",
+        "version": "smwc-43250-1791150961",
+        "upstream_time": 1791150961,
+        "download_url": "https://dl.smwcentral.net/43250/Alternate%20Redrawn%20Muncher.zip",
+        "filename": "Alternate Redrawn Muncher.zip",
+        "size": 8396,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
     "name": "smwgraphics-alternative-redrawn-pidgit-bill",
     "aliases": [],
     "section": "smwgraphics",
@@ -57,37 +88,6 @@
         "download_url": "https://dl.smwcentral.net/42783/bandr-Grass.zip",
         "filename": "bandr-Grass.zip",
         "size": 4071,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
-    "name": "smwgraphics-bomberman-ii-intro-cutscene",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 41854,
-    "title": "Bomberman II - Intro Cutscene",
-    "authors": [
-      "Anorakun"
-    ],
-    "tags": [
-      "city",
-      "retro"
-    ],
-    "description": "The city seen in the opening sequence of Bomberman II for the NES.  <br>\r\n<br>\r\nIncludes a church cross that was removed from the international releases, due to Nintendo's censorship back then. Thanks to <span class=\"un-outer\" title=\"NES Boy216\"><a href=\"/?p=profile&amp;id=55033\" style=\"color: var(--user-color-2);\" class=\"un\">NES Boy216</a></span> for telling me about this.<br>\r\n<br>\r\nThere's four palettes included:<br>\r\n- FCEUX colors;<br>\r\n- FCEUX, but with a lighter outline;<br>\r\n- NES colors;<br>\r\n- NES colors but with a lighter outline;<br>\r\n<br>\r\nPick the one you like the most. Personally, I think that the ones with lighter outlines work the best with SMW style.<br>\r\n<br>\r\nThe colors and outline are easy enough to edit.  If you want to remove the cross, for some reason, delete the last two 8x8 tiles in the provided bin file.<br>\r\n<br>\r\nA good fit for retro themed town levels.",
-    "latest_version": "smwc-41854-1782790399",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 41854,
-        "title": "Bomberman II - Intro Cutscene",
-        "version": "smwc-41854-1782790399",
-        "upstream_time": 1782790399,
-        "download_url": "https://dl.smwcentral.net/41854/bomberman%202%20intro%20cutscene.zip",
-        "filename": "bomberman 2 intro cutscene.zip",
-        "size": 5621,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -158,36 +158,6 @@
     ]
   },
   {
-    "name": "smwgraphics-cave",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 42627,
-    "title": "Cave 2026",
-    "authors": [
-      "Gamma V"
-    ],
-    "tags": [
-      "cave"
-    ],
-    "description": "This is meant to be another installment in my 2025 FG series, but it's 2026.  Either way, it's a cave tileset with crystals, wood/mine elements, hanging lanterns, and cobwebs.",
-    "latest_version": "smwc-42627-1783020633",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 42627,
-        "title": "Cave 2026",
-        "version": "smwc-42627-1783020633",
-        "upstream_time": 1783020633,
-        "download_url": "https://dl.smwcentral.net/42627/Cave2026.zip",
-        "filename": "Cave2026.zip",
-        "size": 6398,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
     "name": "smwgraphics-chef-chuck",
     "aliases": [],
     "section": "smwgraphics",
@@ -219,6 +189,43 @@
     ]
   },
   {
+    "name": "smwgraphics-custom-super-mario-bros",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 43197,
+    "title": "Custom Super Mario Bros. 2 Shy Guy, Snifit, Beezo and Tweeter",
+    "authors": [
+      "Broozer"
+    ],
+    "tags": [
+      "beezo",
+      "giant beezo",
+      "giant shy guy",
+      "giant snifit",
+      "giant tweeter",
+      "shy guy",
+      "snifit",
+      "tweeter"
+    ],
+    "description": "Original graphic replacements for the following sprites:<br>\r\n<ul><li><a href=\"https://www.smwcentral.net/?p=section&a=details&id=16800\">SMB2 Shyguy + Giant Shyguy</a></li>\n<li><a href=\"https://www.smwcentral.net/?p=section&a=details&id=16801\">SMB2 Snifit + Giant Snifit</a></li>\n<li><a href=\"https://www.smwcentral.net/?p=section&a=details&id=16798\">Beezo + Giant Beezo</a></li>\n<li><a href=\"https://www.smwcentral.net/?p=section&a=details&id=16802\">Tweeter + Giant Tweeter</a></li></ul><br>\r\nMay or may not be compatible with other sprite adaptations of these enemies.<br>\r\n<br>\r\nAdditional information in the readme file. Credit is optional, but appreciated.",
+    "latest_version": "smwc-43197-1791145414",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 43197,
+        "title": "Custom Super Mario Bros. 2 Shy Guy, Snifit, Beezo and Tweeter",
+        "version": "smwc-43197-1791145414",
+        "upstream_time": 1791145414,
+        "download_url": "https://dl.smwcentral.net/43197/custom-shyguy-snifit-beezo-tweeter.zip",
+        "filename": "custom-shyguy-snifit-beezo-tweeter.zip",
+        "size": 14386,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
     "name": "smwgraphics-doraemon",
     "aliases": [],
     "section": "smwgraphics",
@@ -235,9 +242,10 @@
       "mountain",
       "ruins",
       "sky",
-      "texture"
+      "texture",
+      "underwater"
     ],
-    "description": "The simple and pleasant Tetris-like background seen in a bonus room from the factory area from Doraemon 3 (SNES).  <br>\r\n<br>\r\nCan fit a variety of level themes.",
+    "description": "The underwater marine life, seen in one of the rooms of the Ancient Ruins, from Doraemon 3 for the Super Famicom. The source material uses wave HDMA, but maybe you can use parallax scrolling to move the fishes.<br>\r\n<br>\r\nSince it is a really tall background, it uses one of the expanded horizontal level modes.  To change it, click in the Mario head icon in Lunar Magic and put Horizontal Level Mode to the value you'd like.<br>\r\n<br>\r\nA good fit for underwater or bonus levels.",
     "latest_version": "smwc-42949-1787462144",
     "install_kind": "asset_only",
     "versions": [
@@ -249,6 +257,18 @@
         "download_url": "https://dl.smwcentral.net/42949/Doraemon%203%20%28SFC%29%20-%20Factory%20%28Bonus%20Room%29.zip",
         "filename": "Doraemon 3 (SFC) - Factory (Bonus Room).zip",
         "size": 1923,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      },
+      {
+        "upstream_id": 42902,
+        "title": "Doraemon 3: Nobita to Toki no Hougyoku - Ancient Ruins (Aquarium)",
+        "version": "smwc-42902-1791438938",
+        "upstream_time": 1791438938,
+        "download_url": "https://dl.smwcentral.net/42902/Doraemon%203%20%28SFC%29%20-%20Ancient%20Ruins%20%28Aquarium%29.zip",
+        "filename": "Doraemon 3 (SFC) - Ancient Ruins (Aquarium).zip",
+        "size": 6800,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -317,6 +337,40 @@
         "download_url": "https://dl.smwcentral.net/42799/doremifantasyguardian2.zip",
         "filename": "doremifantasyguardian2.zip",
         "size": 11769,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
+    "name": "smwgraphics-forest-jungle",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 43230,
+    "title": "Forest / Jungle",
+    "authors": [
+      "Moltz",
+      "SF - The Dark Warrior"
+    ],
+    "tags": [
+      "forest",
+      "jungle",
+      "redrawn",
+      "wood"
+    ],
+    "description": "Foreground started earlier on in the year as a request in The Rip Lair, finished as of today thanks to the assistance of Moltz (conversions to .bin, drawing of the climbable vines, decor grass on dirt fill, bush decor, flowers for bushes, brambles, non-slanted vines on logs is his contributions. Everything else is my own contribution). <br>\r\n<br>\r\nInspired by 2 entries of the Magical Quest Starring Mickey Mouse, with a hint of Kirby's Adventure and SMB2USA/DDP. <br>\r\n<br>\r\nPrimarily meant to be used with Redrawn-styled sprite assets as it was designed for that, but it can be used for other styles if you want.<br>\r\n<br>\r\nGive credit to me and Moltz if you use it for your SMW hack/fangame projects.",
+    "latest_version": "smwc-43230-1791147031",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 43230,
+        "title": "Forest / Jungle",
+        "version": "smwc-43230-1791147031",
+        "upstream_time": 1791147031,
+        "download_url": "https://dl.smwcentral.net/43230/Jungle%20Tileset%20RC1.zip",
+        "filename": "Jungle Tileset RC1.zip",
+        "size": 12957,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -618,6 +672,38 @@
     ]
   },
   {
+    "name": "smwgraphics-hatsune-miku",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 43103,
+    "title": "Hatsune Miku",
+    "authors": [
+      "Klug",
+      "Kryz70phoro"
+    ],
+    "tags": [
+      "female",
+      "humanoid"
+    ],
+    "description": "<i>“I can see at the end of the horizon — <a href=\"https://vocaloid.fandom.com/wiki/Hatsune_Miku\" rel=\"nofollow\">HATSUNE MIKU</a>?!”</i><br>\r\n<br>\r\nYou heard that right — the most famous Vocaloid of all has arrived to <i>Super Mario World</i>! Featuring all of the poses included in the game, as well as for the overworld. In addition, it has several color schemes, such as Player 2 Miku having Akita Neru's palette, and Fire Miku palettes being based on Sakura and Snow Miku color schemes.<br>\r\n<br>\r\nPlease note that, due to the way <i>SMW</i> graphics limitations work, all of her graphics are HEAVILY EDITED to compensate with player graphics (and color palette even!) limitations. A future update will include support for 32x32 Tilemap Patch, which allows more dynamic movements and poses.<br>\r\n<br>\r\nCredit goes to Kryz70phoro for making the graphics (You can check out <a href=\"https://www.spriters-resource.com/custom_edited/hatsunemikucustoms/asset/553520/\" rel=\"nofollow\">the spritesheet</a> here!) and ported by yours truly for ROM hacking usage.",
+    "latest_version": "smwc-43103-1791169057",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 43103,
+        "title": "Hatsune Miku",
+        "version": "smwc-43103-1791169057",
+        "upstream_time": 1791169057,
+        "download_url": "https://dl.smwcentral.net/43103/Vocaloid%20-%20Hatsune%20Miku.zip",
+        "filename": "Vocaloid - Hatsune Miku.zip",
+        "size": 24797,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
     "name": "smwgraphics-jumper-vt369-grassland",
     "aliases": [],
     "section": "smwgraphics",
@@ -642,6 +728,38 @@
         "download_url": "https://dl.smwcentral.net/43076/jumpervt369grassland.zip",
         "filename": "jumpervt369grassland.zip",
         "size": 5073,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
+    "name": "smwgraphics-kirby-canvas-curse-the-world-of-drawcia",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 43255,
+    "title": "Kirby: Canvas Curse - The World of Drawcia",
+    "authors": [
+      "MagicMaker",
+      "playagmes169"
+    ],
+    "tags": [
+      "abstract",
+      "flesh"
+    ],
+    "description": "The FG from the final stage of Kirby: Canvas Curse on the DS, MagicMaker on The Spriters Resource ripped most of the tiles, while I've edited and ripped some others, I was too tired to go back to ripping the FG because I just defeated Drawcia and her horrifying soul form, and also because of how many tiles it has, in fact, I got lost on the in-game tileset on my emulator! Go <a href=\"https://www.spriters-resource.com/profile/magicmaker/\" rel=\"nofollow\">check them out</a> and their <a href=\"https://www.spriters-resource.com/ds_dsi/kirbycanvascurse/asset/26764/\" rel=\"nofollow\">original submission</a>",
+    "latest_version": "smwc-43255-1791146490",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 43255,
+        "title": "Kirby: Canvas Curse - The World of Drawcia",
+        "version": "smwc-43255-1791146490",
+        "upstream_time": 1791146490,
+        "download_url": "https://dl.smwcentral.net/43255/drawciaworldfg.zip",
+        "filename": "drawciaworldfg.zip",
+        "size": 4720,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -704,37 +822,6 @@
         "download_url": "https://dl.smwcentral.net/43060/SMWGFXmarioscircuit.zip",
         "filename": "SMWGFXmarioscircuit.zip",
         "size": 34013,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
-    "name": "smwgraphics-mario-coin",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 42579,
-    "title": "Mario Coin",
-    "authors": [
-      "Green Jerry"
-    ],
-    "tags": [
-      "dragon coin",
-      "yoshi coin"
-    ],
-    "description": "A Yoshi/Dragon Coin with Mario's face instead of Yoshi's face.<br>\r\n<br>\r\nDoesn't require custom palettes, it uses the vanilla palette.",
-    "latest_version": "smwc-42579-1782355346",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 42579,
-        "title": "Mario Coin",
-        "version": "smwc-42579-1782355346",
-        "upstream_time": 1782355346,
-        "download_url": "https://dl.smwcentral.net/42579/Mario%20Coin.zip",
-        "filename": "Mario Coin.zip",
-        "size": 1568,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -895,6 +982,37 @@
     ]
   },
   {
+    "name": "smwgraphics-redrawn-styled-porcupos",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 43256,
+    "title": "Redrawn Styled Porcupos",
+    "authors": [
+      "Moltz"
+    ],
+    "tags": [
+      "porcupo",
+      "redrawn"
+    ],
+    "description": "Redrawn style graphics that reskin SMW Spiny into Super Mario Bros 2's Porcupo (the hedgehogs-looking dudes).<br>\r\n<br>\r\nAlternate variations are included based on whether the user wants the enemy's spikes to look brighter or darker, and also if they should use either Palette 9 or any other color. By default, A custom Palette 9 and C are included.<br>\r\n<br>\r\nCredit's not required but very much appreciated.",
+    "latest_version": "smwc-43256-1791151334",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 43256,
+        "title": "Redrawn Styled Porcupos",
+        "version": "smwc-43256-1791151334",
+        "upstream_time": 1791151334,
+        "download_url": "https://dl.smwcentral.net/43256/smb2%20Porcupos%20Redrawn.zip",
+        "filename": "smb2 Porcupos Redrawn.zip",
+        "size": 10679,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
     "name": "smwgraphics-ribbon-toyland",
     "aliases": [],
     "section": "smwgraphics",
@@ -958,31 +1076,63 @@
     ]
   },
   {
-    "name": "smwgraphics-snow-bros-arcade-world",
+    "name": "smwgraphics-snow-bros-2-with-new-elves-world-1",
     "aliases": [],
     "section": "smwgraphics",
-    "upstream_id": 42567,
-    "title": "Snow Bros. (Arcade) - World 2",
+    "upstream_id": 43189,
+    "title": "Snow Bros. 2: With New Elves - World 1-5",
     "authors": [
       "playagmes169"
     ],
     "tags": [
-      "abstract",
-      "carnival",
-      "industrial"
+      "castle",
+      "sky"
     ],
-    "description": "Ah yes, the bright and colorful yet sort of \"abstract\" world that I can't figure out if it's some sort of carnival or a Krtek-style toy factory (for who doesn't know about Krtek aka The Little Mole, it was an old Czechoslovakian animated series that was usually quite wholesome and cutesy compared to the creepy or scary animations that we know Czechoslovakia for nowadays, including Fantastic Planet, if I remember correctly. There was a scene in a Krtek short about Krtek and his friends going to find shelter in the city after the forest they called home was deforestated, but let's get straight to the point now, Krtek and his friends become famous and enter a colorful toy factory where they started making Krtek dolls. Anyways, if you didn't know, you can find Krtek and his friends literally EVERYWHERE around Prague, but let's move on, shall we?)<br>\r\nI couldn't find any tiles in the original game's files that made the scaffoldings cross between each other or something, so I edited the Map16 to make them connect properly without making them look too \"choppy\", without risking of having more cutoff, not to mention that I've added 2 custom-made tiles specifically to complete this tileset ",
-    "latest_version": "smwc-42567-1782354729",
+    "description": "The sky castle/fortress BG from Snow Bros. 2: With New Elves, this BG was surprisingly easy to port, but I had to omit the sun and the stars though...",
+    "latest_version": "smwc-43189-1791140140",
     "install_kind": "asset_only",
     "versions": [
       {
-        "upstream_id": 42567,
-        "title": "Snow Bros. (Arcade) - World 2",
-        "version": "smwc-42567-1782354729",
-        "upstream_time": 1782354729,
-        "download_url": "https://dl.smwcentral.net/42567/snowbrosarcadeworld2.zip",
-        "filename": "snowbrosarcadeworld2.zip",
-        "size": 13471,
+        "upstream_id": 43189,
+        "title": "Snow Bros. 2: With New Elves - World 1-5",
+        "version": "smwc-43189-1791140140",
+        "upstream_time": 1791140140,
+        "download_url": "https://dl.smwcentral.net/43189/snowbros2world1-5.zip",
+        "filename": "snowbros2world1-5.zip",
+        "size": 4387,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
+    "name": "smwgraphics-sonic-mania-stardust-speedway-zone-act",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 43220,
+    "title": "Sonic Mania - Stardust Speedway Zone (Act 1)",
+    "authors": [
+      "Random Talking Bush",
+      "playagmes169"
+    ],
+    "tags": [
+      "city",
+      "night",
+      "ruins"
+    ],
+    "description": "Here's the BG and FG of Stardust Speedway Zone, I had to take some creative liberties with the Layer 3 BG because I don't think I can fit that many tiles in one file, and I don't want to sacrifice the global LG storage for this. I had to reduce the amount of colors in the palettes of the FG and the L3 BG, also, I had to reshade some of the FG tiles to appear more \"smooth\" to give off the illusion that it has more color, like in the original tileset.<br>\r\n<br>\r\nA huge thank you to Random Talking Bush from the TSR moderation team for letting me and everyone else use this BG and FG tileset, go check out their <a href=\"https://www.spriters-resource.com/pc_computer/sonicmania/asset/95654/\" rel=\"nofollow\">original submission</a> and their <a href=\"https://www.spriters-resource.com/profile/random+talking+bush/\" rel=\"nofollow\">profile</a>, and make sure to credit them for originally ripping these assets for everyone to use!<br>\r\n<br>\r\nNOTICE: I'd highly recommend to apply a <a href=\"https://www.smwcentral.net/?p=section&a=details&id=40144\">patch to remove the layer 3 statusbar</a> to make space for layer 3 BG's",
+    "latest_version": "smwc-43220-1791148239",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 43220,
+        "title": "Sonic Mania - Stardust Speedway Zone (Act 1)",
+        "version": "smwc-43220-1791148239",
+        "upstream_time": 1791148239,
+        "download_url": "https://dl.smwcentral.net/43220/sonicmaniasszact1.zip",
+        "filename": "sonicmaniasszact1.zip",
+        "size": 14484,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -1086,30 +1236,30 @@
     ]
   },
   {
-    "name": "smwgraphics-super-mario-all-stars-super-mario-bros-mario-luigi",
+    "name": "smwgraphics-super-mario",
     "aliases": [],
     "section": "smwgraphics",
-    "upstream_id": 42601,
-    "title": "Super Mario All-Stars: Super Mario Bros. - Mario & Luigi",
+    "upstream_id": 43165,
+    "title": "Super Mario 127 - Inspired Font",
     "authors": [
-      "MaltaRCX"
+      "Charpurrr",
+      "GlitchyR-01"
     ],
     "tags": [
-      "male",
-      "patch needed"
+      "sans serif"
     ],
-    "description": "Mario and Luigi from the SNES version of Super Mario Bros. Fully adapted to the SMW moveset including cutscene poses, Yoshi, etc.<br>\r\n<br>\r\nIMPORTANT: You will need the <a href=\"https://www.smwcentral.net/?p=section&a=details&id=40241\">32x32 Player Graphics Patch</a> to use this.<br>\r\n<br>\r\nIncludes:<br>\r\n- Mario.<br>\r\n- Luigi.<br>\r\n- Shared palettes.<br>\r\n- Beta version of Mario + Shared palettes for Beta Mario and Luigi.<br>\r\n- Alternate graphics for Luigi using SMAS poses.<br>\r\n- A file containing various extra poses for Mario and Luigi for use with other patches or custom ASM.",
-    "latest_version": "smwc-42601-1782687074",
+    "description": "A 8x16 recreation of the font that will be used in the fangame, Super Mario 127, created by @Charpurrr on Twitter.<br>\r\n<br>\r\n<a href=\"https://x.com/Mario127Game/status/1787198919232942454\" rel=\"nofollow\">Here's the original post! It was posted with the author's permission. </a>",
+    "latest_version": "smwc-43165-1791139776",
     "install_kind": "asset_only",
     "versions": [
       {
-        "upstream_id": 42601,
-        "title": "Super Mario All-Stars: Super Mario Bros. - Mario & Luigi",
-        "version": "smwc-42601-1782687074",
-        "upstream_time": 1782687074,
-        "download_url": "https://dl.smwcentral.net/42601/SMAS%20-%20SMB%20-%20Mario%20%26%20Luigi.zip",
-        "filename": "SMAS - SMB - Mario %26 Luigi.zip",
-        "size": 69799,
+        "upstream_id": 43165,
+        "title": "Super Mario 127 - Inspired Font",
+        "version": "smwc-43165-1791139776",
+        "upstream_time": 1791139776,
+        "download_url": "https://dl.smwcentral.net/43165/Super%20Mario%20127%20Inspired%20Font.zip",
+        "filename": "Super Mario 127 Inspired Font.zip",
+        "size": 1985,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -1210,102 +1360,6 @@
     ]
   },
   {
-    "name": "smwgraphics-super-mario-world-styled-luigi-beta-sma2-inspired",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 42573,
-    "title": "Super Mario World Styled Luigi (Beta & SMA2-inspired)",
-    "authors": [
-      "Kaching720"
-    ],
-    "tags": [
-      "luigi",
-      "male"
-    ],
-    "description": "This started out as an opposite to QuadFactor's SMA2 Mario, to \"de-advance-ify\" SMA2 Luigi, but I decided to shift the scope to create a Luigi that feels like he came out of base game back in the 1990s. Mainly based off of the 1989 beta and SMA2 Luigi but takes some notes from SMAS/SMM2 and SMB3 Luigi.<br>\r\n<br>\r\n<br>\r\n<br>\r\nIncludes:<br>\r\n<br>\r\n- GFX32 and PlayerGFX for 32x32 compat (with SMAS poses)<br>\r\n<br>\r\n- Same as above with but without vanilla inaccuracies<br>\r\n<br>\r\n- GFX00 (and a corrected version), 10 (one for the 32x32 patch too), 22, and 24 <br>\r\n<br>\r\n- GFX 28 to swap nametags<br>\r\n<br>\r\n- SMW palette (vanilla), SMA2 palette (blue overalls), and SMM2 palette (Mario's skin tone) for Luigi as Player 1<br>\r\n<br>\r\n- OW palettes for adjusted Yoshi colors and Luigi as Player 1 (has both blue and purple overalls)<br>\r\n<br>\r\n<br>\r\nI recommend you use them with patches that fix tile errors in the vanilla game (specifically the first cape flight frame and small victory pose while riding Yoshi)<br>\r\n<br>\r\nThe GFX32 files have a small p-speed jump frame in an unused tile.<br>\r\n<br>\r\nFeel free to edit if you want to mix and match the jank and corrected sprites or if you need compat with custom items/outfits",
-    "latest_version": "smwc-42573-1782438086",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 42573,
-        "title": "Super Mario World Styled Luigi (Beta & SMA2-inspired)",
-        "version": "smwc-42573-1782438086",
-        "upstream_time": 1782438086,
-        "download_url": "https://dl.smwcentral.net/42573/SMW-Styled_Luigi%28Beta-inspired%29.zip",
-        "filename": "SMW-Styled_Luigi(Beta-inspired).zip",
-        "size": 127596,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
-    "name": "smwgraphics-super-mario-world-styled-mario-bros-ice-fort",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 42548,
-    "title": "Super Mario World Styled Mario Bros. Ice Fort",
-    "authors": [
-      "Ganbare-Lucifer",
-      "edgar"
-    ],
-    "tags": [
-      "castle",
-      "ice",
-      "snow"
-    ],
-    "description": "A Super Mario World styled take on the ice fort background of the Mario Bros. port on GBA.<br>\r\n<br>\r\nMade by Ganbare-Lucifer.",
-    "latest_version": "smwc-42548-1781724584",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 42548,
-        "title": "Super Mario World Styled Mario Bros. Ice Fort",
-        "version": "smwc-42548-1781724584",
-        "upstream_time": 1781724584,
-        "download_url": "https://dl.smwcentral.net/42548/SMW%20Styled%20Mario%20Bros%20Ice%20Fort.zip",
-        "filename": "SMW Styled Mario Bros Ice Fort.zip",
-        "size": 4125,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
-    "name": "smwgraphics-super-mario-world-styled-mario-bros-lava-sewer",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 42549,
-    "title": "Super Mario World Styled Mario Bros. Lava Sewer",
-    "authors": [
-      "Ganbare-Lucifer",
-      "edgar"
-    ],
-    "tags": [
-      "castle",
-      "fire"
-    ],
-    "description": "A Super Mario World-styled take on <a href=\"https://www.smwcentral.net/?p=section&a=details&id=32155\">this background</a> of the Mario Bros. port on GBA.<br>\r\n<br>\r\nMade by Ganbare-Lucifer.",
-    "latest_version": "smwc-42549-1781724856",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 42549,
-        "title": "Super Mario World Styled Mario Bros. Lava Sewer",
-        "version": "smwc-42549-1781724856",
-        "upstream_time": 1781724856,
-        "download_url": "https://dl.smwcentral.net/42549/SMW%20Styled%20Mario%20Bros%20Lava%20Sewer.zip",
-        "filename": "SMW Styled Mario Bros Lava Sewer.zip",
-        "size": 4691,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
     "name": "smwgraphics-super-mario-world-styled-princess-peach",
     "aliases": [],
     "section": "smwgraphics",
@@ -1369,38 +1423,6 @@
     ]
   },
   {
-    "name": "smwgraphics-the-wizard-of-oz-snes-crystal-cave",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 41718,
-    "title": "The Wizard of Oz (SNES) - Crystal Cave",
-    "authors": [
-      "Roberto zampari"
-    ],
-    "tags": [
-      "cave",
-      "ice",
-      "texture"
-    ],
-    "description": "<span style=\"font-size: 16pt;\"><b>C3 WINTER 2026 - SISTER EDITION:</b></span><br>\r\n<br>\r\nThe \"Crystal Cave\" from <b><u>The Wizard of Oz</u></b> Super Nintendo game.<br>\r\nWhat do you think about this?",
-    "latest_version": "smwc-41718-1782789558",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 41718,
-        "title": "The Wizard of Oz (SNES) - Crystal Cave",
-        "version": "smwc-41718-1782789558",
-        "upstream_time": 1782789558,
-        "download_url": "https://dl.smwcentral.net/41718/wizardoz_crystalcave.zip",
-        "filename": "wizardoz_crystalcave.zip",
-        "size": 3695,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
     "name": "smwgraphics-wario-land",
     "aliases": [],
     "section": "smwgraphics",
@@ -1424,35 +1446,6 @@
         "download_url": "https://dl.smwcentral.net/42725/Wario%20Land%203%20-%20Above%20the%20Clouds%20%28Inside%20Moon%29.zip",
         "filename": "Wario Land 3 - Above the Clouds (Inside Moon).zip",
         "size": 6726,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
-    "name": "smwgraphics-wario-waluigi",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 42517,
-    "title": "Wario & Waluigi",
-    "authors": [
-      "Ganbare-Lucifer",
-      "edgar"
-    ],
-    "tags": [],
-    "description": "Long due overworld graphics that are best suited for <a href=\"https://www.smwcentral.net/?p=section&a=details&id=693\">this submission.</a><br>\r\n<br>\r\nMade by Ganbare-Lucifer.",
-    "latest_version": "smwc-42517-1781467404",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 42517,
-        "title": "Wario & Waluigi",
-        "version": "smwc-42517-1781467404",
-        "upstream_time": 1781467404,
-        "download_url": "https://dl.smwcentral.net/42517/Wario%20%26%20Waluigi.zip",
-        "filename": "Wario %26 Waluigi.zip",
-        "size": 4600,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"

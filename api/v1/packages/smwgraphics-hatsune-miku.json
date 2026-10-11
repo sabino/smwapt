@@ -1,0 +1,32 @@
+{
+  "name": "smwgraphics-hatsune-miku",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 43103,
+  "title": "Hatsune Miku",
+  "authors": [
+    "Klug",
+    "Kryz70phoro"
+  ],
+  "tags": [
+    "female",
+    "humanoid"
+  ],
+  "description": "<i>“I can see at the end of the horizon — <a href=\"https://vocaloid.fandom.com/wiki/Hatsune_Miku\" rel=\"nofollow\">HATSUNE MIKU</a>?!”</i><br>\r\n<br>\r\nYou heard that right — the most famous Vocaloid of all has arrived to <i>Super Mario World</i>! Featuring all of the poses included in the game, as well as for the overworld. In addition, it has several color schemes, such as Player 2 Miku having Akita Neru's palette, and Fire Miku palettes being based on Sakura and Snow Miku color schemes.<br>\r\n<br>\r\nPlease note that, due to the way <i>SMW</i> graphics limitations work, all of her graphics are HEAVILY EDITED to compensate with player graphics (and color palette even!) limitations. A future update will include support for 32x32 Tilemap Patch, which allows more dynamic movements and poses.<br>\r\n<br>\r\nCredit goes to Kryz70phoro for making the graphics (You can check out <a href=\"https://www.spriters-resource.com/custom_edited/hatsunemikucustoms/asset/553520/\" rel=\"nofollow\">the spritesheet</a> here!) and ported by yours truly for ROM hacking usage.",
+  "latest_version": "smwc-43103-1791169057",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 43103,
+      "title": "Hatsune Miku",
+      "version": "smwc-43103-1791169057",
+      "upstream_time": 1791169057,
+      "download_url": "https://dl.smwcentral.net/43103/Vocaloid%20-%20Hatsune%20Miku.zip",
+      "filename": "Vocaloid - Hatsune Miku.zip",
+      "size": 24797,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

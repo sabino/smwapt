@@ -1,0 +1,34 @@
+{
+  "name": "smwgraphics-forest-jungle",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 43230,
+  "title": "Forest / Jungle",
+  "authors": [
+    "Moltz",
+    "SF - The Dark Warrior"
+  ],
+  "tags": [
+    "forest",
+    "jungle",
+    "redrawn",
+    "wood"
+  ],
+  "description": "Foreground started earlier on in the year as a request in The Rip Lair, finished as of today thanks to the assistance of Moltz (conversions to .bin, drawing of the climbable vines, decor grass on dirt fill, bush decor, flowers for bushes, brambles, non-slanted vines on logs is his contributions. Everything else is my own contribution). <br>\r\n<br>\r\nInspired by 2 entries of the Magical Quest Starring Mickey Mouse, with a hint of Kirby's Adventure and SMB2USA/DDP. <br>\r\n<br>\r\nPrimarily meant to be used with Redrawn-styled sprite assets as it was designed for that, but it can be used for other styles if you want.<br>\r\n<br>\r\nGive credit to me and Moltz if you use it for your SMW hack/fangame projects.",
+  "latest_version": "smwc-43230-1791147031",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 43230,
+      "title": "Forest / Jungle",
+      "version": "smwc-43230-1791147031",
+      "upstream_time": 1791147031,
+      "download_url": "https://dl.smwcentral.net/43230/Jungle%20Tileset%20RC1.zip",
+      "filename": "Jungle Tileset RC1.zip",
+      "size": 12957,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

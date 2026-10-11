@@ -1,0 +1,117 @@
+{
+  "name": "smwmusic-super-mario-world-2-yoshi-s-island-map-screen-world",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 43305,
+  "title": "Super Mario World 2: Yoshi's Island - Map Screen (World 7)",
+  "authors": [
+    "LadiesMan217"
+  ],
+  "tags": [
+    "overworld",
+    "upbeat"
+  ],
+  "description": "Part of The Super Mario World 2: Yoshi's Island Soundtrack.",
+  "latest_version": "smwc-43305-1791576338",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 43305,
+      "title": "Super Mario World 2: Yoshi's Island - Map Screen (World 7)",
+      "version": "smwc-43305-1791576338",
+      "upstream_time": 1791576338,
+      "download_url": "https://dl.smwcentral.net/43305/Yoshi%27s%20Island%20-%20Map%20%28World%207%29.zip",
+      "filename": "Yoshi%27s Island - Map (World 7).zip",
+      "size": 56348,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 43304,
+      "title": "Super Mario World 2: Yoshi's Island - Map Screen (World 6)",
+      "version": "smwc-43304-1791576336",
+      "upstream_time": 1791576336,
+      "download_url": "https://dl.smwcentral.net/43304/Yoshi%27s%20Island%20-%20Map%20%28World%206%29.zip",
+      "filename": "Yoshi%27s Island - Map (World 6).zip",
+      "size": 48610,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 43303,
+      "title": "Super Mario World 2: Yoshi's Island - Map Screen (World 5)",
+      "version": "smwc-43303-1791576334",
+      "upstream_time": 1791576334,
+      "download_url": "https://dl.smwcentral.net/43303/Yoshi%27s%20Island%20-%20Map%20%28World%205%29.zip",
+      "filename": "Yoshi%27s Island - Map (World 5).zip",
+      "size": 48585,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 43302,
+      "title": "Super Mario World 2: Yoshi's Island - Map Screen (World 4)",
+      "version": "smwc-43302-1791576152",
+      "upstream_time": 1791576152,
+      "download_url": "https://dl.smwcentral.net/43302/Yoshi%27s%20Island%20-%20Map%20%28World%204%29.zip",
+      "filename": "Yoshi%27s Island - Map (World 4).zip",
+      "size": 47748,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 43301,
+      "title": "Super Mario World 2: Yoshi's Island - Map Screen (World 3)",
+      "version": "smwc-43301-1791576149",
+      "upstream_time": 1791576149,
+      "download_url": "https://dl.smwcentral.net/43301/Yoshi%27s%20Island%20-%20Map%20%28World%203%29.zip",
+      "filename": "Yoshi%27s Island - Map (World 3).zip",
+      "size": 44137,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 43300,
+      "title": "Super Mario World 2: Yoshi's Island - Map Screen (World 2)",
+      "version": "smwc-43300-1791576147",
+      "upstream_time": 1791576147,
+      "download_url": "https://dl.smwcentral.net/43300/Yoshi%27s%20Island%20-%20Map%20%28World%202%29.zip",
+      "filename": "Yoshi%27s Island - Map (World 2).zip",
+      "size": 37705,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 43299,
+      "title": "Super Mario World 2: Yoshi's Island - Map Screen (World 1)",
+      "version": "smwc-43299-1791575924",
+      "upstream_time": 1791575924,
+      "download_url": "https://dl.smwcentral.net/43299/Yoshi%27s%20Island%20-%20Map%20%28World%201%29.zip",
+      "filename": "Yoshi%27s Island - Map (World 1).zip",
+      "size": 32116,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

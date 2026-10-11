@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-buzzer-frozen",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42276,
+  "title": "Buzzer - Frozen",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "athletic",
+    "castle",
+    "ice"
+  ],
+  "description": "A dance remix of <a href=\"https://www.youtube.com/watch?v=XS088Opj9o0\" rel=\"nofollow\">Frozen</a> from <a href=\"https://rateyourmusic.com/release/album/madonna/ray-of-light/\" rel=\"nofollow\">the best Madonna album</a>. Do note that the drum loop will sound cut off if the music speeds up due to time running out.",
+  "latest_version": "smwc-42276-1791321924",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42276,
+      "title": "Buzzer - Frozen",
+      "version": "smwc-42276-1791321924",
+      "upstream_time": 1791321924,
+      "download_url": "https://dl.smwcentral.net/42276/Frozen.zip",
+      "filename": "Frozen.zip",
+      "size": 83929,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

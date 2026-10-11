@@ -1,0 +1,31 @@
+{
+  "name": "smwgraphics-super-mario",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 43165,
+  "title": "Super Mario 127 - Inspired Font",
+  "authors": [
+    "Charpurrr",
+    "GlitchyR-01"
+  ],
+  "tags": [
+    "sans serif"
+  ],
+  "description": "A 8x16 recreation of the font that will be used in the fangame, Super Mario 127, created by @Charpurrr on Twitter.<br>\r\n<br>\r\n<a href=\"https://x.com/Mario127Game/status/1787198919232942454\" rel=\"nofollow\">Here's the original post! It was posted with the author's permission. </a>",
+  "latest_version": "smwc-43165-1791139776",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 43165,
+      "title": "Super Mario 127 - Inspired Font",
+      "version": "smwc-43165-1791139776",
+      "upstream_time": 1791139776,
+      "download_url": "https://dl.smwcentral.net/43165/Super%20Mario%20127%20Inspired%20Font.zip",
+      "filename": "Super Mario 127 Inspired Font.zip",
+      "size": 1985,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

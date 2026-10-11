@@ -33,42 +33,6 @@
     ]
   },
   {
-    "name": "smwpatches-all-in-one-multiple-death-songs-1",
-    "aliases": [],
-    "section": "smwpatches",
-    "upstream_id": 41569,
-    "title": "All-in-one Multiple Death Songs 1.0",
-    "authors": [
-      "mathie"
-    ],
-    "tags": [
-      "death",
-      "death routine",
-      "lorom",
-      "music",
-      "sa-1"
-    ],
-    "description": "This patch allows you to have multiple death songs using various logics: per-level, per-world, randomized, per-player... or even all of them! (in this order of priority)<br>\r\nSee .asm file for more details.<br>\r\n<br>\r\n<b>Important note</b>: AMK users, be wary of the original songs order change. In addition, to ensure your custom music causes no pause, be sure to insert at as a global song. Also, you'll need to remove a hijack in Tweaks.asm so you don't need to reapply this patch each time you use AMK!<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Daizo Dee Von\"><span title=\"Helper\" class=\"icon icon-helper\"></span><a href=\"/?p=profile&amp;id=11520\" style=\"color: var(--user-color-2);\" class=\"un\">Daizo Dee Von</a></span>.",
-    "latest_version": "smwc-41569-1770839369",
-    "install_kind": "asar_patch",
-    "versions": [
-      {
-        "upstream_id": 41569,
-        "title": "All-in-one Multiple Death Songs 1.0",
-        "version": "smwc-41569-1770839369",
-        "upstream_time": 1770839369,
-        "download_url": "https://dl.smwcentral.net/41569/deathmusix_asar2.zip",
-        "filename": "deathmusix_asar2.zip",
-        "size": 1208,
-        "sha256": null,
-        "dependencies": [
-          "asar"
-        ],
-        "install_kind": "asar_patch"
-      }
-    ]
-  },
-  {
     "name": "smwpatches-better-random-number-generator",
     "aliases": [],
     "section": "smwpatches",
@@ -212,7 +176,7 @@
     "name": "smwpatches-castle-platform-pattern-adjuster",
     "aliases": [],
     "section": "smwpatches",
-    "upstream_id": 42663,
+    "upstream_id": 43200,
     "title": "Castle Platform Pattern Adjuster",
     "authors": [
       "Koopster"
@@ -223,17 +187,17 @@
       "sa-1"
     ],
     "description": "When the sprite tileset (<img src=\"/images/emoticons/lm/gfx_ow.png\" alt=\"#lm{gfxby}\" title=\"Open &quot;Change Index of Graphics&quot; Dialog\" class=\"emoticon\">) is set to 1: Castle, a modification will be made to the graphics routine of the platform sprites. By applying this and editing GFX12 to swap tiles 61 and 71 with 62 and 72 respectively (a ready-to-use modification of the file is included), it's now possible to give them a proper zig-zag pattern. For other sprite tilesets, the platforms are unchanged.<br>\r\n<br>\r\nAs long as the sprite tileset is properly set, you can use Super GFX Bypass (<img src=\"/images/emoticons/lm/exgfx.png\" alt=\"#lm{sgfxby}\" title=\"Open &quot;Super Graphics Bypass&quot; Dialog\" class=\"emoticon\">) freely.<br>\r\n<br>\r\nA niche warning: in the rotating gray platform, the chain tile normally drawn behind the platform is removed, as it's normally made invisible by the castle platform graphic anyway.",
-    "latest_version": "smwc-42663-1789815648",
+    "latest_version": "1.1",
     "install_kind": "asar_patch",
     "versions": [
       {
-        "upstream_id": 42663,
+        "upstream_id": 43200,
         "title": "Castle Platform Pattern Adjuster",
-        "version": "smwc-42663-1789815648",
-        "upstream_time": 1789815648,
-        "download_url": "https://dl.smwcentral.net/42663/castle_platform_pattern.zip",
+        "version": "1.1",
+        "upstream_time": 1791413262,
+        "download_url": "https://dl.smwcentral.net/43200/castle_platform_pattern.zip",
         "filename": "castle_platform_pattern.zip",
-        "size": 3573,
+        "size": 3634,
         "sha256": null,
         "dependencies": [
           "asar"
@@ -342,42 +306,6 @@
         "download_url": "https://dl.smwcentral.net/42275/Intro%20Disclaimer.zip",
         "filename": "Intro Disclaimer.zip",
         "size": 2806,
-        "sha256": null,
-        "dependencies": [
-          "asar"
-        ],
-        "install_kind": "asar_patch"
-      }
-    ]
-  },
-  {
-    "name": "smwpatches-dma-remap-v3",
-    "aliases": [],
-    "section": "smwpatches",
-    "upstream_id": 41544,
-    "title": "DMA Remap v3.0",
-    "authors": [
-      "Vitor Vilela"
-    ],
-    "tags": [
-      "dma",
-      "irq",
-      "lorom",
-      "nmi",
-      "sa-1"
-    ],
-    "description": "Remaps the default channels used by DMA in Super Mario World, allocating these transfers to the first three channels and giving you five HDMA channels free for you to use outside of the credits roll.<br>\r\n<br>\r\nBy default, the remaps are the following:<br>\r\n<ul><li>Channel 0 is reserved for DMAs outside interrupts.</li>\n<li>Channel 1 is reserved for the vanilla windowing HDMA.</li>\n<li>Channel 2 is reserved for DMAs in interrupts.</li>\n<li>You can use channels 3 to 7 for HDMA effects.</li></ul><br>\r\n<br>\r\nThis patch is included in SA-1 Pack and re-patching it is not needed if you have that, but it could help LoROM users should they need more HDMA channels.",
-    "latest_version": "smwc-41544-1770422481",
-    "install_kind": "asar_patch",
-    "versions": [
-      {
-        "upstream_id": 41544,
-        "title": "DMA Remap v3.0",
-        "version": "smwc-41544-1770422481",
-        "upstream_time": 1770422481,
-        "download_url": "https://dl.smwcentral.net/41544/dma_remap.zip",
-        "filename": "dma_remap.zip",
-        "size": 1111,
         "sha256": null,
         "dependencies": [
           "asar"
@@ -814,6 +742,40 @@
         "download_url": "https://dl.smwcentral.net/42293/Line%20Guide%20Acts%20Like%20Fix.zip",
         "filename": "Line Guide Acts Like Fix.zip",
         "size": 1639,
+        "sha256": null,
+        "dependencies": [
+          "asar"
+        ],
+        "install_kind": "asar_patch"
+      }
+    ]
+  },
+  {
+    "name": "smwpatches-lunar-magic-s-vram-patch-optimization",
+    "aliases": [],
+    "section": "smwpatches",
+    "upstream_id": 42963,
+    "title": "Lunar Magic's \"VRAM Patch\" Optimization",
+    "authors": [
+      "Kevin"
+    ],
+    "tags": [
+      "lorom",
+      "optimize",
+      "sa-1"
+    ],
+    "description": "<i>Welcome! This is SMW Hacking Land. In this strange land we find that NMI time is missing again! Looks like Fusoya is at it again!</i><br>\r\n<br>\r\nJokes aside, this patch aims at fixing a major issue with Lunar Magic's VRAM patch: using a lot of NMI cycles to modify the stripe image table, which causes blank overflows to be much more likely than vanilla. The issue is fixed by moving said code to outside of NMI, at the end of the game loop.<br>\r\nThis allows you, for example, to change multiple blocks in a frame without black bars appearing and HDMA gradients breaking, and any kind of resource that uses stripe image in a level or in the title screen (like messages, file select menu, ...) should behave better as well in this sense.<br>\r\nBefore applying it, make sure to have saved a level in Lunar Magic (with the \"Install VRAM patch\" option turned on, of course, but you'd probably never turn it off anyway). It's highly recommended that you also have FastROM turned on, as it helps with this problem (and with slowdown in general) as well.<br>\r\nNote that the patch uses 8 bytes of free ROM space in bank 0, which are usually not used: if you're using the same space for something else, you can change it with the define in the asm file.<br>\r\n<br>\r\nNOTE: if you upgrade to Lunar Magic 3.31+, you'll need to repatch this the first time.<br>\r\n<br>\r\nP.S.: In the first 2 GIFs there's 4 pairs of Mushroom Scales stacked on top of each other, to clearly show the effect.<br>\r\n<br>\r\nMod Note: You don't need this if you're using Lunar Magic 3.70 or later. That version implements this optimization.",
+    "latest_version": "v1.1.1",
+    "install_kind": "asar_patch",
+    "versions": [
+      {
+        "upstream_id": 42963,
+        "title": "Lunar Magic's \"VRAM Patch\" Optimization",
+        "version": "v1.1.1",
+        "upstream_time": 1791143905,
+        "download_url": "https://dl.smwcentral.net/42963/vram_optimize-v1.1.1.zip",
+        "filename": "vram_optimize-v1.1.1.zip",
+        "size": 2281,
         "sha256": null,
         "dependencies": [
           "asar"
@@ -1807,6 +1769,43 @@
         "download_url": "https://dl.smwcentral.net/42146/xorshift.zip",
         "filename": "xorshift.zip",
         "size": 1073,
+        "sha256": null,
+        "dependencies": [
+          "asar"
+        ],
+        "install_kind": "asar_patch"
+      }
+    ]
+  },
+  {
+    "name": "smwpatches-yoshi-wings-bonus-level-expansion",
+    "aliases": [],
+    "section": "smwpatches",
+    "upstream_id": 43201,
+    "title": "Yoshi Wings Bonus Level Expansion",
+    "authors": [
+      "MarioFanGamer"
+    ],
+    "tags": [
+      "bonus",
+      "lorom",
+      "sa-1",
+      "teleport",
+      "wings",
+      "yoshi"
+    ],
+    "description": "Ever tired to only have two Yoshi wings bonus levels? Then this patch is for you. It enables you to add more Yoshi wings bonus level on two different ways: One by current translevel (the level you can enter from the overworld) also called as \"YoshiWingsPlus.asm\" (in short \"Plus\") and the other one by freeram also called as \"YoshiWingsAdvanced.asm\" (in short \"Advanced\").<br>\r\n<br>\r\nSee the included readme for more details.",
+    "latest_version": "v1.1.2",
+    "install_kind": "asar_patch",
+    "versions": [
+      {
+        "upstream_id": 43201,
+        "title": "Yoshi Wings Bonus Level Expansion",
+        "version": "v1.1.2",
+        "upstream_time": 1791404865,
+        "download_url": "https://dl.smwcentral.net/43201/YoshiWingsExpansion%20v1.1.2.zip",
+        "filename": "YoshiWingsExpansion v1.1.2.zip",
+        "size": 7619,
         "sha256": null,
         "dependencies": [
           "asar"

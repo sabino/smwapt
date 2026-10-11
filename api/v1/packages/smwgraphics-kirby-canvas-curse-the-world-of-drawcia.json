@@ -1,0 +1,32 @@
+{
+  "name": "smwgraphics-kirby-canvas-curse-the-world-of-drawcia",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 43255,
+  "title": "Kirby: Canvas Curse - The World of Drawcia",
+  "authors": [
+    "MagicMaker",
+    "playagmes169"
+  ],
+  "tags": [
+    "abstract",
+    "flesh"
+  ],
+  "description": "The FG from the final stage of Kirby: Canvas Curse on the DS, MagicMaker on The Spriters Resource ripped most of the tiles, while I've edited and ripped some others, I was too tired to go back to ripping the FG because I just defeated Drawcia and her horrifying soul form, and also because of how many tiles it has, in fact, I got lost on the in-game tileset on my emulator! Go <a href=\"https://www.spriters-resource.com/profile/magicmaker/\" rel=\"nofollow\">check them out</a> and their <a href=\"https://www.spriters-resource.com/ds_dsi/kirbycanvascurse/asset/26764/\" rel=\"nofollow\">original submission</a>",
+  "latest_version": "smwc-43255-1791146490",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 43255,
+      "title": "Kirby: Canvas Curse - The World of Drawcia",
+      "version": "smwc-43255-1791146490",
+      "upstream_time": 1791146490,
+      "download_url": "https://dl.smwcentral.net/43255/drawciaworldfg.zip",
+      "filename": "drawciaworldfg.zip",
+      "size": 4720,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

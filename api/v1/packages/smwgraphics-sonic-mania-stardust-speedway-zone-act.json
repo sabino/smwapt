@@ -1,0 +1,33 @@
+{
+  "name": "smwgraphics-sonic-mania-stardust-speedway-zone-act",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 43220,
+  "title": "Sonic Mania - Stardust Speedway Zone (Act 1)",
+  "authors": [
+    "Random Talking Bush",
+    "playagmes169"
+  ],
+  "tags": [
+    "city",
+    "night",
+    "ruins"
+  ],
+  "description": "Here's the BG and FG of Stardust Speedway Zone, I had to take some creative liberties with the Layer 3 BG because I don't think I can fit that many tiles in one file, and I don't want to sacrifice the global LG storage for this. I had to reduce the amount of colors in the palettes of the FG and the L3 BG, also, I had to reshade some of the FG tiles to appear more \"smooth\" to give off the illusion that it has more color, like in the original tileset.<br>\r\n<br>\r\nA huge thank you to Random Talking Bush from the TSR moderation team for letting me and everyone else use this BG and FG tileset, go check out their <a href=\"https://www.spriters-resource.com/pc_computer/sonicmania/asset/95654/\" rel=\"nofollow\">original submission</a> and their <a href=\"https://www.spriters-resource.com/profile/random+talking+bush/\" rel=\"nofollow\">profile</a>, and make sure to credit them for originally ripping these assets for everyone to use!<br>\r\n<br>\r\nNOTICE: I'd highly recommend to apply a <a href=\"https://www.smwcentral.net/?p=section&a=details&id=40144\">patch to remove the layer 3 statusbar</a> to make space for layer 3 BG's",
+  "latest_version": "smwc-43220-1791148239",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 43220,
+      "title": "Sonic Mania - Stardust Speedway Zone (Act 1)",
+      "version": "smwc-43220-1791148239",
+      "upstream_time": 1791148239,
+      "download_url": "https://dl.smwcentral.net/43220/sonicmaniasszact1.zip",
+      "filename": "sonicmaniasszact1.zip",
+      "size": 14484,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

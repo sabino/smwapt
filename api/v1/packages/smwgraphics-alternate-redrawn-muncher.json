@@ -1,0 +1,31 @@
+{
+  "name": "smwgraphics-alternate-redrawn-muncher",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 43250,
+  "title": "Alternate Redrawn Muncher",
+  "authors": [
+    "Moltz"
+  ],
+  "tags": [
+    "muncher",
+    "redrawn"
+  ],
+  "description": "Alternate Redrawn graphics for the Muncher/Black Piranha Plant pseudo-enemy, now looking actually black to fit-in its more modern name.<br>\r\n<br>\r\nWhile it's meant to replace the original Muncher's graphics, files for the plants having four animation frames like in Super Mario Bros 3 are also included.<br>\r\n<br>\r\nCredit's not needed but very much appreciated.",
+  "latest_version": "smwc-43250-1791150961",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 43250,
+      "title": "Alternate Redrawn Muncher",
+      "version": "smwc-43250-1791150961",
+      "upstream_time": 1791150961,
+      "download_url": "https://dl.smwcentral.net/43250/Alternate%20Redrawn%20Muncher.zip",
+      "filename": "Alternate Redrawn Muncher.zip",
+      "size": 8396,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}
