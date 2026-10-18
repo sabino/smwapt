@@ -1,0 +1,31 @@
+{
+  "name": "smwgraphics-burnt-luigi",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 43363,
+  "title": "Burnt Luigi",
+  "authors": [
+    "16-BitMario94"
+  ],
+  "tags": [
+    "humanoid",
+    "male"
+  ],
+  "description": "The long-awaited sequel for Burnt Mario has arrived! now with Luigi! Fully complete with in game and map sprites, please give credit to me for the sprites!",
+  "latest_version": "smwc-43363-1792172552",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 43363,
+      "title": "Burnt Luigi",
+      "version": "smwc-43363-1792172552",
+      "upstream_time": 1792172552,
+      "download_url": "https://dl.smwcentral.net/43363/Burnt%20Luigi.zip",
+      "filename": "Burnt Luigi.zip",
+      "size": 15114,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

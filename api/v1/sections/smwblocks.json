@@ -333,7 +333,7 @@
       "outline",
       "sa-1"
     ],
-    "description": "This is a New Super Mario Bros. coin outline, which turns into a coin after a configurable amount of time.<br>\r\nIn order for this block to work, insert the included UberASMTool code as level code.<br>\r\nRequires 240 bytes of free RAM.<br>\r\n<br>\r\nGraphics included ripped by larenlarsenv and <span class=\"un-outer\" title=\"Soul\"><a href=\"/?p=profile&amp;id=51674\" style=\"color: var(--user-color-2);\" class=\"un\">Soul</a></span>.",
+    "description": "This is a New Super Mario Bros. coin outline, which turns into a coin after a configurable amount of time.<br>\r\nIn order for this block to work, insert the included UberASMTool code as level code.<br>\r\nRequires 240 bytes of free RAM.<br>\r\n<br>\r\nGraphics included ripped by larenlarsenv and <span class=\"un-outer\" title=\"Soul\"><a href=\"/?p=profile&amp;id=51674\" style=\"color: #eb6123;\" class=\"un\">Soul</a></span>.",
     "latest_version": "smwc-41120-1764271572",
     "install_kind": "gps_block",
     "versions": [
@@ -403,7 +403,7 @@
       "solid",
       "sprite needed"
     ],
-    "description": "A turnblock that behaves mostly like the original. Useful for changing palettes or customizing the asm.<br>\r\n<br>\r\nRequires PIXI 1.40 for the included bounce sprite.<br>\r\n<br>\r\nCheck the readme file for adjustments that may be required to ensure proper functionality.<br>\r\n<br>\r\nNote: hitting more than 4 at a time will not revert to the turnblock, but some blocks will be left spinning forever. <br>\r\n<br>\r\nNote: blocks on layer 2 moving down will crush the player instead of activating the block.<br>\r\n<br>\r\nv1.1 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #e75151;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n* Added the functionality to also make the turnblock turn when spinjumping it.",
+    "description": "A turnblock that behaves mostly like the original. Useful for changing palettes or customizing the asm.<br>\r\n<br>\r\nRequires PIXI 1.40 for the included bounce sprite.<br>\r\n<br>\r\nCheck the readme file for adjustments that may be required to ensure proper functionality.<br>\r\n<br>\r\nNote: hitting more than 4 at a time will not revert to the turnblock, but some blocks will be left spinning forever. <br>\r\n<br>\r\nNote: blocks on layer 2 moving down will crush the player instead of activating the block.<br>\r\n<br>\r\nv1.1 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #f8a481;\" title=\"Tewi\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n* Added the functionality to also make the turnblock turn when spinjumping it.",
     "latest_version": "smwc-41237-1765159682",
     "install_kind": "gps_block",
     "versions": [
@@ -474,7 +474,7 @@
       "lorom",
       "sa-1"
     ],
-    "description": "Unlike the hurt specific sides block, this block has a lot of improvements and features:<br>\r\n<br>\r\n-the sides of the block does not hurt the player if the player is touching the side unless he moves towards or into the block (smw munchers and spikes (from castle and ghost houses) does this), by checking if mario's hitbox pixel is either overlapping (at least 1 pixel) it or adjacent to the block. <br>\r\n<br>\r\n-various options like killing the player instantly regardless of powerup (or HP if using HP patch), killing sprites and more!<br>\r\n<br>\r\nUpdate 1.2 (<span class=\"un-outer\" title=\"DrAnas\"><a href=\"/?p=profile&amp;id=25222\" style=\"color: var(--user-color-2);\" class=\"un\">DrAnas</a></span>): converted all the blocks to SA-1 and included slippery versions of the blocks for use with <a href=\"https://www.smwcentral.net/?p=section&a=details&id=35067\">GHB's perfect slippery blocks</a>!",
+    "description": "Unlike the hurt specific sides block, this block has a lot of improvements and features:<br>\r\n<br>\r\n-the sides of the block does not hurt the player if the player is touching the side unless he moves towards or into the block (smw munchers and spikes (from castle and ghost houses) does this), by checking if mario's hitbox pixel is either overlapping (at least 1 pixel) it or adjacent to the block. <br>\r\n<br>\r\n-various options like killing the player instantly regardless of powerup (or HP if using HP patch), killing sprites and more!<br>\r\n<br>\r\nUpdate 1.2 (<span class=\"un-outer\" title=\"DrAnas\"><a href=\"/?p=profile&amp;id=25222\" style=\"color: #eb6123;\" class=\"un\">DrAnas</a></span>): converted all the blocks to SA-1 and included slippery versions of the blocks for use with <a href=\"https://www.smwcentral.net/?p=section&a=details&id=35067\">GHB's perfect slippery blocks</a>!",
     "latest_version": "smwc-41218-1764815640",
     "install_kind": "gps_block",
     "versions": [
@@ -761,7 +761,7 @@
       "sa-1",
       "uberasm needed"
     ],
-    "description": "These blocks will change every time the player jumps.<br>\r\nRequested by <span class=\"un-outer\" title=\"mr bean6652\"><a href=\"/?p=profile&amp;id=26761\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">mr bean6652</a></span>.<br>\r\n<br>\r\nv1.1 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #e75151;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n- Added SA-1 support.<br>\r\n- Added a define to not hurt the player while on Yoshi on the above variant of the spikes.<br>\r\n- Added a Map16 page.",
+    "description": "These blocks will change every time the player jumps.<br>\r\nRequested by <span class=\"un-outer\" title=\"mr bean6652\"><a href=\"/?p=profile&amp;id=26761\" style=\"color: #eb6123;\" class=\"un unavailable inactive\">mr bean6652</a></span>.<br>\r\n<br>\r\nv1.1 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #f8a481;\" title=\"Tewi\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n- Added SA-1 support.<br>\r\n- Added a define to not hurt the player while on Yoshi on the above variant of the spikes.<br>\r\n- Added a Map16 page.",
     "latest_version": "smwc-41209-1765844757",
     "install_kind": "gps_block",
     "versions": [
@@ -1007,7 +1007,7 @@
       "sa-1",
       "uberasm needed"
     ],
-    "description": "A replica of the purple coins from Super Mario Galaxy. Collect a certain amount of them (customisable) and activate something (also customisable).<br>\r\nThese coins stay collected if you switch to a different room.<br>\r\n<br>\r\nBe sure to read the readme before inserting the coins!<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"MrMartley64\"><a href=\"/?p=profile&amp;id=27753\" style=\"color: var(--user-color-2);\" class=\"un\">MrMartley64</a></span>.",
+    "description": "A replica of the purple coins from Super Mario Galaxy. Collect a certain amount of them (customisable) and activate something (also customisable).<br>\r\nThese coins stay collected if you switch to a different room.<br>\r\n<br>\r\nBe sure to read the readme before inserting the coins!<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"MrMartley64\"><a href=\"/?p=profile&amp;id=27753\" style=\"color: #eb6123;\" class=\"un\">MrMartley64</a></span>.",
     "latest_version": "smwc-41169-1764462273",
     "install_kind": "gps_block",
     "versions": [
@@ -1079,7 +1079,7 @@
       "shatter",
       "sprite needed"
     ],
-    "description": "This custom block will shatter after the player gets off it. Good for platforming stages or places where you jump a lot to dodge stuff.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Final Theory\"><a href=\"/?p=profile&amp;id=22015\" style=\"color: var(--user-color-1);\" class=\"un\">Final Theory</a></span>.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\">v2.0 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #e75151;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n- Added SA-1 compatibility.<br>\r\n- Changed the included sprite to a bounce sprite.<br>\r\n- Simplified the code a lot.</div></div>",
+    "description": "This custom block will shatter after the player gets off it. Good for platforming stages or places where you jump a lot to dodge stuff.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Final Theory\"><a href=\"/?p=profile&amp;id=22015\" style=\"color: #9d4edd;\" class=\"un\">Final Theory</a></span>.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\">v2.0 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #f8a481;\" title=\"Tewi\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n- Added SA-1 compatibility.<br>\r\n- Changed the included sprite to a bounce sprite.<br>\r\n- Simplified the code a lot.</div></div>",
     "latest_version": "smwc-41235-1765916599",
     "install_kind": "gps_block",
     "versions": [

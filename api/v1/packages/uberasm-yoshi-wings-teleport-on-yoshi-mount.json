@@ -13,7 +13,7 @@
     "teleport",
     "yoshi"
   ],
-  "description": "This code will make the player get immediately teleported to the Yoshi wings stage when riding Yoshi. Might be best used with <a href=\"https://smwc.me/s/39698\">this patch</a>.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Knight of Time\"><a href=\"/?p=profile&amp;id=146\" style=\"color: var(--user-color-2);\" class=\"un\">Knight of Time</a></span>.",
+  "description": "This code will make the player get immediately teleported to the Yoshi wings stage when riding Yoshi. Might be best used with <a href=\"https://smwc.me/s/39698\">this patch</a>.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Knight of Time\"><a href=\"/?p=profile&amp;id=146\" style=\"color: #eb6123;\" title=\"Knight of Fright\" class=\"un\">Knight of Time</a></span>.",
   "latest_version": "V1.0.1",
   "install_kind": "uber_asm",
   "versions": [

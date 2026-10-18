@@ -13,7 +13,7 @@
     "lorom",
     "sa-1"
   ],
-  "description": "A version of Galoomba that climbs walls similar to Dino Rhinos/Dino Torches.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"JP32\"><a href=\"/?p=profile&amp;id=25888\" style=\"color: var(--user-color-1);\" class=\"un unavailable inactive\">JP32</a></span> during Winter C3 2023.",
+  "description": "A version of Galoomba that climbs walls similar to Dino Rhinos/Dino Torches.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"JP32\"><a href=\"/?p=profile&amp;id=25888\" style=\"color: #9d4edd;\" class=\"un unavailable inactive\">JP32</a></span> during Winter C3 2023.",
   "latest_version": "smwc-42079-1776985342",
   "install_kind": "pixi_sprite",
   "versions": [

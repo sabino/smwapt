@@ -13,7 +13,7 @@
     "p-balloon",
     "sa-1"
   ],
-  "description": "This LevelASM allows you to enable or disable the P-Balloon state by pressing a configurable button (R or L by default).<br>\r\n<br>\r\n<span style=\"font-size: 8pt;\">Code written by <span class=\"un-outer\" title=\"anonimzwx\"><a href=\"/?p=profile&amp;id=20832\" style=\"color: var(--user-color-2);\" class=\"un\">anonimzwx</a></span> but published by me at his request</span>",
+  "description": "This LevelASM allows you to enable or disable the P-Balloon state by pressing a configurable button (R or L by default).<br>\r\n<br>\r\n<span style=\"font-size: 8pt;\">Code written by <span class=\"un-outer\" title=\"anonimzwx\"><a href=\"/?p=profile&amp;id=20832\" style=\"color: #eb6123;\" class=\"un\">anonimzwx</a></span> but published by me at his request</span>",
   "latest_version": "V1.1",
   "install_kind": "uber_asm",
   "versions": [

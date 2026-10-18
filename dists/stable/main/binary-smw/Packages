@@ -694,6 +694,18 @@ X-SMWAPT-Kind: AssetOnly
 X-SMWAPT-URL: https://dl.smwcentral.net/43038/Brambles-Fix.zip
 Description: Brambles
 
+Package: smwgraphics-burnt-luigi
+Version: smwc-43363-1792172552
+Section: smwgraphics
+Architecture: smw
+Maintainer: 16-BitMario94
+Filename: pool/smwgraphics/43363/Burnt Luigi.zip
+Size: 15114
+X-SMWC-ID: 43363
+X-SMWAPT-Kind: AssetOnly
+X-SMWAPT-URL: https://dl.smwcentral.net/43363/Burnt%20Luigi.zip
+Description: Burnt Luigi
+
 Package: smwgraphics-burnt-mario
 Version: 2.1
 Section: smwgraphics
@@ -970,18 +982,6 @@ X-SMWAPT-Kind: AssetOnly
 X-SMWAPT-URL: https://dl.smwcentral.net/42774/Mario%20%28Minus%20Galaxy%20Style%29.zip
 Description: Minus Galaxy Styled Mario
 
-Package: smwgraphics-more-controversial-super-mario-world-platforms
-Version: smwc-42667-1783981093
-Section: smwgraphics
-Architecture: smw
-Maintainer: Tob
-Filename: pool/smwgraphics/42667/better platforms.zip
-Size: 7155
-X-SMWC-ID: 42667
-X-SMWAPT-Kind: AssetOnly
-X-SMWAPT-URL: https://dl.smwcentral.net/42667/better%20platforms.zip
-Description: More Controversial Super Mario World Platforms
-
 Package: smwgraphics-mushrooms
 Version: smwc-43074-1787871298
 Section: smwgraphics
@@ -1017,6 +1017,18 @@ X-SMWC-ID: 42922
 X-SMWAPT-Kind: AssetOnly
 X-SMWAPT-URL: https://dl.smwcentral.net/42922/SMWGFX-toyland.zip
 Description: Ribbon Toyland
+
+Package: smwgraphics-silver-the-hedgehog
+Version: smwc-43264-1792172288
+Section: smwgraphics
+Architecture: smw
+Maintainer: NinAlexTM
+Filename: pool/smwgraphics/43264/Silver in SMW.zip
+Size: 23731
+X-SMWC-ID: 43264
+X-SMWAPT-Kind: AssetOnly
+X-SMWAPT-URL: https://dl.smwcentral.net/43264/Silver%20in%20SMW.zip
+Description: Silver The Hedgehog
 
 Package: smwgraphics-skull-banzai-bill
 Version: smwc-43080-1791080562
@@ -1113,18 +1125,6 @@ X-SMWC-ID: 42852
 X-SMWAPT-Kind: AssetOnly
 X-SMWAPT-URL: https://dl.smwcentral.net/42852/SMBX%20-%20MarioSprite-OnlyBlocks.zip
 Description: Super Mario Bros. X - Mario-Only and Sprite-Only Blocks
-
-Package: smwgraphics-super-mario-world-styled-dark-ages-the-lost-vikings
-Version: smwc-42678-1783982544
-Section: smwgraphics
-Architecture: smw
-Maintainer: Ganbare-Lucifer, edgar
-Filename: pool/smwgraphics/42678/SMW Styled Dark Ages.zip
-Size: 18006
-X-SMWC-ID: 42678
-X-SMWAPT-Kind: AssetOnly
-X-SMWAPT-URL: https://dl.smwcentral.net/42678/SMW%20Styled%20Dark%20Ages.zip
-Description: Super Mario World Styled Dark Ages (The Lost Vikings 2)
 
 Package: smwgraphics-super-mario-world-styled-desert
 Version: 1.1
@@ -1306,17 +1306,17 @@ X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/42742/Second_Act.zip
 Description: Tales of Phantasia - Second Act
 
-Package: smwmusic-tetris-dr-mario-fever
-Version: smwc-42719-1790631972
+Package: smwmusic-the-doctor-christmas-demo
+Version: smwc-42738-1792246032
 Section: smwmusic
 Architecture: smw
 Maintainer: h.carrell
-Filename: pool/smwmusic/42719/T%26DM Fever.zip
-Size: 53446
-X-SMWC-ID: 42719
+Filename: pool/smwmusic/42738/Christmas Demo.zip
+Size: 126507
+X-SMWC-ID: 42738
 X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/42719/T%26DM%20Fever.zip
-Description: Tetris & Dr. Mario - Fever
+X-SMWAPT-URL: https://dl.smwcentral.net/42738/Christmas%20Demo.zip
+Description: The Doctor - Christmas Demo
 
 Package: smwmusic-the-legend-of-zelda-ocarina-of-time-temple-of-time
 Version: smwc-43268-1791319694

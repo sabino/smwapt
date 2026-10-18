@@ -12,7 +12,7 @@
     "pacifist",
     "sa-1"
   ],
-  "description": "A bird which picks around and randomly flips directions.<br>\r\n<br>\r\nOriginally made for <span class=\"un-outer\" title=\"Tob\"><a href=\"/?p=profile&amp;id=25442\" style=\"color: var(--user-color-1);\" class=\"un\">Tob</a></span> and I's OWDC3 entry, which placed 1st.",
+  "description": "A bird which picks around and randomly flips directions.<br>\r\n<br>\r\nOriginally made for <span class=\"un-outer\" title=\"Tob\"><a href=\"/?p=profile&amp;id=25442\" style=\"color: #9d4edd;\" class=\"un\">Tob</a></span> and I's OWDC3 entry, which placed 1st.",
   "latest_version": "smwc-42802-1790784661",
   "install_kind": "pixi_sprite",
   "versions": [

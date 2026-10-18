@@ -16,7 +16,7 @@
       "sa-1",
       "volcano lotus"
     ],
-    "description": "A volcano lotus that flies in the same pattern as platform for hammer brother, and spits hammers.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Daizo Dee Von\"><span title=\"Helper\" class=\"icon icon-helper\"></span><a href=\"/?p=profile&amp;id=11520\" style=\"color: var(--user-color-2);\" class=\"un\">Daizo Dee Von</a></span> during Winter C3 2023.",
+    "description": "A volcano lotus that flies in the same pattern as platform for hammer brother, and spits hammers.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Daizo Dee Von\"><span title=\"Helper\" class=\"icon icon-helper\"></span><a href=\"/?p=profile&amp;id=11520\" style=\"color: #eb6123;\" title=\"Golden Daizo\" class=\"un\">Daizo Dee Von</a></span> during Winter C3 2023.",
     "latest_version": "V1.0.1",
     "install_kind": "pixi_sprite",
     "versions": [
@@ -163,7 +163,7 @@
       "pacifist",
       "sa-1"
     ],
-    "description": "A bird which picks around and randomly flips directions.<br>\r\n<br>\r\nOriginally made for <span class=\"un-outer\" title=\"Tob\"><a href=\"/?p=profile&amp;id=25442\" style=\"color: var(--user-color-1);\" class=\"un\">Tob</a></span> and I's OWDC3 entry, which placed 1st.",
+    "description": "A bird which picks around and randomly flips directions.<br>\r\n<br>\r\nOriginally made for <span class=\"un-outer\" title=\"Tob\"><a href=\"/?p=profile&amp;id=25442\" style=\"color: #9d4edd;\" class=\"un\">Tob</a></span> and I's OWDC3 entry, which placed 1st.",
     "latest_version": "smwc-42802-1790784661",
     "install_kind": "pixi_sprite",
     "versions": [
@@ -200,7 +200,7 @@
       "lorom",
       "sa-1"
     ],
-    "description": "A Bob-omb which leaves a fire trail every certain amount of time, controlled by the fourth extra byte.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Green\"><a href=\"/?p=profile&amp;id=43749\" style=\"color: var(--user-color-3);\" class=\"un\">Green</a></span> during C3 Winter 2025. That one used the old, now-removed Bob-omb disassembly. This one uses my own disassembly as a base, now with X speed, time before being quiet, and time before exploding all parametrized in extra bytes.",
+    "description": "A Bob-omb which leaves a fire trail every certain amount of time, controlled by the fourth extra byte.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Green\"><a href=\"/?p=profile&amp;id=43749\" style=\"color: #f7b801;\" title=\"Ghost\" class=\"un\">Green</a></span> during C3 Winter 2025. That one used the old, now-removed Bob-omb disassembly. This one uses my own disassembly as a base, now with X speed, time before being quiet, and time before exploding all parametrized in extra bytes.",
     "latest_version": "smwc-42177-1777077860",
     "install_kind": "pixi_sprite",
     "versions": [
@@ -380,7 +380,7 @@
       "rex",
       "sa-1"
     ],
-    "description": "This is a Rex that chases you, like Disco Shell. In fact, it can be set to flash and become invulnerable to stomps.<br>\r\nIt can also be set to remain \"hidden\" untill player comes close.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Roberto zampari\"><a href=\"/?p=profile&amp;id=1508\" style=\"color: var(--user-color-2);\" class=\"un\">Roberto zampari</a></span>, <span class=\"un-outer\" title=\"zacmario\"><a href=\"/?p=profile&amp;id=25159\" style=\"color: var(--user-color-2);\" class=\"un\">zacmario</a></span> and <span class=\"un-outer\" title=\"Ganbare-Lucifer\"><a href=\"/?p=profile&amp;id=21984\" style=\"color: var(--user-color-2);\" class=\"un\">Ganbare-Lucifer</a></span>.",
+    "description": "This is a Rex that chases you, like Disco Shell. In fact, it can be set to flash and become invulnerable to stomps.<br>\r\nIt can also be set to remain \"hidden\" untill player comes close.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Roberto zampari\"><a href=\"/?p=profile&amp;id=1508\" style=\"color: #eb6123;\" class=\"un\">Roberto zampari</a></span>, <span class=\"un-outer\" title=\"zacmario\"><a href=\"/?p=profile&amp;id=25159\" style=\"color: #eb6123;\" class=\"un\">zacmario</a></span> and <span class=\"un-outer\" title=\"Ganbare-Lucifer\"><a href=\"/?p=profile&amp;id=21984\" style=\"color: #eb6123;\" title=\"Greencifer\" class=\"un\">Ganbare-Lucifer</a></span>.",
     "latest_version": "1.2.1",
     "install_kind": "pixi_sprite",
     "versions": [
@@ -851,7 +851,7 @@
       "lorom",
       "sa-1"
     ],
-    "description": "A version of Galoomba that climbs walls similar to Dino Rhinos/Dino Torches.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"JP32\"><a href=\"/?p=profile&amp;id=25888\" style=\"color: var(--user-color-1);\" class=\"un unavailable inactive\">JP32</a></span> during Winter C3 2023.",
+    "description": "A version of Galoomba that climbs walls similar to Dino Rhinos/Dino Torches.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"JP32\"><a href=\"/?p=profile&amp;id=25888\" style=\"color: #9d4edd;\" class=\"un unavailable inactive\">JP32</a></span> during Winter C3 2023.",
     "latest_version": "smwc-42079-1776985342",
     "install_kind": "pixi_sprite",
     "versions": [
@@ -886,7 +886,7 @@
       "lorom",
       "sa-1"
     ],
-    "description": "A variant of Galoomba that sticks to walls when thrown. After a little bit, it unstuns itself, so it can be jumped on again. After a little while, it'll unstick from the wall.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"RollingRigatonis\"><a href=\"/?p=profile&amp;id=33771\" style=\"color: var(--user-color-2);\" class=\"un\">RollingRigatonis</a></span> during Winter C3 2023.",
+    "description": "A variant of Galoomba that sticks to walls when thrown. After a little bit, it unstuns itself, so it can be jumped on again. After a little while, it'll unstick from the wall.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"RollingRigatonis\"><a href=\"/?p=profile&amp;id=33771\" style=\"color: #eb6123;\" class=\"un\">RollingRigatonis</a></span> during Winter C3 2023.",
     "latest_version": "smwc-42085-1776989412",
     "install_kind": "pixi_sprite",
     "versions": [
@@ -1102,7 +1102,7 @@
       "pacifist",
       "sa-1"
     ],
-    "description": "This tiny Koopa will ice skate along a given range of the map, controlled by the extra byte.<br>\r\n<br>\r\nGraphics by <span class=\"un-outer\" title=\"Tob\"><a href=\"/?p=profile&amp;id=25442\" style=\"color: var(--user-color-1);\" class=\"un\">Tob</a></span>.",
+    "description": "This tiny Koopa will ice skate along a given range of the map, controlled by the extra byte.<br>\r\n<br>\r\nGraphics by <span class=\"un-outer\" title=\"Tob\"><a href=\"/?p=profile&amp;id=25442\" style=\"color: #9d4edd;\" class=\"un\">Tob</a></span>.",
     "latest_version": "V1.0.1",
     "install_kind": "pixi_sprite",
     "versions": [
@@ -1466,7 +1466,7 @@
       "pacifist",
       "sa-1"
     ],
-    "description": "This sprite pack includes various variations of Parakoopas, which act depending on the color.<br>\r\n<ul><li>The green one flies in a horizontal range.</li>\n<li>The red one flies up and down in a fixed tile, so, in the Z axis.</li>\n<li>The yellow one flies in a vertical range.</li></ul><br>\r\nGraphics by <span class=\"un-outer\" title=\"Tob\"><a href=\"/?p=profile&amp;id=25442\" style=\"color: var(--user-color-1);\" class=\"un\">Tob</a></span>.",
+    "description": "This sprite pack includes various variations of Parakoopas, which act depending on the color.<br>\r\n<ul><li>The green one flies in a horizontal range.</li>\n<li>The red one flies up and down in a fixed tile, so, in the Z axis.</li>\n<li>The yellow one flies in a vertical range.</li></ul><br>\r\nGraphics by <span class=\"un-outer\" title=\"Tob\"><a href=\"/?p=profile&amp;id=25442\" style=\"color: #9d4edd;\" class=\"un\">Tob</a></span>.",
     "latest_version": "V1.0.1",
     "install_kind": "pixi_sprite",
     "versions": [
@@ -1685,7 +1685,7 @@
       "sa-1",
       "solid"
     ],
-    "description": "This is a Chuck statue, which the player can stand on. After getting close enough to it (determined by the extra byte 1), it begins shaking, and some seconds later (determined by the extra byte 2) it shatters into a Chargin' Chuck  It can have gravity or not, depending on the extra bit.<br>\r\n<br>\r\nUse <a href=\"https://smwc.me/w/213\">this tweak</a> to have gray shatter particles.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"RobloxNewbie19001\"><a href=\"/?p=profile&amp;id=72749\" style=\"color: var(--user-color-1);\" class=\"un\">RobloxNewbie19001</a></span>.",
+    "description": "This is a Chuck statue, which the player can stand on. After getting close enough to it (determined by the extra byte 1), it begins shaking, and some seconds later (determined by the extra byte 2) it shatters into a Chargin' Chuck  It can have gravity or not, depending on the extra bit.<br>\r\n<br>\r\nUse <a href=\"https://smwc.me/w/213\">this tweak</a> to have gray shatter particles.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"RobloxNewbie19001\"><a href=\"/?p=profile&amp;id=72749\" style=\"color: #9d4edd;\" title=\"RobloxSpookbie19001\" class=\"un\">RobloxNewbie19001</a></span>.",
     "latest_version": "smwc-42081-1777567687",
     "install_kind": "pixi_sprite",
     "versions": [
@@ -1793,7 +1793,7 @@
       "sa-1",
       "spike"
     ],
-    "description": "A critter that is carrying an umbrella. When the umbrella is open, the player will bounce on top of it. When closed, it'll act as a spike, hurts player, but can be spinjumped on. The trigger for toggling its effect can be customized (change on player jump or a flag like On/Off switch status).<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Tob\"><a href=\"/?p=profile&amp;id=25442\" style=\"color: var(--user-color-1);\" class=\"un\">Tob</a></span> during Summer C3 2026. Graphics also by <span class=\"un-outer\" title=\"Tob\"><a href=\"/?p=profile&amp;id=25442\" style=\"color: var(--user-color-1);\" class=\"un\">Tob</a></span>.",
+    "description": "A critter that is carrying an umbrella. When the umbrella is open, the player will bounce on top of it. When closed, it'll act as a spike, hurts player, but can be spinjumped on. The trigger for toggling its effect can be customized (change on player jump or a flag like On/Off switch status).<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Tob\"><a href=\"/?p=profile&amp;id=25442\" style=\"color: #9d4edd;\" class=\"un\">Tob</a></span> during Summer C3 2026. Graphics also by <span class=\"un-outer\" title=\"Tob\"><a href=\"/?p=profile&amp;id=25442\" style=\"color: #9d4edd;\" class=\"un\">Tob</a></span>.",
     "latest_version": "V1.0.1",
     "install_kind": "pixi_sprite",
     "versions": [

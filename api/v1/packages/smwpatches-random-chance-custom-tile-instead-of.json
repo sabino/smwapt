@@ -14,7 +14,7 @@
     "object",
     "sa-1"
   ],
-  "description": "Makes it so that, during level load, there's a configurable chance a 3-up moon gets replaced by a custom Map16 tile of your liking, subject to normal collectible rules (if you are entering a level where the moon was already collected, nothing will spawn. This is by design).<br>\r\n<br>\r\nIncludes an example custom block: a blushing in-love moon which grants five extra lives instead of three, complete with custom graphics and ExAnimation.<br>\r\n<br>\r\nDedicated to <span class=\"un-outer\" title=\"JerryPKCMoet\"><a href=\"/?p=profile&amp;id=69298\" style=\"color: var(--user-color-1);\" class=\"un unavailable inactive\">JerryPKCMoet</a></span> who inspired the idea via a blushing 3-up moon they made in Minecraft lol",
+  "description": "Makes it so that, during level load, there's a configurable chance a 3-up moon gets replaced by a custom Map16 tile of your liking, subject to normal collectible rules (if you are entering a level where the moon was already collected, nothing will spawn. This is by design).<br>\r\n<br>\r\nIncludes an example custom block: a blushing in-love moon which grants five extra lives instead of three, complete with custom graphics and ExAnimation.<br>\r\n<br>\r\nDedicated to <span class=\"un-outer\" title=\"JerryPKCMoet\"><a href=\"/?p=profile&amp;id=69298\" style=\"color: #9d4edd;\" class=\"un unavailable inactive\">JerryPKCMoet</a></span> who inspired the idea via a blushing 3-up moon they made in Minecraft lol",
   "latest_version": "smwc-42064-1775960162",
   "install_kind": "asar_patch",
   "versions": [

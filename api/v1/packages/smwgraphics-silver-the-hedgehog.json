@@ -1,0 +1,30 @@
+{
+  "name": "smwgraphics-silver-the-hedgehog",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 43264,
+  "title": "Silver The Hedgehog",
+  "authors": [
+    "NinAlexTM"
+  ],
+  "tags": [
+    "male"
+  ],
+  "description": "Silver The Hedgehog travels to SMW. Made by me ;).<br>\r\nThe zip file includes:<br>\r\nGFX32 (Player)<br>\r\nGFX28 (Name)<br>\r\nGFX10 (Overworld Player)<br>\r\nGFX00 (Some Player Tiles)<br>\r\nSMW_Shared.pal (The character color palettes)<br>\r\n<br>\r\nAlso includes optional GFX:<br>\r\nGFX22<br>\r\nGFX24 (Both removes blushing frames from the vanilla ending)<br>\r\n<br>\r\nAnd like my previous mods, the 2nd player it's a reference to another character, in this case, Blaze The Cat",
+  "latest_version": "smwc-43264-1792172288",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 43264,
+      "title": "Silver The Hedgehog",
+      "version": "smwc-43264-1792172288",
+      "upstream_time": 1792172288,
+      "download_url": "https://dl.smwcentral.net/43264/Silver%20in%20SMW.zip",
+      "filename": "Silver in SMW.zip",
+      "size": 23731,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

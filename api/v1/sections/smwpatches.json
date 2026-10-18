@@ -396,7 +396,7 @@
       "lorom",
       "sa-1"
     ],
-    "description": "Added a bit more documentation, Thank <span class=\"un-outer\" title=\"lx5\"><a href=\"/?p=profile&amp;id=12344\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">lx5</a></span> for that.<br>\r\n<br>\r\nDo you want to change some of the original ending's enemy sprite data without fuss? This should be the patch for the job, Included is a oversight fix regarding palette and tile data in the original enemy ending data.<br>\r\n<br>\r\nEnjoy.",
+    "description": "Added a bit more documentation, Thank <span class=\"un-outer\" title=\"lx5\"><a href=\"/?p=profile&amp;id=12344\" style=\"color: #eb6123;\" class=\"un unavailable inactive\">lx5</a></span> for that.<br>\r\n<br>\r\nDo you want to change some of the original ending's enemy sprite data without fuss? This should be the patch for the job, Included is a oversight fix regarding palette and tile data in the original enemy ending data.<br>\r\n<br>\r\nEnjoy.",
     "latest_version": "0.031",
     "install_kind": "asar_patch",
     "versions": [
@@ -506,7 +506,7 @@
       "sa-1",
       "scroll"
     ],
-    "description": "This patch fixes a niche bug where the camera jitters and doesn't scroll forwards properly during the goal walk or when the player's entering a horizontal pipe, occurring when the camera is scrolled away from the direction the player is walking. This happens because part of the camera's code that is found in the L/R scrolling routine doesn't run during the goal walk or when entering pipes - this patch fixes that.<br>\r\n<br>\r\nIf you have previously disabled L/R scrolling, this patch will reanable it (a side effect of my implementation), but an option to disable L/R scrolling can be found inside of the file. Patch with that option enabled if you wish to have the scrolling disabled.<br>\r\n<br>\r\nShould be compatible with <span class=\"un-outer\" title=\"Burning Loaf\"><a href=\"/?p=profile&amp;id=31800\" style=\"color: var(--user-color-1);\" class=\"un\">Burning Loaf</a></span>'s <a href=\"https://www.smwcentral.net/?p=section&a=details&id=34924\">Alternative + Vertical L/R Scrolling</a> patch, <b>HOWEVER</b> a few things to note: My patch should be applied <i>after</i> Loaf's patch, and a minor modification needs to be made to his, otherwise the player will be able to scroll the camera with L and R during the goal walk:<div class=\"collapse\"><div class=\"collapse-header\"><span>Show me it</span></div><div class=\"collapse-content\">An <div class=\"code inline filter-noemote filter-nobr\"><pre>ORA $1493|!addr</pre></div> should be added below line 157 of the asm file, like so:<div class=\"code\"><div class=\"codeHead\"><span>Code</span></div><pre class=\"codeInner filter-noemote filter-nobr\">.controllerCheck\r\n\tLDA $1401|!addr     ;\\ $1401 remains unused,\r\n\tAND #$01            ;|\r\n\tORA $1493|!addr  ; (this line is the one that was added)\r\n\tBNE .updateCam      ;/ so now it's a disable L/R scrolling flag instead</pre></div></div></div>",
+    "description": "This patch fixes a niche bug where the camera jitters and doesn't scroll forwards properly during the goal walk or when the player's entering a horizontal pipe, occurring when the camera is scrolled away from the direction the player is walking. This happens because part of the camera's code that is found in the L/R scrolling routine doesn't run during the goal walk or when entering pipes - this patch fixes that.<br>\r\n<br>\r\nIf you have previously disabled L/R scrolling, this patch will reanable it (a side effect of my implementation), but an option to disable L/R scrolling can be found inside of the file. Patch with that option enabled if you wish to have the scrolling disabled.<br>\r\n<br>\r\nShould be compatible with <span class=\"un-outer\" title=\"Burning Loaf\"><a href=\"/?p=profile&amp;id=31800\" style=\"color: #9d4edd;\" class=\"un\">Burning Loaf</a></span>'s <a href=\"https://www.smwcentral.net/?p=section&a=details&id=34924\">Alternative + Vertical L/R Scrolling</a> patch, <b>HOWEVER</b> a few things to note: My patch should be applied <i>after</i> Loaf's patch, and a minor modification needs to be made to his, otherwise the player will be able to scroll the camera with L and R during the goal walk:<div class=\"collapse\"><div class=\"collapse-header\"><span>Show me it</span></div><div class=\"collapse-content\">An <div class=\"code inline filter-noemote filter-nobr\"><pre>ORA $1493|!addr</pre></div> should be added below line 157 of the asm file, like so:<div class=\"code\"><div class=\"codeHead\"><span>Code</span></div><pre class=\"codeInner filter-noemote filter-nobr\">.controllerCheck\r\n\tLDA $1401|!addr     ;\\ $1401 remains unused,\r\n\tAND #$01            ;|\r\n\tORA $1493|!addr  ; (this line is the one that was added)\r\n\tBNE .updateCam      ;/ so now it's a disable L/R scrolling flag instead</pre></div></div></div>",
     "latest_version": "V1.0.1",
     "install_kind": "asar_patch",
     "versions": [
@@ -541,7 +541,7 @@
       "movement",
       "overworld"
     ],
-    "description": "This patch will allow the player to move freely on the overworld originally inspired by the Super Mario 3D world overworld.<br>\r\n<br>\r\nI made this patch about 5-6 months ago and since someone requested it I decided to actually upload this.<br>\r\n<br>\r\nNote that layer 1 path tiles (Including warp tiles) are removed. Use pipes and stars to warp between maps.<br>\r\nAlso note that star warps need to have a level other than 0 or they won't work. (Yes that's intentional)<br>\r\n<br>\r\nUpdate:<br>\r\n- Fixed save prompts<br>\r\n- Fixed issues with second player<br>\r\n<br>\r\n(Requested by <span class=\"un-outer\" title=\"TrashCan64\"><a href=\"/?p=profile&amp;id=29268\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">TrashCan64</a></span>)",
+    "description": "This patch will allow the player to move freely on the overworld originally inspired by the Super Mario 3D world overworld.<br>\r\n<br>\r\nI made this patch about 5-6 months ago and since someone requested it I decided to actually upload this.<br>\r\n<br>\r\nNote that layer 1 path tiles (Including warp tiles) are removed. Use pipes and stars to warp between maps.<br>\r\nAlso note that star warps need to have a level other than 0 or they won't work. (Yes that's intentional)<br>\r\n<br>\r\nUpdate:<br>\r\n- Fixed save prompts<br>\r\n- Fixed issues with second player<br>\r\n<br>\r\n(Requested by <span class=\"un-outer\" title=\"TrashCan64\"><a href=\"/?p=profile&amp;id=29268\" style=\"color: #eb6123;\" class=\"un unavailable inactive\">TrashCan64</a></span>)",
     "latest_version": "V1.0.1",
     "install_kind": "asar_patch",
     "versions": [
@@ -988,7 +988,7 @@
       "sa-1",
       "title screen"
     ],
-    "description": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/nekietDbSBc?si=FXI_iTNhc7zWO-7P\" title=\"YouTube video player\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br>\r\n<br>\r\nA patch that allows you to have multiple title screens, either chosen at random or in a set order. Allows up to 64. All of them have their own movement data!<br>\r\nRequested by <span class=\"un-outer\" title=\"Segment1Zone2\"><a href=\"/?p=profile&amp;id=46677\" style=\"color: var(--user-color-1);\" class=\"un\">Segment1Zone2</a></span>.<br>\r\n<br>\r\nI also made a tool to extract titlescreen recording moves from snes9x and Mesen 2 saves, assuming the LM hack is enabled. Get it <a href=\"https://github.com/arinsuwu/lm_titlescreen_moves_reader/releases/latest\" rel=\"nofollow\">here</a>.",
+    "description": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/nekietDbSBc?si=FXI_iTNhc7zWO-7P\" title=\"YouTube video player\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br>\r\n<br>\r\nA patch that allows you to have multiple title screens, either chosen at random or in a set order. Allows up to 64. All of them have their own movement data!<br>\r\nRequested by <span class=\"un-outer\" title=\"Segment1Zone2\"><a href=\"/?p=profile&amp;id=46677\" style=\"color: #9d4edd;\" class=\"un\">Segment1Zone2</a></span>.<br>\r\n<br>\r\nI also made a tool to extract titlescreen recording moves from snes9x and Mesen 2 saves, assuming the LM hack is enabled. Get it <a href=\"https://github.com/arinsuwu/lm_titlescreen_moves_reader/releases/latest\" rel=\"nofollow\">here</a>.",
     "latest_version": "smwc-40309-1774901115",
     "install_kind": "asar_patch",
     "versions": [
@@ -1091,7 +1091,7 @@
       "sa-1",
       "water"
     ],
-    "description": "Allows you to disable the layer 3 tide pushback in specific levels.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Knight of Time\"><a href=\"/?p=profile&amp;id=146\" style=\"color: var(--user-color-2);\" class=\"un\">Knight of Time</a></span> around late 2024/early 2025. I then modified the patch and cleaned it up further, per a request by <span class=\"un-outer\" title=\"MrUg123\"><a href=\"/?p=profile&amp;id=73180\" style=\"color: var(--user-color-2);\" class=\"un\">MrUg123</a></span>.",
+    "description": "Allows you to disable the layer 3 tide pushback in specific levels.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Knight of Time\"><a href=\"/?p=profile&amp;id=146\" style=\"color: #eb6123;\" title=\"Knight of Fright\" class=\"un\">Knight of Time</a></span> around late 2024/early 2025. I then modified the patch and cleaned it up further, per a request by <span class=\"un-outer\" title=\"MrUg123\"><a href=\"/?p=profile&amp;id=73180\" style=\"color: #eb6123;\" title=\"MrUg123 (U) [!].smc (scary)\" class=\"un\">MrUg123</a></span>.",
     "latest_version": "1.1.1",
     "install_kind": "asar_patch",
     "versions": [
@@ -1127,7 +1127,7 @@
       "player",
       "sa-1"
     ],
-    "description": "This patch will allow you to selectively have straight fireballs in a per-player basis: either for player 1 or for player 2.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Zack-san\"><a href=\"/?p=profile&amp;id=23097\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">Zack-san</a></span>.",
+    "description": "This patch will allow you to selectively have straight fireballs in a per-player basis: either for player 1 or for player 2.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Zack-san\"><a href=\"/?p=profile&amp;id=23097\" style=\"color: #eb6123;\" class=\"un unavailable inactive\">Zack-san</a></span>.",
     "latest_version": "V1.0.1",
     "install_kind": "asar_patch",
     "versions": [
@@ -1161,7 +1161,7 @@
       "sa-1",
       "sound effect"
     ],
-    "description": "This simple patch adds a sound effect when picking up sprites, like throw blocks, keys, stunned enemies, etc.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Gamer collin\"><a href=\"/?p=profile&amp;id=71087\" style=\"color: var(--user-color-1);\" class=\"un\">Gamer collin</a></span>.",
+    "description": "This simple patch adds a sound effect when picking up sprites, like throw blocks, keys, stunned enemies, etc.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Gamer collin\"><a href=\"/?p=profile&amp;id=71087\" style=\"color: #9d4edd;\" title=\"Spooky CollinGamer124-\" class=\"un\">Gamer collin</a></span>.",
     "latest_version": "smwc-41597-1775952549",
     "install_kind": "asar_patch",
     "versions": [
@@ -1195,7 +1195,7 @@
       "lorom",
       "sa-1"
     ],
-    "description": "This patch adds a flag which changes if fireballs interact with sprites or hurt the player.<br>\r\nAffects Yoshi and player fireballs.<br>\r\n<br>\r\nIf you spawn fireballs via asm, make sure you set the flag to interact with the player or with sprites. If you don't set this flag, it might still be set or not set from the previous sprite.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #e75151;\" class=\"un\">Arinsu</a></span>.",
+    "description": "This patch adds a flag which changes if fireballs interact with sprites or hurt the player.<br>\r\nAffects Yoshi and player fireballs.<br>\r\n<br>\r\nIf you spawn fireballs via asm, make sure you set the flag to interact with the player or with sprites. If you don't set this flag, it might still be set or not set from the previous sprite.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #f8a481;\" title=\"Tewi\" class=\"un\">Arinsu</a></span>.",
     "latest_version": "v1.2.1",
     "install_kind": "asar_patch",
     "versions": [
@@ -1380,7 +1380,7 @@
       "object",
       "sa-1"
     ],
-    "description": "Makes it so that, during level load, there's a configurable chance a 3-up moon gets replaced by a custom Map16 tile of your liking, subject to normal collectible rules (if you are entering a level where the moon was already collected, nothing will spawn. This is by design).<br>\r\n<br>\r\nIncludes an example custom block: a blushing in-love moon which grants five extra lives instead of three, complete with custom graphics and ExAnimation.<br>\r\n<br>\r\nDedicated to <span class=\"un-outer\" title=\"JerryPKCMoet\"><a href=\"/?p=profile&amp;id=69298\" style=\"color: var(--user-color-1);\" class=\"un unavailable inactive\">JerryPKCMoet</a></span> who inspired the idea via a blushing 3-up moon they made in Minecraft lol",
+    "description": "Makes it so that, during level load, there's a configurable chance a 3-up moon gets replaced by a custom Map16 tile of your liking, subject to normal collectible rules (if you are entering a level where the moon was already collected, nothing will spawn. This is by design).<br>\r\n<br>\r\nIncludes an example custom block: a blushing in-love moon which grants five extra lives instead of three, complete with custom graphics and ExAnimation.<br>\r\n<br>\r\nDedicated to <span class=\"un-outer\" title=\"JerryPKCMoet\"><a href=\"/?p=profile&amp;id=69298\" style=\"color: #9d4edd;\" class=\"un unavailable inactive\">JerryPKCMoet</a></span> who inspired the idea via a blushing 3-up moon they made in Minecraft lol",
     "latest_version": "smwc-42064-1775960162",
     "install_kind": "asar_patch",
     "versions": [

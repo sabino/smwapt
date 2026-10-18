@@ -15,7 +15,7 @@
     "sa-1",
     "volcano lotus"
   ],
-  "description": "A volcano lotus that flies in the same pattern as platform for hammer brother, and spits hammers.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Daizo Dee Von\"><span title=\"Helper\" class=\"icon icon-helper\"></span><a href=\"/?p=profile&amp;id=11520\" style=\"color: var(--user-color-2);\" class=\"un\">Daizo Dee Von</a></span> during Winter C3 2023.",
+  "description": "A volcano lotus that flies in the same pattern as platform for hammer brother, and spits hammers.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Daizo Dee Von\"><span title=\"Helper\" class=\"icon icon-helper\"></span><a href=\"/?p=profile&amp;id=11520\" style=\"color: #eb6123;\" title=\"Golden Daizo\" class=\"un\">Daizo Dee Von</a></span> during Winter C3 2023.",
   "latest_version": "V1.0.1",
   "install_kind": "pixi_sprite",
   "versions": [

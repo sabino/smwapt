@@ -13,7 +13,7 @@
     "sa-1",
     "sprite"
   ],
-  "description": "The purpose of this tool is supersede carol's, Alcaro's and wiiqwertyuiop's old overworld sprite tool by using, by default, the system used in the 9th Vanilla Level Design Contest hack. As with PIXI, it is a command line tool, and its usage is similar. It is compatible with <span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" class=\"un\">yoshifanatic</a></span>'s Overworld Revolution patch.<br>\r\n<br>\r\nRead the changelog for more details.",
+  "description": "The purpose of this tool is supersede carol's, Alcaro's and wiiqwertyuiop's old overworld sprite tool by using, by default, the system used in the 9th Vanilla Level Design Contest hack. As with PIXI, it is a command line tool, and its usage is similar. It is compatible with <span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" title=\"ghostly yoshifanatic\" class=\"un\">yoshifanatic</a></span>'s Overworld Revolution patch.<br>\r\n<br>\r\nRead the changelog for more details.",
   "latest_version": "1.21",
   "install_kind": "tool",
   "versions": [

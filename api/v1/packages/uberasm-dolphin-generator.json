@@ -13,7 +13,7 @@
     "lorom",
     "sa-1"
   ],
-  "description": "This is a UberASM version of dolphin, left/right, generator, sprites CF and D0 in SMW.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"RZRider\"><a href=\"/?p=profile&amp;id=40619\" style=\"color: var(--user-color-1);\" class=\"un\">RZRider</a></span>.",
+  "description": "This is a UberASM version of dolphin, left/right, generator, sprites CF and D0 in SMW.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"RZRider\"><a href=\"/?p=profile&amp;id=40619\" style=\"color: #9d4edd;\" class=\"un\">RZRider</a></span>.",
   "latest_version": "smwc-41094-1763928381",
   "install_kind": "uber_asm",
   "versions": [

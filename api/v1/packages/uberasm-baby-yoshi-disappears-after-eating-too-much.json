@@ -12,7 +12,7 @@
     "lorom",
     "sa-1"
   ],
-  "description": "Sequel to \"Yoshi Disappears After Eating Too Much\", this code does exactly what the title says, with a configurable amount of sprites that must be eaten. It also prevents Baby Yoshi from ever growing up, and there's an option so powerups also don't make him grow up instantly (but just count as 1 eat).<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Picayune\"><a href=\"/?p=profile&amp;id=41490\" style=\"color: var(--user-color-2);\" class=\"un\">Picayune</a></span>.",
+  "description": "Sequel to \"Yoshi Disappears After Eating Too Much\", this code does exactly what the title says, with a configurable amount of sprites that must be eaten. It also prevents Baby Yoshi from ever growing up, and there's an option so powerups also don't make him grow up instantly (but just count as 1 eat).<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Picayune\"><a href=\"/?p=profile&amp;id=41490\" style=\"color: #eb6123;\" class=\"un\">Picayune</a></span>.",
   "latest_version": "V1.1",
   "install_kind": "uber_asm",
   "versions": [

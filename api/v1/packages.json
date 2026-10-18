@@ -478,7 +478,7 @@
       "outline",
       "sa-1"
     ],
-    "description": "This is a New Super Mario Bros. coin outline, which turns into a coin after a configurable amount of time.<br>\r\nIn order for this block to work, insert the included UberASMTool code as level code.<br>\r\nRequires 240 bytes of free RAM.<br>\r\n<br>\r\nGraphics included ripped by larenlarsenv and <span class=\"un-outer\" title=\"Soul\"><a href=\"/?p=profile&amp;id=51674\" style=\"color: var(--user-color-2);\" class=\"un\">Soul</a></span>.",
+    "description": "This is a New Super Mario Bros. coin outline, which turns into a coin after a configurable amount of time.<br>\r\nIn order for this block to work, insert the included UberASMTool code as level code.<br>\r\nRequires 240 bytes of free RAM.<br>\r\n<br>\r\nGraphics included ripped by larenlarsenv and <span class=\"un-outer\" title=\"Soul\"><a href=\"/?p=profile&amp;id=51674\" style=\"color: #eb6123;\" class=\"un\">Soul</a></span>.",
     "latest_version": "smwc-41120-1764271572",
     "install_kind": "gps_block",
     "versions": [
@@ -548,7 +548,7 @@
       "solid",
       "sprite needed"
     ],
-    "description": "A turnblock that behaves mostly like the original. Useful for changing palettes or customizing the asm.<br>\r\n<br>\r\nRequires PIXI 1.40 for the included bounce sprite.<br>\r\n<br>\r\nCheck the readme file for adjustments that may be required to ensure proper functionality.<br>\r\n<br>\r\nNote: hitting more than 4 at a time will not revert to the turnblock, but some blocks will be left spinning forever. <br>\r\n<br>\r\nNote: blocks on layer 2 moving down will crush the player instead of activating the block.<br>\r\n<br>\r\nv1.1 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #e75151;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n* Added the functionality to also make the turnblock turn when spinjumping it.",
+    "description": "A turnblock that behaves mostly like the original. Useful for changing palettes or customizing the asm.<br>\r\n<br>\r\nRequires PIXI 1.40 for the included bounce sprite.<br>\r\n<br>\r\nCheck the readme file for adjustments that may be required to ensure proper functionality.<br>\r\n<br>\r\nNote: hitting more than 4 at a time will not revert to the turnblock, but some blocks will be left spinning forever. <br>\r\n<br>\r\nNote: blocks on layer 2 moving down will crush the player instead of activating the block.<br>\r\n<br>\r\nv1.1 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #f8a481;\" title=\"Tewi\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n* Added the functionality to also make the turnblock turn when spinjumping it.",
     "latest_version": "smwc-41237-1765159682",
     "install_kind": "gps_block",
     "versions": [
@@ -619,7 +619,7 @@
       "lorom",
       "sa-1"
     ],
-    "description": "Unlike the hurt specific sides block, this block has a lot of improvements and features:<br>\r\n<br>\r\n-the sides of the block does not hurt the player if the player is touching the side unless he moves towards or into the block (smw munchers and spikes (from castle and ghost houses) does this), by checking if mario's hitbox pixel is either overlapping (at least 1 pixel) it or adjacent to the block. <br>\r\n<br>\r\n-various options like killing the player instantly regardless of powerup (or HP if using HP patch), killing sprites and more!<br>\r\n<br>\r\nUpdate 1.2 (<span class=\"un-outer\" title=\"DrAnas\"><a href=\"/?p=profile&amp;id=25222\" style=\"color: var(--user-color-2);\" class=\"un\">DrAnas</a></span>): converted all the blocks to SA-1 and included slippery versions of the blocks for use with <a href=\"https://www.smwcentral.net/?p=section&a=details&id=35067\">GHB's perfect slippery blocks</a>!",
+    "description": "Unlike the hurt specific sides block, this block has a lot of improvements and features:<br>\r\n<br>\r\n-the sides of the block does not hurt the player if the player is touching the side unless he moves towards or into the block (smw munchers and spikes (from castle and ghost houses) does this), by checking if mario's hitbox pixel is either overlapping (at least 1 pixel) it or adjacent to the block. <br>\r\n<br>\r\n-various options like killing the player instantly regardless of powerup (or HP if using HP patch), killing sprites and more!<br>\r\n<br>\r\nUpdate 1.2 (<span class=\"un-outer\" title=\"DrAnas\"><a href=\"/?p=profile&amp;id=25222\" style=\"color: #eb6123;\" class=\"un\">DrAnas</a></span>): converted all the blocks to SA-1 and included slippery versions of the blocks for use with <a href=\"https://www.smwcentral.net/?p=section&a=details&id=35067\">GHB's perfect slippery blocks</a>!",
     "latest_version": "smwc-41218-1764815640",
     "install_kind": "gps_block",
     "versions": [
@@ -906,7 +906,7 @@
       "sa-1",
       "uberasm needed"
     ],
-    "description": "These blocks will change every time the player jumps.<br>\r\nRequested by <span class=\"un-outer\" title=\"mr bean6652\"><a href=\"/?p=profile&amp;id=26761\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">mr bean6652</a></span>.<br>\r\n<br>\r\nv1.1 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #e75151;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n- Added SA-1 support.<br>\r\n- Added a define to not hurt the player while on Yoshi on the above variant of the spikes.<br>\r\n- Added a Map16 page.",
+    "description": "These blocks will change every time the player jumps.<br>\r\nRequested by <span class=\"un-outer\" title=\"mr bean6652\"><a href=\"/?p=profile&amp;id=26761\" style=\"color: #eb6123;\" class=\"un unavailable inactive\">mr bean6652</a></span>.<br>\r\n<br>\r\nv1.1 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #f8a481;\" title=\"Tewi\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n- Added SA-1 support.<br>\r\n- Added a define to not hurt the player while on Yoshi on the above variant of the spikes.<br>\r\n- Added a Map16 page.",
     "latest_version": "smwc-41209-1765844757",
     "install_kind": "gps_block",
     "versions": [
@@ -1152,7 +1152,7 @@
       "sa-1",
       "uberasm needed"
     ],
-    "description": "A replica of the purple coins from Super Mario Galaxy. Collect a certain amount of them (customisable) and activate something (also customisable).<br>\r\nThese coins stay collected if you switch to a different room.<br>\r\n<br>\r\nBe sure to read the readme before inserting the coins!<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"MrMartley64\"><a href=\"/?p=profile&amp;id=27753\" style=\"color: var(--user-color-2);\" class=\"un\">MrMartley64</a></span>.",
+    "description": "A replica of the purple coins from Super Mario Galaxy. Collect a certain amount of them (customisable) and activate something (also customisable).<br>\r\nThese coins stay collected if you switch to a different room.<br>\r\n<br>\r\nBe sure to read the readme before inserting the coins!<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"MrMartley64\"><a href=\"/?p=profile&amp;id=27753\" style=\"color: #eb6123;\" class=\"un\">MrMartley64</a></span>.",
     "latest_version": "smwc-41169-1764462273",
     "install_kind": "gps_block",
     "versions": [
@@ -1224,7 +1224,7 @@
       "shatter",
       "sprite needed"
     ],
-    "description": "This custom block will shatter after the player gets off it. Good for platforming stages or places where you jump a lot to dodge stuff.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Final Theory\"><a href=\"/?p=profile&amp;id=22015\" style=\"color: var(--user-color-1);\" class=\"un\">Final Theory</a></span>.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\">v2.0 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #e75151;\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n- Added SA-1 compatibility.<br>\r\n- Changed the included sprite to a bounce sprite.<br>\r\n- Simplified the code a lot.</div></div>",
+    "description": "This custom block will shatter after the player gets off it. Good for platforming stages or places where you jump a lot to dodge stuff.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Final Theory\"><a href=\"/?p=profile&amp;id=22015\" style=\"color: #9d4edd;\" class=\"un\">Final Theory</a></span>.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\">v2.0 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #f8a481;\" title=\"Tewi\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n- Added SA-1 compatibility.<br>\r\n- Changed the included sprite to a bounce sprite.<br>\r\n- Simplified the code a lot.</div></div>",
     "latest_version": "smwc-41235-1765916599",
     "install_kind": "gps_block",
     "versions": [
@@ -2000,7 +2000,7 @@
     "tags": [
       "grassland"
     ],
-    "description": "My first ever ExGFX.  (at least, that i post.) <br>\r\n<br>\r\nI don't care about credits, honestly. But, it would be nice if you would just go ahead and credit me.<br>\r\n<br>\r\nInspired by <span class=\"un-outer\" title=\"Tob\"><a href=\"/?p=profile&amp;id=25442\" style=\"color: var(--user-color-1);\" class=\"un\">Tob</a></span>'s <a href=\"https://www.smwcentral.net/?p=section&a=details&id=41692\">\"Super Mario World Styled Faithful Athletic Grassland\"</a>.",
+    "description": "My first ever ExGFX.  (at least, that i post.) <br>\r\n<br>\r\nI don't care about credits, honestly. But, it would be nice if you would just go ahead and credit me.<br>\r\n<br>\r\nInspired by <span class=\"un-outer\" title=\"Tob\"><a href=\"/?p=profile&amp;id=25442\" style=\"color: #9d4edd;\" class=\"un\">Tob</a></span>'s <a href=\"https://www.smwcentral.net/?p=section&a=details&id=41692\">\"Super Mario World Styled Faithful Athletic Grassland\"</a>.",
     "latest_version": "smwc-42783-1785954429",
     "install_kind": "asset_only",
     "versions": [
@@ -2043,6 +2043,37 @@
         "download_url": "https://dl.smwcentral.net/43038/Brambles-Fix.zip",
         "filename": "Brambles-Fix.zip",
         "size": 5566,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
+    "name": "smwgraphics-burnt-luigi",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 43363,
+    "title": "Burnt Luigi",
+    "authors": [
+      "16-BitMario94"
+    ],
+    "tags": [
+      "humanoid",
+      "male"
+    ],
+    "description": "The long-awaited sequel for Burnt Mario has arrived! now with Luigi! Fully complete with in game and map sprites, please give credit to me for the sprites!",
+    "latest_version": "smwc-43363-1792172552",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 43363,
+        "title": "Burnt Luigi",
+        "version": "smwc-43363-1792172552",
+        "upstream_time": 1792172552,
+        "download_url": "https://dl.smwcentral.net/43363/Burnt%20Luigi.zip",
+        "filename": "Burnt Luigi.zip",
+        "size": 15114,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -2826,7 +2857,7 @@
     "tags": [
       "male"
     ],
-    "description": "Minus Galaxy Styled Mario - Give credits to Mit if used. Crediting me for the spin jump stuff is optional.<br>\r\n<br>\r\nI created 4 spin jump frames for Mario if the Modern Spin Jump Patch is inserted. <br>\r\n<br>\r\nThe <a href=\"https://www.smwcentral.net/?p=section&a=details&id=40241\">32x32 player tilemap patch</a> is required, if you wanna use these graphics.<br>\r\n<br>\r\nCredit <span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" class=\"un\">yoshifanatic</a></span>, as well, if you use the Modern Spin Jump patch.",
+    "description": "Minus Galaxy Styled Mario - Give credits to Mit if used. Crediting me for the spin jump stuff is optional.<br>\r\n<br>\r\nI created 4 spin jump frames for Mario if the Modern Spin Jump Patch is inserted. <br>\r\n<br>\r\nThe <a href=\"https://www.smwcentral.net/?p=section&a=details&id=40241\">32x32 player tilemap patch</a> is required, if you wanna use these graphics.<br>\r\n<br>\r\nCredit <span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" title=\"ghostly yoshifanatic\" class=\"un\">yoshifanatic</a></span>, as well, if you use the Modern Spin Jump patch.",
     "latest_version": "smwc-42774-1785695919",
     "install_kind": "asset_only",
     "versions": [
@@ -2838,36 +2869,6 @@
         "download_url": "https://dl.smwcentral.net/42774/Mario%20%28Minus%20Galaxy%20Style%29.zip",
         "filename": "Mario (Minus Galaxy Style).zip",
         "size": 49729,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
-    "name": "smwgraphics-more-controversial-super-mario-world-platforms",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 42667,
-    "title": "More Controversial Super Mario World Platforms",
-    "authors": [
-      "Tob"
-    ],
-    "tags": [
-      "platform"
-    ],
-    "description": "based on recent scientific research, the beloved smw platforms, and their beloathed sibling, are now in their most controversial form yet.",
-    "latest_version": "smwc-42667-1783981093",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 42667,
-        "title": "More Controversial Super Mario World Platforms",
-        "version": "smwc-42667-1783981093",
-        "upstream_time": 1783981093,
-        "download_url": "https://dl.smwcentral.net/42667/better%20platforms.zip",
-        "filename": "better platforms.zip",
-        "size": 7155,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -2963,6 +2964,36 @@
         "download_url": "https://dl.smwcentral.net/42922/SMWGFX-toyland.zip",
         "filename": "SMWGFX-toyland.zip",
         "size": 14075,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
+    "name": "smwgraphics-silver-the-hedgehog",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 43264,
+    "title": "Silver The Hedgehog",
+    "authors": [
+      "NinAlexTM"
+    ],
+    "tags": [
+      "male"
+    ],
+    "description": "Silver The Hedgehog travels to SMW. Made by me ;).<br>\r\nThe zip file includes:<br>\r\nGFX32 (Player)<br>\r\nGFX28 (Name)<br>\r\nGFX10 (Overworld Player)<br>\r\nGFX00 (Some Player Tiles)<br>\r\nSMW_Shared.pal (The character color palettes)<br>\r\n<br>\r\nAlso includes optional GFX:<br>\r\nGFX22<br>\r\nGFX24 (Both removes blushing frames from the vanilla ending)<br>\r\n<br>\r\nAnd like my previous mods, the 2nd player it's a reference to another character, in this case, Blaze The Cat",
+    "latest_version": "smwc-43264-1792172288",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 43264,
+        "title": "Silver The Hedgehog",
+        "version": "smwc-43264-1792172288",
+        "upstream_time": 1792172288,
+        "download_url": "https://dl.smwcentral.net/43264/Silver%20in%20SMW.zip",
+        "filename": "Silver in SMW.zip",
+        "size": 23731,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -3079,7 +3110,7 @@
       "hdma",
       "sky"
     ],
-    "description": "The background seen in the final battle of Soul Blazer, a cult classic video game made by Quintet. <br>\r\n<br>\r\nThe parallax scrolling was made by <span class=\"un-outer\" title=\"TheXander\"><a href=\"/?p=profile&amp;id=49146\" style=\"color: var(--user-color-2);\" class=\"un\">TheXander</a></span>, but also has parts of <span class=\"un-outer\" title=\"Darolac\"><a href=\"/?p=profile&amp;id=34390\" style=\"color: var(--user-color-1);\" class=\"un\">Darolac</a></span>'s code in it, so credit both of them, if you use the bundled asm file.<br>\r\n<br>\r\nIf you want to lower the background, you must edit the parallax tables at the end of the asm file. <br>\r\n<br>\r\nA good fit for climatic boss battles or sky levels.",
+    "description": "The background seen in the final battle of Soul Blazer, a cult classic video game made by Quintet. <br>\r\n<br>\r\nThe parallax scrolling was made by <span class=\"un-outer\" title=\"TheXander\"><a href=\"/?p=profile&amp;id=49146\" style=\"color: #eb6123;\" class=\"un\">TheXander</a></span>, but also has parts of <span class=\"un-outer\" title=\"Darolac\"><a href=\"/?p=profile&amp;id=34390\" style=\"color: #9d4edd;\" class=\"un\">Darolac</a></span>'s code in it, so credit both of them, if you use the bundled asm file.<br>\r\n<br>\r\nIf you want to lower the background, you must edit the parallax tables at the end of the asm file. <br>\r\n<br>\r\nA good fit for climatic boss battles or sky levels.",
     "latest_version": "smwc-42024-1785442984",
     "install_kind": "asset_only",
     "versions": [
@@ -3111,7 +3142,7 @@
       "hdma",
       "space"
     ],
-    "description": "The space-like background seen in the final area of Soul Blazer, a cult classic video game made by Quintet.  A good fit for space levels.<br>\r\n<br>\r\nBundled with this submission is a wave hdma code made by <span class=\"un-outer\" title=\"Donut\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=48514\" style=\"color: #ea589f;\" class=\"un\">Donut</a></span>, meant to replicate the effect seen in the source material.  Insert it using <a href=\"https://www.smwcentral.net/?p=section&a=details&id=39036\">UberASM Tool 2.1</a>. ",
+    "description": "The space-like background seen in the final area of Soul Blazer, a cult classic video game made by Quintet.  A good fit for space levels.<br>\r\n<br>\r\nBundled with this submission is a wave hdma code made by <span class=\"un-outer\" title=\"Donut\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=48514\" style=\"color: #15a760;\" title=\"Cheerio\" class=\"un\">Donut</a></span>, meant to replicate the effect seen in the source material.  Insert it using <a href=\"https://www.smwcentral.net/?p=section&a=details&id=39036\">UberASM Tool 2.1</a>. ",
     "latest_version": "smwc-42036-1785442976",
     "install_kind": "asset_only",
     "versions": [
@@ -3214,38 +3245,6 @@
         "download_url": "https://dl.smwcentral.net/42852/SMBX%20-%20MarioSprite-OnlyBlocks.zip",
         "filename": "SMBX - MarioSprite-OnlyBlocks.zip",
         "size": 1461,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
-    "name": "smwgraphics-super-mario-world-styled-dark-ages-the-lost-vikings",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 42678,
-    "title": "Super Mario World Styled Dark Ages (The Lost Vikings 2)",
-    "authors": [
-      "Ganbare-Lucifer",
-      "edgar"
-    ],
-    "tags": [
-      "cave",
-      "ruins"
-    ],
-    "description": "A Super Mario World adaptation of Dark Ages from The Lost Vikings 2.<br>\r\nIncludes three alternate palettes.<br>\r\n<a href=\"https://www.spriters-resource.com/custom_edited/thelostvikingscustoms/asset/566418/\" rel=\"nofollow\">Made by Ganbare-Lucifer</a>.",
-    "latest_version": "smwc-42678-1783982544",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 42678,
-        "title": "Super Mario World Styled Dark Ages (The Lost Vikings 2)",
-        "version": "smwc-42678-1783982544",
-        "upstream_time": 1783982544,
-        "download_url": "https://dl.smwcentral.net/42678/SMW%20Styled%20Dark%20Ages.zip",
-        "filename": "SMW Styled Dark Ages.zip",
-        "size": 18006,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -3386,10 +3385,7 @@
       "NinAlexTM"
     ],
     "tags": [
-      "female player",
-      "new character",
-      "non mario",
-      "player"
+      "female"
     ],
     "description": "Whisper The Wolf...But in SMW Let´s Go &gt;:D. Made by me :).<br>\r\nThe Zip File includes:<br>\r\nGFX32 (Player)<br>\r\nGFX28 (Name)<br>\r\nGFX10 (Overworld Player)<br>\r\nGFX00 (Some Player Tiles)<br>\r\nSMW_Shared.pal (The character color palettes)<br>\r\n<br>\r\nAlso includes optional GFX:<br>\r\nGFX22<br>\r\nGFX24 (Both removes blushing frames from the vanilla ending)<br>\r\n<br>\r\nFunny Thing: Like i did with Tangle & Rayman, Second Player it´s a Silver Color Reference (not at all), again, to mimic \"Green Mario\". (Because of the limited colors and some shared colors between P1 & P2, P2 looks a little weird)",
     "latest_version": "smwc-41927-1785436075",
@@ -4294,7 +4290,7 @@
       "final",
       "title"
     ],
-    "description": "A heroic song from Tales of Phantasia<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Zavok\"><a href=\"/?p=profile&amp;id=36942\" style=\"color: var(--user-color-1);\" class=\"un\">Zavok</a></span>",
+    "description": "A heroic song from Tales of Phantasia<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Zavok\"><a href=\"/?p=profile&amp;id=36942\" style=\"color: #9d4edd;\" class=\"un\">Zavok</a></span>",
     "latest_version": "smwc-42742-1790633401",
     "install_kind": "add_music_k_music",
     "versions": [
@@ -4315,32 +4311,33 @@
     ]
   },
   {
-    "name": "smwmusic-tetris-dr-mario-fever",
+    "name": "smwmusic-the-doctor-christmas-demo",
     "aliases": [],
     "section": "smwmusic",
-    "upstream_id": 42719,
-    "title": "Tetris & Dr. Mario - Fever",
+    "upstream_id": 42738,
+    "title": "The Doctor - Christmas Demo",
     "authors": [
       "h.carrell"
     ],
     "tags": [
-      "athletic",
-      "bonus",
-      "boss",
+      "ambient",
+      "ice",
+      "menu",
+      "overworld",
       "upbeat"
     ],
-    "description": "One of 2 songs that you can play Dr. Mario with, as heard in Tetris & Dr. Mario.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Zavok\"><a href=\"/?p=profile&amp;id=36942\" style=\"color: var(--user-color-1);\" class=\"un\">Zavok</a></span>",
-    "latest_version": "smwc-42719-1790631972",
+    "description": "A bopping Christmas tune from the Doctor. <br>\r\n<br>\r\nA slightly updated version of what I showed in a Thread last C3.",
+    "latest_version": "smwc-42738-1792246032",
     "install_kind": "add_music_k_music",
     "versions": [
       {
-        "upstream_id": 42719,
-        "title": "Tetris & Dr. Mario - Fever",
-        "version": "smwc-42719-1790631972",
-        "upstream_time": 1790631972,
-        "download_url": "https://dl.smwcentral.net/42719/T%26DM%20Fever.zip",
-        "filename": "T%26DM Fever.zip",
-        "size": 53446,
+        "upstream_id": 42738,
+        "title": "The Doctor - Christmas Demo",
+        "version": "smwc-42738-1792246032",
+        "upstream_time": 1792246032,
+        "download_url": "https://dl.smwcentral.net/42738/Christmas%20Demo.zip",
+        "filename": "Christmas Demo.zip",
+        "size": 126507,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -4815,7 +4812,7 @@
       "lorom",
       "sa-1"
     ],
-    "description": "Added a bit more documentation, Thank <span class=\"un-outer\" title=\"lx5\"><a href=\"/?p=profile&amp;id=12344\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">lx5</a></span> for that.<br>\r\n<br>\r\nDo you want to change some of the original ending's enemy sprite data without fuss? This should be the patch for the job, Included is a oversight fix regarding palette and tile data in the original enemy ending data.<br>\r\n<br>\r\nEnjoy.",
+    "description": "Added a bit more documentation, Thank <span class=\"un-outer\" title=\"lx5\"><a href=\"/?p=profile&amp;id=12344\" style=\"color: #eb6123;\" class=\"un unavailable inactive\">lx5</a></span> for that.<br>\r\n<br>\r\nDo you want to change some of the original ending's enemy sprite data without fuss? This should be the patch for the job, Included is a oversight fix regarding palette and tile data in the original enemy ending data.<br>\r\n<br>\r\nEnjoy.",
     "latest_version": "0.031",
     "install_kind": "asar_patch",
     "versions": [
@@ -4925,7 +4922,7 @@
       "sa-1",
       "scroll"
     ],
-    "description": "This patch fixes a niche bug where the camera jitters and doesn't scroll forwards properly during the goal walk or when the player's entering a horizontal pipe, occurring when the camera is scrolled away from the direction the player is walking. This happens because part of the camera's code that is found in the L/R scrolling routine doesn't run during the goal walk or when entering pipes - this patch fixes that.<br>\r\n<br>\r\nIf you have previously disabled L/R scrolling, this patch will reanable it (a side effect of my implementation), but an option to disable L/R scrolling can be found inside of the file. Patch with that option enabled if you wish to have the scrolling disabled.<br>\r\n<br>\r\nShould be compatible with <span class=\"un-outer\" title=\"Burning Loaf\"><a href=\"/?p=profile&amp;id=31800\" style=\"color: var(--user-color-1);\" class=\"un\">Burning Loaf</a></span>'s <a href=\"https://www.smwcentral.net/?p=section&a=details&id=34924\">Alternative + Vertical L/R Scrolling</a> patch, <b>HOWEVER</b> a few things to note: My patch should be applied <i>after</i> Loaf's patch, and a minor modification needs to be made to his, otherwise the player will be able to scroll the camera with L and R during the goal walk:<div class=\"collapse\"><div class=\"collapse-header\"><span>Show me it</span></div><div class=\"collapse-content\">An <div class=\"code inline filter-noemote filter-nobr\"><pre>ORA $1493|!addr</pre></div> should be added below line 157 of the asm file, like so:<div class=\"code\"><div class=\"codeHead\"><span>Code</span></div><pre class=\"codeInner filter-noemote filter-nobr\">.controllerCheck\r\n\tLDA $1401|!addr     ;\\ $1401 remains unused,\r\n\tAND #$01            ;|\r\n\tORA $1493|!addr  ; (this line is the one that was added)\r\n\tBNE .updateCam      ;/ so now it's a disable L/R scrolling flag instead</pre></div></div></div>",
+    "description": "This patch fixes a niche bug where the camera jitters and doesn't scroll forwards properly during the goal walk or when the player's entering a horizontal pipe, occurring when the camera is scrolled away from the direction the player is walking. This happens because part of the camera's code that is found in the L/R scrolling routine doesn't run during the goal walk or when entering pipes - this patch fixes that.<br>\r\n<br>\r\nIf you have previously disabled L/R scrolling, this patch will reanable it (a side effect of my implementation), but an option to disable L/R scrolling can be found inside of the file. Patch with that option enabled if you wish to have the scrolling disabled.<br>\r\n<br>\r\nShould be compatible with <span class=\"un-outer\" title=\"Burning Loaf\"><a href=\"/?p=profile&amp;id=31800\" style=\"color: #9d4edd;\" class=\"un\">Burning Loaf</a></span>'s <a href=\"https://www.smwcentral.net/?p=section&a=details&id=34924\">Alternative + Vertical L/R Scrolling</a> patch, <b>HOWEVER</b> a few things to note: My patch should be applied <i>after</i> Loaf's patch, and a minor modification needs to be made to his, otherwise the player will be able to scroll the camera with L and R during the goal walk:<div class=\"collapse\"><div class=\"collapse-header\"><span>Show me it</span></div><div class=\"collapse-content\">An <div class=\"code inline filter-noemote filter-nobr\"><pre>ORA $1493|!addr</pre></div> should be added below line 157 of the asm file, like so:<div class=\"code\"><div class=\"codeHead\"><span>Code</span></div><pre class=\"codeInner filter-noemote filter-nobr\">.controllerCheck\r\n\tLDA $1401|!addr     ;\\ $1401 remains unused,\r\n\tAND #$01            ;|\r\n\tORA $1493|!addr  ; (this line is the one that was added)\r\n\tBNE .updateCam      ;/ so now it's a disable L/R scrolling flag instead</pre></div></div></div>",
     "latest_version": "V1.0.1",
     "install_kind": "asar_patch",
     "versions": [
@@ -4960,7 +4957,7 @@
       "movement",
       "overworld"
     ],
-    "description": "This patch will allow the player to move freely on the overworld originally inspired by the Super Mario 3D world overworld.<br>\r\n<br>\r\nI made this patch about 5-6 months ago and since someone requested it I decided to actually upload this.<br>\r\n<br>\r\nNote that layer 1 path tiles (Including warp tiles) are removed. Use pipes and stars to warp between maps.<br>\r\nAlso note that star warps need to have a level other than 0 or they won't work. (Yes that's intentional)<br>\r\n<br>\r\nUpdate:<br>\r\n- Fixed save prompts<br>\r\n- Fixed issues with second player<br>\r\n<br>\r\n(Requested by <span class=\"un-outer\" title=\"TrashCan64\"><a href=\"/?p=profile&amp;id=29268\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">TrashCan64</a></span>)",
+    "description": "This patch will allow the player to move freely on the overworld originally inspired by the Super Mario 3D world overworld.<br>\r\n<br>\r\nI made this patch about 5-6 months ago and since someone requested it I decided to actually upload this.<br>\r\n<br>\r\nNote that layer 1 path tiles (Including warp tiles) are removed. Use pipes and stars to warp between maps.<br>\r\nAlso note that star warps need to have a level other than 0 or they won't work. (Yes that's intentional)<br>\r\n<br>\r\nUpdate:<br>\r\n- Fixed save prompts<br>\r\n- Fixed issues with second player<br>\r\n<br>\r\n(Requested by <span class=\"un-outer\" title=\"TrashCan64\"><a href=\"/?p=profile&amp;id=29268\" style=\"color: #eb6123;\" class=\"un unavailable inactive\">TrashCan64</a></span>)",
     "latest_version": "V1.0.1",
     "install_kind": "asar_patch",
     "versions": [
@@ -5407,7 +5404,7 @@
       "sa-1",
       "title screen"
     ],
-    "description": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/nekietDbSBc?si=FXI_iTNhc7zWO-7P\" title=\"YouTube video player\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br>\r\n<br>\r\nA patch that allows you to have multiple title screens, either chosen at random or in a set order. Allows up to 64. All of them have their own movement data!<br>\r\nRequested by <span class=\"un-outer\" title=\"Segment1Zone2\"><a href=\"/?p=profile&amp;id=46677\" style=\"color: var(--user-color-1);\" class=\"un\">Segment1Zone2</a></span>.<br>\r\n<br>\r\nI also made a tool to extract titlescreen recording moves from snes9x and Mesen 2 saves, assuming the LM hack is enabled. Get it <a href=\"https://github.com/arinsuwu/lm_titlescreen_moves_reader/releases/latest\" rel=\"nofollow\">here</a>.",
+    "description": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/nekietDbSBc?si=FXI_iTNhc7zWO-7P\" title=\"YouTube video player\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br>\r\n<br>\r\nA patch that allows you to have multiple title screens, either chosen at random or in a set order. Allows up to 64. All of them have their own movement data!<br>\r\nRequested by <span class=\"un-outer\" title=\"Segment1Zone2\"><a href=\"/?p=profile&amp;id=46677\" style=\"color: #9d4edd;\" class=\"un\">Segment1Zone2</a></span>.<br>\r\n<br>\r\nI also made a tool to extract titlescreen recording moves from snes9x and Mesen 2 saves, assuming the LM hack is enabled. Get it <a href=\"https://github.com/arinsuwu/lm_titlescreen_moves_reader/releases/latest\" rel=\"nofollow\">here</a>.",
     "latest_version": "smwc-40309-1774901115",
     "install_kind": "asar_patch",
     "versions": [
@@ -5510,7 +5507,7 @@
       "sa-1",
       "water"
     ],
-    "description": "Allows you to disable the layer 3 tide pushback in specific levels.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Knight of Time\"><a href=\"/?p=profile&amp;id=146\" style=\"color: var(--user-color-2);\" class=\"un\">Knight of Time</a></span> around late 2024/early 2025. I then modified the patch and cleaned it up further, per a request by <span class=\"un-outer\" title=\"MrUg123\"><a href=\"/?p=profile&amp;id=73180\" style=\"color: var(--user-color-2);\" class=\"un\">MrUg123</a></span>.",
+    "description": "Allows you to disable the layer 3 tide pushback in specific levels.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Knight of Time\"><a href=\"/?p=profile&amp;id=146\" style=\"color: #eb6123;\" title=\"Knight of Fright\" class=\"un\">Knight of Time</a></span> around late 2024/early 2025. I then modified the patch and cleaned it up further, per a request by <span class=\"un-outer\" title=\"MrUg123\"><a href=\"/?p=profile&amp;id=73180\" style=\"color: #eb6123;\" title=\"MrUg123 (U) [!].smc (scary)\" class=\"un\">MrUg123</a></span>.",
     "latest_version": "1.1.1",
     "install_kind": "asar_patch",
     "versions": [
@@ -5546,7 +5543,7 @@
       "player",
       "sa-1"
     ],
-    "description": "This patch will allow you to selectively have straight fireballs in a per-player basis: either for player 1 or for player 2.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Zack-san\"><a href=\"/?p=profile&amp;id=23097\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">Zack-san</a></span>.",
+    "description": "This patch will allow you to selectively have straight fireballs in a per-player basis: either for player 1 or for player 2.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Zack-san\"><a href=\"/?p=profile&amp;id=23097\" style=\"color: #eb6123;\" class=\"un unavailable inactive\">Zack-san</a></span>.",
     "latest_version": "V1.0.1",
     "install_kind": "asar_patch",
     "versions": [
@@ -5580,7 +5577,7 @@
       "sa-1",
       "sound effect"
     ],
-    "description": "This simple patch adds a sound effect when picking up sprites, like throw blocks, keys, stunned enemies, etc.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Gamer collin\"><a href=\"/?p=profile&amp;id=71087\" style=\"color: var(--user-color-1);\" class=\"un\">Gamer collin</a></span>.",
+    "description": "This simple patch adds a sound effect when picking up sprites, like throw blocks, keys, stunned enemies, etc.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Gamer collin\"><a href=\"/?p=profile&amp;id=71087\" style=\"color: #9d4edd;\" title=\"Spooky CollinGamer124-\" class=\"un\">Gamer collin</a></span>.",
     "latest_version": "smwc-41597-1775952549",
     "install_kind": "asar_patch",
     "versions": [
@@ -5614,7 +5611,7 @@
       "lorom",
       "sa-1"
     ],
-    "description": "This patch adds a flag which changes if fireballs interact with sprites or hurt the player.<br>\r\nAffects Yoshi and player fireballs.<br>\r\n<br>\r\nIf you spawn fireballs via asm, make sure you set the flag to interact with the player or with sprites. If you don't set this flag, it might still be set or not set from the previous sprite.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #e75151;\" class=\"un\">Arinsu</a></span>.",
+    "description": "This patch adds a flag which changes if fireballs interact with sprites or hurt the player.<br>\r\nAffects Yoshi and player fireballs.<br>\r\n<br>\r\nIf you spawn fireballs via asm, make sure you set the flag to interact with the player or with sprites. If you don't set this flag, it might still be set or not set from the previous sprite.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #f8a481;\" title=\"Tewi\" class=\"un\">Arinsu</a></span>.",
     "latest_version": "v1.2.1",
     "install_kind": "asar_patch",
     "versions": [
@@ -5799,7 +5796,7 @@
       "object",
       "sa-1"
     ],
-    "description": "Makes it so that, during level load, there's a configurable chance a 3-up moon gets replaced by a custom Map16 tile of your liking, subject to normal collectible rules (if you are entering a level where the moon was already collected, nothing will spawn. This is by design).<br>\r\n<br>\r\nIncludes an example custom block: a blushing in-love moon which grants five extra lives instead of three, complete with custom graphics and ExAnimation.<br>\r\n<br>\r\nDedicated to <span class=\"un-outer\" title=\"JerryPKCMoet\"><a href=\"/?p=profile&amp;id=69298\" style=\"color: var(--user-color-1);\" class=\"un unavailable inactive\">JerryPKCMoet</a></span> who inspired the idea via a blushing 3-up moon they made in Minecraft lol",
+    "description": "Makes it so that, during level load, there's a configurable chance a 3-up moon gets replaced by a custom Map16 tile of your liking, subject to normal collectible rules (if you are entering a level where the moon was already collected, nothing will spawn. This is by design).<br>\r\n<br>\r\nIncludes an example custom block: a blushing in-love moon which grants five extra lives instead of three, complete with custom graphics and ExAnimation.<br>\r\n<br>\r\nDedicated to <span class=\"un-outer\" title=\"JerryPKCMoet\"><a href=\"/?p=profile&amp;id=69298\" style=\"color: #9d4edd;\" class=\"un unavailable inactive\">JerryPKCMoet</a></span> who inspired the idea via a blushing 3-up moon they made in Minecraft lol",
     "latest_version": "smwc-42064-1775960162",
     "install_kind": "asar_patch",
     "versions": [
@@ -6250,7 +6247,7 @@
       "sa-1",
       "volcano lotus"
     ],
-    "description": "A volcano lotus that flies in the same pattern as platform for hammer brother, and spits hammers.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Daizo Dee Von\"><span title=\"Helper\" class=\"icon icon-helper\"></span><a href=\"/?p=profile&amp;id=11520\" style=\"color: var(--user-color-2);\" class=\"un\">Daizo Dee Von</a></span> during Winter C3 2023.",
+    "description": "A volcano lotus that flies in the same pattern as platform for hammer brother, and spits hammers.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Daizo Dee Von\"><span title=\"Helper\" class=\"icon icon-helper\"></span><a href=\"/?p=profile&amp;id=11520\" style=\"color: #eb6123;\" title=\"Golden Daizo\" class=\"un\">Daizo Dee Von</a></span> during Winter C3 2023.",
     "latest_version": "V1.0.1",
     "install_kind": "pixi_sprite",
     "versions": [
@@ -6397,7 +6394,7 @@
       "pacifist",
       "sa-1"
     ],
-    "description": "A bird which picks around and randomly flips directions.<br>\r\n<br>\r\nOriginally made for <span class=\"un-outer\" title=\"Tob\"><a href=\"/?p=profile&amp;id=25442\" style=\"color: var(--user-color-1);\" class=\"un\">Tob</a></span> and I's OWDC3 entry, which placed 1st.",
+    "description": "A bird which picks around and randomly flips directions.<br>\r\n<br>\r\nOriginally made for <span class=\"un-outer\" title=\"Tob\"><a href=\"/?p=profile&amp;id=25442\" style=\"color: #9d4edd;\" class=\"un\">Tob</a></span> and I's OWDC3 entry, which placed 1st.",
     "latest_version": "smwc-42802-1790784661",
     "install_kind": "pixi_sprite",
     "versions": [
@@ -6434,7 +6431,7 @@
       "lorom",
       "sa-1"
     ],
-    "description": "A Bob-omb which leaves a fire trail every certain amount of time, controlled by the fourth extra byte.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Green\"><a href=\"/?p=profile&amp;id=43749\" style=\"color: var(--user-color-3);\" class=\"un\">Green</a></span> during C3 Winter 2025. That one used the old, now-removed Bob-omb disassembly. This one uses my own disassembly as a base, now with X speed, time before being quiet, and time before exploding all parametrized in extra bytes.",
+    "description": "A Bob-omb which leaves a fire trail every certain amount of time, controlled by the fourth extra byte.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Green\"><a href=\"/?p=profile&amp;id=43749\" style=\"color: #f7b801;\" title=\"Ghost\" class=\"un\">Green</a></span> during C3 Winter 2025. That one used the old, now-removed Bob-omb disassembly. This one uses my own disassembly as a base, now with X speed, time before being quiet, and time before exploding all parametrized in extra bytes.",
     "latest_version": "smwc-42177-1777077860",
     "install_kind": "pixi_sprite",
     "versions": [
@@ -6614,7 +6611,7 @@
       "rex",
       "sa-1"
     ],
-    "description": "This is a Rex that chases you, like Disco Shell. In fact, it can be set to flash and become invulnerable to stomps.<br>\r\nIt can also be set to remain \"hidden\" untill player comes close.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Roberto zampari\"><a href=\"/?p=profile&amp;id=1508\" style=\"color: var(--user-color-2);\" class=\"un\">Roberto zampari</a></span>, <span class=\"un-outer\" title=\"zacmario\"><a href=\"/?p=profile&amp;id=25159\" style=\"color: var(--user-color-2);\" class=\"un\">zacmario</a></span> and <span class=\"un-outer\" title=\"Ganbare-Lucifer\"><a href=\"/?p=profile&amp;id=21984\" style=\"color: var(--user-color-2);\" class=\"un\">Ganbare-Lucifer</a></span>.",
+    "description": "This is a Rex that chases you, like Disco Shell. In fact, it can be set to flash and become invulnerable to stomps.<br>\r\nIt can also be set to remain \"hidden\" untill player comes close.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Roberto zampari\"><a href=\"/?p=profile&amp;id=1508\" style=\"color: #eb6123;\" class=\"un\">Roberto zampari</a></span>, <span class=\"un-outer\" title=\"zacmario\"><a href=\"/?p=profile&amp;id=25159\" style=\"color: #eb6123;\" class=\"un\">zacmario</a></span> and <span class=\"un-outer\" title=\"Ganbare-Lucifer\"><a href=\"/?p=profile&amp;id=21984\" style=\"color: #eb6123;\" title=\"Greencifer\" class=\"un\">Ganbare-Lucifer</a></span>.",
     "latest_version": "1.2.1",
     "install_kind": "pixi_sprite",
     "versions": [
@@ -7085,7 +7082,7 @@
       "lorom",
       "sa-1"
     ],
-    "description": "A version of Galoomba that climbs walls similar to Dino Rhinos/Dino Torches.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"JP32\"><a href=\"/?p=profile&amp;id=25888\" style=\"color: var(--user-color-1);\" class=\"un unavailable inactive\">JP32</a></span> during Winter C3 2023.",
+    "description": "A version of Galoomba that climbs walls similar to Dino Rhinos/Dino Torches.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"JP32\"><a href=\"/?p=profile&amp;id=25888\" style=\"color: #9d4edd;\" class=\"un unavailable inactive\">JP32</a></span> during Winter C3 2023.",
     "latest_version": "smwc-42079-1776985342",
     "install_kind": "pixi_sprite",
     "versions": [
@@ -7120,7 +7117,7 @@
       "lorom",
       "sa-1"
     ],
-    "description": "A variant of Galoomba that sticks to walls when thrown. After a little bit, it unstuns itself, so it can be jumped on again. After a little while, it'll unstick from the wall.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"RollingRigatonis\"><a href=\"/?p=profile&amp;id=33771\" style=\"color: var(--user-color-2);\" class=\"un\">RollingRigatonis</a></span> during Winter C3 2023.",
+    "description": "A variant of Galoomba that sticks to walls when thrown. After a little bit, it unstuns itself, so it can be jumped on again. After a little while, it'll unstick from the wall.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"RollingRigatonis\"><a href=\"/?p=profile&amp;id=33771\" style=\"color: #eb6123;\" class=\"un\">RollingRigatonis</a></span> during Winter C3 2023.",
     "latest_version": "smwc-42085-1776989412",
     "install_kind": "pixi_sprite",
     "versions": [
@@ -7336,7 +7333,7 @@
       "pacifist",
       "sa-1"
     ],
-    "description": "This tiny Koopa will ice skate along a given range of the map, controlled by the extra byte.<br>\r\n<br>\r\nGraphics by <span class=\"un-outer\" title=\"Tob\"><a href=\"/?p=profile&amp;id=25442\" style=\"color: var(--user-color-1);\" class=\"un\">Tob</a></span>.",
+    "description": "This tiny Koopa will ice skate along a given range of the map, controlled by the extra byte.<br>\r\n<br>\r\nGraphics by <span class=\"un-outer\" title=\"Tob\"><a href=\"/?p=profile&amp;id=25442\" style=\"color: #9d4edd;\" class=\"un\">Tob</a></span>.",
     "latest_version": "V1.0.1",
     "install_kind": "pixi_sprite",
     "versions": [
@@ -7700,7 +7697,7 @@
       "pacifist",
       "sa-1"
     ],
-    "description": "This sprite pack includes various variations of Parakoopas, which act depending on the color.<br>\r\n<ul><li>The green one flies in a horizontal range.</li>\n<li>The red one flies up and down in a fixed tile, so, in the Z axis.</li>\n<li>The yellow one flies in a vertical range.</li></ul><br>\r\nGraphics by <span class=\"un-outer\" title=\"Tob\"><a href=\"/?p=profile&amp;id=25442\" style=\"color: var(--user-color-1);\" class=\"un\">Tob</a></span>.",
+    "description": "This sprite pack includes various variations of Parakoopas, which act depending on the color.<br>\r\n<ul><li>The green one flies in a horizontal range.</li>\n<li>The red one flies up and down in a fixed tile, so, in the Z axis.</li>\n<li>The yellow one flies in a vertical range.</li></ul><br>\r\nGraphics by <span class=\"un-outer\" title=\"Tob\"><a href=\"/?p=profile&amp;id=25442\" style=\"color: #9d4edd;\" class=\"un\">Tob</a></span>.",
     "latest_version": "V1.0.1",
     "install_kind": "pixi_sprite",
     "versions": [
@@ -7919,7 +7916,7 @@
       "sa-1",
       "solid"
     ],
-    "description": "This is a Chuck statue, which the player can stand on. After getting close enough to it (determined by the extra byte 1), it begins shaking, and some seconds later (determined by the extra byte 2) it shatters into a Chargin' Chuck  It can have gravity or not, depending on the extra bit.<br>\r\n<br>\r\nUse <a href=\"https://smwc.me/w/213\">this tweak</a> to have gray shatter particles.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"RobloxNewbie19001\"><a href=\"/?p=profile&amp;id=72749\" style=\"color: var(--user-color-1);\" class=\"un\">RobloxNewbie19001</a></span>.",
+    "description": "This is a Chuck statue, which the player can stand on. After getting close enough to it (determined by the extra byte 1), it begins shaking, and some seconds later (determined by the extra byte 2) it shatters into a Chargin' Chuck  It can have gravity or not, depending on the extra bit.<br>\r\n<br>\r\nUse <a href=\"https://smwc.me/w/213\">this tweak</a> to have gray shatter particles.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"RobloxNewbie19001\"><a href=\"/?p=profile&amp;id=72749\" style=\"color: #9d4edd;\" title=\"RobloxSpookbie19001\" class=\"un\">RobloxNewbie19001</a></span>.",
     "latest_version": "smwc-42081-1777567687",
     "install_kind": "pixi_sprite",
     "versions": [
@@ -8027,7 +8024,7 @@
       "sa-1",
       "spike"
     ],
-    "description": "A critter that is carrying an umbrella. When the umbrella is open, the player will bounce on top of it. When closed, it'll act as a spike, hurts player, but can be spinjumped on. The trigger for toggling its effect can be customized (change on player jump or a flag like On/Off switch status).<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Tob\"><a href=\"/?p=profile&amp;id=25442\" style=\"color: var(--user-color-1);\" class=\"un\">Tob</a></span> during Summer C3 2026. Graphics also by <span class=\"un-outer\" title=\"Tob\"><a href=\"/?p=profile&amp;id=25442\" style=\"color: var(--user-color-1);\" class=\"un\">Tob</a></span>.",
+    "description": "A critter that is carrying an umbrella. When the umbrella is open, the player will bounce on top of it. When closed, it'll act as a spike, hurts player, but can be spinjumped on. The trigger for toggling its effect can be customized (change on player jump or a flag like On/Off switch status).<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Tob\"><a href=\"/?p=profile&amp;id=25442\" style=\"color: #9d4edd;\" class=\"un\">Tob</a></span> during Summer C3 2026. Graphics also by <span class=\"un-outer\" title=\"Tob\"><a href=\"/?p=profile&amp;id=25442\" style=\"color: #9d4edd;\" class=\"un\">Tob</a></span>.",
     "latest_version": "V1.0.1",
     "install_kind": "pixi_sprite",
     "versions": [
@@ -8221,7 +8218,7 @@
       "sa-1",
       "sprite"
     ],
-    "description": "The purpose of this tool is supersede carol's, Alcaro's and wiiqwertyuiop's old overworld sprite tool by using, by default, the system used in the 9th Vanilla Level Design Contest hack. As with PIXI, it is a command line tool, and its usage is similar. It is compatible with <span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" class=\"un\">yoshifanatic</a></span>'s Overworld Revolution patch.<br>\r\n<br>\r\nRead the changelog for more details.",
+    "description": "The purpose of this tool is supersede carol's, Alcaro's and wiiqwertyuiop's old overworld sprite tool by using, by default, the system used in the 9th Vanilla Level Design Contest hack. As with PIXI, it is a command line tool, and its usage is similar. It is compatible with <span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" title=\"ghostly yoshifanatic\" class=\"un\">yoshifanatic</a></span>'s Overworld Revolution patch.<br>\r\n<br>\r\nRead the changelog for more details.",
     "latest_version": "1.21",
     "install_kind": "tool",
     "versions": [
@@ -9501,7 +9498,7 @@
       "sa-1",
       "score"
     ],
-    "description": "This simple code grants the player an extra life at certain checkpoints in the score.  More details in the .asm file.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"LucasRCD\"><a href=\"/?p=profile&amp;id=26593\" style=\"color: var(--user-color-1);\" class=\"un\">LucasRCD</a></span>.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\"><span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" class=\"un\">yoshifanatic</a></span>'s Update<br>\r\n- Made this compatible with asar 2.0.<br>\r\n- Fixed a bug where you wouldn't be given a reward unless all 3 score bytes were greater than the 3 current checkpoint score bytes (ie. 15,000 &lt; 10,000 because the DC in #$05DC was less than the E8 in #$03E8).<br>\r\n- Changed the default reward code to one that spawns a 1-up score sprite instead of incrementing the life counter directly.<br>\r\n- Made this work for Luigi as well. Note that this requires an extra free RAM byte.</div></div>",
+    "description": "This simple code grants the player an extra life at certain checkpoints in the score.  More details in the .asm file.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"LucasRCD\"><a href=\"/?p=profile&amp;id=26593\" style=\"color: #9d4edd;\" class=\"un\">LucasRCD</a></span>.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\"><span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" title=\"ghostly yoshifanatic\" class=\"un\">yoshifanatic</a></span>'s Update<br>\r\n- Made this compatible with asar 2.0.<br>\r\n- Fixed a bug where you wouldn't be given a reward unless all 3 score bytes were greater than the 3 current checkpoint score bytes (ie. 15,000 &lt; 10,000 because the DC in #$05DC was less than the E8 in #$03E8).<br>\r\n- Changed the default reward code to one that spawns a 1-up score sprite instead of incrementing the life counter directly.<br>\r\n- Made this work for Luigi as well. Note that this requires an extra free RAM byte.</div></div>",
     "latest_version": "smwc-41058-1763938565",
     "install_kind": "uber_asm",
     "versions": [
@@ -9605,7 +9602,7 @@
       "lorom",
       "sa-1"
     ],
-    "description": "Sequel to \"Yoshi Disappears After Eating Too Much\", this code does exactly what the title says, with a configurable amount of sprites that must be eaten. It also prevents Baby Yoshi from ever growing up, and there's an option so powerups also don't make him grow up instantly (but just count as 1 eat).<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Picayune\"><a href=\"/?p=profile&amp;id=41490\" style=\"color: var(--user-color-2);\" class=\"un\">Picayune</a></span>.",
+    "description": "Sequel to \"Yoshi Disappears After Eating Too Much\", this code does exactly what the title says, with a configurable amount of sprites that must be eaten. It also prevents Baby Yoshi from ever growing up, and there's an option so powerups also don't make him grow up instantly (but just count as 1 eat).<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Picayune\"><a href=\"/?p=profile&amp;id=41490\" style=\"color: #eb6123;\" class=\"un\">Picayune</a></span>.",
     "latest_version": "V1.1",
     "install_kind": "uber_asm",
     "versions": [
@@ -9640,7 +9637,7 @@
       "p-balloon",
       "sa-1"
     ],
-    "description": "This LevelASM allows you to enable or disable the P-Balloon state by pressing a configurable button (R or L by default).<br>\r\n<br>\r\n<span style=\"font-size: 8pt;\">Code written by <span class=\"un-outer\" title=\"anonimzwx\"><a href=\"/?p=profile&amp;id=20832\" style=\"color: var(--user-color-2);\" class=\"un\">anonimzwx</a></span> but published by me at his request</span>",
+    "description": "This LevelASM allows you to enable or disable the P-Balloon state by pressing a configurable button (R or L by default).<br>\r\n<br>\r\n<span style=\"font-size: 8pt;\">Code written by <span class=\"un-outer\" title=\"anonimzwx\"><a href=\"/?p=profile&amp;id=20832\" style=\"color: #eb6123;\" class=\"un\">anonimzwx</a></span> but published by me at his request</span>",
     "latest_version": "V1.1",
     "install_kind": "uber_asm",
     "versions": [
@@ -9680,7 +9677,7 @@
       "status bar",
       "water"
     ],
-    "description": "This simple piece of code places a numerical air meter on the status bar, effectively replacing the stars counter (protip: change the star graphics to a bubble or something for a better impact).<br>\r\n<br>\r\nQuite customizable, and SA-1 hybrid.<br>\r\n<br>\r\n<span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" class=\"un\">yoshifanatic</a></span>'s update:<br>\r\n- Fixed an oversight where pausing on the frame the meter updates will cause it to update every frame. You'd also softlock if this happened while in water.<br>\r\n- Created a define that does the effect described in the comments for reversing the air meter.<br>\r\n- Made it so the air meter tile is initialized in init so it displays during the fade in instead of popping in right after.<br>\r\n- Made a few minor code optimizations.",
+    "description": "This simple piece of code places a numerical air meter on the status bar, effectively replacing the stars counter (protip: change the star graphics to a bubble or something for a better impact).<br>\r\n<br>\r\nQuite customizable, and SA-1 hybrid.<br>\r\n<br>\r\n<span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" title=\"ghostly yoshifanatic\" class=\"un\">yoshifanatic</a></span>'s update:<br>\r\n- Fixed an oversight where pausing on the frame the meter updates will cause it to update every frame. You'd also softlock if this happened while in water.<br>\r\n- Created a define that does the effect described in the comments for reversing the air meter.<br>\r\n- Made it so the air meter tile is initialized in init so it displays during the fade in instead of popping in right after.<br>\r\n- Made a few minor code optimizations.",
     "latest_version": "smwc-41011-1763931254",
     "install_kind": "uber_asm",
     "versions": [
@@ -9854,7 +9851,7 @@
       "lorom",
       "sa-1"
     ],
-    "description": "This is a UberASM version of dolphin, left/right, generator, sprites CF and D0 in SMW.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"RZRider\"><a href=\"/?p=profile&amp;id=40619\" style=\"color: var(--user-color-1);\" class=\"un\">RZRider</a></span>.",
+    "description": "This is a UberASM version of dolphin, left/right, generator, sprites CF and D0 in SMW.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"RZRider\"><a href=\"/?p=profile&amp;id=40619\" style=\"color: #9d4edd;\" class=\"un\">RZRider</a></span>.",
     "latest_version": "smwc-41094-1763928381",
     "install_kind": "uber_asm",
     "versions": [
@@ -9889,7 +9886,7 @@
       "lorom",
       "sa-1"
     ],
-    "description": "This is basically a piece of code to draw a circle window with a given radius. Unlike the one that comes with Effect Tool, this one generates the circle on the run, not using a pre-computed table, allowing you to change the radius anytime you want.<br>\r\n<br>\r\nThe ASM file comes with some customizable options, such as whether the circle is centered at a fixed position or at Mario, the initial radius and some other stuff.<br>\r\n<br>\r\nNotes: don't use it with message boxes, and make sure your level end isn't in the same level of this effect, otherwise stuff will look glitched up when you cross the goal tape or use the keyhole.<br>\r\n<br>\r\nIf not using the SA-1 patch, turn on the interlacing setting! Otherwise, this will likely cause lag.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\"><span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" class=\"un\">yoshifanatic</a></span>'s update<br>\r\n- Changed the encoding of CircleWindow.asm to UTF-8 so it'll work in asar 2.0.<br>\r\n- Made this LoROM compatible.<br>\r\n- Added a setting that enables interlacing to save on performance at the cost of making the circle look blurrier in motion. Enabling this is recommended if not using the SA-1 patch.<br>\r\n- Made the HDMA channel customizable.<br>\r\n- Fixed a bug where the circle would not initialize if you exit a sublevel and the circle draws at the exact same on screen position before in the next sublevel.</div></div>",
+    "description": "This is basically a piece of code to draw a circle window with a given radius. Unlike the one that comes with Effect Tool, this one generates the circle on the run, not using a pre-computed table, allowing you to change the radius anytime you want.<br>\r\n<br>\r\nThe ASM file comes with some customizable options, such as whether the circle is centered at a fixed position or at Mario, the initial radius and some other stuff.<br>\r\n<br>\r\nNotes: don't use it with message boxes, and make sure your level end isn't in the same level of this effect, otherwise stuff will look glitched up when you cross the goal tape or use the keyhole.<br>\r\n<br>\r\nIf not using the SA-1 patch, turn on the interlacing setting! Otherwise, this will likely cause lag.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\"><span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" title=\"ghostly yoshifanatic\" class=\"un\">yoshifanatic</a></span>'s update<br>\r\n- Changed the encoding of CircleWindow.asm to UTF-8 so it'll work in asar 2.0.<br>\r\n- Made this LoROM compatible.<br>\r\n- Added a setting that enables interlacing to save on performance at the cost of making the circle look blurrier in motion. Enabling this is recommended if not using the SA-1 patch.<br>\r\n- Made the HDMA channel customizable.<br>\r\n- Fixed a bug where the circle would not initialize if you exit a sublevel and the circle draws at the exact same on screen position before in the next sublevel.</div></div>",
     "latest_version": "smwc-41035-1763932365",
     "install_kind": "uber_asm",
     "versions": [
@@ -10163,7 +10160,7 @@
       "parachute",
       "sa-1"
     ],
-    "description": "This uberasm adds the ability to use a<br>\r\nparachute while Mario is in the air. By pressing the B button during<br>\r\na fall, Mario will deploy a parachute that slows his descent,<br>\r\nallowing him to glide gently downward.<br>\r\n<br>\r\nThe uberasm is designed to be highly configurable, allowing<br>\r\ncustomization of color palettes, visual effects, sounds, and more.<br>\r\n<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Final Theory\"><a href=\"/?p=profile&amp;id=22015\" style=\"color: var(--user-color-1);\" class=\"un\">Final Theory</a></span><br>\r\nThis was #30 on Final Theory’s list of ASM challenges",
+    "description": "This uberasm adds the ability to use a<br>\r\nparachute while Mario is in the air. By pressing the B button during<br>\r\na fall, Mario will deploy a parachute that slows his descent,<br>\r\nallowing him to glide gently downward.<br>\r\n<br>\r\nThe uberasm is designed to be highly configurable, allowing<br>\r\ncustomization of color palettes, visual effects, sounds, and more.<br>\r\n<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Final Theory\"><a href=\"/?p=profile&amp;id=22015\" style=\"color: #9d4edd;\" class=\"un\">Final Theory</a></span><br>\r\nThis was #30 on Final Theory’s list of ASM challenges",
     "latest_version": "V1.0.1",
     "install_kind": "uber_asm",
     "versions": [
@@ -10237,7 +10234,7 @@
       "sfx",
       "sound effect"
     ],
-    "description": "Hurts or kills Mario when any sound effect starts playing (choose which option in the asm file).<br>\r\nRequested by <span class=\"un-outer\" title=\"Golden Yoshi\"><a href=\"/?p=profile&amp;id=306\" style=\"color: var(--user-color-2);\" class=\"un\">Golden Yoshi</a></span>.<br>\r\n<br>\r\n<span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" class=\"un\">yoshifanatic</a></span>'s Update:<br>\r\n- Made this use UberASMTool 2.0's end label to make this less janky.<br>\r\n- Added 3 tables that allow you to customize which sounds hurt/kill you. By default, the pause, time running out, the Yoshi drum commands, and AddmusicK's pause/echo commands don't hurt you.<br>\r\n- Made it so this UberASM doesn't run during level end or no Yoshi intros.",
+    "description": "Hurts or kills Mario when any sound effect starts playing (choose which option in the asm file).<br>\r\nRequested by <span class=\"un-outer\" title=\"Golden Yoshi\"><a href=\"/?p=profile&amp;id=306\" style=\"color: #eb6123;\" class=\"un\">Golden Yoshi</a></span>.<br>\r\n<br>\r\n<span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" title=\"ghostly yoshifanatic\" class=\"un\">yoshifanatic</a></span>'s Update:<br>\r\n- Made this use UberASMTool 2.0's end label to make this less janky.<br>\r\n- Added 3 tables that allow you to customize which sounds hurt/kill you. By default, the pause, time running out, the Yoshi drum commands, and AddmusicK's pause/echo commands don't hurt you.<br>\r\n- Made it so this UberASM doesn't run during level end or no Yoshi intros.",
     "latest_version": "smwc-41071-1763939200",
     "install_kind": "uber_asm",
     "versions": [
@@ -10310,7 +10307,7 @@
       "sa-1",
       "warp"
     ],
-    "description": "An easy to configure level code for creating warp hubs.<br>\r\nIt displays a custom text in the top left corner, switching between values when pressing left or right. Pushing A or B sends you to the designated level.<br>\r\nThe text displayed, destination level and amount of levels can be easily changed, just add or remove values from the tables.<br>\r\n<br>\r\nUseful for debugging or actual in game hubs.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\"><span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" class=\"un\">yoshifanatic</a></span>'s update:<br>\r\n- Made this asar 2.0 compatible.<br>\r\n- Made this compatible with vertical levels and Lunar Magic 3.00's horizontal level modes.<br>\r\n- Fixed an oversight where this will run during No-Yoshi intros.<br>\r\n- Made it so the code doesn't run when the game is paused.<br>\r\n- Made it so layer 3 is given priority so the text is always visible.<br>\r\n- Fixed an oversight where the secondary entrance macro didn't calculate the format for $19D8 correctly for secondary entrances greater than FF.</div></div>",
+    "description": "An easy to configure level code for creating warp hubs.<br>\r\nIt displays a custom text in the top left corner, switching between values when pressing left or right. Pushing A or B sends you to the designated level.<br>\r\nThe text displayed, destination level and amount of levels can be easily changed, just add or remove values from the tables.<br>\r\n<br>\r\nUseful for debugging or actual in game hubs.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\"><span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" title=\"ghostly yoshifanatic\" class=\"un\">yoshifanatic</a></span>'s update:<br>\r\n- Made this asar 2.0 compatible.<br>\r\n- Made this compatible with vertical levels and Lunar Magic 3.00's horizontal level modes.<br>\r\n- Fixed an oversight where this will run during No-Yoshi intros.<br>\r\n- Made it so the code doesn't run when the game is paused.<br>\r\n- Made it so layer 3 is given priority so the text is always visible.<br>\r\n- Fixed an oversight where the secondary entrance macro didn't calculate the format for $19D8 correctly for secondary entrances greater than FF.</div></div>",
     "latest_version": "smwc-40975-1763928647",
     "install_kind": "uber_asm",
     "versions": [
@@ -10385,7 +10382,7 @@
       "star",
       "starman"
     ],
-    "description": "This UberASM increases Mario's P-speed and reduces the amount of time required for P-speed while he has a Starman active. Check the asm file for customization options.<br>\r\n<br>\r\nNote: Use this <a href=\"https://www.smwcentral.net/?p=tweaks&a=details&id=278\">tweak</a> to prevent a bug where Mario can rapidly turn while in an icy level.<br>\r\n<br>\r\n<span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" class=\"un\">yoshifanatic</a></span>'s update:<br>\r\n- Fixed an oversight where spin jumping/cape spinning causes Mario to rapidly alternate between moving left/right when he has P-speed.<br>\r\n- Fixed a bug where you could clip into walls while running with P-speed.<br>\r\n- Fixed a bug where you'd gain P-speed just by holding down X/Y without moving.<br>\r\n- Fixed a bug where you could fill your P-meter by running into a wall.<br>\r\n- Added checks to stop Mario from keeping his P-speed when climbing, ducking, swimming, stunned, sliding, and while using a P-balloon and lakitu cloud.<br>\r\n- Made it so the turning is not instant.<br>\r\n- Optimized the code a little.<br>\r\n",
+    "description": "This UberASM increases Mario's P-speed and reduces the amount of time required for P-speed while he has a Starman active. Check the asm file for customization options.<br>\r\n<br>\r\nNote: Use this <a href=\"https://www.smwcentral.net/?p=tweaks&a=details&id=278\">tweak</a> to prevent a bug where Mario can rapidly turn while in an icy level.<br>\r\n<br>\r\n<span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" title=\"ghostly yoshifanatic\" class=\"un\">yoshifanatic</a></span>'s update:<br>\r\n- Fixed an oversight where spin jumping/cape spinning causes Mario to rapidly alternate between moving left/right when he has P-speed.<br>\r\n- Fixed a bug where you could clip into walls while running with P-speed.<br>\r\n- Fixed a bug where you'd gain P-speed just by holding down X/Y without moving.<br>\r\n- Fixed a bug where you could fill your P-meter by running into a wall.<br>\r\n- Added checks to stop Mario from keeping his P-speed when climbing, ducking, swimming, stunned, sliding, and while using a P-balloon and lakitu cloud.<br>\r\n- Made it so the turning is not instant.<br>\r\n- Optimized the code a little.<br>\r\n",
     "latest_version": "smwc-40902-1763926611",
     "install_kind": "uber_asm",
     "versions": [
@@ -10420,7 +10417,7 @@
       "lorom",
       "sa-1"
     ],
-    "description": "This code allows you to create your own special autoscroll that goes where you want at the speed you want, much like the generator used in Butter Bridge 1 (level 00C) in the original game.<br>\r\n<br>\r\nIt works by using tables where you store X/Y speeds for each step of the autoscroll. It allows the use of fractional speeds and can be paused/resumed anytime you want using a flag. Plus, all the free RAM used can be easily changed to avoid conflicts, and the whole scrolling code can either stop or loop when it reaches the end of the tables.<br>\r\n<br>\r\nUPDATE: You can now setup a custom code that will interrupt the autoscroll and be executed at certain points in time. This way, you force the player to progress only if a certain thing has been done.<br>\r\nDefault code is the classic \"advance if all sprites have been killed\".<br>\r\n<br>\r\nDetails in .asm file.<br>\r\n<br>\r\n<span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" class=\"un\">yoshifanatic</a></span>'s update:<br>\r\n- Fixed a warning about LDA $XX,y not being a valid opcode when inserting this to non-SA-1 ROMs.<br>\r\n- Added mention of <a href=\"https://www.smwcentral.net/?p=section&a=details&id=40600\">this patch</a> in case users run into issues with sprites spawning.<br>\r\n- Made !ListLength automatic, so the user doesn't need to keep track of the size of the ignored sprite list.<br>\r\n- Fixed a bug where this runs during no Yoshi intros.<br>\r\n- Added throw blocks, Peach, the bonus game, winged cage, layer 3 smasher, side exit, ball n' chain, Bowser, wooden spikes, and Bowser statue to the list of ignored sprites.<br>\r\n- Fixed an oversight where the sprite check breaks when not using PIXI.<br>\r\n- Made various minor code optimizations.",
+    "description": "This code allows you to create your own special autoscroll that goes where you want at the speed you want, much like the generator used in Butter Bridge 1 (level 00C) in the original game.<br>\r\n<br>\r\nIt works by using tables where you store X/Y speeds for each step of the autoscroll. It allows the use of fractional speeds and can be paused/resumed anytime you want using a flag. Plus, all the free RAM used can be easily changed to avoid conflicts, and the whole scrolling code can either stop or loop when it reaches the end of the tables.<br>\r\n<br>\r\nUPDATE: You can now setup a custom code that will interrupt the autoscroll and be executed at certain points in time. This way, you force the player to progress only if a certain thing has been done.<br>\r\nDefault code is the classic \"advance if all sprites have been killed\".<br>\r\n<br>\r\nDetails in .asm file.<br>\r\n<br>\r\n<span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" title=\"ghostly yoshifanatic\" class=\"un\">yoshifanatic</a></span>'s update:<br>\r\n- Fixed a warning about LDA $XX,y not being a valid opcode when inserting this to non-SA-1 ROMs.<br>\r\n- Added mention of <a href=\"https://www.smwcentral.net/?p=section&a=details&id=40600\">this patch</a> in case users run into issues with sprites spawning.<br>\r\n- Made !ListLength automatic, so the user doesn't need to keep track of the size of the ignored sprite list.<br>\r\n- Fixed a bug where this runs during no Yoshi intros.<br>\r\n- Added throw blocks, Peach, the bonus game, winged cage, layer 3 smasher, side exit, ball n' chain, Bowser, wooden spikes, and Bowser statue to the list of ignored sprites.<br>\r\n- Fixed an oversight where the sprite check breaks when not using PIXI.<br>\r\n- Made various minor code optimizations.",
     "latest_version": "smwc-41204-1772912351",
     "install_kind": "uber_asm",
     "versions": [
@@ -10664,7 +10661,7 @@
       "player",
       "sa-1"
     ],
-    "description": "Whenever you press the R button, you will switch between Mario and Luigi! Keep in mind that whenever you switch characters, you will have to switch controllers, too. Unless you make use of <a href=\"https://smwc.me/w/22\">this tweak</a>.<br>\r\n<br>\r\nIncludes options for allowing Mario and Luigi to have separate coin counts, powerups, and item boxes. Separate lives is possible too, but was not included as setting Luigi's starting lives correctly would require a hijack. Also includes a helper UberASM that prevents problems on the overworld if exiting a level as the other character.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\"><span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" class=\"un\">yoshifanatic</a></span>'s update:<br>\r\n- Made this compatible with UberASM Tool 2.0<br>\r\n- Added a check to prevent the R button from switching characters while the game is paused, you're in a No Yoshi intro, a message is displaying, or you're doing the goal walk.<br>\r\n- Added an option to give Mario and Luigi a separate item box.<br>\r\n- Made the button to press for the character switch configurable.<br>\r\n- Made it so L/R scrolling is not disabled.<br>\r\n- Included a helper UberASM that fixes a major problem that occurs on the overworld if you exit the level as a different character than the one you entered with.<br>\r\n- Optimized the code a bit.</div></div>",
+    "description": "Whenever you press the R button, you will switch between Mario and Luigi! Keep in mind that whenever you switch characters, you will have to switch controllers, too. Unless you make use of <a href=\"https://smwc.me/w/22\">this tweak</a>.<br>\r\n<br>\r\nIncludes options for allowing Mario and Luigi to have separate coin counts, powerups, and item boxes. Separate lives is possible too, but was not included as setting Luigi's starting lives correctly would require a hijack. Also includes a helper UberASM that prevents problems on the overworld if exiting a level as the other character.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\"><span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" title=\"ghostly yoshifanatic\" class=\"un\">yoshifanatic</a></span>'s update:<br>\r\n- Made this compatible with UberASM Tool 2.0<br>\r\n- Added a check to prevent the R button from switching characters while the game is paused, you're in a No Yoshi intro, a message is displaying, or you're doing the goal walk.<br>\r\n- Added an option to give Mario and Luigi a separate item box.<br>\r\n- Made the button to press for the character switch configurable.<br>\r\n- Made it so L/R scrolling is not disabled.<br>\r\n- Included a helper UberASM that fixes a major problem that occurs on the overworld if you exit the level as a different character than the one you entered with.<br>\r\n- Optimized the code a bit.</div></div>",
     "latest_version": "smwc-41819-1772931288",
     "install_kind": "uber_asm",
     "versions": [
@@ -10700,7 +10697,7 @@
       "player",
       "sa-1"
     ],
-    "description": "This will switch the player from Mario to Luigi and back when Pressing the R button on the overworld during a Single Player game while leaving the 2 Player option intact.<br>\r\n<br>\r\nIt will take Mario's Score, Bonus Stars, Powerups, Yoshi's, overworld position and completely allows you to swap players without any odd behaviors like some of the other versions of \"Switch Characters\" blocks or patches.<br>\r\n<br>\r\nThis will work with Smallhacker's Separate Player graphics patch to give Luigi separate graphics from Mario. Instructions in the UberASM.<br>\r\n<br>\r\nNote: Does require a patch for asar that is included. It fixes the lives system so that you won't get weird behaviors when you get a game over as Luigi.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\"><span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" class=\"un\">yoshifanatic</a></span>'s update:<br>\r\n- Merged the lives.asm patch into the main UberASM's file so you don't need to apply the patch separately.<br>\r\n- Removed the 1control.asm file, because there is now a <a href=\"https://smwc.me/w/22\">tweak</a> that does the exact same thing and it's not required for this patch to function. In addition, that tweak is SA-1 compatible while this was not.<br>\r\n- Made the patch code properly remove itself when you unpatch it, instead of running the original code in free space.<br>\r\n- Added FastROM support to the patch.<br>\r\n- Changed the main label to end, which makes it so overworld Mario/Luigi don't visually update during the fade out.<br>\r\n- Fixed a minor visual quirk where Luigi does not lose his halo when selecting continue.<br>\r\n- Various minor optimizations.</div></div>",
+    "description": "This will switch the player from Mario to Luigi and back when Pressing the R button on the overworld during a Single Player game while leaving the 2 Player option intact.<br>\r\n<br>\r\nIt will take Mario's Score, Bonus Stars, Powerups, Yoshi's, overworld position and completely allows you to swap players without any odd behaviors like some of the other versions of \"Switch Characters\" blocks or patches.<br>\r\n<br>\r\nThis will work with Smallhacker's Separate Player graphics patch to give Luigi separate graphics from Mario. Instructions in the UberASM.<br>\r\n<br>\r\nNote: Does require a patch for asar that is included. It fixes the lives system so that you won't get weird behaviors when you get a game over as Luigi.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\"><span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" title=\"ghostly yoshifanatic\" class=\"un\">yoshifanatic</a></span>'s update:<br>\r\n- Merged the lives.asm patch into the main UberASM's file so you don't need to apply the patch separately.<br>\r\n- Removed the 1control.asm file, because there is now a <a href=\"https://smwc.me/w/22\">tweak</a> that does the exact same thing and it's not required for this patch to function. In addition, that tweak is SA-1 compatible while this was not.<br>\r\n- Made the patch code properly remove itself when you unpatch it, instead of running the original code in free space.<br>\r\n- Added FastROM support to the patch.<br>\r\n- Changed the main label to end, which makes it so overworld Mario/Luigi don't visually update during the fade out.<br>\r\n- Fixed a minor visual quirk where Luigi does not lose his halo when selecting continue.<br>\r\n- Various minor optimizations.</div></div>",
     "latest_version": "smwc-41659-1772933113",
     "install_kind": "uber_asm",
     "versions": [
@@ -10741,7 +10738,7 @@
       "sa-1",
       "smb2"
     ],
-    "description": "This UberASM allows the player to have the skills Peach had back in SMB2, including the Peach Bomber from SSB, the SMB2 Hi-Jump (Charged Jump) and the Floating Ability from SMB2.<br>\r\n<br>\r\nOriginally an Asar Patch made by Ladida (Noobish Noobsicle and scepile3 are credited too), now unified, reconverted and reorganized into an unique UberASM for a better use by Black Goku... the changes were:<br>\r\n<br>\r\n- Added additional customization and timers.<br>\r\n- Added a flag for the players in case they want to have only a player with the skills.<br>\r\n- Fixed the Cape bug from the Asar Patch (and the ones that triggered restricting the skills in the powerups).<br>\r\n<br>\r\nNotes of the original readme made by Ladida:<br>\r\n- Originally, the hijump was coded by <span class=\"un-outer\" title=\"Noobish Noobsicle\"><a href=\"/?p=profile&amp;id=4297\" style=\"color: var(--user-color-3);\" class=\"un unavailable inactive\">Noobish Noobsicle</a></span> and i just tweaked it. but now its been coded it from scratch.<br>\r\n- Originally, the float was a Yoshi Flutter by <span class=\"un-outer\" title=\"scepile3\"><a href=\"/?p=profile&amp;id=2889\" style=\"color: var(--user-color-1);\" class=\"un unavailable inactive\">scepile3</a></span>and i just edited it. but now its been coded it from scratch.<br>\r\n<br>\r\nCredit to me is optional.<br>\r\n<br>\r\nThis is my first ASM conversion, so any suggestions are welcome.<br>\r\n<br>\r\nSMW Styled Peach shown here belongs to <span class=\"un-outer\" title=\"LinkstormZ\"><a href=\"/?p=profile&amp;id=45312\" style=\"color: var(--user-color-1);\" class=\"un unavailable inactive\">LinkstormZ</a></span>.",
+    "description": "This UberASM allows the player to have the skills Peach had back in SMB2, including the Peach Bomber from SSB, the SMB2 Hi-Jump (Charged Jump) and the Floating Ability from SMB2.<br>\r\n<br>\r\nOriginally an Asar Patch made by Ladida (Noobish Noobsicle and scepile3 are credited too), now unified, reconverted and reorganized into an unique UberASM for a better use by Black Goku... the changes were:<br>\r\n<br>\r\n- Added additional customization and timers.<br>\r\n- Added a flag for the players in case they want to have only a player with the skills.<br>\r\n- Fixed the Cape bug from the Asar Patch (and the ones that triggered restricting the skills in the powerups).<br>\r\n<br>\r\nNotes of the original readme made by Ladida:<br>\r\n- Originally, the hijump was coded by <span class=\"un-outer\" title=\"Noobish Noobsicle\"><a href=\"/?p=profile&amp;id=4297\" style=\"color: #f7b801;\" class=\"un unavailable inactive\">Noobish Noobsicle</a></span> and i just tweaked it. but now its been coded it from scratch.<br>\r\n- Originally, the float was a Yoshi Flutter by <span class=\"un-outer\" title=\"scepile3\"><a href=\"/?p=profile&amp;id=2889\" style=\"color: #9d4edd;\" class=\"un unavailable inactive\">scepile3</a></span>and i just edited it. but now its been coded it from scratch.<br>\r\n<br>\r\nCredit to me is optional.<br>\r\n<br>\r\nThis is my first ASM conversion, so any suggestions are welcome.<br>\r\n<br>\r\nSMW Styled Peach shown here belongs to <span class=\"un-outer\" title=\"LinkstormZ\"><a href=\"/?p=profile&amp;id=45312\" style=\"color: #9d4edd;\" class=\"un unavailable inactive\">LinkstormZ</a></span>.",
     "latest_version": "smwc-42483-1782085948",
     "install_kind": "uber_asm",
     "versions": [
@@ -10779,7 +10776,7 @@
       "rise",
       "sa-1"
     ],
-    "description": "This code auto-scrolls level (or background) layer 2 up or down relative to layer 1, which makes rising and falling layer 2 sections possible without taking away vertical camera freedom.<br>\r\n<br>\r\nA couple notes:<br>\r\n-Lunar Magic 3.40+ can already autoscroll layer 2. However, you only get 12 options, while this gives you far more customization for how fast layer 2 moves.<br>\r\n-It must be assured that the player can never reach layer 2 scrolled past the area that has been placed in Lunar Magic, or glitchy tiles will appear. This works for the applications shown in the screenshots, as the layer 2 itself impedes the player from going further down (for the lava) or up (for the blocks). For rising layer 2, it is of interest to also account for Mario's death animation, as he falls down a fair amount when dying (the .asm file talks about this in more detail).<br>\r\n<br>\r\n<span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" class=\"un\">yoshifanatic</a></span>'s Update:<br>\r\n- Fixed the faulty no Yoshi intro check so pipe entrances don't break this UberASM.<br>\r\n- Made some minor optimizations.<br>\r\n- Made this disable vertical layer 2 scroll during level init as a convenience.<br>\r\n- Added functionality to customize how many subpixels layer 2 moves to allow for more precision.",
+    "description": "This code auto-scrolls level (or background) layer 2 up or down relative to layer 1, which makes rising and falling layer 2 sections possible without taking away vertical camera freedom.<br>\r\n<br>\r\nA couple notes:<br>\r\n-Lunar Magic 3.40+ can already autoscroll layer 2. However, you only get 12 options, while this gives you far more customization for how fast layer 2 moves.<br>\r\n-It must be assured that the player can never reach layer 2 scrolled past the area that has been placed in Lunar Magic, or glitchy tiles will appear. This works for the applications shown in the screenshots, as the layer 2 itself impedes the player from going further down (for the lava) or up (for the blocks). For rising layer 2, it is of interest to also account for Mario's death animation, as he falls down a fair amount when dying (the .asm file talks about this in more detail).<br>\r\n<br>\r\n<span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" title=\"ghostly yoshifanatic\" class=\"un\">yoshifanatic</a></span>'s Update:<br>\r\n- Fixed the faulty no Yoshi intro check so pipe entrances don't break this UberASM.<br>\r\n- Made some minor optimizations.<br>\r\n- Made this disable vertical layer 2 scroll during level init as a convenience.<br>\r\n- Added functionality to customize how many subpixels layer 2 moves to allow for more precision.",
     "latest_version": "smwc-41102-1769856084",
     "install_kind": "uber_asm",
     "versions": [
@@ -10815,7 +10812,7 @@
       "sa-1",
       "teleport"
     ],
-    "description": "This UberASM works as Level and Game Mode 14 ASM. Instead of dying when falling offscreen, the level will restart as if you reentered it from the overworld.<br>\r\n<br>\r\nNote: This doesn't work on level 24 unless you disable it's gimmick in Lunar Magic!<br>\r\n<br>\r\n<span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" class=\"un\">yoshifanatic</a></span>'s Update:<br>\r\n- Removed the SA-1 check because it's redundant as UberASM already does this.<br>\r\n- Added support for Lunar Magic 3.00's horizontal level modes.<br>\r\n- Added midpoint support, so this code can teleport you to the midpoint of a level if you have it.<br>\r\n- Significantly optimized the code for getting a teleport destination.",
+    "description": "This UberASM works as Level and Game Mode 14 ASM. Instead of dying when falling offscreen, the level will restart as if you reentered it from the overworld.<br>\r\n<br>\r\nNote: This doesn't work on level 24 unless you disable it's gimmick in Lunar Magic!<br>\r\n<br>\r\n<span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" title=\"ghostly yoshifanatic\" class=\"un\">yoshifanatic</a></span>'s Update:<br>\r\n- Removed the SA-1 check because it's redundant as UberASM already does this.<br>\r\n- Added support for Lunar Magic 3.00's horizontal level modes.<br>\r\n- Added midpoint support, so this code can teleport you to the midpoint of a level if you have it.<br>\r\n- Significantly optimized the code for getting a teleport destination.",
     "latest_version": "smwc-41052-1763937958",
     "install_kind": "uber_asm",
     "versions": [
@@ -10853,7 +10850,7 @@
       "sa-1",
       "save"
     ],
-    "description": "This is the modern Retry System that extends and improves the <a href=\"https://smwc.me/1657727\">original patch</a> by <span class=\"un-outer\" title=\"worldpeace\"><a href=\"/?p=profile&amp;id=1250\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">worldpeace</a></span>. Its base features are the same as the old patch, but there's a lot of new functionalities and customizations available, which make it an useful tool also for projects where a retry system is not needed. Additionally, being implemented as an UberASM project, it features much less hijacks than the original patch, making it compatible with more resources. UberASM Tool version 2.1 or higher is required.<br>\r\n<br>\r\nThe main features implemented are:<br>\r\n- Level respawn on death without going to the Overworld (with prompt or instant)<br>\r\n- Customizable Retry prompt appearance (box/bar/minimal)<br>\r\n- Multiple midways per level<br>\r\n- Automatic midways when entering a sublevel<br>\r\n- Customizable sprite status bar that replaces the vanilla one<br>\r\n- Death counter<br>\r\n- Integrated save system to retain checkpoints and other things in SRAM<br>\r\n- Title screen death fix<br>\r\n- Counterbreak (state reset when respawning or going to the Overworld)<br>\r\n- Miscellaneous bug fixes<br>\r\n<br>\r\nSee <a href=\"https://kkevinm.github.io/retry-system/\" rel=\"nofollow\">Documentation</a> for more details.<br>\r\n<br>\r\nYou can check out the repository <a href=\"https://github.com/kkevinm/retry-system\" rel=\"nofollow\">here</a>.<br>\r\n<br>\r\nYou can see the changelog <a href=\"https://kkevinm.github.io/retry-system/changelog.html\" rel=\"nofollow\">here</a>.",
+    "description": "This is the modern Retry System that extends and improves the <a href=\"https://smwc.me/1657727\">original patch</a> by <span class=\"un-outer\" title=\"worldpeace\"><a href=\"/?p=profile&amp;id=1250\" style=\"color: #eb6123;\" class=\"un unavailable inactive\">worldpeace</a></span>. Its base features are the same as the old patch, but there's a lot of new functionalities and customizations available, which make it an useful tool also for projects where a retry system is not needed. Additionally, being implemented as an UberASM project, it features much less hijacks than the original patch, making it compatible with more resources. UberASM Tool version 2.1 or higher is required.<br>\r\n<br>\r\nThe main features implemented are:<br>\r\n- Level respawn on death without going to the Overworld (with prompt or instant)<br>\r\n- Customizable Retry prompt appearance (box/bar/minimal)<br>\r\n- Multiple midways per level<br>\r\n- Automatic midways when entering a sublevel<br>\r\n- Customizable sprite status bar that replaces the vanilla one<br>\r\n- Death counter<br>\r\n- Integrated save system to retain checkpoints and other things in SRAM<br>\r\n- Title screen death fix<br>\r\n- Counterbreak (state reset when respawning or going to the Overworld)<br>\r\n- Miscellaneous bug fixes<br>\r\n<br>\r\nSee <a href=\"https://kkevinm.github.io/retry-system/\" rel=\"nofollow\">Documentation</a> for more details.<br>\r\n<br>\r\nYou can check out the repository <a href=\"https://github.com/kkevinm/retry-system\" rel=\"nofollow\">here</a>.<br>\r\n<br>\r\nYou can see the changelog <a href=\"https://kkevinm.github.io/retry-system/changelog.html\" rel=\"nofollow\">here</a>.",
     "latest_version": "2.2.0",
     "install_kind": "uber_asm",
     "versions": [
@@ -11039,7 +11036,7 @@
       "sa-1",
       "teleport"
     ],
-    "description": "<b>Teleport When Dying V1.1</b><br>\r\n<br>\r\n<b>Description:</b> It's a simple UberASM that does what the title says: you'll get teleported to another level or sub-level if the player dies.<br>\r\nComes with a few options and defines for some customization.<br>\r\n<br>\r\n<a href=\"https://www.smwcentral.net/?p=viewthread&t=131500\">Requested</a> by <span class=\"un-outer\" title=\"isaix\"><a href=\"/?p=profile&amp;id=14960\" style=\"color: var(--user-color-2);\" class=\"un\">isaix</a></span>",
+    "description": "<b>Teleport When Dying V1.1</b><br>\r\n<br>\r\n<b>Description:</b> It's a simple UberASM that does what the title says: you'll get teleported to another level or sub-level if the player dies.<br>\r\nComes with a few options and defines for some customization.<br>\r\n<br>\r\n<a href=\"https://www.smwcentral.net/?p=viewthread&t=131500\">Requested</a> by <span class=\"un-outer\" title=\"isaix\"><a href=\"/?p=profile&amp;id=14960\" style=\"color: #eb6123;\" class=\"un\">isaix</a></span>",
     "latest_version": "smwc-41419-1768504655",
     "install_kind": "uber_asm",
     "versions": [
@@ -11232,7 +11229,7 @@
       "sa-1",
       "tile"
     ],
-    "description": "<span class=\"un-outer\" title=\"MellyMellouange\"><a href=\"/?p=profile&amp;id=565\" style=\"color: var(--user-color-2);\" class=\"un\">MellyMellouange</a></span>'s old Wing Cap sprite, cleaned up, optimized, made LM3 compatible, bugfixed and converted to UberASM by <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #e75151;\" class=\"un\">Arinsu</a></span>. <br>\r\n<br>\r\nGives the player the ability to fly: also includes an optional spinjump drill down and glide ability.",
+    "description": "<span class=\"un-outer\" title=\"MellyMellouange\"><a href=\"/?p=profile&amp;id=565\" style=\"color: #eb6123;\" class=\"un unavailable inactive\">MellyMellouange</a></span>'s old Wing Cap sprite, cleaned up, optimized, made LM3 compatible, bugfixed and converted to UberASM by <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #f8a481;\" title=\"Tewi\" class=\"un\">Arinsu</a></span>. <br>\r\n<br>\r\nGives the player the ability to fly: also includes an optional spinjump drill down and glide ability.",
     "latest_version": "1.1.1",
     "install_kind": "uber_asm",
     "versions": [
@@ -11266,7 +11263,7 @@
       "sa-1",
       "spotlight"
     ],
-    "description": "This UberASM changes the spotlight sprite so instead of lighting up the area under it, it instead reveals layer 1 under it. Based on <a href=\"https://www.youtube.com/watch?v=kEXjCsuUnt0\" rel=\"nofollow\">this level</a> from my hack, MYSQ.<br>\r\n<br>\r\nNote that this requires a small hijack to fix a visual bug that would occur on SA-1.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"ILoveSMW\"><a href=\"/?p=profile&amp;id=71290\" style=\"color: var(--user-color-3);\" class=\"un unavailable inactive\">ILoveSMW</a></span>.",
+    "description": "This UberASM changes the spotlight sprite so instead of lighting up the area under it, it instead reveals layer 1 under it. Based on <a href=\"https://www.youtube.com/watch?v=kEXjCsuUnt0\" rel=\"nofollow\">this level</a> from my hack, MYSQ.<br>\r\n<br>\r\nNote that this requires a small hijack to fix a visual bug that would occur on SA-1.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"ILoveSMW\"><a href=\"/?p=profile&amp;id=71290\" style=\"color: #f7b801;\" class=\"un unavailable inactive\">ILoveSMW</a></span>.",
     "latest_version": "smwc-41600-1773623195",
     "install_kind": "uber_asm",
     "versions": [
@@ -11301,7 +11298,7 @@
       "teleport",
       "yoshi"
     ],
-    "description": "This code will make the player get immediately teleported to the Yoshi wings stage when riding Yoshi. Might be best used with <a href=\"https://smwc.me/s/39698\">this patch</a>.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Knight of Time\"><a href=\"/?p=profile&amp;id=146\" style=\"color: var(--user-color-2);\" class=\"un\">Knight of Time</a></span>.",
+    "description": "This code will make the player get immediately teleported to the Yoshi wings stage when riding Yoshi. Might be best used with <a href=\"https://smwc.me/s/39698\">this patch</a>.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Knight of Time\"><a href=\"/?p=profile&amp;id=146\" style=\"color: #eb6123;\" title=\"Knight of Fright\" class=\"un\">Knight of Time</a></span>.",
     "latest_version": "V1.0.1",
     "install_kind": "uber_asm",
     "versions": [

@@ -13,7 +13,7 @@
     "sa-1",
     "teleport"
   ],
-  "description": "<b>Teleport When Dying V1.1</b><br>\r\n<br>\r\n<b>Description:</b> It's a simple UberASM that does what the title says: you'll get teleported to another level or sub-level if the player dies.<br>\r\nComes with a few options and defines for some customization.<br>\r\n<br>\r\n<a href=\"https://www.smwcentral.net/?p=viewthread&t=131500\">Requested</a> by <span class=\"un-outer\" title=\"isaix\"><a href=\"/?p=profile&amp;id=14960\" style=\"color: var(--user-color-2);\" class=\"un\">isaix</a></span>",
+  "description": "<b>Teleport When Dying V1.1</b><br>\r\n<br>\r\n<b>Description:</b> It's a simple UberASM that does what the title says: you'll get teleported to another level or sub-level if the player dies.<br>\r\nComes with a few options and defines for some customization.<br>\r\n<br>\r\n<a href=\"https://www.smwcentral.net/?p=viewthread&t=131500\">Requested</a> by <span class=\"un-outer\" title=\"isaix\"><a href=\"/?p=profile&amp;id=14960\" style=\"color: #eb6123;\" class=\"un\">isaix</a></span>",
   "latest_version": "smwc-41419-1768504655",
   "install_kind": "uber_asm",
   "versions": [

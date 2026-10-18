@@ -12,7 +12,7 @@
     "pacifist",
     "sa-1"
   ],
-  "description": "This tiny Koopa will ice skate along a given range of the map, controlled by the extra byte.<br>\r\n<br>\r\nGraphics by <span class=\"un-outer\" title=\"Tob\"><a href=\"/?p=profile&amp;id=25442\" style=\"color: var(--user-color-1);\" class=\"un\">Tob</a></span>.",
+  "description": "This tiny Koopa will ice skate along a given range of the map, controlled by the extra byte.<br>\r\n<br>\r\nGraphics by <span class=\"un-outer\" title=\"Tob\"><a href=\"/?p=profile&amp;id=25442\" style=\"color: #9d4edd;\" class=\"un\">Tob</a></span>.",
   "latest_version": "V1.0.1",
   "install_kind": "pixi_sprite",
   "versions": [

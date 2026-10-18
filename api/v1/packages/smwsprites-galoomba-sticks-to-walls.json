@@ -13,7 +13,7 @@
     "lorom",
     "sa-1"
   ],
-  "description": "A variant of Galoomba that sticks to walls when thrown. After a little bit, it unstuns itself, so it can be jumped on again. After a little while, it'll unstick from the wall.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"RollingRigatonis\"><a href=\"/?p=profile&amp;id=33771\" style=\"color: var(--user-color-2);\" class=\"un\">RollingRigatonis</a></span> during Winter C3 2023.",
+  "description": "A variant of Galoomba that sticks to walls when thrown. After a little bit, it unstuns itself, so it can be jumped on again. After a little while, it'll unstick from the wall.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"RollingRigatonis\"><a href=\"/?p=profile&amp;id=33771\" style=\"color: #eb6123;\" class=\"un\">RollingRigatonis</a></span> during Winter C3 2023.",
   "latest_version": "smwc-42085-1776989412",
   "install_kind": "pixi_sprite",
   "versions": [

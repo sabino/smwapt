@@ -12,7 +12,7 @@
     "parachute",
     "sa-1"
   ],
-  "description": "This uberasm adds the ability to use a<br>\r\nparachute while Mario is in the air. By pressing the B button during<br>\r\na fall, Mario will deploy a parachute that slows his descent,<br>\r\nallowing him to glide gently downward.<br>\r\n<br>\r\nThe uberasm is designed to be highly configurable, allowing<br>\r\ncustomization of color palettes, visual effects, sounds, and more.<br>\r\n<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Final Theory\"><a href=\"/?p=profile&amp;id=22015\" style=\"color: var(--user-color-1);\" class=\"un\">Final Theory</a></span><br>\r\nThis was #30 on Final Theory’s list of ASM challenges",
+  "description": "This uberasm adds the ability to use a<br>\r\nparachute while Mario is in the air. By pressing the B button during<br>\r\na fall, Mario will deploy a parachute that slows his descent,<br>\r\nallowing him to glide gently downward.<br>\r\n<br>\r\nThe uberasm is designed to be highly configurable, allowing<br>\r\ncustomization of color palettes, visual effects, sounds, and more.<br>\r\n<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Final Theory\"><a href=\"/?p=profile&amp;id=22015\" style=\"color: #9d4edd;\" class=\"un\">Final Theory</a></span><br>\r\nThis was #30 on Final Theory’s list of ASM challenges",
   "latest_version": "V1.0.1",
   "install_kind": "uber_asm",
   "versions": [

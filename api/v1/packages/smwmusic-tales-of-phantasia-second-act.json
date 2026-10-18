@@ -15,7 +15,7 @@
     "final",
     "title"
   ],
-  "description": "A heroic song from Tales of Phantasia<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Zavok\"><a href=\"/?p=profile&amp;id=36942\" style=\"color: var(--user-color-1);\" class=\"un\">Zavok</a></span>",
+  "description": "A heroic song from Tales of Phantasia<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Zavok\"><a href=\"/?p=profile&amp;id=36942\" style=\"color: #9d4edd;\" class=\"un\">Zavok</a></span>",
   "latest_version": "smwc-42742-1790633401",
   "install_kind": "add_music_k_music",
   "versions": [

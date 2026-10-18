@@ -14,7 +14,7 @@
     "sa-1",
     "spike"
   ],
-  "description": "A critter that is carrying an umbrella. When the umbrella is open, the player will bounce on top of it. When closed, it'll act as a spike, hurts player, but can be spinjumped on. The trigger for toggling its effect can be customized (change on player jump or a flag like On/Off switch status).<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Tob\"><a href=\"/?p=profile&amp;id=25442\" style=\"color: var(--user-color-1);\" class=\"un\">Tob</a></span> during Summer C3 2026. Graphics also by <span class=\"un-outer\" title=\"Tob\"><a href=\"/?p=profile&amp;id=25442\" style=\"color: var(--user-color-1);\" class=\"un\">Tob</a></span>.",
+  "description": "A critter that is carrying an umbrella. When the umbrella is open, the player will bounce on top of it. When closed, it'll act as a spike, hurts player, but can be spinjumped on. The trigger for toggling its effect can be customized (change on player jump or a flag like On/Off switch status).<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Tob\"><a href=\"/?p=profile&amp;id=25442\" style=\"color: #9d4edd;\" class=\"un\">Tob</a></span> during Summer C3 2026. Graphics also by <span class=\"un-outer\" title=\"Tob\"><a href=\"/?p=profile&amp;id=25442\" style=\"color: #9d4edd;\" class=\"un\">Tob</a></span>.",
   "latest_version": "V1.0.1",
   "install_kind": "pixi_sprite",
   "versions": [

@@ -12,7 +12,7 @@
     "lorom",
     "sa-1"
   ],
-  "description": "Added a bit more documentation, Thank <span class=\"un-outer\" title=\"lx5\"><a href=\"/?p=profile&amp;id=12344\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">lx5</a></span> for that.<br>\r\n<br>\r\nDo you want to change some of the original ending's enemy sprite data without fuss? This should be the patch for the job, Included is a oversight fix regarding palette and tile data in the original enemy ending data.<br>\r\n<br>\r\nEnjoy.",
+  "description": "Added a bit more documentation, Thank <span class=\"un-outer\" title=\"lx5\"><a href=\"/?p=profile&amp;id=12344\" style=\"color: #eb6123;\" class=\"un unavailable inactive\">lx5</a></span> for that.<br>\r\n<br>\r\nDo you want to change some of the original ending's enemy sprite data without fuss? This should be the patch for the job, Included is a oversight fix regarding palette and tile data in the original enemy ending data.<br>\r\n<br>\r\nEnjoy.",
   "latest_version": "0.031",
   "install_kind": "asar_patch",
   "versions": [
