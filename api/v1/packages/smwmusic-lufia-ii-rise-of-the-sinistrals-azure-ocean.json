@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-azure-ocean",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 43018,
+  "title": "Lufia II: Rise of the Sinistrals - Azure Ocean",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "cutscene",
+    "overworld"
+  ],
+  "description": "Lufia II music",
+  "latest_version": "smwc-43018-1792786217",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 43018,
+      "title": "Lufia II: Rise of the Sinistrals - Azure Ocean",
+      "version": "smwc-43018-1792786217",
+      "upstream_time": 1792786217,
+      "download_url": "https://dl.smwcentral.net/43018/Azure%20Ocean.zip",
+      "filename": "Azure Ocean.zip",
+      "size": 60594,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

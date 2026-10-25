@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-the-greatest-thieves-in-the-world",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 43000,
+  "title": "Lufia II: Rise of the Sinistrals - The Greatest Thieves in the World",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "abstract",
+    "carnival",
+    "cutscene"
+  ],
+  "description": "Lufia II music",
+  "latest_version": "smwc-43000-1792783247",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 43000,
+      "title": "Lufia II: Rise of the Sinistrals - The Greatest Thieves in the World",
+      "version": "smwc-43000-1792783247",
+      "upstream_time": 1792783247,
+      "download_url": "https://dl.smwcentral.net/43000/The%20Greatest%20Thieves%20in%20the%20World.zip",
+      "filename": "The Greatest Thieves in the World.zip",
+      "size": 54521,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-flute-of-sleepwalk",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 43019,
+  "title": "Lufia II: Rise of the Sinistrals - Flute of Sleepwalk",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "cutscene",
+    "mysterious"
+  ],
+  "description": "Lufia II music",
+  "latest_version": "smwc-43019-1792786322",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 43019,
+      "title": "Lufia II: Rise of the Sinistrals - Flute of Sleepwalk",
+      "version": "smwc-43019-1792786322",
+      "upstream_time": 1792786322,
+      "download_url": "https://dl.smwcentral.net/43019/Flute%20of%20Sleepwalk.zip",
+      "filename": "Flute of Sleepwalk.zip",
+      "size": 32407,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-summer",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 43013,
+  "title": "Lufia II: Rise of the Sinistrals - Summer",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "athletic",
+    "grassland"
+  ],
+  "description": "Lufia II music",
+  "latest_version": "smwc-43013-1792785211",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 43013,
+      "title": "Lufia II: Rise of the Sinistrals - Summer",
+      "version": "smwc-43013-1792785211",
+      "upstream_time": 1792785211,
+      "download_url": "https://dl.smwcentral.net/43013/Summer.zip",
+      "filename": "Summer.zip",
+      "size": 59593,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

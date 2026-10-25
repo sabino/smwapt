@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-spring",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 43012,
+  "title": "Lufia II: Rise of the Sinistrals - Spring",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "calm",
+    "town"
+  ],
+  "description": "Lufia II music",
+  "latest_version": "smwc-43012-1792785082",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 43012,
+      "title": "Lufia II: Rise of the Sinistrals - Spring",
+      "version": "smwc-43012-1792785082",
+      "upstream_time": 1792785082,
+      "download_url": "https://dl.smwcentral.net/43012/Spring.zip",
+      "filename": "Spring.zip",
+      "size": 50599,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

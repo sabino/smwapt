@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-prisphea-flowers",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 43033,
+  "title": "Lufia II: Rise of the Sinistrals - Prisphea Flowers",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "calm",
+    "credits",
+    "cutscene",
+    "town"
+  ],
+  "description": "Lufia II music",
+  "latest_version": "smwc-43033-1792790247",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 43033,
+      "title": "Lufia II: Rise of the Sinistrals - Prisphea Flowers",
+      "version": "smwc-43033-1792790247",
+      "upstream_time": 1792790247,
+      "download_url": "https://dl.smwcentral.net/43033/Prisphea%20Flowers.zip",
+      "filename": "Prisphea Flowers.zip",
+      "size": 36034,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

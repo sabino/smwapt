@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-mutation",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 43035,
+  "title": "Lufia II: Rise of the Sinistrals - Mutation",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "abstract"
+  ],
+  "description": "Lufia II music",
+  "latest_version": "smwc-43035-1792790675",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 43035,
+      "title": "Lufia II: Rise of the Sinistrals - Mutation",
+      "version": "smwc-43035-1792790675",
+      "upstream_time": 1792790675,
+      "download_url": "https://dl.smwcentral.net/43035/Mutation.zip",
+      "filename": "Mutation.zip",
+      "size": 44657,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

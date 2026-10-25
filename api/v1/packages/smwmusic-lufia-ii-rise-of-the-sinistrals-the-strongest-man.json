@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-the-strongest-man",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 43008,
+  "title": "Lufia II: Rise of the Sinistrals - The Strongest Man",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "cutscene",
+    "overworld"
+  ],
+  "description": "Lufia II music",
+  "latest_version": "smwc-43008-1792784514",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 43008,
+      "title": "Lufia II: Rise of the Sinistrals - The Strongest Man",
+      "version": "smwc-43008-1792784514",
+      "upstream_time": 1792784514,
+      "download_url": "https://dl.smwcentral.net/43008/The%20Strongest%20Man.zip",
+      "filename": "The Strongest Man.zip",
+      "size": 61481,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

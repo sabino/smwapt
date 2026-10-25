@@ -1,0 +1,30 @@
+{
+  "name": "smwgraphics-burnt-rex",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 43369,
+  "title": "Burnt Rex",
+  "authors": [
+    "pepperannfanatic"
+  ],
+  "tags": [
+    "rex"
+  ],
+  "description": "Here are the Burnt Rex graphics I just made in minutes.<br>\r\n<br>\r\nDon't forget to give credit",
+  "latest_version": "smwc-43369-1792880618",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 43369,
+      "title": "Burnt Rex",
+      "version": "smwc-43369-1792880618",
+      "upstream_time": 1792880618,
+      "download_url": "https://dl.smwcentral.net/43369/Burnt_Rex.zip",
+      "filename": "Burnt_Rex.zip",
+      "size": 2056,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

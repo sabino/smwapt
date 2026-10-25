@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-tower",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 43003,
+  "title": "Lufia II: Rise of the Sinistrals - Tower",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "castle"
+  ],
+  "description": "Lufia II music",
+  "latest_version": "smwc-43003-1792783650",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 43003,
+      "title": "Lufia II: Rise of the Sinistrals - Tower",
+      "version": "smwc-43003-1792783650",
+      "upstream_time": 1792783650,
+      "download_url": "https://dl.smwcentral.net/43003/Tower.zip",
+      "filename": "Tower.zip",
+      "size": 61372,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

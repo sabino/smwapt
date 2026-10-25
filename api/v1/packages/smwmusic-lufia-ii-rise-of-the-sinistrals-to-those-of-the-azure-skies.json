@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-to-those-of-the-azure-skies",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 43028,
+  "title": "Lufia II: Rise of the Sinistrals - To Those of the Azure Skies",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "cutscene",
+    "overworld"
+  ],
+  "description": "Lufia II music",
+  "latest_version": "smwc-43028-1792788323",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 43028,
+      "title": "Lufia II: Rise of the Sinistrals - To Those of the Azure Skies",
+      "version": "smwc-43028-1792788323",
+      "upstream_time": 1792788323,
+      "download_url": "https://dl.smwcentral.net/43028/To%20Those%20of%20the%20Azure%20Skies.zip",
+      "filename": "To Those of the Azure Skies.zip",
+      "size": 62266,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

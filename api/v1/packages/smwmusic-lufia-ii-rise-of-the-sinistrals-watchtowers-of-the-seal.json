@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-watchtowers-of-the-seal",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 43029,
+  "title": "Lufia II: Rise of the Sinistrals - Watchtowers of the Seal",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "castle",
+    "final"
+  ],
+  "description": "Lufia II music",
+  "latest_version": "smwc-43029-1792788499",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 43029,
+      "title": "Lufia II: Rise of the Sinistrals - Watchtowers of the Seal",
+      "version": "smwc-43029-1792788499",
+      "upstream_time": 1792788499,
+      "download_url": "https://dl.smwcentral.net/43029/Watchtowers%20of%20the%20Seal.zip",
+      "filename": "Watchtowers of the Seal.zip",
+      "size": 57391,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

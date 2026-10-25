@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-four-gods",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 43031,
+  "title": "Lufia II: Rise of the Sinistrals - Four Gods",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "cutscene",
+    "dark",
+    "final"
+  ],
+  "description": "Lufia II music",
+  "latest_version": "smwc-43031-1792789120",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 43031,
+      "title": "Lufia II: Rise of the Sinistrals - Four Gods",
+      "version": "smwc-43031-1792789120",
+      "upstream_time": 1792789120,
+      "download_url": "https://dl.smwcentral.net/43031/Four%20Gods.zip",
+      "filename": "Four Gods.zip",
+      "size": 56001,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

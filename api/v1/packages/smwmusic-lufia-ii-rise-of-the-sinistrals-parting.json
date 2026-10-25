@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-parting",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 43009,
+  "title": "Lufia II: Rise of the Sinistrals - Parting",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "calm",
+    "cutscene",
+    "sad"
+  ],
+  "description": "Lufia II music",
+  "latest_version": "smwc-43009-1792784692",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 43009,
+      "title": "Lufia II: Rise of the Sinistrals - Parting",
+      "version": "smwc-43009-1792784692",
+      "upstream_time": 1792784692,
+      "download_url": "https://dl.smwcentral.net/43009/Parting.zip",
+      "filename": "Parting.zip",
+      "size": 51252,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

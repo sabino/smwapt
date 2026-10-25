@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-theme-of-daos",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 43034,
+  "title": "Lufia II: Rise of the Sinistrals - Theme of Daos",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "boss",
+    "castle",
+    "final"
+  ],
+  "description": "Lufia II music",
+  "latest_version": "smwc-43034-1792790612",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 43034,
+      "title": "Lufia II: Rise of the Sinistrals - Theme of Daos",
+      "version": "smwc-43034-1792790612",
+      "upstream_time": 1792790612,
+      "download_url": "https://dl.smwcentral.net/43034/Theme%20of%20Daos.zip",
+      "filename": "Theme of Daos.zip",
+      "size": 61925,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

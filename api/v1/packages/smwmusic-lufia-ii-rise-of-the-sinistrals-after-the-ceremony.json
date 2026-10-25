@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-after-the-ceremony",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 43011,
+  "title": "Lufia II: Rise of the Sinistrals - After the Ceremony",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "carnival",
+    "cutscene",
+    "town"
+  ],
+  "description": "Lufia II music",
+  "latest_version": "smwc-43011-1792784971",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 43011,
+      "title": "Lufia II: Rise of the Sinistrals - After the Ceremony",
+      "version": "smwc-43011-1792784971",
+      "upstream_time": 1792784971,
+      "download_url": "https://dl.smwcentral.net/43011/After%20the%20Ceremony.zip",
+      "filename": "After the Ceremony.zip",
+      "size": 47703,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

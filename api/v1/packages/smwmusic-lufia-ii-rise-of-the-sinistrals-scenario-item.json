@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-scenario-item",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42993,
+  "title": "Lufia II: Rise of the Sinistrals - Scenario Item",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "abstract"
+  ],
+  "description": "Lufia II music",
+  "latest_version": "smwc-42993-1792782126",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42993,
+      "title": "Lufia II: Rise of the Sinistrals - Scenario Item",
+      "version": "smwc-42993-1792782126",
+      "upstream_time": 1792782126,
+      "download_url": "https://dl.smwcentral.net/42993/Scenario%20Item.zip",
+      "filename": "Scenario Item.zip",
+      "size": 51892,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

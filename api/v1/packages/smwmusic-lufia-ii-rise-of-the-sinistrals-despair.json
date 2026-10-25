@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-despair",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 43006,
+  "title": "Lufia II: Rise of the Sinistrals - Despair",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "cutscene"
+  ],
+  "description": "Lufia II music",
+  "latest_version": "smwc-43006-1792784174",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 43006,
+      "title": "Lufia II: Rise of the Sinistrals - Despair",
+      "version": "smwc-43006-1792784174",
+      "upstream_time": 1792784174,
+      "download_url": "https://dl.smwcentral.net/43006/Despair.zip",
+      "filename": "Despair.zip",
+      "size": 52979,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

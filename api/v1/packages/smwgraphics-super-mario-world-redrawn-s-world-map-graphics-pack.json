@@ -1,0 +1,32 @@
+{
+  "name": "smwgraphics-super-mario-world-redrawn-s-world-map-graphics-pack",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 43237,
+  "title": "Super Mario World Redrawn's World Map Graphics Pack",
+  "authors": [
+    "Moltz",
+    "icegoom"
+  ],
+  "tags": [
+    "overworld",
+    "redrawn"
+  ],
+  "description": "An updated version of Icegoom's Super Mario World's Redrawn's Overworld-inspired graphics that covers every tile previously left untouched (including but not limited to: bridges, Bowser Valley's entrance, Star World's Moon, etc.) or that was too different to SMW's own style - mostly concerning the Forest of Illusion's small and big trees.<br>\r\n<br>\r\nThis pack also includes different World Map graphics for redrawn Mario & Luigi, depending on whether they look like in Icegoom's original SMW Redrawn release, or in a more cartoony vibe similar-ish to how vanilla SMW depicts the brothers.<br>\r\n<br>\r\nCredit goes to both me (Moltz) and Icegoom.",
+  "latest_version": "2",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 43237,
+      "title": "Super Mario World Redrawn's World Map Graphics Pack",
+      "version": "2",
+      "upstream_time": 1792372760,
+      "download_url": "https://dl.smwcentral.net/43237/Redrawn%20Overworld%20Pack.zip",
+      "filename": "Redrawn Overworld Pack.zip",
+      "size": 114259,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

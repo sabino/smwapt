@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-winter",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 43015,
+  "title": "Lufia II: Rise of the Sinistrals - Winter",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "calm",
+    "snow",
+    "town"
+  ],
+  "description": "Lufia II music",
+  "latest_version": "smwc-43015-1792785518",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 43015,
+      "title": "Lufia II: Rise of the Sinistrals - Winter",
+      "version": "smwc-43015-1792785518",
+      "upstream_time": 1792785518,
+      "download_url": "https://dl.smwcentral.net/43015/Winter.zip",
+      "filename": "Winter.zip",
+      "size": 54794,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

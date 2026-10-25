@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-hit",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 43024,
+  "title": "Lufia II: Rise of the Sinistrals - Hit!",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "abstract"
+  ],
+  "description": "Lufia II music",
+  "latest_version": "smwc-43024-1792787731",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 43024,
+      "title": "Lufia II: Rise of the Sinistrals - Hit!",
+      "version": "smwc-43024-1792787731",
+      "upstream_time": 1792787731,
+      "download_url": "https://dl.smwcentral.net/43024/Hit%21.zip",
+      "filename": "Hit%21.zip",
+      "size": 48371,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-big-game",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 43023,
+  "title": "Lufia II: Rise of the Sinistrals - Big Game",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "abstract"
+  ],
+  "description": "Lufia II music",
+  "latest_version": "smwc-43023-1792787628",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 43023,
+      "title": "Lufia II: Rise of the Sinistrals - Big Game",
+      "version": "smwc-43023-1792787628",
+      "upstream_time": 1792787628,
+      "download_url": "https://dl.smwcentral.net/43023/Big%20Game.zip",
+      "filename": "Big Game.zip",
+      "size": 47114,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T08:53:09.799864842+00:00",
+  "generated_at": "2026-10-25T09:10:51.800656333+00:00",
   "suite": "stable",
   "component": "main",
   "packages": [
@@ -552,7 +552,7 @@
         "solid",
         "sprite needed"
       ],
-      "description": "A turnblock that behaves mostly like the original. Useful for changing palettes or customizing the asm.<br>\r\n<br>\r\nRequires PIXI 1.40 for the included bounce sprite.<br>\r\n<br>\r\nCheck the readme file for adjustments that may be required to ensure proper functionality.<br>\r\n<br>\r\nNote: hitting more than 4 at a time will not revert to the turnblock, but some blocks will be left spinning forever. <br>\r\n<br>\r\nNote: blocks on layer 2 moving down will crush the player instead of activating the block.<br>\r\n<br>\r\nv1.1 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #f8a481;\" title=\"Tewi\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n* Added the functionality to also make the turnblock turn when spinjumping it.",
+      "description": "A turnblock that behaves mostly like the original. Useful for changing palettes or customizing the asm.<br>\r\n<br>\r\nRequires PIXI 1.40 for the included bounce sprite.<br>\r\n<br>\r\nCheck the readme file for adjustments that may be required to ensure proper functionality.<br>\r\n<br>\r\nNote: hitting more than 4 at a time will not revert to the turnblock, but some blocks will be left spinning forever. <br>\r\n<br>\r\nNote: blocks on layer 2 moving down will crush the player instead of activating the block.<br>\r\n<br>\r\nv1.1 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #fdadf4;\" title=\"Tewi\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n* Added the functionality to also make the turnblock turn when spinjumping it.",
       "latest_version": "smwc-41237-1765159682",
       "install_kind": "gps_block",
       "versions": [
@@ -910,7 +910,7 @@
         "sa-1",
         "uberasm needed"
       ],
-      "description": "These blocks will change every time the player jumps.<br>\r\nRequested by <span class=\"un-outer\" title=\"mr bean6652\"><a href=\"/?p=profile&amp;id=26761\" style=\"color: #eb6123;\" class=\"un unavailable inactive\">mr bean6652</a></span>.<br>\r\n<br>\r\nv1.1 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #f8a481;\" title=\"Tewi\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n- Added SA-1 support.<br>\r\n- Added a define to not hurt the player while on Yoshi on the above variant of the spikes.<br>\r\n- Added a Map16 page.",
+      "description": "These blocks will change every time the player jumps.<br>\r\nRequested by <span class=\"un-outer\" title=\"mr bean6652\"><a href=\"/?p=profile&amp;id=26761\" style=\"color: #eb6123;\" class=\"un unavailable inactive\">mr bean6652</a></span>.<br>\r\n<br>\r\nv1.1 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #fdadf4;\" title=\"Tewi\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n- Added SA-1 support.<br>\r\n- Added a define to not hurt the player while on Yoshi on the above variant of the spikes.<br>\r\n- Added a Map16 page.",
       "latest_version": "smwc-41209-1765844757",
       "install_kind": "gps_block",
       "versions": [
@@ -1228,7 +1228,7 @@
         "shatter",
         "sprite needed"
       ],
-      "description": "This custom block will shatter after the player gets off it. Good for platforming stages or places where you jump a lot to dodge stuff.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Final Theory\"><a href=\"/?p=profile&amp;id=22015\" style=\"color: #9d4edd;\" class=\"un\">Final Theory</a></span>.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\">v2.0 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #f8a481;\" title=\"Tewi\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n- Added SA-1 compatibility.<br>\r\n- Changed the included sprite to a bounce sprite.<br>\r\n- Simplified the code a lot.</div></div>",
+      "description": "This custom block will shatter after the player gets off it. Good for platforming stages or places where you jump a lot to dodge stuff.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Final Theory\"><a href=\"/?p=profile&amp;id=22015\" style=\"color: #9d4edd;\" class=\"un\">Final Theory</a></span>.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\">v2.0 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #fdadf4;\" title=\"Tewi\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n- Added SA-1 compatibility.<br>\r\n- Changed the included sprite to a bounce sprite.<br>\r\n- Simplified the code a lot.</div></div>",
       "latest_version": "smwc-41235-1765916599",
       "install_kind": "gps_block",
       "versions": [
@@ -1959,70 +1959,6 @@
       ]
     },
     {
-      "name": "smwgraphics-alternative-redrawn-pidgit-bill",
-      "aliases": [],
-      "section": "smwgraphics",
-      "upstream_id": 42756,
-      "title": "Alternative Redrawn Pidgit Bill",
-      "authors": [
-        "Frattari Gaspar",
-        "Moltz",
-        "SF - The Dark Warrior"
-      ],
-      "tags": [
-        "bullet bill",
-        "pidgit bill",
-        "redrawn"
-      ],
-      "description": "Alternative redrawn graphics for SMW Redrawn's Pidgit Bill, which replaces vanilla Bullet Bill's graphics after all 96 exits have been found.<br>\r\n<br>\r\nThis version now includes graphics for the vertical and diagonal Bullet Bills, as well exanimation data for both based on how fast the user wants the Pidgits to flap their wings.<br>\r\n<br>\r\nGive credit to me, SF - The Dark Warrior, and Frattari Gaspar if used.",
-      "latest_version": "2.0",
-      "install_kind": "asset_only",
-      "versions": [
-        {
-          "upstream_id": 42756,
-          "title": "Alternative Redrawn Pidgit Bill",
-          "version": "2.0",
-          "upstream_time": 1785371362,
-          "download_url": "https://dl.smwcentral.net/42756/New%20Redrawn%20Pidgit%20v2.zip",
-          "filename": "New Redrawn Pidgit v2.zip",
-          "size": 11300,
-          "sha256": null,
-          "dependencies": [],
-          "install_kind": "asset_only"
-        }
-      ]
-    },
-    {
-      "name": "smwgraphics-bandr-s-grassland",
-      "aliases": [],
-      "section": "smwgraphics",
-      "upstream_id": 42783,
-      "title": "bandr's Grassland",
-      "authors": [
-        "bandr"
-      ],
-      "tags": [
-        "grassland"
-      ],
-      "description": "My first ever ExGFX.  (at least, that i post.) <br>\r\n<br>\r\nI don't care about credits, honestly. But, it would be nice if you would just go ahead and credit me.<br>\r\n<br>\r\nInspired by <span class=\"un-outer\" title=\"Tob\"><a href=\"/?p=profile&amp;id=25442\" style=\"color: #9d4edd;\" class=\"un\">Tob</a></span>'s <a href=\"https://www.smwcentral.net/?p=section&a=details&id=41692\">\"Super Mario World Styled Faithful Athletic Grassland\"</a>.",
-      "latest_version": "smwc-42783-1785954429",
-      "install_kind": "asset_only",
-      "versions": [
-        {
-          "upstream_id": 42783,
-          "title": "bandr's Grassland",
-          "version": "smwc-42783-1785954429",
-          "upstream_time": 1785954429,
-          "download_url": "https://dl.smwcentral.net/42783/bandr-Grass.zip",
-          "filename": "bandr-Grass.zip",
-          "size": 4071,
-          "sha256": null,
-          "dependencies": [],
-          "install_kind": "asset_only"
-        }
-      ]
-    },
-    {
       "name": "smwgraphics-brambles",
       "aliases": [],
       "section": "smwgraphics",
@@ -2117,6 +2053,162 @@
       ]
     },
     {
+      "name": "smwgraphics-burnt-rex",
+      "aliases": [],
+      "section": "smwgraphics",
+      "upstream_id": 43369,
+      "title": "Burnt Rex",
+      "authors": [
+        "pepperannfanatic"
+      ],
+      "tags": [
+        "rex"
+      ],
+      "description": "Here are the Burnt Rex graphics I just made in minutes.<br>\r\n<br>\r\nDon't forget to give credit",
+      "latest_version": "smwc-43369-1792880618",
+      "install_kind": "asset_only",
+      "versions": [
+        {
+          "upstream_id": 43369,
+          "title": "Burnt Rex",
+          "version": "smwc-43369-1792880618",
+          "upstream_time": 1792880618,
+          "download_url": "https://dl.smwcentral.net/43369/Burnt_Rex.zip",
+          "filename": "Burnt_Rex.zip",
+          "size": 2056,
+          "sha256": null,
+          "dependencies": [],
+          "install_kind": "asset_only"
+        }
+      ]
+    },
+    {
+      "name": "smwgraphics-calling-all-mixels-inspired-cragster-land",
+      "aliases": [],
+      "section": "smwgraphics",
+      "upstream_id": 43370,
+      "title": "Calling All Mixels-inspired Cragster Land",
+      "authors": [
+        "playagmes169"
+      ],
+      "tags": [
+        "cave",
+        "mountain",
+        "patch needed",
+        "town"
+      ],
+      "description": "This is my first time posting an sunset BG and FG I've made myself, and as you can see, this is a redraw of the Cragster Land, based on Calling All Mixels. I've decided to make this a sunset because in the original game, the Electroid Land takes place at night, since it was a disco land of some sort. I've used an isometric perspective on the L3 BG, not only because it looks aesthetically pleasing, but also, and most importantly, to save storage space for the L3 BG<br>\r\n<br>\r\nNOTICE: If you want to use the L3 BG, make sure to use <a href=\"https://www.smwcentral.net/?p=section&a=details&id=40144\">a patch to get rid of the status bar.</a>",
+      "latest_version": "smwc-43370-1792355244",
+      "install_kind": "asset_only",
+      "versions": [
+        {
+          "upstream_id": 43370,
+          "title": "Calling All Mixels-inspired Cragster Land",
+          "version": "smwc-43370-1792355244",
+          "upstream_time": 1792355244,
+          "download_url": "https://dl.smwcentral.net/43370/cragsterland.zip",
+          "filename": "cragsterland.zip",
+          "size": 11601,
+          "sha256": null,
+          "dependencies": [],
+          "install_kind": "asset_only"
+        }
+      ]
+    },
+    {
+      "name": "smwgraphics-calling-all-mixels-inspired-infernite-land",
+      "aliases": [],
+      "section": "smwgraphics",
+      "upstream_id": 43325,
+      "title": "Calling All Mixels-inspired Infernite Land",
+      "authors": [
+        "playagmes169"
+      ],
+      "tags": [
+        "ruins",
+        "volcano"
+      ],
+      "description": "Does anyone remember LEGO Mixels? Well, I've made some graphics of the 1st world in Calling All Mixels, the Infernites Land. In this game, each tribe's land has been re-imagined specifically for that game, like how the Infernites Land has been re-imagined as a tropical vacation resort with burning hot lava instead of water, since the Infernites themselves are fire-resistant and go swim and bathe there.<br>\r\n<br>\r\nHuge thanks to <span class=\"un-outer\" title=\"HaruMKT\"><a href=\"/?p=profile&amp;id=13862\" style=\"color: #f7b801;\" class=\"un\">HaruMKT</a></span> for helping me with managing the palettes' colors, I struggle a lot with managing colors, and luckily, they came in to help me, so, thanks again!",
+      "latest_version": "smwc-43325-1792355987",
+      "install_kind": "asset_only",
+      "versions": [
+        {
+          "upstream_id": 43325,
+          "title": "Calling All Mixels-inspired Infernite Land",
+          "version": "smwc-43325-1792355987",
+          "upstream_time": 1792355987,
+          "download_url": "https://dl.smwcentral.net/43325/infernitesland.zip",
+          "filename": "infernitesland.zip",
+          "size": 10111,
+          "sha256": null,
+          "dependencies": [],
+          "install_kind": "asset_only"
+        }
+      ]
+    },
+    {
+      "name": "smwgraphics-castlevania-aria-of-sorrow-dance-hall-basement-boss-room",
+      "aliases": [],
+      "section": "smwgraphics",
+      "upstream_id": 42917,
+      "title": "Castlevania: Aria of Sorrow - Dance Hall ~ Basement (Boss Room)",
+      "authors": [
+        "Anorakun"
+      ],
+      "tags": [
+        "castle",
+        "house",
+        "interior"
+      ],
+      "description": "Wine stored in old barrels seen during the boss fight against the Giant Golem, from Castlevania: Aria of Sorrow. Compared to the source material, I had to be quite creative in how to loop the background, since the Game Boy Advance resolution is smaller. A good fit for wine cellars, in general.<br>\r\n<br>\r\nPlease do credit me if you use this submission, since it took me a lot of effort to assemble this graphic and make it look consistently good. Thanks!",
+      "latest_version": "smwc-42917-1792793338",
+      "install_kind": "asset_only",
+      "versions": [
+        {
+          "upstream_id": 42917,
+          "title": "Castlevania: Aria of Sorrow - Dance Hall ~ Basement (Boss Room)",
+          "version": "smwc-42917-1792793338",
+          "upstream_time": 1792793338,
+          "download_url": "https://dl.smwcentral.net/42917/Castlevania%20Aria%20of%20Sorrow%20-%20Dance%20Hall%20Basement%20%28Boss%20Room%29.zip",
+          "filename": "Castlevania Aria of Sorrow - Dance Hall Basement (Boss Room).zip",
+          "size": 5924,
+          "sha256": null,
+          "dependencies": [],
+          "install_kind": "asset_only"
+        }
+      ]
+    },
+    {
+      "name": "smwgraphics-castlevania-dracula-x-stage",
+      "aliases": [],
+      "section": "smwgraphics",
+      "upstream_id": 42918,
+      "title": "Castlevania: Dracula X - Stage 7 (Vertical Section)",
+      "authors": [
+        "Anorakun"
+      ],
+      "tags": [
+        "castle"
+      ],
+      "description": "The tower-like tileset seen in the final level of Castlevania: Dracula X, where Richter has to dodge medusa heads and spear knights, while riding flying platforms. It uses the last colors of palette 4, while keeping the graphics from cement and note blocks intact.<br>\r\n<br>\r\nA good fit for tower (vertical) levels. ",
+      "latest_version": "smwc-42918-1792793735",
+      "install_kind": "asset_only",
+      "versions": [
+        {
+          "upstream_id": 42918,
+          "title": "Castlevania: Dracula X - Stage 7 (Vertical Section)",
+          "version": "smwc-42918-1792793735",
+          "upstream_time": 1792793735,
+          "download_url": "https://dl.smwcentral.net/42918/Castlevania%20Dracula%20X%20-%20Stage%207%20%28Vertical%20Section%29.zip",
+          "filename": "Castlevania Dracula X - Stage 7 (Vertical Section).zip",
+          "size": 4845,
+          "sha256": null,
+          "dependencies": [],
+          "install_kind": "asset_only"
+        }
+      ]
+    },
+    {
       "name": "smwgraphics-chef-chuck",
       "aliases": [],
       "section": "smwgraphics",
@@ -2141,6 +2233,67 @@
           "download_url": "https://dl.smwcentral.net/43081/Chef%20Chuck.zip",
           "filename": "Chef Chuck.zip",
           "size": 12443,
+          "sha256": null,
+          "dependencies": [],
+          "install_kind": "asset_only"
+        }
+      ]
+    },
+    {
+      "name": "smwgraphics-custom-ninji-giant-ninji-sideways-ninji-and-giant-sideways-ninji",
+      "aliases": [],
+      "section": "smwgraphics",
+      "upstream_id": 43373,
+      "title": "Custom Ninji, Giant Ninji, Sideways Ninji and Giant Sideways Ninji",
+      "authors": [
+        "Broozer"
+      ],
+      "tags": [
+        "giant ninji",
+        "giant sideways ninji",
+        "ninji",
+        "sideways ninji"
+      ],
+      "description": "Original graphic replacements for the following sprites:<br>\r\n<br>\r\n<ul><li>Ninji (sprite 51)</li>\n<li><a href=\"https://www.smwcentral.net/?p=section&a=details&id=28494\">Sideways Ninji</a></li>\n<li><a href=\"https://www.smwcentral.net/?p=section&a=details&id=23712\">Giant Ninji</a></li>\n<li><a href=\"https://bin.smwcentral.net/u/28983/Giant%2BSideways%2BNinji.zip&key=C4JRzOhm\" rel=\"nofollow\">Giant Sideways Ninji</a></li></ul><br>\r\nAs well as any custom sprite that uses the original Ninji graphics.<br>\r\n<br>\r\nIn addition to the graphics, the .zip comes with a custom palette for a purple Ninji skin, akin to the enemy's appearance in SMAS:SMB2. Required to set the sprites' palette through STEAR/Tweaker/PIXI's CFG Editor from palette C to palette F for the color change to take effect.<br>\r\n<br>\r\nAdditional information in the readme file. Credit is optional, but appreciated.",
+      "latest_version": "smwc-43373-1792591432",
+      "install_kind": "asset_only",
+      "versions": [
+        {
+          "upstream_id": 43373,
+          "title": "Custom Ninji, Giant Ninji, Sideways Ninji and Giant Sideways Ninji",
+          "version": "smwc-43373-1792591432",
+          "upstream_time": 1792591432,
+          "download_url": "https://dl.smwcentral.net/43373/custom-ninjis.zip",
+          "filename": "custom-ninjis.zip",
+          "size": 4651,
+          "sha256": null,
+          "dependencies": [],
+          "install_kind": "asset_only"
+        }
+      ]
+    },
+    {
+      "name": "smwgraphics-custom-skeeter",
+      "aliases": [],
+      "section": "smwgraphics",
+      "upstream_id": 43270,
+      "title": "Custom Skeeter",
+      "authors": [
+        "Broozer"
+      ],
+      "tags": [],
+      "description": "Original graphic replacements for <a href=\"https://www.smwcentral.net/?p=section&a=details&id=6419\">Dispari Scuro's Skeeter sprite</a>.<br>\r\n<br>\r\nIncludes 6 variations, one for each design of the enemy in different Mario games.<br>\r\n<br>\r\nAdditional information in the readme file. Credit is optional, but appreciated.",
+      "latest_version": "smwc-43270-1792355624",
+      "install_kind": "asset_only",
+      "versions": [
+        {
+          "upstream_id": 43270,
+          "title": "Custom Skeeter",
+          "version": "smwc-43270-1792355624",
+          "upstream_time": 1792355624,
+          "download_url": "https://dl.smwcentral.net/43270/custom-skeeter.zip",
+          "filename": "custom-skeeter.zip",
+          "size": 5937,
           "sha256": null,
           "dependencies": [],
           "install_kind": "asset_only"
@@ -2788,36 +2941,6 @@
       ]
     },
     {
-      "name": "smwgraphics-mario-if-he-locked-in",
-      "aliases": [],
-      "section": "smwgraphics",
-      "upstream_id": 42613,
-      "title": "Mario if he locked in",
-      "authors": [
-        "16-BitMario94"
-      ],
-      "tags": [
-        "male"
-      ],
-      "description": "Some Mario sprites I made for fun, please credit me if you're going to use them in a hack!",
-      "latest_version": "smwc-42613-1784912978",
-      "install_kind": "asset_only",
-      "versions": [
-        {
-          "upstream_id": 42613,
-          "title": "Mario if he locked in",
-          "version": "smwc-42613-1784912978",
-          "upstream_time": 1784912978,
-          "download_url": "https://dl.smwcentral.net/42613/Mario%20if%20he%20locked%20in.zip",
-          "filename": "Mario if he locked in.zip",
-          "size": 11362,
-          "sha256": null,
-          "dependencies": [],
-          "install_kind": "asset_only"
-        }
-      ]
-    },
-    {
       "name": "smwgraphics-mega-man-x2-x-hunter-base",
       "aliases": [],
       "section": "smwgraphics",
@@ -2842,37 +2965,6 @@
           "download_url": "https://dl.smwcentral.net/42948/Mega%20Man%20X2%20-%20X-Hunter%20Stage%204%20%28Boss%20Rematch%29.zip",
           "filename": "Mega Man X2 - X-Hunter Stage 4 (Boss Rematch).zip",
           "size": 2477,
-          "sha256": null,
-          "dependencies": [],
-          "install_kind": "asset_only"
-        }
-      ]
-    },
-    {
-      "name": "smwgraphics-minus-galaxy-styled-mario",
-      "aliases": [],
-      "section": "smwgraphics",
-      "upstream_id": 42774,
-      "title": "Minus Galaxy Styled Mario",
-      "authors": [
-        "Gamer collin",
-        "mit"
-      ],
-      "tags": [
-        "male"
-      ],
-      "description": "Minus Galaxy Styled Mario - Give credits to Mit if used. Crediting me for the spin jump stuff is optional.<br>\r\n<br>\r\nI created 4 spin jump frames for Mario if the Modern Spin Jump Patch is inserted. <br>\r\n<br>\r\nThe <a href=\"https://www.smwcentral.net/?p=section&a=details&id=40241\">32x32 player tilemap patch</a> is required, if you wanna use these graphics.<br>\r\n<br>\r\nCredit <span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" title=\"ghostly yoshifanatic\" class=\"un\">yoshifanatic</a></span>, as well, if you use the Modern Spin Jump patch.",
-      "latest_version": "smwc-42774-1785695919",
-      "install_kind": "asset_only",
-      "versions": [
-        {
-          "upstream_id": 42774,
-          "title": "Minus Galaxy Styled Mario",
-          "version": "smwc-42774-1785695919",
-          "upstream_time": 1785695919,
-          "download_url": "https://dl.smwcentral.net/42774/Mario%20%28Minus%20Galaxy%20Style%29.zip",
-          "filename": "Mario (Minus Galaxy Style).zip",
-          "size": 49729,
           "sha256": null,
           "dependencies": [],
           "install_kind": "asset_only"
@@ -3099,72 +3191,6 @@
       ]
     },
     {
-      "name": "smwgraphics-soul-blazer-battle-with-deathtoll",
-      "aliases": [],
-      "section": "smwgraphics",
-      "upstream_id": 42024,
-      "title": "Soul Blazer - Battle with Deathtoll",
-      "authors": [
-        "Anorakun",
-        "Darolac",
-        "TheXander"
-      ],
-      "tags": [
-        "abstract",
-        "hdma",
-        "sky"
-      ],
-      "description": "The background seen in the final battle of Soul Blazer, a cult classic video game made by Quintet. <br>\r\n<br>\r\nThe parallax scrolling was made by <span class=\"un-outer\" title=\"TheXander\"><a href=\"/?p=profile&amp;id=49146\" style=\"color: #eb6123;\" class=\"un\">TheXander</a></span>, but also has parts of <span class=\"un-outer\" title=\"Darolac\"><a href=\"/?p=profile&amp;id=34390\" style=\"color: #9d4edd;\" class=\"un\">Darolac</a></span>'s code in it, so credit both of them, if you use the bundled asm file.<br>\r\n<br>\r\nIf you want to lower the background, you must edit the parallax tables at the end of the asm file. <br>\r\n<br>\r\nA good fit for climatic boss battles or sky levels.",
-      "latest_version": "smwc-42024-1785442984",
-      "install_kind": "asset_only",
-      "versions": [
-        {
-          "upstream_id": 42024,
-          "title": "Soul Blazer - Battle with Deathtoll",
-          "version": "smwc-42024-1785442984",
-          "upstream_time": 1785442984,
-          "download_url": "https://dl.smwcentral.net/42024/Soul%20Blazer%20-%20Battle%20with%20Deathtoll%20%28feat.%20parallax%29.zip",
-          "filename": "Soul Blazer - Battle with Deathtoll (feat. parallax).zip",
-          "size": 5158,
-          "sha256": null,
-          "dependencies": [],
-          "install_kind": "asset_only"
-        }
-      ]
-    },
-    {
-      "name": "smwgraphics-soul-blazer-world-of-evil-space",
-      "aliases": [],
-      "section": "smwgraphics",
-      "upstream_id": 42036,
-      "title": "Soul Blazer - World of Evil (Space)",
-      "authors": [
-        "Anorakun",
-        "Donut"
-      ],
-      "tags": [
-        "hdma",
-        "space"
-      ],
-      "description": "The space-like background seen in the final area of Soul Blazer, a cult classic video game made by Quintet.  A good fit for space levels.<br>\r\n<br>\r\nBundled with this submission is a wave hdma code made by <span class=\"un-outer\" title=\"Donut\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=48514\" style=\"color: #15a760;\" title=\"Cheerio\" class=\"un\">Donut</a></span>, meant to replicate the effect seen in the source material.  Insert it using <a href=\"https://www.smwcentral.net/?p=section&a=details&id=39036\">UberASM Tool 2.1</a>. ",
-      "latest_version": "smwc-42036-1785442976",
-      "install_kind": "asset_only",
-      "versions": [
-        {
-          "upstream_id": 42036,
-          "title": "Soul Blazer - World of Evil (Space)",
-          "version": "smwc-42036-1785442976",
-          "upstream_time": 1785442976,
-          "download_url": "https://dl.smwcentral.net/42036/Soul%20Blazer%20-%20World%20of%20Evil%20%28Space%20%2B%20Wave%20Effect%29.zip",
-          "filename": "Soul Blazer - World of Evil (Space + Wave Effect).zip",
-          "size": 5240,
-          "sha256": null,
-          "dependencies": [],
-          "install_kind": "asset_only"
-        }
-      ]
-    },
-    {
       "name": "smwgraphics-spike",
       "aliases": [],
       "section": "smwgraphics",
@@ -3256,30 +3282,31 @@
       ]
     },
     {
-      "name": "smwgraphics-super-mario-world-styled-desert",
+      "name": "smwgraphics-super-mario-world-redrawn-s-world-map-graphics-pack",
       "aliases": [],
       "section": "smwgraphics",
-      "upstream_id": 42655,
-      "title": "Super Mario World Styled Desert",
+      "upstream_id": 43237,
+      "title": "Super Mario World Redrawn's World Map Graphics Pack",
       "authors": [
-        "RebootedThunder"
+        "Moltz",
+        "icegoom"
       ],
       "tags": [
-        "desert",
-        "pyramid"
+        "overworld",
+        "redrawn"
       ],
-      "description": "My first ever tileset. A cool desert tileset that includes FG and BG tiles + a custom palette! Hope you like it!",
-      "latest_version": "1.1",
+      "description": "An updated version of Icegoom's Super Mario World's Redrawn's Overworld-inspired graphics that covers every tile previously left untouched (including but not limited to: bridges, Bowser Valley's entrance, Star World's Moon, etc.) or that was too different to SMW's own style - mostly concerning the Forest of Illusion's small and big trees.<br>\r\n<br>\r\nThis pack also includes different World Map graphics for redrawn Mario & Luigi, depending on whether they look like in Icegoom's original SMW Redrawn release, or in a more cartoony vibe similar-ish to how vanilla SMW depicts the brothers.<br>\r\n<br>\r\nCredit goes to both me (Moltz) and Icegoom.",
+      "latest_version": "2",
       "install_kind": "asset_only",
       "versions": [
         {
-          "upstream_id": 42655,
-          "title": "Super Mario World Styled Desert",
-          "version": "1.1",
-          "upstream_time": 1784853478,
-          "download_url": "https://dl.smwcentral.net/42655/SMW-Styled%20Desert.zip",
-          "filename": "SMW-Styled Desert.zip",
-          "size": 7518,
+          "upstream_id": 43237,
+          "title": "Super Mario World Redrawn's World Map Graphics Pack",
+          "version": "2",
+          "upstream_time": 1792372760,
+          "download_url": "https://dl.smwcentral.net/43237/Redrawn%20Overworld%20Pack.zip",
+          "filename": "Redrawn Overworld Pack.zip",
+          "size": 114259,
           "sha256": null,
           "dependencies": [],
           "install_kind": "asset_only"
@@ -3287,32 +3314,64 @@
       ]
     },
     {
-      "name": "smwgraphics-super-mario-world-styled-princess-peach",
+      "name": "smwgraphics-super-mario-world-styled-shy-guy-tweeter-snifit-and-beezo",
       "aliases": [],
       "section": "smwgraphics",
-      "upstream_id": 42623,
-      "title": "Super Mario World Styled Princess Peach",
+      "upstream_id": 43272,
+      "title": "Super Mario World Styled Shy Guy, Tweeter, Snifit and Beezo",
       "authors": [
-        "LinkstormZ"
+        "RebootedThunder"
       ],
       "tags": [
-        "cape",
-        "female",
-        "princess peach",
-        "raccoon"
+        "beezo",
+        "shy guy",
+        "snifit",
+        "tweeter"
       ],
-      "description": "A Princess Peach SMW style<br>\r\n<br>\r\nMario and the Princess change places<br>\r\n<br>\r\nExtra:<br>\r\n2 versions: With cape or Raccoon( <a href=\"https://www.smwcentral.net/?p=section&a=details&id=12444\"> for this patch </a><br>\r\n  )<br>\r\n<br>\r\nEnjoy!<br>\r\n<br>\r\nUpdate: added file for patch the Mario Start! to Peach Start!<br>\r\nAfter long time i fixed the old design",
-      "latest_version": "smwc-42623-1784915675",
+      "description": "A GFX pack that contains a SMW styled shy guy, snifit etc.<br>\r\nTO USE WITH:<br>\r\n<a href=\"https://www.smwcentral.net/?p=section&a=details&id=43087\">ShyGuy/Snifit</a><br>\r\n<a href=\"https://www.smwcentral.net/?p=section&a=details&id=43089\">Tweeter</a><br>\r\n<a href=\"https://www.smwcentral.net/?p=section&a=details&id=43088\">Beezo</a><br>\r\n",
+      "latest_version": "smwc-43272-1792350879",
       "install_kind": "asset_only",
       "versions": [
         {
-          "upstream_id": 42623,
-          "title": "Super Mario World Styled Princess Peach",
-          "version": "smwc-42623-1784915675",
-          "upstream_time": 1784915675,
-          "download_url": "https://dl.smwcentral.net/42623/SMW-Styled%20Princess%20Peach.zip",
-          "filename": "SMW-Styled Princess Peach.zip",
-          "size": 48620,
+          "upstream_id": 43272,
+          "title": "Super Mario World Styled Shy Guy, Tweeter, Snifit and Beezo",
+          "version": "smwc-43272-1792350879",
+          "upstream_time": 1792350879,
+          "download_url": "https://dl.smwcentral.net/43272/SMW%20Styled%20Beezo%2C%20ShyGuy%2C%20Tweeter%2C%20Snifit.zip",
+          "filename": "SMW Styled Beezo%2C ShyGuy%2C Tweeter%2C Snifit.zip",
+          "size": 3882,
+          "sha256": null,
+          "dependencies": [],
+          "install_kind": "asset_only"
+        }
+      ]
+    },
+    {
+      "name": "smwgraphics-super-mario-world-styled-super-mario-all-stars-super-mario-bros-hills",
+      "aliases": [],
+      "section": "smwgraphics",
+      "upstream_id": 43381,
+      "title": "Super Mario World Styled Super Mario All-Stars: Super Mario Bros. Hills",
+      "authors": [
+        "RebootedThunder"
+      ],
+      "tags": [
+        "grassland",
+        "sky",
+        "snow"
+      ],
+      "description": "The classic hills/mountain SMAS SMB1 bg but now in a SMW style (reuploaded becuse map16 file was missing)",
+      "latest_version": "smwc-43381-1792591092",
+      "install_kind": "asset_only",
+      "versions": [
+        {
+          "upstream_id": 43381,
+          "title": "Super Mario World Styled Super Mario All-Stars: Super Mario Bros. Hills",
+          "version": "smwc-43381-1792591092",
+          "upstream_time": 1792591092,
+          "download_url": "https://dl.smwcentral.net/43381/SMW%20Styled%20SMAS%20SMB1%20Hills%20BG.zip",
+          "filename": "SMW Styled SMAS SMB1 Hills BG.zip",
+          "size": 6761,
           "sha256": null,
           "dependencies": [],
           "install_kind": "asset_only"
@@ -3350,758 +3409,37 @@
       ]
     },
     {
-      "name": "smwgraphics-wario-land",
-      "aliases": [],
-      "section": "smwgraphics",
-      "upstream_id": 42725,
-      "title": "Wario Land 3 - Above the Clouds (Moon Area)",
-      "authors": [
-        "Brutapode89"
-      ],
-      "tags": [
-        "pyramid"
-      ],
-      "description": "Ripped from the Moon area of the Above the Clouds level in Wario Land 3 on Game Boy Color.<br>\r\n<br>\r\nNote: Meant to be used with a Layer 2 level.",
-      "latest_version": "smwc-42725-1784772436",
-      "install_kind": "asset_only",
-      "versions": [
-        {
-          "upstream_id": 42725,
-          "title": "Wario Land 3 - Above the Clouds (Moon Area)",
-          "version": "smwc-42725-1784772436",
-          "upstream_time": 1784772436,
-          "download_url": "https://dl.smwcentral.net/42725/Wario%20Land%203%20-%20Above%20the%20Clouds%20%28Inside%20Moon%29.zip",
-          "filename": "Wario Land 3 - Above the Clouds (Inside Moon).zip",
-          "size": 6726,
-          "sha256": null,
-          "dependencies": [],
-          "install_kind": "asset_only"
-        }
-      ]
-    },
-    {
-      "name": "smwgraphics-whisper-the-wolf",
-      "aliases": [],
-      "section": "smwgraphics",
-      "upstream_id": 41927,
-      "title": "Whisper The Wolf",
-      "authors": [
-        "NinAlexTM"
-      ],
-      "tags": [
-        "female"
-      ],
-      "description": "Whisper The Wolf...But in SMW Let´s Go &gt;:D. Made by me :).<br>\r\nThe Zip File includes:<br>\r\nGFX32 (Player)<br>\r\nGFX28 (Name)<br>\r\nGFX10 (Overworld Player)<br>\r\nGFX00 (Some Player Tiles)<br>\r\nSMW_Shared.pal (The character color palettes)<br>\r\n<br>\r\nAlso includes optional GFX:<br>\r\nGFX22<br>\r\nGFX24 (Both removes blushing frames from the vanilla ending)<br>\r\n<br>\r\nFunny Thing: Like i did with Tangle & Rayman, Second Player it´s a Silver Color Reference (not at all), again, to mimic \"Green Mario\". (Because of the limited colors and some shared colors between P1 & P2, P2 looks a little weird)",
-      "latest_version": "smwc-41927-1785436075",
-      "install_kind": "asset_only",
-      "versions": [
-        {
-          "upstream_id": 41927,
-          "title": "Whisper The Wolf",
-          "version": "smwc-41927-1785436075",
-          "upstream_time": 1785436075,
-          "download_url": "https://dl.smwcentral.net/41927/Whisper%20in%20SMW.zip",
-          "filename": "Whisper in SMW.zip",
-          "size": 23932,
-          "sha256": null,
-          "dependencies": [],
-          "install_kind": "asset_only"
-        }
-      ]
-    },
-    {
-      "name": "smwmusic-brandish",
+      "name": "smwmusic-immaculate-sense-in-darkness-eyes-shut",
       "aliases": [],
       "section": "smwmusic",
-      "upstream_id": 42522,
-      "title": "Brandish 2: The Planet Buster (SNES) - Ninja Yashiki ~ Spilling Innocent Blood",
+      "upstream_id": 42869,
+      "title": "Immaculate Sense in Darkness ~ Eyes Shut",
       "authors": [
-        "SiameseTwins"
+        "Archbishop Weeble-Wobble",
+        "Hooded Edge"
       ],
       "tags": [
+        "athletic",
         "boss",
-        "cave",
-        "chaotic",
         "chase",
-        "final",
-        "industrial",
-        "jungle",
-        "temple",
-        "urban"
-      ],
-      "description": "A very japanese-y tune from SFC Brandish 2.<br>\r\nRequested by <span class=\"un-outer\" title=\"Anorakun\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=42525\" style=\"color: #fe1d02;\" class=\"un\">Anorakun</a></span>",
-      "latest_version": "smwc-42522-1790694895",
-      "install_kind": "add_music_k_music",
-      "versions": [
-        {
-          "upstream_id": 42522,
-          "title": "Brandish 2: The Planet Buster (SNES) - Ninja Yashiki ~ Spilling Innocent Blood",
-          "version": "smwc-42522-1790694895",
-          "upstream_time": 1790694895,
-          "download_url": "https://dl.smwcentral.net/42522/Brandish%202%20%28SFC%29%20-%20Ninja%20Yashiki%20~%20Spilling%20Innocent%20Blood.zip",
-          "filename": "Brandish 2 (SFC) - Ninja Yashiki ~ Spilling Innocent Blood.zip",
-          "size": 77882,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        },
-        {
-          "upstream_id": 42629,
-          "title": "Brandish 2: The Planet Buster (SNES) - Gadobadorrer",
-          "version": "1.1",
-          "upstream_time": 1790694581,
-          "download_url": "https://dl.smwcentral.net/42629/Brandish%202%20%28SFC%29%20-%20Gadobadorrer.zip",
-          "filename": "Brandish 2 (SFC) - Gadobadorrer.zip",
-          "size": 69995,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        }
-      ]
-    },
-    {
-      "name": "smwmusic-buzzer-frozen",
-      "aliases": [],
-      "section": "smwmusic",
-      "upstream_id": 42276,
-      "title": "Buzzer - Frozen",
-      "authors": [
-        "Samantha"
-      ],
-      "tags": [
-        "athletic",
-        "castle",
-        "ice"
-      ],
-      "description": "A dance remix of <a href=\"https://www.youtube.com/watch?v=XS088Opj9o0\" rel=\"nofollow\">Frozen</a> from <a href=\"https://rateyourmusic.com/release/album/madonna/ray-of-light/\" rel=\"nofollow\">the best Madonna album</a>. Do note that the drum loop will sound cut off if the music speeds up due to time running out.",
-      "latest_version": "smwc-42276-1791321924",
-      "install_kind": "add_music_k_music",
-      "versions": [
-        {
-          "upstream_id": 42276,
-          "title": "Buzzer - Frozen",
-          "version": "smwc-42276-1791321924",
-          "upstream_time": 1791321924,
-          "download_url": "https://dl.smwcentral.net/42276/Frozen.zip",
-          "filename": "Frozen.zip",
-          "size": 83929,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        }
-      ]
-    },
-    {
-      "name": "smwmusic-final-fantasy-vi-epitaph",
-      "aliases": [],
-      "section": "smwmusic",
-      "upstream_id": 42604,
-      "title": "Final Fantasy VI - Epitaph",
-      "authors": [
-        "h.carrell"
-      ],
-      "tags": [
-        "ambient",
-        "cutscene",
-        "menu",
-        "night"
-      ],
-      "description": "The songs that plays during Setzer's backstory, when he and the rest of your party are walking downstairs to the Falcon in FF6.<br>\r\n<br>\r\nOriginally made back in January.",
-      "latest_version": "smwc-42604-1790695991",
-      "install_kind": "add_music_k_music",
-      "versions": [
-        {
-          "upstream_id": 42604,
-          "title": "Final Fantasy VI - Epitaph",
-          "version": "smwc-42604-1790695991",
-          "upstream_time": 1790695991,
-          "download_url": "https://dl.smwcentral.net/42604/Epitaph.zip",
-          "filename": "Epitaph.zip",
-          "size": 46641,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        }
-      ]
-    },
-    {
-      "name": "smwmusic-mega-man-ii-gb-magnet-man-mega-man-x-style",
-      "aliases": [],
-      "section": "smwmusic",
-      "upstream_id": 42518,
-      "title": "Mega Man II(GB) - Magnet Man (Mega Man X Style)",
-      "authors": [
-        "JX444444"
-      ],
-      "tags": [
-        "airship",
-        "industrial",
-        "temple"
-      ],
-      "description": "Based : Sigma Fortress 1 from Mega Man X<br>\r\n<br>\r\nThe Magnet Man theme song in the GB version went very well with Sigma Fortress 1.",
-      "latest_version": "smwc-42518-1790695696",
-      "install_kind": "add_music_k_music",
-      "versions": [
-        {
-          "upstream_id": 42518,
-          "title": "Mega Man II(GB) - Magnet Man (Mega Man X Style)",
-          "version": "smwc-42518-1790695696",
-          "upstream_time": 1790695696,
-          "download_url": "https://dl.smwcentral.net/42518/MagnetGB_X1.zip",
-          "filename": "MagnetGB_X1.zip",
-          "size": 61823,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        }
-      ]
-    },
-    {
-      "name": "smwmusic-star-fox",
-      "aliases": [],
-      "section": "smwmusic",
-      "upstream_id": 43066,
-      "title": "Star Fox 64 - Aquas",
-      "authors": [
-        "ggamer77"
-      ],
-      "tags": [
-        "ambient",
-        "calm",
-        "underwater",
-        "water"
-      ],
-      "description": "Calm aquatic song from Star Fox 64.<br>\r\n<br>\r\nIncompatible with thunder SFX.",
-      "latest_version": "smwc-43066-1791005223",
-      "install_kind": "add_music_k_music",
-      "versions": [
-        {
-          "upstream_id": 43066,
-          "title": "Star Fox 64 - Aquas",
-          "version": "smwc-43066-1791005223",
-          "upstream_time": 1791005223,
-          "download_url": "https://dl.smwcentral.net/43066/Star%20Fox%2064%20-%20Aquas.zip",
-          "filename": "Star Fox 64 - Aquas.zip",
-          "size": 81395,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        }
-      ]
-    },
-    {
-      "name": "smwmusic-super-mario-advance",
-      "aliases": [],
-      "section": "smwmusic",
-      "upstream_id": 43322,
-      "title": "Super Mario Advance 3: Yoshi's Island - Title",
-      "authors": [
-        "LadiesMan217",
-        "musicalman"
-      ],
-      "tags": [
-        "athletic",
-        "calm",
-        "credits",
-        "cutscene",
-        "grassland",
-        "menu",
-        "sad",
-        "title",
-        "upbeat"
-      ],
-      "description": "Part of The Super Mario World 2: Yoshi's Island Soundtrack.",
-      "latest_version": "smwc-43322-1791577525",
-      "install_kind": "add_music_k_music",
-      "versions": [
-        {
-          "upstream_id": 43322,
-          "title": "Super Mario Advance 3: Yoshi's Island - Title",
-          "version": "smwc-43322-1791577525",
-          "upstream_time": 1791577525,
-          "download_url": "https://dl.smwcentral.net/43322/Yoshi%27s%20Island%20-%20Title.zip",
-          "filename": "Yoshi%27s Island - Title.zip",
-          "size": 36706,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        },
-        {
-          "upstream_id": 43321,
-          "title": "Super Mario Advance 3: Yoshi's Island - Perfect Ending",
-          "version": "smwc-43321-1791577434",
-          "upstream_time": 1791577434,
-          "download_url": "https://dl.smwcentral.net/43321/Yoshi%27s%20Island%20-%20Perfect%20Ending.zip",
-          "filename": "Yoshi%27s Island - Perfect Ending.zip",
-          "size": 80972,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        },
-        {
-          "upstream_id": 43320,
-          "title": "Super Mario Advance 3: Yoshi's Island - Perfect Clear",
-          "version": "smwc-43320-1791577432",
-          "upstream_time": 1791577432,
-          "download_url": "https://dl.smwcentral.net/43320/Yoshi%27s%20Island%20-%20Perfect%20Clear.zip",
-          "filename": "Yoshi%27s Island - Perfect Clear.zip",
-          "size": 64601,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        },
-        {
-          "upstream_id": 43319,
-          "title": "Super Mario Advance 3: Yoshi's Island - Choose a Game",
-          "version": "smwc-43319-1791577430",
-          "upstream_time": 1791577430,
-          "download_url": "https://dl.smwcentral.net/43319/Yoshi%27s%20Island%20-%20Choose%20a%20Game.zip",
-          "filename": "Yoshi%27s Island - Choose a Game.zip",
-          "size": 40123,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        }
-      ]
-    },
-    {
-      "name": "smwmusic-super-mario-world",
-      "aliases": [],
-      "section": "smwmusic",
-      "upstream_id": 43318,
-      "title": "Super Mario World 2: Yoshi's Island - The Journey Begins",
-      "authors": [
-        "LadiesMan217"
-      ],
-      "tags": [
-        "ambient",
-        "athletic",
-        "beach",
-        "bonus",
-        "boss",
-        "calm",
-        "carnival",
-        "castle",
-        "cave",
-        "cutscene",
         "dark",
-        "environmental",
         "final",
-        "fire",
-        "forest",
-        "ghost house",
-        "grassland",
-        "ice",
-        "industrial",
-        "jungle",
-        "menu",
-        "mountain",
-        "mysterious",
         "night",
-        "overworld",
-        "sad",
-        "sky",
-        "temple",
         "tense",
-        "title",
         "upbeat"
       ],
-      "description": "Part of The Super Mario World 2: Yoshi's Island Soundtrack.",
-      "latest_version": "smwc-43318-1791577217",
+      "description": "It's the Touhou-inspired original entry for Super Famicompo #8 from <span class=\"un-outer\" title=\"Archbishop Weeble-Wobble\"><a href=\"/?p=profile&amp;id=59278\" style=\"color: #f7b801;\" title=\"Spooky Cathedral-Wobble\" class=\"un\">Archbishop Weeble-Wobble</a></span> & <span class=\"un-outer\" title=\"Hooded Edge\"><a href=\"/?p=profile&amp;id=23547\" style=\"color: #9d4edd;\" title=\"MoistCr1tikal\" class=\"un\">Hooded Edge</a></span> that got <b><span style=\"color: #db8fff;\">4th Place</span></b>.<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. Original Echo Delay, but sacrifices SMW-Compatibility (OG Echo)ㅤ<span style=\"color: #C291EB;\">[Listening-Only]</span><br>\r\nㅤ2. Decreased Echo Delay (LOWER Echo)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤㅤ ♠  What's disabled:<br>\r\nㅤㅤㅤ  -  \"Bonus End\" (@7)<br>\r\nㅤㅤㅤ  -  \"P-Switch\" (@12) <span style=\"color: #3DDA8D;\">← (\"S-550 LA Tom.brr\" is in its place in case you really need it)</span> <br>\r\nㅤㅤㅤ  -  Yoshi SFX (@15)<br>\r\nㅤㅤㅤ  -  Thunder SFX<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable pitches for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. F# Minor w/ Slight Detune (Original Pitch)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span> <br>\r\nㅤ2. F# Minor (Custom Pitch 1)<br>\r\nㅤ3. G Minor (Custom Pitch 2)<br>\r\nㅤ4. F Minor (Custom Pitch 3)",
+      "latest_version": "smwc-42869-1792779812",
       "install_kind": "add_music_k_music",
       "versions": [
         {
-          "upstream_id": 43318,
-          "title": "Super Mario World 2: Yoshi's Island - The Journey Begins",
-          "version": "smwc-43318-1791577217",
-          "upstream_time": 1791577217,
-          "download_url": "https://dl.smwcentral.net/43318/Yoshi%27s%20Island%20-%20Yoshi%27s%20Start%20Demo.zip",
-          "filename": "Yoshi%27s Island - Yoshi%27s Start Demo.zip",
-          "size": 39952,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        },
-        {
-          "upstream_id": 43317,
-          "title": "Super Mario World 2: Yoshi's Island - World Complete",
-          "version": "smwc-43317-1791577215",
-          "upstream_time": 1791577215,
-          "download_url": "https://dl.smwcentral.net/43317/Yoshi%27s%20Island%20-%20World%20Complete.zip",
-          "filename": "Yoshi%27s Island - World Complete.zip",
-          "size": 35309,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        },
-        {
-          "upstream_id": 43316,
-          "title": "Super Mario World 2: Yoshi's Island - Yoshi's Island",
-          "version": "smwc-43316-1791577213",
-          "upstream_time": 1791577213,
-          "download_url": "https://dl.smwcentral.net/43316/Yoshi%27s%20Island%20-%20Welcome%20To%20Yoshi%27s%20Island.zip",
-          "filename": "Yoshi%27s Island - Welcome To Yoshi%27s Island.zip",
-          "size": 118496,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        },
-        {
-          "upstream_id": 43315,
-          "title": "Super Mario World 2: Yoshi's Island - Underground",
-          "version": "smwc-43315-1791577009",
-          "upstream_time": 1791577009,
-          "download_url": "https://dl.smwcentral.net/43315/Yoshi%27s%20Island%20-%20Underground.zip",
-          "filename": "Yoshi%27s Island - Underground.zip",
-          "size": 50011,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        },
-        {
-          "upstream_id": 43314,
-          "title": "Super Mario World 2: Yoshi's Island - Transform",
-          "version": "smwc-43314-1791577007",
-          "upstream_time": 1791577007,
-          "download_url": "https://dl.smwcentral.net/43314/Yoshi%27s%20Island%20-%20Transform.zip",
-          "filename": "Yoshi%27s Island - Transform.zip",
-          "size": 36331,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        },
-        {
-          "upstream_id": 43313,
-          "title": "Super Mario World 2: Yoshi's Island - Score",
-          "version": "smwc-43313-1791577004",
-          "upstream_time": 1791577004,
-          "download_url": "https://dl.smwcentral.net/43313/Yoshi%27s%20Island%20-%20Score.zip",
-          "filename": "Yoshi%27s Island - Score.zip",
-          "size": 44076,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        },
-        {
-          "upstream_id": 43312,
-          "title": "Super Mario World 2: Yoshi's Island - Practice Stage",
-          "version": "smwc-43312-1791576793",
-          "upstream_time": 1791576793,
-          "download_url": "https://dl.smwcentral.net/43312/Yoshi%27s%20Island%20-%20Practice%20Course.zip",
-          "filename": "Yoshi%27s Island - Practice Course.zip",
-          "size": 44416,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        },
-        {
-          "upstream_id": 43311,
-          "title": "Super Mario World 2: Yoshi's Island - Powerful Mario",
-          "version": "smwc-43311-1791576791",
-          "upstream_time": 1791576791,
-          "download_url": "https://dl.smwcentral.net/43311/Yoshi%27s%20Island%20-%20Powerful%20Infant.zip",
-          "filename": "Yoshi%27s Island - Powerful Infant.zip",
-          "size": 44665,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        },
-        {
-          "upstream_id": 43310,
-          "title": "Super Mario World 2: Yoshi's Island - Yoshi Down!",
-          "version": "smwc-43310-1791576789",
-          "upstream_time": 1791576789,
-          "download_url": "https://dl.smwcentral.net/43310/Yoshi%27s%20Island%20-%20Player%20Down.zip",
-          "filename": "Yoshi%27s Island - Player Down.zip",
-          "size": 35376,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        },
-        {
-          "upstream_id": 43309,
-          "title": "Super Mario World 2: Yoshi's Island - Overworld",
-          "version": "smwc-43309-1791576586",
-          "upstream_time": 1791576586,
-          "download_url": "https://dl.smwcentral.net/43309/Yoshi%27s%20Island%20-%20Overworld.zip",
-          "filename": "Yoshi%27s Island - Overworld.zip",
-          "size": 44510,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        },
-        {
-          "upstream_id": 43308,
-          "title": "Super Mario World 2: Yoshi's Island - Stage Boss",
-          "version": "smwc-43308-1791576585",
-          "upstream_time": 1791576585,
-          "download_url": "https://dl.smwcentral.net/43308/Yoshi%27s%20Island%20-%20Mid-Boss.zip",
-          "filename": "Yoshi%27s Island - Mid-Boss.zip",
-          "size": 47003,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        },
-        {
-          "upstream_id": 43307,
-          "title": "Super Mario World 2: Yoshi's Island - Mario Kidnapped",
-          "version": "smwc-43307-1791576583",
-          "upstream_time": 1791576583,
-          "download_url": "https://dl.smwcentral.net/43307/Yoshi%27s%20Island%20-%20Mario%20Kidnapped.zip",
-          "filename": "Yoshi%27s Island - Mario Kidnapped.zip",
-          "size": 33378,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        },
-        {
-          "upstream_id": 43298,
-          "title": "Super Mario World 2: Yoshi's Island - Rescuing Luigi",
-          "version": "smwc-43298-1791575923",
-          "upstream_time": 1791575923,
-          "download_url": "https://dl.smwcentral.net/43298/Yoshi%27s%20Island%20-%20Luigi%27s%20Rescue.zip",
-          "filename": "Yoshi%27s Island - Luigi%27s Rescue.zip",
-          "size": 48436,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        },
-        {
-          "upstream_id": 43297,
-          "title": "Super Mario World 2: Yoshi's Island - Kamek's Theme",
-          "version": "smwc-43297-1791575921",
-          "upstream_time": 1791575921,
-          "download_url": "https://dl.smwcentral.net/43297/Yoshi%27s%20Island%20-%20Kamek.zip",
-          "filename": "Yoshi%27s Island - Kamek.zip",
-          "size": 38929,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        },
-        {
-          "upstream_id": 43296,
-          "title": "Super Mario World 2: Yoshi's Island - In the Boss Room",
-          "version": "smwc-43296-1791575702",
-          "upstream_time": 1791575702,
-          "download_url": "https://dl.smwcentral.net/43296/Yoshi%27s%20Island%20-%20In%20Front%20of%20the%20Boss%27%20Room.zip",
-          "filename": "Yoshi%27s Island - In Front of the Boss%27 Room.zip",
-          "size": 34392,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        },
-        {
-          "upstream_id": 43295,
-          "title": "Super Mario World 2: Yoshi's Island - Goal!",
-          "version": "smwc-43295-1791575700",
-          "upstream_time": 1791575700,
-          "download_url": "https://dl.smwcentral.net/43295/Yoshi%27s%20Island%20-%20Goal.zip",
-          "filename": "Yoshi%27s Island - Goal.zip",
-          "size": 35496,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        },
-        {
-          "upstream_id": 43294,
-          "title": "Super Mario World 2: Yoshi's Island - Stage Start",
-          "version": "smwc-43294-1791575698",
-          "upstream_time": 1791575698,
-          "download_url": "https://dl.smwcentral.net/43294/Yoshi%27s%20Island%20-%20Game%20Start.zip",
-          "filename": "Yoshi%27s Island - Game Start.zip",
-          "size": 39342,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        },
-        {
-          "upstream_id": 43293,
-          "title": "Super Mario World 2: Yoshi's Island - Game Over",
-          "version": "smwc-43293-1791575378",
-          "upstream_time": 1791575378,
-          "download_url": "https://dl.smwcentral.net/43293/Yoshi%27s%20Island%20-%20Game%20Over.zip",
-          "filename": "Yoshi%27s Island - Game Over.zip",
-          "size": 32776,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        },
-        {
-          "upstream_id": 43292,
-          "title": "Super Mario World 2: Yoshi's Island - Flower Field",
-          "version": "smwc-43292-1791575376",
-          "upstream_time": 1791575376,
-          "download_url": "https://dl.smwcentral.net/43292/Yoshi%27s%20Island%20-%20Flower%20Garden.zip",
-          "filename": "Yoshi%27s Island - Flower Garden.zip",
-          "size": 51838,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        },
-        {
-          "upstream_id": 43289,
-          "title": "Super Mario World 2: Yoshi's Island - Castle & Fortress",
-          "version": "smwc-43289-1791575143",
-          "upstream_time": 1791575143,
-          "download_url": "https://dl.smwcentral.net/43289/Yoshi%27s%20Island%20-%20Castle%20%26%20Fortress.zip",
-          "filename": "Yoshi%27s Island - Castle %26 Fortress.zip",
-          "size": 45976,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        },
-        {
-          "upstream_id": 43288,
-          "title": "Super Mario World 2: Yoshi's Island - Bowser Defeated",
-          "version": "smwc-43288-1791575140",
-          "upstream_time": 1791575140,
-          "download_url": "https://dl.smwcentral.net/43288/Yoshi%27s%20Island%20-%20Bowser%20Clear.zip",
-          "filename": "Yoshi%27s Island - Bowser Clear.zip",
-          "size": 45584,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        },
-        {
-          "upstream_id": 43287,
-          "title": "Super Mario World 2: Yoshi's Island - Bowser",
-          "version": "smwc-43287-1791574903",
-          "upstream_time": 1791574903,
-          "download_url": "https://dl.smwcentral.net/43287/Yoshi%27s%20Island%20-%20Bowser.zip",
-          "filename": "Yoshi%27s Island - Bowser.zip",
-          "size": 137178,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        },
-        {
-          "upstream_id": 43286,
-          "title": "Super Mario World 2: Yoshi's Island - Bonus Challenge",
-          "version": "smwc-43286-1791574900",
-          "upstream_time": 1791574900,
-          "download_url": "https://dl.smwcentral.net/43286/Yoshi%27s%20Island%20-%20Bonus%20Game.zip",
-          "filename": "Yoshi%27s Island - Bonus Game.zip",
-          "size": 40107,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        },
-        {
-          "upstream_id": 43285,
-          "title": "Super Mario World 2: Yoshi's Island - Bonus Fanfare",
-          "version": "smwc-43285-1791574897",
-          "upstream_time": 1791574897,
-          "download_url": "https://dl.smwcentral.net/43285/Yoshi%27s%20Island%20-%20Bonus%20Fanfare.zip",
-          "filename": "Yoshi%27s Island - Bonus Fanfare.zip",
-          "size": 35303,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        },
-        {
-          "upstream_id": 43284,
-          "title": "Super Mario World 2: Yoshi's Island - Big Boss Clear",
-          "version": "smwc-43284-1791574693",
-          "upstream_time": 1791574693,
-          "download_url": "https://dl.smwcentral.net/43284/Yoshi%27s%20Island%20-%20Big%20Boss%20Clear.zip",
-          "filename": "Yoshi%27s Island - Big Boss Clear.zip",
-          "size": 39004,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        },
-        {
-          "upstream_id": 43283,
-          "title": "Super Mario World 2: Yoshi's Island - Big Boss",
-          "version": "smwc-43283-1791574690",
-          "upstream_time": 1791574690,
-          "download_url": "https://dl.smwcentral.net/43283/Yoshi%27s%20Island%20-%20Big%20Boss.zip",
-          "filename": "Yoshi%27s Island - Big Boss.zip",
-          "size": 91556,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        },
-        {
-          "upstream_id": 43282,
-          "title": "Super Mario World 2: Yoshi's Island - Athletic",
-          "version": "smwc-43282-1791574686",
-          "upstream_time": 1791574686,
-          "download_url": "https://dl.smwcentral.net/43282/Yoshi%27s%20Island%20-%20Athletic.zip",
-          "filename": "Yoshi%27s Island - Athletic.zip",
-          "size": 45358,
+          "upstream_id": 42869,
+          "title": "Immaculate Sense in Darkness ~ Eyes Shut",
+          "version": "smwc-42869-1792779812",
+          "upstream_time": 1792779812,
+          "download_url": "https://dl.smwcentral.net/42869/Immaculate%20Sense%20in%20Darkness%20~%20%20Eyes%20Shut.zip",
+          "filename": "Immaculate Sense in Darkness ~  Eyes Shut.zip",
+          "size": 429135,
           "sha256": null,
           "dependencies": [
             "addmusick"
@@ -4111,201 +3449,798 @@
       ]
     },
     {
-      "name": "smwmusic-super-mario-world-2-yoshi-s-island-ending-part",
+      "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-after-the-ceremony",
       "aliases": [],
       "section": "smwmusic",
-      "upstream_id": 43291,
-      "title": "Super Mario World 2: Yoshi's Island - Ending (Part 2)",
-      "authors": [
-        "LadiesMan217"
-      ],
-      "tags": [
-        "calm",
-        "credits",
-        "cutscene",
-        "night",
-        "sad"
-      ],
-      "description": "Part of The Super Mario World 2: Yoshi's Island Soundtrack.",
-      "latest_version": "smwc-43291-1791575374",
-      "install_kind": "add_music_k_music",
-      "versions": [
-        {
-          "upstream_id": 43291,
-          "title": "Super Mario World 2: Yoshi's Island - Ending (Part 2)",
-          "version": "smwc-43291-1791575374",
-          "upstream_time": 1791575374,
-          "download_url": "https://dl.smwcentral.net/43291/Yoshi%27s%20Island%20-%20Ending%20%28Part%202%29.zip",
-          "filename": "Yoshi%27s Island - Ending (Part 2).zip",
-          "size": 56158,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        },
-        {
-          "upstream_id": 43290,
-          "title": "Super Mario World 2: Yoshi's Island - Ending (Part 1)",
-          "version": "smwc-43290-1791575148",
-          "upstream_time": 1791575148,
-          "download_url": "https://dl.smwcentral.net/43290/Yoshi%27s%20Island%20-%20Ending%20%28Part%201%29.zip",
-          "filename": "Yoshi%27s Island - Ending (Part 1).zip",
-          "size": 81467,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        }
-      ]
-    },
-    {
-      "name": "smwmusic-super-mario-world-2-yoshi-s-island-map-screen-world",
-      "aliases": [],
-      "section": "smwmusic",
-      "upstream_id": 43305,
-      "title": "Super Mario World 2: Yoshi's Island - Map Screen (World 7)",
-      "authors": [
-        "LadiesMan217"
-      ],
-      "tags": [
-        "overworld",
-        "upbeat"
-      ],
-      "description": "Part of The Super Mario World 2: Yoshi's Island Soundtrack.",
-      "latest_version": "smwc-43305-1791576338",
-      "install_kind": "add_music_k_music",
-      "versions": [
-        {
-          "upstream_id": 43305,
-          "title": "Super Mario World 2: Yoshi's Island - Map Screen (World 7)",
-          "version": "smwc-43305-1791576338",
-          "upstream_time": 1791576338,
-          "download_url": "https://dl.smwcentral.net/43305/Yoshi%27s%20Island%20-%20Map%20%28World%207%29.zip",
-          "filename": "Yoshi%27s Island - Map (World 7).zip",
-          "size": 56348,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        },
-        {
-          "upstream_id": 43304,
-          "title": "Super Mario World 2: Yoshi's Island - Map Screen (World 6)",
-          "version": "smwc-43304-1791576336",
-          "upstream_time": 1791576336,
-          "download_url": "https://dl.smwcentral.net/43304/Yoshi%27s%20Island%20-%20Map%20%28World%206%29.zip",
-          "filename": "Yoshi%27s Island - Map (World 6).zip",
-          "size": 48610,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        },
-        {
-          "upstream_id": 43303,
-          "title": "Super Mario World 2: Yoshi's Island - Map Screen (World 5)",
-          "version": "smwc-43303-1791576334",
-          "upstream_time": 1791576334,
-          "download_url": "https://dl.smwcentral.net/43303/Yoshi%27s%20Island%20-%20Map%20%28World%205%29.zip",
-          "filename": "Yoshi%27s Island - Map (World 5).zip",
-          "size": 48585,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        },
-        {
-          "upstream_id": 43302,
-          "title": "Super Mario World 2: Yoshi's Island - Map Screen (World 4)",
-          "version": "smwc-43302-1791576152",
-          "upstream_time": 1791576152,
-          "download_url": "https://dl.smwcentral.net/43302/Yoshi%27s%20Island%20-%20Map%20%28World%204%29.zip",
-          "filename": "Yoshi%27s Island - Map (World 4).zip",
-          "size": 47748,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        },
-        {
-          "upstream_id": 43301,
-          "title": "Super Mario World 2: Yoshi's Island - Map Screen (World 3)",
-          "version": "smwc-43301-1791576149",
-          "upstream_time": 1791576149,
-          "download_url": "https://dl.smwcentral.net/43301/Yoshi%27s%20Island%20-%20Map%20%28World%203%29.zip",
-          "filename": "Yoshi%27s Island - Map (World 3).zip",
-          "size": 44137,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        },
-        {
-          "upstream_id": 43300,
-          "title": "Super Mario World 2: Yoshi's Island - Map Screen (World 2)",
-          "version": "smwc-43300-1791576147",
-          "upstream_time": 1791576147,
-          "download_url": "https://dl.smwcentral.net/43300/Yoshi%27s%20Island%20-%20Map%20%28World%202%29.zip",
-          "filename": "Yoshi%27s Island - Map (World 2).zip",
-          "size": 37705,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        },
-        {
-          "upstream_id": 43299,
-          "title": "Super Mario World 2: Yoshi's Island - Map Screen (World 1)",
-          "version": "smwc-43299-1791575924",
-          "upstream_time": 1791575924,
-          "download_url": "https://dl.smwcentral.net/43299/Yoshi%27s%20Island%20-%20Map%20%28World%201%29.zip",
-          "filename": "Yoshi%27s Island - Map (World 1).zip",
-          "size": 32116,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        }
-      ]
-    },
-    {
-      "name": "smwmusic-tales-of-phantasia-second-act",
-      "aliases": [],
-      "section": "smwmusic",
-      "upstream_id": 42742,
-      "title": "Tales of Phantasia - Second Act",
+      "upstream_id": 43011,
+      "title": "Lufia II: Rise of the Sinistrals - After the Ceremony",
       "authors": [
         "Ahrion"
       ],
       "tags": [
-        "airship",
+        "carnival",
+        "cutscene",
+        "town"
+      ],
+      "description": "Lufia II music",
+      "latest_version": "smwc-43011-1792784971",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 43011,
+          "title": "Lufia II: Rise of the Sinistrals - After the Ceremony",
+          "version": "smwc-43011-1792784971",
+          "upstream_time": 1792784971,
+          "download_url": "https://dl.smwcentral.net/43011/After%20the%20Ceremony.zip",
+          "filename": "After the Ceremony.zip",
+          "size": 47703,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-autumn",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 43014,
+      "title": "Lufia II: Rise of the Sinistrals - Autumn",
+      "authors": [
+        "Ahrion"
+      ],
+      "tags": [
+        "calm",
+        "snow",
+        "town"
+      ],
+      "description": "Lufia II music",
+      "latest_version": "smwc-43014-1792785467",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 43014,
+          "title": "Lufia II: Rise of the Sinistrals - Autumn",
+          "version": "smwc-43014-1792785467",
+          "upstream_time": 1792785467,
+          "download_url": "https://dl.smwcentral.net/43014/Lufia%202%20Autumn.zip",
+          "filename": "Lufia 2 Autumn.zip",
+          "size": 56616,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-azure-ocean",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 43018,
+      "title": "Lufia II: Rise of the Sinistrals - Azure Ocean",
+      "authors": [
+        "Ahrion"
+      ],
+      "tags": [
+        "cutscene",
+        "overworld"
+      ],
+      "description": "Lufia II music",
+      "latest_version": "smwc-43018-1792786217",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 43018,
+          "title": "Lufia II: Rise of the Sinistrals - Azure Ocean",
+          "version": "smwc-43018-1792786217",
+          "upstream_time": 1792786217,
+          "download_url": "https://dl.smwcentral.net/43018/Azure%20Ocean.zip",
+          "filename": "Azure Ocean.zip",
+          "size": 60594,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-battle",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 42997,
+      "title": "Lufia II: Rise of the Sinistrals - Battle #2",
+      "authors": [
+        "Ahrion"
+      ],
+      "tags": [
+        "boss",
         "castle",
+        "final",
+        "tense"
+      ],
+      "description": "Lufia II music",
+      "latest_version": "smwc-42997-1792782692",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 42997,
+          "title": "Lufia II: Rise of the Sinistrals - Battle #2",
+          "version": "smwc-42997-1792782692",
+          "upstream_time": 1792782692,
+          "download_url": "https://dl.smwcentral.net/42997/Battle%202.zip",
+          "filename": "Battle 2.zip",
+          "size": 56700,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-big-game",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 43023,
+      "title": "Lufia II: Rise of the Sinistrals - Big Game",
+      "authors": [
+        "Ahrion"
+      ],
+      "tags": [
+        "abstract"
+      ],
+      "description": "Lufia II music",
+      "latest_version": "smwc-43023-1792787628",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 43023,
+          "title": "Lufia II: Rise of the Sinistrals - Big Game",
+          "version": "smwc-43023-1792787628",
+          "upstream_time": 1792787628,
+          "download_url": "https://dl.smwcentral.net/43023/Big%20Game.zip",
+          "filename": "Big Game.zip",
+          "size": 47114,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-capsule-monster",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 43001,
+      "title": "Lufia II: Rise of the Sinistrals - Capsule Monster",
+      "authors": [
+        "Ahrion"
+      ],
+      "tags": [
+        "forest",
+        "grassland",
+        "town"
+      ],
+      "description": "Lufia II music",
+      "latest_version": "smwc-43001-1792783428",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 43001,
+          "title": "Lufia II: Rise of the Sinistrals - Capsule Monster",
+          "version": "smwc-43001-1792783428",
+          "upstream_time": 1792783428,
+          "download_url": "https://dl.smwcentral.net/43001/Capsule%20Monster.zip",
+          "filename": "Capsule Monster.zip",
+          "size": 57729,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-casino",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 43021,
+      "title": "Lufia II: Rise of the Sinistrals - Casino",
+      "authors": [
+        "Ahrion"
+      ],
+      "tags": [
+        "abstract",
+        "bonus",
+        "carnival"
+      ],
+      "description": "Lufia II music",
+      "latest_version": "smwc-43021-1792787489",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 43021,
+          "title": "Lufia II: Rise of the Sinistrals - Casino",
+          "version": "smwc-43021-1792787489",
+          "upstream_time": 1792787489,
+          "download_url": "https://dl.smwcentral.net/43021/Casino.zip",
+          "filename": "Casino.zip",
+          "size": 37132,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-castle",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 42999,
+      "title": "Lufia II: Rise of the Sinistrals - Castle",
+      "authors": [
+        "Ahrion"
+      ],
+      "tags": [
+        "castle",
+        "cutscene",
+        "town"
+      ],
+      "description": "Lufia II music",
+      "latest_version": "smwc-42999-1792783132",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 42999,
+          "title": "Lufia II: Rise of the Sinistrals - Castle",
+          "version": "smwc-42999-1792783132",
+          "upstream_time": 1792783132,
+          "download_url": "https://dl.smwcentral.net/42999/Castle.zip",
+          "filename": "Castle.zip",
+          "size": 56202,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-cave",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 42990,
+      "title": "Lufia II: Rise of the Sinistrals - Cave",
+      "authors": [
+        "Ahrion"
+      ],
+      "tags": [
+        "castle",
+        "cave",
+        "dark"
+      ],
+      "description": "Lufia II music",
+      "latest_version": "smwc-42990-1792781845",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 42990,
+          "title": "Lufia II: Rise of the Sinistrals - Cave",
+          "version": "smwc-42990-1792781845",
+          "upstream_time": 1792781845,
+          "download_url": "https://dl.smwcentral.net/42990/Cave.zip",
+          "filename": "Cave.zip",
+          "size": 54552,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-comrade",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 42995,
+      "title": "Lufia II: Rise of the Sinistrals - Comrade",
+      "authors": [
+        "Ahrion"
+      ],
+      "tags": [
+        "abstract"
+      ],
+      "description": "Lufia II music",
+      "latest_version": "smwc-42995-1792782193",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 42995,
+          "title": "Lufia II: Rise of the Sinistrals - Comrade",
+          "version": "smwc-42995-1792782193",
+          "upstream_time": 1792782193,
+          "download_url": "https://dl.smwcentral.net/42995/Comrade.zip",
+          "filename": "Comrade.zip",
+          "size": 44523,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-despair",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 43006,
+      "title": "Lufia II: Rise of the Sinistrals - Despair",
+      "authors": [
+        "Ahrion"
+      ],
+      "tags": [
+        "cutscene"
+      ],
+      "description": "Lufia II music",
+      "latest_version": "smwc-43006-1792784174",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 43006,
+          "title": "Lufia II: Rise of the Sinistrals - Despair",
+          "version": "smwc-43006-1792784174",
+          "upstream_time": 1792784174,
+          "download_url": "https://dl.smwcentral.net/43006/Despair.zip",
+          "filename": "Despair.zip",
+          "size": 52979,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-door-of-journey",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 43004,
+      "title": "Lufia II: Rise of the Sinistrals - Door of Journey",
+      "authors": [
+        "Ahrion"
+      ],
+      "tags": [
+        "cutscene",
+        "mysterious",
+        "sad"
+      ],
+      "description": "Lufia II music",
+      "latest_version": "smwc-43004-1792783717",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 43004,
+          "title": "Lufia II: Rise of the Sinistrals - Door of Journey",
+          "version": "smwc-43004-1792783717",
+          "upstream_time": 1792783717,
+          "download_url": "https://dl.smwcentral.net/43004/Door%20of%20Journey.zip",
+          "filename": "Door of Journey.zip",
+          "size": 36708,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-flute-of-sleepwalk",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 43019,
+      "title": "Lufia II: Rise of the Sinistrals - Flute of Sleepwalk",
+      "authors": [
+        "Ahrion"
+      ],
+      "tags": [
+        "cutscene",
+        "mysterious"
+      ],
+      "description": "Lufia II music",
+      "latest_version": "smwc-43019-1792786322",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 43019,
+          "title": "Lufia II: Rise of the Sinistrals - Flute of Sleepwalk",
+          "version": "smwc-43019-1792786322",
+          "upstream_time": 1792786322,
+          "download_url": "https://dl.smwcentral.net/43019/Flute%20of%20Sleepwalk.zip",
+          "filename": "Flute of Sleepwalk.zip",
+          "size": 32407,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-four-gods",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 43031,
+      "title": "Lufia II: Rise of the Sinistrals - Four Gods",
+      "authors": [
+        "Ahrion"
+      ],
+      "tags": [
+        "cutscene",
+        "dark",
+        "final"
+      ],
+      "description": "Lufia II music",
+      "latest_version": "smwc-43031-1792789120",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 43031,
+          "title": "Lufia II: Rise of the Sinistrals - Four Gods",
+          "version": "smwc-43031-1792789120",
+          "upstream_time": 1792789120,
+          "download_url": "https://dl.smwcentral.net/43031/Four%20Gods.zip",
+          "filename": "Four Gods.zip",
+          "size": 56001,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-growth",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 43002,
+      "title": "Lufia II: Rise of the Sinistrals - Growth!",
+      "authors": [
+        "Ahrion"
+      ],
+      "tags": [
+        "abstract"
+      ],
+      "description": "Lufia II music",
+      "latest_version": "smwc-43002-1792783511",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 43002,
+          "title": "Lufia II: Rise of the Sinistrals - Growth!",
+          "version": "smwc-43002-1792783511",
+          "upstream_time": 1792783511,
+          "download_url": "https://dl.smwcentral.net/43002/Growth%21.zip",
+          "filename": "Growth%21.zip",
+          "size": 44797,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-hit",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 43024,
+      "title": "Lufia II: Rise of the Sinistrals - Hit!",
+      "authors": [
+        "Ahrion"
+      ],
+      "tags": [
+        "abstract"
+      ],
+      "description": "Lufia II music",
+      "latest_version": "smwc-43024-1792787731",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 43024,
+          "title": "Lufia II: Rise of the Sinistrals - Hit!",
+          "version": "smwc-43024-1792787731",
+          "upstream_time": 1792787731,
+          "download_url": "https://dl.smwcentral.net/43024/Hit%21.zip",
+          "filename": "Hit%21.zip",
+          "size": 48371,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-item",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 42991,
+      "title": "Lufia II: Rise of the Sinistrals - Item",
+      "authors": [
+        "Ahrion"
+      ],
+      "tags": [
+        "abstract"
+      ],
+      "description": "Lufia II music",
+      "latest_version": "smwc-42991-1792781936",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 42991,
+          "title": "Lufia II: Rise of the Sinistrals - Item",
+          "version": "smwc-42991-1792781936",
+          "upstream_time": 1792781936,
+          "download_url": "https://dl.smwcentral.net/42991/Item.zip",
+          "filename": "Item.zip",
+          "size": 42425,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-lexis-shaia-lab",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 43020,
+      "title": "Lufia II: Rise of the Sinistrals - Lexis Shaia Lab",
+      "authors": [
+        "Ahrion"
+      ],
+      "tags": [
+        "abstract",
+        "carnival",
+        "cutscene",
+        "town"
+      ],
+      "description": "Lufia II music",
+      "latest_version": "smwc-43020-1792786499",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 43020,
+          "title": "Lufia II: Rise of the Sinistrals - Lexis Shaia Lab",
+          "version": "smwc-43020-1792786499",
+          "upstream_time": 1792786499,
+          "download_url": "https://dl.smwcentral.net/43020/Lexis%20Shaia%20Lab.zip",
+          "filename": "Lexis Shaia Lab.zip",
+          "size": 56978,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-light-slumber",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 42989,
+      "title": "Lufia II: Rise of the Sinistrals - Light Slumber",
+      "authors": [
+        "Ahrion"
+      ],
+      "tags": [
+        "calm",
+        "cutscene"
+      ],
+      "description": "Lufia II music",
+      "latest_version": "smwc-42989-1792781667",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 42989,
+          "title": "Lufia II: Rise of the Sinistrals - Light Slumber",
+          "version": "smwc-42989-1792781667",
+          "upstream_time": 1792781667,
+          "download_url": "https://dl.smwcentral.net/42989/Light%20Slumber.zip",
+          "filename": "Light Slumber.zip",
+          "size": 34798,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-mutation",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 43035,
+      "title": "Lufia II: Rise of the Sinistrals - Mutation",
+      "authors": [
+        "Ahrion"
+      ],
+      "tags": [
+        "abstract"
+      ],
+      "description": "Lufia II music",
+      "latest_version": "smwc-43035-1792790675",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 43035,
+          "title": "Lufia II: Rise of the Sinistrals - Mutation",
+          "version": "smwc-43035-1792790675",
+          "upstream_time": 1792790675,
+          "download_url": "https://dl.smwcentral.net/43035/Mutation.zip",
+          "filename": "Mutation.zip",
+          "size": 44657,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-parting",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 43009,
+      "title": "Lufia II: Rise of the Sinistrals - Parting",
+      "authors": [
+        "Ahrion"
+      ],
+      "tags": [
+        "calm",
+        "cutscene",
+        "sad"
+      ],
+      "description": "Lufia II music",
+      "latest_version": "smwc-43009-1792784692",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 43009,
+          "title": "Lufia II: Rise of the Sinistrals - Parting",
+          "version": "smwc-43009-1792784692",
+          "upstream_time": 1792784692,
+          "download_url": "https://dl.smwcentral.net/43009/Parting.zip",
+          "filename": "Parting.zip",
+          "size": 51252,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-port-town",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 43016,
+      "title": "Lufia II: Rise of the Sinistrals - Port Town",
+      "authors": [
+        "Ahrion"
+      ],
+      "tags": [
+        "grassland",
+        "town"
+      ],
+      "description": "Lufia II music",
+      "latest_version": "smwc-43016-1792785914",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 43016,
+          "title": "Lufia II: Rise of the Sinistrals - Port Town",
+          "version": "smwc-43016-1792785914",
+          "upstream_time": 1792785914,
+          "download_url": "https://dl.smwcentral.net/43016/Port%20Town.zip",
+          "filename": "Port Town.zip",
+          "size": 67231,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-prisphea-flowers",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 43033,
+      "title": "Lufia II: Rise of the Sinistrals - Prisphea Flowers",
+      "authors": [
+        "Ahrion"
+      ],
+      "tags": [
+        "calm",
         "credits",
         "cutscene",
-        "final",
+        "town"
+      ],
+      "description": "Lufia II music",
+      "latest_version": "smwc-43033-1792790247",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 43033,
+          "title": "Lufia II: Rise of the Sinistrals - Prisphea Flowers",
+          "version": "smwc-43033-1792790247",
+          "upstream_time": 1792790247,
+          "download_url": "https://dl.smwcentral.net/43033/Prisphea%20Flowers.zip",
+          "filename": "Prisphea Flowers.zip",
+          "size": 36034,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-rumbling",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 42987,
+      "title": "Lufia II: Rise of the Sinistrals - Rumbling",
+      "authors": [
+        "Ahrion"
+      ],
+      "tags": [
+        "credits",
+        "cutscene",
         "title"
       ],
-      "description": "A heroic song from Tales of Phantasia<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Zavok\"><a href=\"/?p=profile&amp;id=36942\" style=\"color: #9d4edd;\" class=\"un\">Zavok</a></span>",
-      "latest_version": "smwc-42742-1790633401",
+      "description": "Lufia II music",
+      "latest_version": "smwc-42987-1792781420",
       "install_kind": "add_music_k_music",
       "versions": [
         {
-          "upstream_id": 42742,
-          "title": "Tales of Phantasia - Second Act",
-          "version": "smwc-42742-1790633401",
-          "upstream_time": 1790633401,
-          "download_url": "https://dl.smwcentral.net/42742/Second_Act.zip",
-          "filename": "Second_Act.zip",
-          "size": 62823,
+          "upstream_id": 42987,
+          "title": "Lufia II: Rise of the Sinistrals - Rumbling",
+          "version": "smwc-42987-1792781420",
+          "upstream_time": 1792781420,
+          "download_url": "https://dl.smwcentral.net/42987/Rumbling.zip",
+          "filename": "Rumbling.zip",
+          "size": 64079,
           "sha256": null,
           "dependencies": [
             "addmusick"
@@ -4315,33 +4250,29 @@
       ]
     },
     {
-      "name": "smwmusic-the-doctor-christmas-demo",
+      "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-scenario-item",
       "aliases": [],
       "section": "smwmusic",
-      "upstream_id": 42738,
-      "title": "The Doctor - Christmas Demo",
+      "upstream_id": 42993,
+      "title": "Lufia II: Rise of the Sinistrals - Scenario Item",
       "authors": [
-        "h.carrell"
+        "Ahrion"
       ],
       "tags": [
-        "ambient",
-        "ice",
-        "menu",
-        "overworld",
-        "upbeat"
+        "abstract"
       ],
-      "description": "A bopping Christmas tune from the Doctor. <br>\r\n<br>\r\nA slightly updated version of what I showed in a Thread last C3.",
-      "latest_version": "smwc-42738-1792246032",
+      "description": "Lufia II music",
+      "latest_version": "smwc-42993-1792782126",
       "install_kind": "add_music_k_music",
       "versions": [
         {
-          "upstream_id": 42738,
-          "title": "The Doctor - Christmas Demo",
-          "version": "smwc-42738-1792246032",
-          "upstream_time": 1792246032,
-          "download_url": "https://dl.smwcentral.net/42738/Christmas%20Demo.zip",
-          "filename": "Christmas Demo.zip",
-          "size": 126507,
+          "upstream_id": 42993,
+          "title": "Lufia II: Rise of the Sinistrals - Scenario Item",
+          "version": "smwc-42993-1792782126",
+          "upstream_time": 1792782126,
+          "download_url": "https://dl.smwcentral.net/42993/Scenario%20Item.zip",
+          "filename": "Scenario Item.zip",
+          "size": 51892,
           "sha256": null,
           "dependencies": [
             "addmusick"
@@ -4351,31 +4282,162 @@
       ]
     },
     {
-      "name": "smwmusic-the-legend-of-zelda-ocarina-of-time-temple-of-time",
+      "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-shrine",
       "aliases": [],
       "section": "smwmusic",
-      "upstream_id": 43268,
-      "title": "The Legend of Zelda: Ocarina of Time - Temple of Time",
+      "upstream_id": 43005,
+      "title": "Lufia II: Rise of the Sinistrals - Shrine",
       "authors": [
-        "ContinueGames17"
+        "Ahrion"
       ],
       "tags": [
-        "ambient",
+        "castle",
+        "cutscene",
+        "ruins",
+        "tense"
+      ],
+      "description": "Lufia II music",
+      "latest_version": "smwc-43005-1792784090",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 43005,
+          "title": "Lufia II: Rise of the Sinistrals - Shrine",
+          "version": "smwc-43005-1792784090",
+          "upstream_time": 1792784090,
+          "download_url": "https://dl.smwcentral.net/43005/Shrine.zip",
+          "filename": "Shrine.zip",
+          "size": 54366,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-shudder",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 43007,
+      "title": "Lufia II: Rise of the Sinistrals - Shudder",
+      "authors": [
+        "Ahrion"
+      ],
+      "tags": [
+        "castle",
+        "tense"
+      ],
+      "description": "Lufia II music",
+      "latest_version": "smwc-43007-1792784329",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 43007,
+          "title": "Lufia II: Rise of the Sinistrals - Shudder",
+          "version": "smwc-43007-1792784329",
+          "upstream_time": 1792784329,
+          "download_url": "https://dl.smwcentral.net/43007/Shudder.zip",
+          "filename": "Shudder.zip",
+          "size": 49192,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-skill-item",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 42992,
+      "title": "Lufia II: Rise of the Sinistrals - Skill Item",
+      "authors": [
+        "Ahrion"
+      ],
+      "tags": [
+        "abstract"
+      ],
+      "description": "Lufia II music",
+      "latest_version": "smwc-42992-1792782065",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 42992,
+          "title": "Lufia II: Rise of the Sinistrals - Skill Item",
+          "version": "smwc-42992-1792782065",
+          "upstream_time": 1792782065,
+          "download_url": "https://dl.smwcentral.net/42992/Skill%20Item.zip",
+          "filename": "Skill Item.zip",
+          "size": 48101,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-slot",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 43022,
+      "title": "Lufia II: Rise of the Sinistrals - Slot",
+      "authors": [
+        "Ahrion"
+      ],
+      "tags": [
+        "abstract"
+      ],
+      "description": "Lufia II music",
+      "latest_version": "smwc-43022-1792787550",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 43022,
+          "title": "Lufia II: Rise of the Sinistrals - Slot",
+          "version": "smwc-43022-1792787550",
+          "upstream_time": 1792787550,
+          "download_url": "https://dl.smwcentral.net/43022/Slot.zip",
+          "filename": "Slot.zip",
+          "size": 47434,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-spring",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 43012,
+      "title": "Lufia II: Rise of the Sinistrals - Spring",
+      "authors": [
+        "Ahrion"
+      ],
+      "tags": [
         "calm",
-        "temple"
+        "town"
       ],
-      "description": "This is the classic and agradable Temple of Time song, from The Legend of Zelda: Ocarina of Time, which have some customizable variants. It have a great echo, so put it into rest or sacred-like areas, which doesn't have Yoshi or enemies (because it will be loud).",
-      "latest_version": "smwc-43268-1791319694",
+      "description": "Lufia II music",
+      "latest_version": "smwc-43012-1792785082",
       "install_kind": "add_music_k_music",
       "versions": [
         {
-          "upstream_id": 43268,
-          "title": "The Legend of Zelda: Ocarina of Time - Temple of Time",
-          "version": "smwc-43268-1791319694",
-          "upstream_time": 1791319694,
-          "download_url": "https://dl.smwcentral.net/43268/TLoZ%20Ocarina%20of%20Time%20-%20Temple%20of%20Time.zip",
-          "filename": "TLoZ Ocarina of Time - Temple of Time.zip",
-          "size": 152441,
+          "upstream_id": 43012,
+          "title": "Lufia II: Rise of the Sinistrals - Spring",
+          "version": "smwc-43012-1792785082",
+          "upstream_time": 1792785082,
+          "download_url": "https://dl.smwcentral.net/43012/Spring.zip",
+          "filename": "Spring.zip",
+          "size": 50599,
           "sha256": null,
           "dependencies": [
             "addmusick"
@@ -4385,32 +4447,637 @@
       ]
     },
     {
-      "name": "smwmusic-watermelon-valley",
+      "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-start-of-the-journey",
       "aliases": [],
       "section": "smwmusic",
-      "upstream_id": 42711,
-      "title": "Watermelon Valley",
+      "upstream_id": 42988,
+      "title": "Lufia II: Rise of the Sinistrals - Start of the Journey",
       "authors": [
-        "EDIT3333"
+        "Ahrion"
+      ],
+      "tags": [
+        "credits",
+        "cutscene",
+        "title"
+      ],
+      "description": "Lufia II music",
+      "latest_version": "smwc-42988-1792781605",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 42988,
+          "title": "Lufia II: Rise of the Sinistrals - Start of the Journey",
+          "version": "smwc-42988-1792781605",
+          "upstream_time": 1792781605,
+          "download_url": "https://dl.smwcentral.net/42988/Start%20of%20the%20Journey.zip",
+          "filename": "Start of the Journey.zip",
+          "size": 47841,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-summer",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 43013,
+      "title": "Lufia II: Rise of the Sinistrals - Summer",
+      "authors": [
+        "Ahrion"
       ],
       "tags": [
         "athletic",
-        "bonus",
-        "grass",
-        "upbeat"
+        "grassland"
       ],
-      "description": "A fun theme; it works well for colorful spaces.",
-      "latest_version": "smwc-42711-1790632226",
+      "description": "Lufia II music",
+      "latest_version": "smwc-43013-1792785211",
       "install_kind": "add_music_k_music",
       "versions": [
         {
-          "upstream_id": 42711,
-          "title": "Watermelon Valley",
-          "version": "smwc-42711-1790632226",
-          "upstream_time": 1790632226,
-          "download_url": "https://dl.smwcentral.net/42711/Watermelon%20Valley%20.zip",
-          "filename": "Watermelon Valley .zip",
-          "size": 31369,
+          "upstream_id": 43013,
+          "title": "Lufia II: Rise of the Sinistrals - Summer",
+          "version": "smwc-43013-1792785211",
+          "upstream_time": 1792785211,
+          "download_url": "https://dl.smwcentral.net/43013/Summer.zip",
+          "filename": "Summer.zip",
+          "size": 59593,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-the-abysmal-depths-of-the-ocean",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 43025,
+      "title": "Lufia II: Rise of the Sinistrals - The Abysmal Depths of the Ocean",
+      "authors": [
+        "Ahrion"
+      ],
+      "tags": [
+        "calm",
+        "mysterious"
+      ],
+      "description": "Lufia II music",
+      "latest_version": "smwc-43025-1792787918",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 43025,
+          "title": "Lufia II: Rise of the Sinistrals - The Abysmal Depths of the Ocean",
+          "version": "smwc-43025-1792787918",
+          "upstream_time": 1792787918,
+          "download_url": "https://dl.smwcentral.net/43025/The%20Abysmal%20Depths%20of%20the%20Ocean.zip",
+          "filename": "The Abysmal Depths of the Ocean.zip",
+          "size": 49899,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-the-greatest-thieves-in-the-world",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 43000,
+      "title": "Lufia II: Rise of the Sinistrals - The Greatest Thieves in the World",
+      "authors": [
+        "Ahrion"
+      ],
+      "tags": [
+        "abstract",
+        "carnival",
+        "cutscene"
+      ],
+      "description": "Lufia II music",
+      "latest_version": "smwc-43000-1792783247",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 43000,
+          "title": "Lufia II: Rise of the Sinistrals - The Greatest Thieves in the World",
+          "version": "smwc-43000-1792783247",
+          "upstream_time": 1792783247,
+          "download_url": "https://dl.smwcentral.net/43000/The%20Greatest%20Thieves%20in%20the%20World.zip",
+          "filename": "The Greatest Thieves in the World.zip",
+          "size": 54521,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-the-island-in-the-void",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 43030,
+      "title": "Lufia II: Rise of the Sinistrals - The Island in the Void",
+      "authors": [
+        "Ahrion"
+      ],
+      "tags": [
+        "castle",
+        "fire",
+        "ruins"
+      ],
+      "description": "Lufia II music",
+      "latest_version": "smwc-43030-1792788816",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 43030,
+          "title": "Lufia II: Rise of the Sinistrals - The Island in the Void",
+          "version": "smwc-43030-1792788816",
+          "upstream_time": 1792788816,
+          "download_url": "https://dl.smwcentral.net/43030/The%20Island%20in%20the%20Void.zip",
+          "filename": "The Island in the Void.zip",
+          "size": 59511,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-the-prophet",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 42998,
+      "title": "Lufia II: Rise of the Sinistrals - The Prophet",
+      "authors": [
+        "Ahrion"
+      ],
+      "tags": [
+        "cutscene",
+        "mysterious",
+        "sad"
+      ],
+      "description": "Lufia II music",
+      "latest_version": "smwc-42998-1792782875",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 42998,
+          "title": "Lufia II: Rise of the Sinistrals - The Prophet",
+          "version": "smwc-42998-1792782875",
+          "upstream_time": 1792782875,
+          "download_url": "https://dl.smwcentral.net/42998/The%20Prophet.zip",
+          "filename": "The Prophet.zip",
+          "size": 54498,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-the-quieting-world",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 43026,
+      "title": "Lufia II: Rise of the Sinistrals - The Quieting World",
+      "authors": [
+        "Ahrion"
+      ],
+      "tags": [
+        "calm",
+        "overworld",
+        "town"
+      ],
+      "description": "Lufia II music",
+      "latest_version": "smwc-43026-1792788168",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 43026,
+          "title": "Lufia II: Rise of the Sinistrals - The Quieting World",
+          "version": "smwc-43026-1792788168",
+          "upstream_time": 1792788168,
+          "download_url": "https://dl.smwcentral.net/43026/The%20Quieting%20World.zip",
+          "filename": "The Quieting World.zip",
+          "size": 51269,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-the-strongest-man",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 43008,
+      "title": "Lufia II: Rise of the Sinistrals - The Strongest Man",
+      "authors": [
+        "Ahrion"
+      ],
+      "tags": [
+        "cutscene",
+        "overworld"
+      ],
+      "description": "Lufia II music",
+      "latest_version": "smwc-43008-1792784514",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 43008,
+          "title": "Lufia II: Rise of the Sinistrals - The Strongest Man",
+          "version": "smwc-43008-1792784514",
+          "upstream_time": 1792784514,
+          "download_url": "https://dl.smwcentral.net/43008/The%20Strongest%20Man.zip",
+          "filename": "The Strongest Man.zip",
+          "size": 61481,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-theme-of-daos",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 43034,
+      "title": "Lufia II: Rise of the Sinistrals - Theme of Daos",
+      "authors": [
+        "Ahrion"
+      ],
+      "tags": [
+        "boss",
+        "castle",
+        "final"
+      ],
+      "description": "Lufia II music",
+      "latest_version": "smwc-43034-1792790612",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 43034,
+          "title": "Lufia II: Rise of the Sinistrals - Theme of Daos",
+          "version": "smwc-43034-1792790612",
+          "upstream_time": 1792790612,
+          "download_url": "https://dl.smwcentral.net/43034/Theme%20of%20Daos.zip",
+          "filename": "Theme of Daos.zip",
+          "size": 61925,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-time-of-judgement",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 42986,
+      "title": "Lufia II: Rise of the Sinistrals - Time of Judgement",
+      "authors": [
+        "Ahrion"
+      ],
+      "tags": [
+        "castle",
+        "cutscene",
+        "dark"
+      ],
+      "description": "Lufia II music",
+      "latest_version": "smwc-42986-1792780573",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 42986,
+          "title": "Lufia II: Rise of the Sinistrals - Time of Judgement",
+          "version": "smwc-42986-1792780573",
+          "upstream_time": 1792780573,
+          "download_url": "https://dl.smwcentral.net/42986/Time%20of%20Judgement.zip",
+          "filename": "Time of Judgement.zip",
+          "size": 45635,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-to-the-future",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 43032,
+      "title": "Lufia II: Rise of the Sinistrals - To the Future",
+      "authors": [
+        "Ahrion"
+      ],
+      "tags": [
+        "calm",
+        "credits",
+        "cutscene"
+      ],
+      "description": "Lufia II music",
+      "latest_version": "smwc-43032-1792789973",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 43032,
+          "title": "Lufia II: Rise of the Sinistrals - To the Future",
+          "version": "smwc-43032-1792789973",
+          "upstream_time": 1792789973,
+          "download_url": "https://dl.smwcentral.net/43032/To%20the%20Future.zip",
+          "filename": "To the Future.zip",
+          "size": 125677,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-to-those-of-the-azure-skies",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 43028,
+      "title": "Lufia II: Rise of the Sinistrals - To Those of the Azure Skies",
+      "authors": [
+        "Ahrion"
+      ],
+      "tags": [
+        "cutscene",
+        "overworld"
+      ],
+      "description": "Lufia II music",
+      "latest_version": "smwc-43028-1792788323",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 43028,
+          "title": "Lufia II: Rise of the Sinistrals - To Those of the Azure Skies",
+          "version": "smwc-43028-1792788323",
+          "upstream_time": 1792788323,
+          "download_url": "https://dl.smwcentral.net/43028/To%20Those%20of%20the%20Azure%20Skies.zip",
+          "filename": "To Those of the Azure Skies.zip",
+          "size": 62266,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-tower",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 43003,
+      "title": "Lufia II: Rise of the Sinistrals - Tower",
+      "authors": [
+        "Ahrion"
+      ],
+      "tags": [
+        "castle"
+      ],
+      "description": "Lufia II music",
+      "latest_version": "smwc-43003-1792783650",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 43003,
+          "title": "Lufia II: Rise of the Sinistrals - Tower",
+          "version": "smwc-43003-1792783650",
+          "upstream_time": 1792783650,
+          "download_url": "https://dl.smwcentral.net/43003/Tower.zip",
+          "filename": "Tower.zip",
+          "size": 61372,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-towering-mountain",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 43017,
+      "title": "Lufia II: Rise of the Sinistrals - Towering Mountain",
+      "authors": [
+        "Ahrion"
+      ],
+      "tags": [
+        "castle",
+        "mountain"
+      ],
+      "description": "Lufia II music",
+      "latest_version": "smwc-43017-1792786069",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 43017,
+          "title": "Lufia II: Rise of the Sinistrals - Towering Mountain",
+          "version": "smwc-43017-1792786069",
+          "upstream_time": 1792786069,
+          "download_url": "https://dl.smwcentral.net/43017/Towering%20Mountain.zip",
+          "filename": "Towering Mountain.zip",
+          "size": 62481,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-village",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 42996,
+      "title": "Lufia II: Rise of the Sinistrals - Village",
+      "authors": [
+        "Ahrion"
+      ],
+      "tags": [
+        "calm",
+        "credits",
+        "town"
+      ],
+      "description": "Lufia II music",
+      "latest_version": "smwc-42996-1792782443",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 42996,
+          "title": "Lufia II: Rise of the Sinistrals - Village",
+          "version": "smwc-42996-1792782443",
+          "upstream_time": 1792782443,
+          "download_url": "https://dl.smwcentral.net/42996/Village.zip",
+          "filename": "Village.zip",
+          "size": 52150,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-watchtowers-of-the-seal",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 43029,
+      "title": "Lufia II: Rise of the Sinistrals - Watchtowers of the Seal",
+      "authors": [
+        "Ahrion"
+      ],
+      "tags": [
+        "castle",
+        "final"
+      ],
+      "description": "Lufia II music",
+      "latest_version": "smwc-43029-1792788499",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 43029,
+          "title": "Lufia II: Rise of the Sinistrals - Watchtowers of the Seal",
+          "version": "smwc-43029-1792788499",
+          "upstream_time": 1792788499,
+          "download_url": "https://dl.smwcentral.net/43029/Watchtowers%20of%20the%20Seal.zip",
+          "filename": "Watchtowers of the Seal.zip",
+          "size": 57391,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-wedding-bells",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 43010,
+      "title": "Lufia II: Rise of the Sinistrals - Wedding Bells",
+      "authors": [
+        "Ahrion"
+      ],
+      "tags": [
+        "abstract",
+        "cutscene"
+      ],
+      "description": "Lufia II music",
+      "latest_version": "smwc-43010-1792784784",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 43010,
+          "title": "Lufia II: Rise of the Sinistrals - Wedding Bells",
+          "version": "smwc-43010-1792784784",
+          "upstream_time": 1792784784,
+          "download_url": "https://dl.smwcentral.net/43010/Wedding%20Bells.zip",
+          "filename": "Wedding Bells.zip",
+          "size": 45942,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-winter",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 43015,
+      "title": "Lufia II: Rise of the Sinistrals - Winter",
+      "authors": [
+        "Ahrion"
+      ],
+      "tags": [
+        "calm",
+        "snow",
+        "town"
+      ],
+      "description": "Lufia II music",
+      "latest_version": "smwc-43015-1792785518",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 43015,
+          "title": "Lufia II: Rise of the Sinistrals - Winter",
+          "version": "smwc-43015-1792785518",
+          "upstream_time": 1792785518,
+          "download_url": "https://dl.smwcentral.net/43015/Winter.zip",
+          "filename": "Winter.zip",
+          "size": 54794,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-the-15th-vanilla-level-design-contest-here-we-groovy",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 42966,
+      "title": "The 15th Vanilla Level Design Contest - Here We Groovy!",
+      "authors": [
+        "Dispace"
+      ],
+      "tags": [
+        "abstract",
+        "athletic",
+        "beach",
+        "grassland",
+        "town",
+        "urban"
+      ],
+      "description": "While VLDC15 remix contest result is \"coming soon\", but port release is \"inaugural\" during C3 Summer 2026. Here We Go! remix but urban groovy styled",
+      "latest_version": "smwc-42966-1792780284",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 42966,
+          "title": "The 15th Vanilla Level Design Contest - Here We Groovy!",
+          "version": "smwc-42966-1792780284",
+          "upstream_time": 1792780284,
+          "download_url": "https://dl.smwcentral.net/42966/REMIX%20-%20Here%20Were%20Groovy%21.zip",
+          "filename": "REMIX - Here Were Groovy%21.zip",
+          "size": 33766,
           "sha256": null,
           "dependencies": [
             "addmusick"
@@ -5323,41 +5990,6 @@
       ]
     },
     {
-      "name": "smwpatches-more-fireballs",
-      "aliases": [],
-      "section": "smwpatches",
-      "upstream_id": 41647,
-      "title": "More Fireballs",
-      "authors": [
-        "imamelia"
-      ],
-      "tags": [
-        "abilities",
-        "lorom",
-        "power-up",
-        "sa-1"
-      ],
-      "description": "This patch will allow you to shoot more than two fireballs, up to 10, in fact (though high values should be avoided when using other extended sprites or the mode 7 bosses).<br>\r\n<br>\r\nRequires 10 bytes of freespace in bank $02.",
-      "latest_version": "smwc-41647-1771447475",
-      "install_kind": "asar_patch",
-      "versions": [
-        {
-          "upstream_id": 41647,
-          "title": "More Fireballs",
-          "version": "smwc-41647-1771447475",
-          "upstream_time": 1771447475,
-          "download_url": "https://dl.smwcentral.net/41647/MoreFireballs.zip",
-          "filename": "MoreFireballs.zip",
-          "size": 649,
-          "sha256": null,
-          "dependencies": [
-            "asar"
-          ],
-          "install_kind": "asar_patch"
-        }
-      ]
-    },
-    {
       "name": "smwpatches-morton-roy-ludwig-tilemap-editor",
       "aliases": [],
       "section": "smwpatches",
@@ -5547,7 +6179,7 @@
         "player",
         "sa-1"
       ],
-      "description": "This patch will allow you to selectively have straight fireballs in a per-player basis: either for player 1 or for player 2.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Zack-san\"><a href=\"/?p=profile&amp;id=23097\" style=\"color: #eb6123;\" class=\"un unavailable inactive\">Zack-san</a></span>.",
+      "description": "This patch will allow you to selectively have straight fireballs in a per-player basis: either for player 1 or for player 2.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Zack-san\"><a href=\"/?p=profile&amp;id=23097\" style=\"color: #eb6123;\" class=\"un\">Zack-san</a></span>.",
       "latest_version": "V1.0.1",
       "install_kind": "asar_patch",
       "versions": [
@@ -5602,6 +6234,41 @@
       ]
     },
     {
+      "name": "smwpatches-pipe-in-boundary-fix",
+      "aliases": [],
+      "section": "smwpatches",
+      "upstream_id": 43338,
+      "title": "Pipe In Boundary Fix",
+      "authors": [
+        "Arinsu"
+      ],
+      "tags": [
+        "lorom",
+        "pipe",
+        "sa-1",
+        "screen exit"
+      ],
+      "description": "Fixes horizontal pipes in the leftmost or rightmost part of horizontal levels taking the player to an unpredictable sublevel.",
+      "latest_version": "1.0",
+      "install_kind": "asar_patch",
+      "versions": [
+        {
+          "upstream_id": 43338,
+          "title": "Pipe In Boundary Fix",
+          "version": "1.0",
+          "upstream_time": 1792549176,
+          "download_url": "https://dl.smwcentral.net/43338/Pipe%20in%20Boundary%20Fix.zip",
+          "filename": "Pipe in Boundary Fix.zip",
+          "size": 571,
+          "sha256": null,
+          "dependencies": [
+            "asar"
+          ],
+          "install_kind": "asar_patch"
+        }
+      ]
+    },
+    {
       "name": "smwpatches-player-damaging-fireball-flag",
       "aliases": [],
       "section": "smwpatches",
@@ -5615,7 +6282,7 @@
         "lorom",
         "sa-1"
       ],
-      "description": "This patch adds a flag which changes if fireballs interact with sprites or hurt the player.<br>\r\nAffects Yoshi and player fireballs.<br>\r\n<br>\r\nIf you spawn fireballs via asm, make sure you set the flag to interact with the player or with sprites. If you don't set this flag, it might still be set or not set from the previous sprite.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #f8a481;\" title=\"Tewi\" class=\"un\">Arinsu</a></span>.",
+      "description": "This patch adds a flag which changes if fireballs interact with sprites or hurt the player.<br>\r\nAffects Yoshi and player fireballs.<br>\r\n<br>\r\nIf you spawn fireballs via asm, make sure you set the flag to interact with the player or with sprites. If you don't set this flag, it might still be set or not set from the previous sprite.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #fdadf4;\" title=\"Tewi\" class=\"un\">Arinsu</a></span>.",
       "latest_version": "v1.2.1",
       "install_kind": "asar_patch",
       "versions": [
@@ -10742,7 +11409,7 @@
         "sa-1",
         "smb2"
       ],
-      "description": "This UberASM allows the player to have the skills Peach had back in SMB2, including the Peach Bomber from SSB, the SMB2 Hi-Jump (Charged Jump) and the Floating Ability from SMB2.<br>\r\n<br>\r\nOriginally an Asar Patch made by Ladida (Noobish Noobsicle and scepile3 are credited too), now unified, reconverted and reorganized into an unique UberASM for a better use by Black Goku... the changes were:<br>\r\n<br>\r\n- Added additional customization and timers.<br>\r\n- Added a flag for the players in case they want to have only a player with the skills.<br>\r\n- Fixed the Cape bug from the Asar Patch (and the ones that triggered restricting the skills in the powerups).<br>\r\n<br>\r\nNotes of the original readme made by Ladida:<br>\r\n- Originally, the hijump was coded by <span class=\"un-outer\" title=\"Noobish Noobsicle\"><a href=\"/?p=profile&amp;id=4297\" style=\"color: #f7b801;\" class=\"un unavailable inactive\">Noobish Noobsicle</a></span> and i just tweaked it. but now its been coded it from scratch.<br>\r\n- Originally, the float was a Yoshi Flutter by <span class=\"un-outer\" title=\"scepile3\"><a href=\"/?p=profile&amp;id=2889\" style=\"color: #9d4edd;\" class=\"un unavailable inactive\">scepile3</a></span>and i just edited it. but now its been coded it from scratch.<br>\r\n<br>\r\nCredit to me is optional.<br>\r\n<br>\r\nThis is my first ASM conversion, so any suggestions are welcome.<br>\r\n<br>\r\nSMW Styled Peach shown here belongs to <span class=\"un-outer\" title=\"LinkstormZ\"><a href=\"/?p=profile&amp;id=45312\" style=\"color: #9d4edd;\" class=\"un unavailable inactive\">LinkstormZ</a></span>.",
+      "description": "This UberASM allows the player to have the skills Peach had back in SMB2, including the Peach Bomber from SSB, the SMB2 Hi-Jump (Charged Jump) and the Floating Ability from SMB2.<br>\r\n<br>\r\nOriginally an Asar Patch made by Ladida (Noobish Noobsicle and scepile3 are credited too), now unified, reconverted and reorganized into an unique UberASM for a better use by Black Goku... the changes were:<br>\r\n<br>\r\n- Added additional customization and timers.<br>\r\n- Added a flag for the players in case they want to have only a player with the skills.<br>\r\n- Fixed the Cape bug from the Asar Patch (and the ones that triggered restricting the skills in the powerups).<br>\r\n<br>\r\nNotes of the original readme made by Ladida:<br>\r\n- Originally, the hijump was coded by <span class=\"un-outer\" title=\"Noobish Noobsicle\"><a href=\"/?p=profile&amp;id=4297\" style=\"color: #f7b801;\" class=\"un unavailable inactive\">Noobish Noobsicle</a></span> and i just tweaked it. but now its been coded it from scratch.<br>\r\n- Originally, the float was a Yoshi Flutter by <span class=\"un-outer\" title=\"scepile3\"><a href=\"/?p=profile&amp;id=2889\" style=\"color: #9d4edd;\" class=\"un unavailable inactive\">scepile3</a></span>and i just edited it. but now its been coded it from scratch.<br>\r\n<br>\r\nCredit to me is optional.<br>\r\n<br>\r\nThis is my first ASM conversion, so any suggestions are welcome.<br>\r\n<br>\r\nSMW Styled Peach shown here belongs to <span class=\"un-outer\" title=\"LinkstormZ\"><a href=\"/?p=profile&amp;id=45312\" style=\"color: #9d4edd;\" class=\"un\">LinkstormZ</a></span>.",
       "latest_version": "smwc-42483-1782085948",
       "install_kind": "uber_asm",
       "versions": [
@@ -11233,7 +11900,7 @@
         "sa-1",
         "tile"
       ],
-      "description": "<span class=\"un-outer\" title=\"MellyMellouange\"><a href=\"/?p=profile&amp;id=565\" style=\"color: #eb6123;\" class=\"un unavailable inactive\">MellyMellouange</a></span>'s old Wing Cap sprite, cleaned up, optimized, made LM3 compatible, bugfixed and converted to UberASM by <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #f8a481;\" title=\"Tewi\" class=\"un\">Arinsu</a></span>. <br>\r\n<br>\r\nGives the player the ability to fly: also includes an optional spinjump drill down and glide ability.",
+      "description": "<span class=\"un-outer\" title=\"MellyMellouange\"><a href=\"/?p=profile&amp;id=565\" style=\"color: #eb6123;\" class=\"un unavailable inactive\">MellyMellouange</a></span>'s old Wing Cap sprite, cleaned up, optimized, made LM3 compatible, bugfixed and converted to UberASM by <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #fdadf4;\" title=\"Tewi\" class=\"un\">Arinsu</a></span>. <br>\r\n<br>\r\nGives the player the ability to fly: also includes an optional spinjump drill down and glide ability.",
       "latest_version": "1.1.1",
       "install_kind": "uber_asm",
       "versions": [

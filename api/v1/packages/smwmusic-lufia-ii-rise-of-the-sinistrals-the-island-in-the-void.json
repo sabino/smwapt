@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-the-island-in-the-void",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 43030,
+  "title": "Lufia II: Rise of the Sinistrals - The Island in the Void",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "castle",
+    "fire",
+    "ruins"
+  ],
+  "description": "Lufia II music",
+  "latest_version": "smwc-43030-1792788816",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 43030,
+      "title": "Lufia II: Rise of the Sinistrals - The Island in the Void",
+      "version": "smwc-43030-1792788816",
+      "upstream_time": 1792788816,
+      "download_url": "https://dl.smwcentral.net/43030/The%20Island%20in%20the%20Void.zip",
+      "filename": "The Island in the Void.zip",
+      "size": 59511,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

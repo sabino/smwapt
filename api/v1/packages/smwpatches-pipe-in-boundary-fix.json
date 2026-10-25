@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-pipe-in-boundary-fix",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 43338,
+  "title": "Pipe In Boundary Fix",
+  "authors": [
+    "Arinsu"
+  ],
+  "tags": [
+    "lorom",
+    "pipe",
+    "sa-1",
+    "screen exit"
+  ],
+  "description": "Fixes horizontal pipes in the leftmost or rightmost part of horizontal levels taking the player to an unpredictable sublevel.",
+  "latest_version": "1.0",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 43338,
+      "title": "Pipe In Boundary Fix",
+      "version": "1.0",
+      "upstream_time": 1792549176,
+      "download_url": "https://dl.smwcentral.net/43338/Pipe%20in%20Boundary%20Fix.zip",
+      "filename": "Pipe in Boundary Fix.zip",
+      "size": 571,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

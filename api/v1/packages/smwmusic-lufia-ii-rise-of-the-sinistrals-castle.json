@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-castle",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42999,
+  "title": "Lufia II: Rise of the Sinistrals - Castle",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "castle",
+    "cutscene",
+    "town"
+  ],
+  "description": "Lufia II music",
+  "latest_version": "smwc-42999-1792783132",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42999,
+      "title": "Lufia II: Rise of the Sinistrals - Castle",
+      "version": "smwc-42999-1792783132",
+      "upstream_time": 1792783132,
+      "download_url": "https://dl.smwcentral.net/42999/Castle.zip",
+      "filename": "Castle.zip",
+      "size": 56202,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

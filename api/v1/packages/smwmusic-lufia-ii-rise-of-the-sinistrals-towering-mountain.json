@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-towering-mountain",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 43017,
+  "title": "Lufia II: Rise of the Sinistrals - Towering Mountain",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "castle",
+    "mountain"
+  ],
+  "description": "Lufia II music",
+  "latest_version": "smwc-43017-1792786069",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 43017,
+      "title": "Lufia II: Rise of the Sinistrals - Towering Mountain",
+      "version": "smwc-43017-1792786069",
+      "upstream_time": 1792786069,
+      "download_url": "https://dl.smwcentral.net/43017/Towering%20Mountain.zip",
+      "filename": "Towering Mountain.zip",
+      "size": 62481,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-to-the-future",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 43032,
+  "title": "Lufia II: Rise of the Sinistrals - To the Future",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "calm",
+    "credits",
+    "cutscene"
+  ],
+  "description": "Lufia II music",
+  "latest_version": "smwc-43032-1792789973",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 43032,
+      "title": "Lufia II: Rise of the Sinistrals - To the Future",
+      "version": "smwc-43032-1792789973",
+      "upstream_time": 1792789973,
+      "download_url": "https://dl.smwcentral.net/43032/To%20the%20Future.zip",
+      "filename": "To the Future.zip",
+      "size": 125677,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

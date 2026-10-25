@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-autumn",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 43014,
+  "title": "Lufia II: Rise of the Sinistrals - Autumn",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "calm",
+    "snow",
+    "town"
+  ],
+  "description": "Lufia II music",
+  "latest_version": "smwc-43014-1792785467",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 43014,
+      "title": "Lufia II: Rise of the Sinistrals - Autumn",
+      "version": "smwc-43014-1792785467",
+      "upstream_time": 1792785467,
+      "download_url": "https://dl.smwcentral.net/43014/Lufia%202%20Autumn.zip",
+      "filename": "Lufia 2 Autumn.zip",
+      "size": 56616,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

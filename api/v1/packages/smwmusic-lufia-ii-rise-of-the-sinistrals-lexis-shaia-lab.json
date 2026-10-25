@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-lexis-shaia-lab",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 43020,
+  "title": "Lufia II: Rise of the Sinistrals - Lexis Shaia Lab",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "abstract",
+    "carnival",
+    "cutscene",
+    "town"
+  ],
+  "description": "Lufia II music",
+  "latest_version": "smwc-43020-1792786499",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 43020,
+      "title": "Lufia II: Rise of the Sinistrals - Lexis Shaia Lab",
+      "version": "smwc-43020-1792786499",
+      "upstream_time": 1792786499,
+      "download_url": "https://dl.smwcentral.net/43020/Lexis%20Shaia%20Lab.zip",
+      "filename": "Lexis Shaia Lab.zip",
+      "size": 56978,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

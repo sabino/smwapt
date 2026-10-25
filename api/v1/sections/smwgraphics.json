@@ -31,70 +31,6 @@
     ]
   },
   {
-    "name": "smwgraphics-alternative-redrawn-pidgit-bill",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 42756,
-    "title": "Alternative Redrawn Pidgit Bill",
-    "authors": [
-      "Frattari Gaspar",
-      "Moltz",
-      "SF - The Dark Warrior"
-    ],
-    "tags": [
-      "bullet bill",
-      "pidgit bill",
-      "redrawn"
-    ],
-    "description": "Alternative redrawn graphics for SMW Redrawn's Pidgit Bill, which replaces vanilla Bullet Bill's graphics after all 96 exits have been found.<br>\r\n<br>\r\nThis version now includes graphics for the vertical and diagonal Bullet Bills, as well exanimation data for both based on how fast the user wants the Pidgits to flap their wings.<br>\r\n<br>\r\nGive credit to me, SF - The Dark Warrior, and Frattari Gaspar if used.",
-    "latest_version": "2.0",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 42756,
-        "title": "Alternative Redrawn Pidgit Bill",
-        "version": "2.0",
-        "upstream_time": 1785371362,
-        "download_url": "https://dl.smwcentral.net/42756/New%20Redrawn%20Pidgit%20v2.zip",
-        "filename": "New Redrawn Pidgit v2.zip",
-        "size": 11300,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
-    "name": "smwgraphics-bandr-s-grassland",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 42783,
-    "title": "bandr's Grassland",
-    "authors": [
-      "bandr"
-    ],
-    "tags": [
-      "grassland"
-    ],
-    "description": "My first ever ExGFX.  (at least, that i post.) <br>\r\n<br>\r\nI don't care about credits, honestly. But, it would be nice if you would just go ahead and credit me.<br>\r\n<br>\r\nInspired by <span class=\"un-outer\" title=\"Tob\"><a href=\"/?p=profile&amp;id=25442\" style=\"color: #9d4edd;\" class=\"un\">Tob</a></span>'s <a href=\"https://www.smwcentral.net/?p=section&a=details&id=41692\">\"Super Mario World Styled Faithful Athletic Grassland\"</a>.",
-    "latest_version": "smwc-42783-1785954429",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 42783,
-        "title": "bandr's Grassland",
-        "version": "smwc-42783-1785954429",
-        "upstream_time": 1785954429,
-        "download_url": "https://dl.smwcentral.net/42783/bandr-Grass.zip",
-        "filename": "bandr-Grass.zip",
-        "size": 4071,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
     "name": "smwgraphics-brambles",
     "aliases": [],
     "section": "smwgraphics",
@@ -189,6 +125,162 @@
     ]
   },
   {
+    "name": "smwgraphics-burnt-rex",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 43369,
+    "title": "Burnt Rex",
+    "authors": [
+      "pepperannfanatic"
+    ],
+    "tags": [
+      "rex"
+    ],
+    "description": "Here are the Burnt Rex graphics I just made in minutes.<br>\r\n<br>\r\nDon't forget to give credit",
+    "latest_version": "smwc-43369-1792880618",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 43369,
+        "title": "Burnt Rex",
+        "version": "smwc-43369-1792880618",
+        "upstream_time": 1792880618,
+        "download_url": "https://dl.smwcentral.net/43369/Burnt_Rex.zip",
+        "filename": "Burnt_Rex.zip",
+        "size": 2056,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
+    "name": "smwgraphics-calling-all-mixels-inspired-cragster-land",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 43370,
+    "title": "Calling All Mixels-inspired Cragster Land",
+    "authors": [
+      "playagmes169"
+    ],
+    "tags": [
+      "cave",
+      "mountain",
+      "patch needed",
+      "town"
+    ],
+    "description": "This is my first time posting an sunset BG and FG I've made myself, and as you can see, this is a redraw of the Cragster Land, based on Calling All Mixels. I've decided to make this a sunset because in the original game, the Electroid Land takes place at night, since it was a disco land of some sort. I've used an isometric perspective on the L3 BG, not only because it looks aesthetically pleasing, but also, and most importantly, to save storage space for the L3 BG<br>\r\n<br>\r\nNOTICE: If you want to use the L3 BG, make sure to use <a href=\"https://www.smwcentral.net/?p=section&a=details&id=40144\">a patch to get rid of the status bar.</a>",
+    "latest_version": "smwc-43370-1792355244",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 43370,
+        "title": "Calling All Mixels-inspired Cragster Land",
+        "version": "smwc-43370-1792355244",
+        "upstream_time": 1792355244,
+        "download_url": "https://dl.smwcentral.net/43370/cragsterland.zip",
+        "filename": "cragsterland.zip",
+        "size": 11601,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
+    "name": "smwgraphics-calling-all-mixels-inspired-infernite-land",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 43325,
+    "title": "Calling All Mixels-inspired Infernite Land",
+    "authors": [
+      "playagmes169"
+    ],
+    "tags": [
+      "ruins",
+      "volcano"
+    ],
+    "description": "Does anyone remember LEGO Mixels? Well, I've made some graphics of the 1st world in Calling All Mixels, the Infernites Land. In this game, each tribe's land has been re-imagined specifically for that game, like how the Infernites Land has been re-imagined as a tropical vacation resort with burning hot lava instead of water, since the Infernites themselves are fire-resistant and go swim and bathe there.<br>\r\n<br>\r\nHuge thanks to <span class=\"un-outer\" title=\"HaruMKT\"><a href=\"/?p=profile&amp;id=13862\" style=\"color: #f7b801;\" class=\"un\">HaruMKT</a></span> for helping me with managing the palettes' colors, I struggle a lot with managing colors, and luckily, they came in to help me, so, thanks again!",
+    "latest_version": "smwc-43325-1792355987",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 43325,
+        "title": "Calling All Mixels-inspired Infernite Land",
+        "version": "smwc-43325-1792355987",
+        "upstream_time": 1792355987,
+        "download_url": "https://dl.smwcentral.net/43325/infernitesland.zip",
+        "filename": "infernitesland.zip",
+        "size": 10111,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
+    "name": "smwgraphics-castlevania-aria-of-sorrow-dance-hall-basement-boss-room",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 42917,
+    "title": "Castlevania: Aria of Sorrow - Dance Hall ~ Basement (Boss Room)",
+    "authors": [
+      "Anorakun"
+    ],
+    "tags": [
+      "castle",
+      "house",
+      "interior"
+    ],
+    "description": "Wine stored in old barrels seen during the boss fight against the Giant Golem, from Castlevania: Aria of Sorrow. Compared to the source material, I had to be quite creative in how to loop the background, since the Game Boy Advance resolution is smaller. A good fit for wine cellars, in general.<br>\r\n<br>\r\nPlease do credit me if you use this submission, since it took me a lot of effort to assemble this graphic and make it look consistently good. Thanks!",
+    "latest_version": "smwc-42917-1792793338",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 42917,
+        "title": "Castlevania: Aria of Sorrow - Dance Hall ~ Basement (Boss Room)",
+        "version": "smwc-42917-1792793338",
+        "upstream_time": 1792793338,
+        "download_url": "https://dl.smwcentral.net/42917/Castlevania%20Aria%20of%20Sorrow%20-%20Dance%20Hall%20Basement%20%28Boss%20Room%29.zip",
+        "filename": "Castlevania Aria of Sorrow - Dance Hall Basement (Boss Room).zip",
+        "size": 5924,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
+    "name": "smwgraphics-castlevania-dracula-x-stage",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 42918,
+    "title": "Castlevania: Dracula X - Stage 7 (Vertical Section)",
+    "authors": [
+      "Anorakun"
+    ],
+    "tags": [
+      "castle"
+    ],
+    "description": "The tower-like tileset seen in the final level of Castlevania: Dracula X, where Richter has to dodge medusa heads and spear knights, while riding flying platforms. It uses the last colors of palette 4, while keeping the graphics from cement and note blocks intact.<br>\r\n<br>\r\nA good fit for tower (vertical) levels. ",
+    "latest_version": "smwc-42918-1792793735",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 42918,
+        "title": "Castlevania: Dracula X - Stage 7 (Vertical Section)",
+        "version": "smwc-42918-1792793735",
+        "upstream_time": 1792793735,
+        "download_url": "https://dl.smwcentral.net/42918/Castlevania%20Dracula%20X%20-%20Stage%207%20%28Vertical%20Section%29.zip",
+        "filename": "Castlevania Dracula X - Stage 7 (Vertical Section).zip",
+        "size": 4845,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
     "name": "smwgraphics-chef-chuck",
     "aliases": [],
     "section": "smwgraphics",
@@ -213,6 +305,67 @@
         "download_url": "https://dl.smwcentral.net/43081/Chef%20Chuck.zip",
         "filename": "Chef Chuck.zip",
         "size": 12443,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
+    "name": "smwgraphics-custom-ninji-giant-ninji-sideways-ninji-and-giant-sideways-ninji",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 43373,
+    "title": "Custom Ninji, Giant Ninji, Sideways Ninji and Giant Sideways Ninji",
+    "authors": [
+      "Broozer"
+    ],
+    "tags": [
+      "giant ninji",
+      "giant sideways ninji",
+      "ninji",
+      "sideways ninji"
+    ],
+    "description": "Original graphic replacements for the following sprites:<br>\r\n<br>\r\n<ul><li>Ninji (sprite 51)</li>\n<li><a href=\"https://www.smwcentral.net/?p=section&a=details&id=28494\">Sideways Ninji</a></li>\n<li><a href=\"https://www.smwcentral.net/?p=section&a=details&id=23712\">Giant Ninji</a></li>\n<li><a href=\"https://bin.smwcentral.net/u/28983/Giant%2BSideways%2BNinji.zip&key=C4JRzOhm\" rel=\"nofollow\">Giant Sideways Ninji</a></li></ul><br>\r\nAs well as any custom sprite that uses the original Ninji graphics.<br>\r\n<br>\r\nIn addition to the graphics, the .zip comes with a custom palette for a purple Ninji skin, akin to the enemy's appearance in SMAS:SMB2. Required to set the sprites' palette through STEAR/Tweaker/PIXI's CFG Editor from palette C to palette F for the color change to take effect.<br>\r\n<br>\r\nAdditional information in the readme file. Credit is optional, but appreciated.",
+    "latest_version": "smwc-43373-1792591432",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 43373,
+        "title": "Custom Ninji, Giant Ninji, Sideways Ninji and Giant Sideways Ninji",
+        "version": "smwc-43373-1792591432",
+        "upstream_time": 1792591432,
+        "download_url": "https://dl.smwcentral.net/43373/custom-ninjis.zip",
+        "filename": "custom-ninjis.zip",
+        "size": 4651,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
+    "name": "smwgraphics-custom-skeeter",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 43270,
+    "title": "Custom Skeeter",
+    "authors": [
+      "Broozer"
+    ],
+    "tags": [],
+    "description": "Original graphic replacements for <a href=\"https://www.smwcentral.net/?p=section&a=details&id=6419\">Dispari Scuro's Skeeter sprite</a>.<br>\r\n<br>\r\nIncludes 6 variations, one for each design of the enemy in different Mario games.<br>\r\n<br>\r\nAdditional information in the readme file. Credit is optional, but appreciated.",
+    "latest_version": "smwc-43270-1792355624",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 43270,
+        "title": "Custom Skeeter",
+        "version": "smwc-43270-1792355624",
+        "upstream_time": 1792355624,
+        "download_url": "https://dl.smwcentral.net/43270/custom-skeeter.zip",
+        "filename": "custom-skeeter.zip",
+        "size": 5937,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -860,36 +1013,6 @@
     ]
   },
   {
-    "name": "smwgraphics-mario-if-he-locked-in",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 42613,
-    "title": "Mario if he locked in",
-    "authors": [
-      "16-BitMario94"
-    ],
-    "tags": [
-      "male"
-    ],
-    "description": "Some Mario sprites I made for fun, please credit me if you're going to use them in a hack!",
-    "latest_version": "smwc-42613-1784912978",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 42613,
-        "title": "Mario if he locked in",
-        "version": "smwc-42613-1784912978",
-        "upstream_time": 1784912978,
-        "download_url": "https://dl.smwcentral.net/42613/Mario%20if%20he%20locked%20in.zip",
-        "filename": "Mario if he locked in.zip",
-        "size": 11362,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
     "name": "smwgraphics-mega-man-x2-x-hunter-base",
     "aliases": [],
     "section": "smwgraphics",
@@ -914,37 +1037,6 @@
         "download_url": "https://dl.smwcentral.net/42948/Mega%20Man%20X2%20-%20X-Hunter%20Stage%204%20%28Boss%20Rematch%29.zip",
         "filename": "Mega Man X2 - X-Hunter Stage 4 (Boss Rematch).zip",
         "size": 2477,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
-    "name": "smwgraphics-minus-galaxy-styled-mario",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 42774,
-    "title": "Minus Galaxy Styled Mario",
-    "authors": [
-      "Gamer collin",
-      "mit"
-    ],
-    "tags": [
-      "male"
-    ],
-    "description": "Minus Galaxy Styled Mario - Give credits to Mit if used. Crediting me for the spin jump stuff is optional.<br>\r\n<br>\r\nI created 4 spin jump frames for Mario if the Modern Spin Jump Patch is inserted. <br>\r\n<br>\r\nThe <a href=\"https://www.smwcentral.net/?p=section&a=details&id=40241\">32x32 player tilemap patch</a> is required, if you wanna use these graphics.<br>\r\n<br>\r\nCredit <span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" title=\"ghostly yoshifanatic\" class=\"un\">yoshifanatic</a></span>, as well, if you use the Modern Spin Jump patch.",
-    "latest_version": "smwc-42774-1785695919",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 42774,
-        "title": "Minus Galaxy Styled Mario",
-        "version": "smwc-42774-1785695919",
-        "upstream_time": 1785695919,
-        "download_url": "https://dl.smwcentral.net/42774/Mario%20%28Minus%20Galaxy%20Style%29.zip",
-        "filename": "Mario (Minus Galaxy Style).zip",
-        "size": 49729,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -1171,72 +1263,6 @@
     ]
   },
   {
-    "name": "smwgraphics-soul-blazer-battle-with-deathtoll",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 42024,
-    "title": "Soul Blazer - Battle with Deathtoll",
-    "authors": [
-      "Anorakun",
-      "Darolac",
-      "TheXander"
-    ],
-    "tags": [
-      "abstract",
-      "hdma",
-      "sky"
-    ],
-    "description": "The background seen in the final battle of Soul Blazer, a cult classic video game made by Quintet. <br>\r\n<br>\r\nThe parallax scrolling was made by <span class=\"un-outer\" title=\"TheXander\"><a href=\"/?p=profile&amp;id=49146\" style=\"color: #eb6123;\" class=\"un\">TheXander</a></span>, but also has parts of <span class=\"un-outer\" title=\"Darolac\"><a href=\"/?p=profile&amp;id=34390\" style=\"color: #9d4edd;\" class=\"un\">Darolac</a></span>'s code in it, so credit both of them, if you use the bundled asm file.<br>\r\n<br>\r\nIf you want to lower the background, you must edit the parallax tables at the end of the asm file. <br>\r\n<br>\r\nA good fit for climatic boss battles or sky levels.",
-    "latest_version": "smwc-42024-1785442984",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 42024,
-        "title": "Soul Blazer - Battle with Deathtoll",
-        "version": "smwc-42024-1785442984",
-        "upstream_time": 1785442984,
-        "download_url": "https://dl.smwcentral.net/42024/Soul%20Blazer%20-%20Battle%20with%20Deathtoll%20%28feat.%20parallax%29.zip",
-        "filename": "Soul Blazer - Battle with Deathtoll (feat. parallax).zip",
-        "size": 5158,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
-    "name": "smwgraphics-soul-blazer-world-of-evil-space",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 42036,
-    "title": "Soul Blazer - World of Evil (Space)",
-    "authors": [
-      "Anorakun",
-      "Donut"
-    ],
-    "tags": [
-      "hdma",
-      "space"
-    ],
-    "description": "The space-like background seen in the final area of Soul Blazer, a cult classic video game made by Quintet.  A good fit for space levels.<br>\r\n<br>\r\nBundled with this submission is a wave hdma code made by <span class=\"un-outer\" title=\"Donut\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=48514\" style=\"color: #15a760;\" title=\"Cheerio\" class=\"un\">Donut</a></span>, meant to replicate the effect seen in the source material.  Insert it using <a href=\"https://www.smwcentral.net/?p=section&a=details&id=39036\">UberASM Tool 2.1</a>. ",
-    "latest_version": "smwc-42036-1785442976",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 42036,
-        "title": "Soul Blazer - World of Evil (Space)",
-        "version": "smwc-42036-1785442976",
-        "upstream_time": 1785442976,
-        "download_url": "https://dl.smwcentral.net/42036/Soul%20Blazer%20-%20World%20of%20Evil%20%28Space%20%2B%20Wave%20Effect%29.zip",
-        "filename": "Soul Blazer - World of Evil (Space + Wave Effect).zip",
-        "size": 5240,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
     "name": "smwgraphics-spike",
     "aliases": [],
     "section": "smwgraphics",
@@ -1328,30 +1354,31 @@
     ]
   },
   {
-    "name": "smwgraphics-super-mario-world-styled-desert",
+    "name": "smwgraphics-super-mario-world-redrawn-s-world-map-graphics-pack",
     "aliases": [],
     "section": "smwgraphics",
-    "upstream_id": 42655,
-    "title": "Super Mario World Styled Desert",
+    "upstream_id": 43237,
+    "title": "Super Mario World Redrawn's World Map Graphics Pack",
     "authors": [
-      "RebootedThunder"
+      "Moltz",
+      "icegoom"
     ],
     "tags": [
-      "desert",
-      "pyramid"
+      "overworld",
+      "redrawn"
     ],
-    "description": "My first ever tileset. A cool desert tileset that includes FG and BG tiles + a custom palette! Hope you like it!",
-    "latest_version": "1.1",
+    "description": "An updated version of Icegoom's Super Mario World's Redrawn's Overworld-inspired graphics that covers every tile previously left untouched (including but not limited to: bridges, Bowser Valley's entrance, Star World's Moon, etc.) or that was too different to SMW's own style - mostly concerning the Forest of Illusion's small and big trees.<br>\r\n<br>\r\nThis pack also includes different World Map graphics for redrawn Mario & Luigi, depending on whether they look like in Icegoom's original SMW Redrawn release, or in a more cartoony vibe similar-ish to how vanilla SMW depicts the brothers.<br>\r\n<br>\r\nCredit goes to both me (Moltz) and Icegoom.",
+    "latest_version": "2",
     "install_kind": "asset_only",
     "versions": [
       {
-        "upstream_id": 42655,
-        "title": "Super Mario World Styled Desert",
-        "version": "1.1",
-        "upstream_time": 1784853478,
-        "download_url": "https://dl.smwcentral.net/42655/SMW-Styled%20Desert.zip",
-        "filename": "SMW-Styled Desert.zip",
-        "size": 7518,
+        "upstream_id": 43237,
+        "title": "Super Mario World Redrawn's World Map Graphics Pack",
+        "version": "2",
+        "upstream_time": 1792372760,
+        "download_url": "https://dl.smwcentral.net/43237/Redrawn%20Overworld%20Pack.zip",
+        "filename": "Redrawn Overworld Pack.zip",
+        "size": 114259,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -1359,32 +1386,64 @@
     ]
   },
   {
-    "name": "smwgraphics-super-mario-world-styled-princess-peach",
+    "name": "smwgraphics-super-mario-world-styled-shy-guy-tweeter-snifit-and-beezo",
     "aliases": [],
     "section": "smwgraphics",
-    "upstream_id": 42623,
-    "title": "Super Mario World Styled Princess Peach",
+    "upstream_id": 43272,
+    "title": "Super Mario World Styled Shy Guy, Tweeter, Snifit and Beezo",
     "authors": [
-      "LinkstormZ"
+      "RebootedThunder"
     ],
     "tags": [
-      "cape",
-      "female",
-      "princess peach",
-      "raccoon"
+      "beezo",
+      "shy guy",
+      "snifit",
+      "tweeter"
     ],
-    "description": "A Princess Peach SMW style<br>\r\n<br>\r\nMario and the Princess change places<br>\r\n<br>\r\nExtra:<br>\r\n2 versions: With cape or Raccoon( <a href=\"https://www.smwcentral.net/?p=section&a=details&id=12444\"> for this patch </a><br>\r\n  )<br>\r\n<br>\r\nEnjoy!<br>\r\n<br>\r\nUpdate: added file for patch the Mario Start! to Peach Start!<br>\r\nAfter long time i fixed the old design",
-    "latest_version": "smwc-42623-1784915675",
+    "description": "A GFX pack that contains a SMW styled shy guy, snifit etc.<br>\r\nTO USE WITH:<br>\r\n<a href=\"https://www.smwcentral.net/?p=section&a=details&id=43087\">ShyGuy/Snifit</a><br>\r\n<a href=\"https://www.smwcentral.net/?p=section&a=details&id=43089\">Tweeter</a><br>\r\n<a href=\"https://www.smwcentral.net/?p=section&a=details&id=43088\">Beezo</a><br>\r\n",
+    "latest_version": "smwc-43272-1792350879",
     "install_kind": "asset_only",
     "versions": [
       {
-        "upstream_id": 42623,
-        "title": "Super Mario World Styled Princess Peach",
-        "version": "smwc-42623-1784915675",
-        "upstream_time": 1784915675,
-        "download_url": "https://dl.smwcentral.net/42623/SMW-Styled%20Princess%20Peach.zip",
-        "filename": "SMW-Styled Princess Peach.zip",
-        "size": 48620,
+        "upstream_id": 43272,
+        "title": "Super Mario World Styled Shy Guy, Tweeter, Snifit and Beezo",
+        "version": "smwc-43272-1792350879",
+        "upstream_time": 1792350879,
+        "download_url": "https://dl.smwcentral.net/43272/SMW%20Styled%20Beezo%2C%20ShyGuy%2C%20Tweeter%2C%20Snifit.zip",
+        "filename": "SMW Styled Beezo%2C ShyGuy%2C Tweeter%2C Snifit.zip",
+        "size": 3882,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
+    "name": "smwgraphics-super-mario-world-styled-super-mario-all-stars-super-mario-bros-hills",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 43381,
+    "title": "Super Mario World Styled Super Mario All-Stars: Super Mario Bros. Hills",
+    "authors": [
+      "RebootedThunder"
+    ],
+    "tags": [
+      "grassland",
+      "sky",
+      "snow"
+    ],
+    "description": "The classic hills/mountain SMAS SMB1 bg but now in a SMW style (reuploaded becuse map16 file was missing)",
+    "latest_version": "smwc-43381-1792591092",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 43381,
+        "title": "Super Mario World Styled Super Mario All-Stars: Super Mario Bros. Hills",
+        "version": "smwc-43381-1792591092",
+        "upstream_time": 1792591092,
+        "download_url": "https://dl.smwcentral.net/43381/SMW%20Styled%20SMAS%20SMB1%20Hills%20BG.zip",
+        "filename": "SMW Styled SMAS SMB1 Hills BG.zip",
+        "size": 6761,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -1415,66 +1474,6 @@
         "download_url": "https://dl.smwcentral.net/42866/SMW---Styled%20SMB2%20Grassland.zip",
         "filename": "SMW---Styled SMB2 Grassland.zip",
         "size": 6276,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
-    "name": "smwgraphics-wario-land",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 42725,
-    "title": "Wario Land 3 - Above the Clouds (Moon Area)",
-    "authors": [
-      "Brutapode89"
-    ],
-    "tags": [
-      "pyramid"
-    ],
-    "description": "Ripped from the Moon area of the Above the Clouds level in Wario Land 3 on Game Boy Color.<br>\r\n<br>\r\nNote: Meant to be used with a Layer 2 level.",
-    "latest_version": "smwc-42725-1784772436",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 42725,
-        "title": "Wario Land 3 - Above the Clouds (Moon Area)",
-        "version": "smwc-42725-1784772436",
-        "upstream_time": 1784772436,
-        "download_url": "https://dl.smwcentral.net/42725/Wario%20Land%203%20-%20Above%20the%20Clouds%20%28Inside%20Moon%29.zip",
-        "filename": "Wario Land 3 - Above the Clouds (Inside Moon).zip",
-        "size": 6726,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
-    "name": "smwgraphics-whisper-the-wolf",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 41927,
-    "title": "Whisper The Wolf",
-    "authors": [
-      "NinAlexTM"
-    ],
-    "tags": [
-      "female"
-    ],
-    "description": "Whisper The Wolf...But in SMW Let´s Go &gt;:D. Made by me :).<br>\r\nThe Zip File includes:<br>\r\nGFX32 (Player)<br>\r\nGFX28 (Name)<br>\r\nGFX10 (Overworld Player)<br>\r\nGFX00 (Some Player Tiles)<br>\r\nSMW_Shared.pal (The character color palettes)<br>\r\n<br>\r\nAlso includes optional GFX:<br>\r\nGFX22<br>\r\nGFX24 (Both removes blushing frames from the vanilla ending)<br>\r\n<br>\r\nFunny Thing: Like i did with Tangle & Rayman, Second Player it´s a Silver Color Reference (not at all), again, to mimic \"Green Mario\". (Because of the limited colors and some shared colors between P1 & P2, P2 looks a little weird)",
-    "latest_version": "smwc-41927-1785436075",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 41927,
-        "title": "Whisper The Wolf",
-        "version": "smwc-41927-1785436075",
-        "upstream_time": 1785436075,
-        "download_url": "https://dl.smwcentral.net/41927/Whisper%20in%20SMW.zip",
-        "filename": "Whisper in SMW.zip",
-        "size": 23932,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"

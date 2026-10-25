@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-shrine",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 43005,
+  "title": "Lufia II: Rise of the Sinistrals - Shrine",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "castle",
+    "cutscene",
+    "ruins",
+    "tense"
+  ],
+  "description": "Lufia II music",
+  "latest_version": "smwc-43005-1792784090",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 43005,
+      "title": "Lufia II: Rise of the Sinistrals - Shrine",
+      "version": "smwc-43005-1792784090",
+      "upstream_time": 1792784090,
+      "download_url": "https://dl.smwcentral.net/43005/Shrine.zip",
+      "filename": "Shrine.zip",
+      "size": 54366,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

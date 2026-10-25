@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-the-quieting-world",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 43026,
+  "title": "Lufia II: Rise of the Sinistrals - The Quieting World",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "calm",
+    "overworld",
+    "town"
+  ],
+  "description": "Lufia II music",
+  "latest_version": "smwc-43026-1792788168",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 43026,
+      "title": "Lufia II: Rise of the Sinistrals - The Quieting World",
+      "version": "smwc-43026-1792788168",
+      "upstream_time": 1792788168,
+      "download_url": "https://dl.smwcentral.net/43026/The%20Quieting%20World.zip",
+      "filename": "The Quieting World.zip",
+      "size": 51269,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

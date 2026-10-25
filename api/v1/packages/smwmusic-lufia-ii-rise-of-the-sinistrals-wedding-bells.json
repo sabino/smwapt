@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-wedding-bells",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 43010,
+  "title": "Lufia II: Rise of the Sinistrals - Wedding Bells",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "abstract",
+    "cutscene"
+  ],
+  "description": "Lufia II music",
+  "latest_version": "smwc-43010-1792784784",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 43010,
+      "title": "Lufia II: Rise of the Sinistrals - Wedding Bells",
+      "version": "smwc-43010-1792784784",
+      "upstream_time": 1792784784,
+      "download_url": "https://dl.smwcentral.net/43010/Wedding%20Bells.zip",
+      "filename": "Wedding Bells.zip",
+      "size": 45942,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

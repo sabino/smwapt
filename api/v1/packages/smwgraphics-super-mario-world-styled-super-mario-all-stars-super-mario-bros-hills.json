@@ -1,0 +1,32 @@
+{
+  "name": "smwgraphics-super-mario-world-styled-super-mario-all-stars-super-mario-bros-hills",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 43381,
+  "title": "Super Mario World Styled Super Mario All-Stars: Super Mario Bros. Hills",
+  "authors": [
+    "RebootedThunder"
+  ],
+  "tags": [
+    "grassland",
+    "sky",
+    "snow"
+  ],
+  "description": "The classic hills/mountain SMAS SMB1 bg but now in a SMW style (reuploaded becuse map16 file was missing)",
+  "latest_version": "smwc-43381-1792591092",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 43381,
+      "title": "Super Mario World Styled Super Mario All-Stars: Super Mario Bros. Hills",
+      "version": "smwc-43381-1792591092",
+      "upstream_time": 1792591092,
+      "download_url": "https://dl.smwcentral.net/43381/SMW%20Styled%20SMAS%20SMB1%20Hills%20BG.zip",
+      "filename": "SMW Styled SMAS SMB1 Hills BG.zip",
+      "size": 6761,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

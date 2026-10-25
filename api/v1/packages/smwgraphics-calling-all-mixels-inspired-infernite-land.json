@@ -1,0 +1,31 @@
+{
+  "name": "smwgraphics-calling-all-mixels-inspired-infernite-land",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 43325,
+  "title": "Calling All Mixels-inspired Infernite Land",
+  "authors": [
+    "playagmes169"
+  ],
+  "tags": [
+    "ruins",
+    "volcano"
+  ],
+  "description": "Does anyone remember LEGO Mixels? Well, I've made some graphics of the 1st world in Calling All Mixels, the Infernites Land. In this game, each tribe's land has been re-imagined specifically for that game, like how the Infernites Land has been re-imagined as a tropical vacation resort with burning hot lava instead of water, since the Infernites themselves are fire-resistant and go swim and bathe there.<br>\r\n<br>\r\nHuge thanks to <span class=\"un-outer\" title=\"HaruMKT\"><a href=\"/?p=profile&amp;id=13862\" style=\"color: #f7b801;\" class=\"un\">HaruMKT</a></span> for helping me with managing the palettes' colors, I struggle a lot with managing colors, and luckily, they came in to help me, so, thanks again!",
+  "latest_version": "smwc-43325-1792355987",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 43325,
+      "title": "Calling All Mixels-inspired Infernite Land",
+      "version": "smwc-43325-1792355987",
+      "upstream_time": 1792355987,
+      "download_url": "https://dl.smwcentral.net/43325/infernitesland.zip",
+      "filename": "infernitesland.zip",
+      "size": 10111,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

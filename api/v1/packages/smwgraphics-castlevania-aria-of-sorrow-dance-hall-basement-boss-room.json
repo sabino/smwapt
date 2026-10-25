@@ -1,0 +1,32 @@
+{
+  "name": "smwgraphics-castlevania-aria-of-sorrow-dance-hall-basement-boss-room",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 42917,
+  "title": "Castlevania: Aria of Sorrow - Dance Hall ~ Basement (Boss Room)",
+  "authors": [
+    "Anorakun"
+  ],
+  "tags": [
+    "castle",
+    "house",
+    "interior"
+  ],
+  "description": "Wine stored in old barrels seen during the boss fight against the Giant Golem, from Castlevania: Aria of Sorrow. Compared to the source material, I had to be quite creative in how to loop the background, since the Game Boy Advance resolution is smaller. A good fit for wine cellars, in general.<br>\r\n<br>\r\nPlease do credit me if you use this submission, since it took me a lot of effort to assemble this graphic and make it look consistently good. Thanks!",
+  "latest_version": "smwc-42917-1792793338",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 42917,
+      "title": "Castlevania: Aria of Sorrow - Dance Hall ~ Basement (Boss Room)",
+      "version": "smwc-42917-1792793338",
+      "upstream_time": 1792793338,
+      "download_url": "https://dl.smwcentral.net/42917/Castlevania%20Aria%20of%20Sorrow%20-%20Dance%20Hall%20Basement%20%28Boss%20Room%29.zip",
+      "filename": "Castlevania Aria of Sorrow - Dance Hall Basement (Boss Room).zip",
+      "size": 5924,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwgraphics-calling-all-mixels-inspired-cragster-land",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 43370,
+  "title": "Calling All Mixels-inspired Cragster Land",
+  "authors": [
+    "playagmes169"
+  ],
+  "tags": [
+    "cave",
+    "mountain",
+    "patch needed",
+    "town"
+  ],
+  "description": "This is my first time posting an sunset BG and FG I've made myself, and as you can see, this is a redraw of the Cragster Land, based on Calling All Mixels. I've decided to make this a sunset because in the original game, the Electroid Land takes place at night, since it was a disco land of some sort. I've used an isometric perspective on the L3 BG, not only because it looks aesthetically pleasing, but also, and most importantly, to save storage space for the L3 BG<br>\r\n<br>\r\nNOTICE: If you want to use the L3 BG, make sure to use <a href=\"https://www.smwcentral.net/?p=section&a=details&id=40144\">a patch to get rid of the status bar.</a>",
+  "latest_version": "smwc-43370-1792355244",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 43370,
+      "title": "Calling All Mixels-inspired Cragster Land",
+      "version": "smwc-43370-1792355244",
+      "upstream_time": 1792355244,
+      "download_url": "https://dl.smwcentral.net/43370/cragsterland.zip",
+      "filename": "cragsterland.zip",
+      "size": 11601,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

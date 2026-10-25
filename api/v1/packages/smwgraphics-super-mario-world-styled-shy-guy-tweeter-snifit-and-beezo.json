@@ -1,0 +1,33 @@
+{
+  "name": "smwgraphics-super-mario-world-styled-shy-guy-tweeter-snifit-and-beezo",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 43272,
+  "title": "Super Mario World Styled Shy Guy, Tweeter, Snifit and Beezo",
+  "authors": [
+    "RebootedThunder"
+  ],
+  "tags": [
+    "beezo",
+    "shy guy",
+    "snifit",
+    "tweeter"
+  ],
+  "description": "A GFX pack that contains a SMW styled shy guy, snifit etc.<br>\r\nTO USE WITH:<br>\r\n<a href=\"https://www.smwcentral.net/?p=section&a=details&id=43087\">ShyGuy/Snifit</a><br>\r\n<a href=\"https://www.smwcentral.net/?p=section&a=details&id=43089\">Tweeter</a><br>\r\n<a href=\"https://www.smwcentral.net/?p=section&a=details&id=43088\">Beezo</a><br>\r\n",
+  "latest_version": "smwc-43272-1792350879",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 43272,
+      "title": "Super Mario World Styled Shy Guy, Tweeter, Snifit and Beezo",
+      "version": "smwc-43272-1792350879",
+      "upstream_time": 1792350879,
+      "download_url": "https://dl.smwcentral.net/43272/SMW%20Styled%20Beezo%2C%20ShyGuy%2C%20Tweeter%2C%20Snifit.zip",
+      "filename": "SMW Styled Beezo%2C ShyGuy%2C Tweeter%2C Snifit.zip",
+      "size": 3882,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

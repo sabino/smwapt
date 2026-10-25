@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-port-town",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 43016,
+  "title": "Lufia II: Rise of the Sinistrals - Port Town",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "grassland",
+    "town"
+  ],
+  "description": "Lufia II music",
+  "latest_version": "smwc-43016-1792785914",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 43016,
+      "title": "Lufia II: Rise of the Sinistrals - Port Town",
+      "version": "smwc-43016-1792785914",
+      "upstream_time": 1792785914,
+      "download_url": "https://dl.smwcentral.net/43016/Port%20Town.zip",
+      "filename": "Port Town.zip",
+      "size": 67231,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

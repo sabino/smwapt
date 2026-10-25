@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-casino",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 43021,
+  "title": "Lufia II: Rise of the Sinistrals - Casino",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "abstract",
+    "bonus",
+    "carnival"
+  ],
+  "description": "Lufia II music",
+  "latest_version": "smwc-43021-1792787489",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 43021,
+      "title": "Lufia II: Rise of the Sinistrals - Casino",
+      "version": "smwc-43021-1792787489",
+      "upstream_time": 1792787489,
+      "download_url": "https://dl.smwcentral.net/43021/Casino.zip",
+      "filename": "Casino.zip",
+      "size": 37132,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

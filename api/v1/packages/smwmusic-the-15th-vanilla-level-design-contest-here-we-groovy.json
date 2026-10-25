@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-the-15th-vanilla-level-design-contest-here-we-groovy",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42966,
+  "title": "The 15th Vanilla Level Design Contest - Here We Groovy!",
+  "authors": [
+    "Dispace"
+  ],
+  "tags": [
+    "abstract",
+    "athletic",
+    "beach",
+    "grassland",
+    "town",
+    "urban"
+  ],
+  "description": "While VLDC15 remix contest result is \"coming soon\", but port release is \"inaugural\" during C3 Summer 2026. Here We Go! remix but urban groovy styled",
+  "latest_version": "smwc-42966-1792780284",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42966,
+      "title": "The 15th Vanilla Level Design Contest - Here We Groovy!",
+      "version": "smwc-42966-1792780284",
+      "upstream_time": 1792780284,
+      "download_url": "https://dl.smwcentral.net/42966/REMIX%20-%20Here%20Were%20Groovy%21.zip",
+      "filename": "REMIX - Here Were Groovy%21.zip",
+      "size": 33766,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

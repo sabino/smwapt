@@ -658,30 +658,6 @@ X-SMWAPT-Kind: AssetOnly
 X-SMWAPT-URL: https://dl.smwcentral.net/43250/Alternate%20Redrawn%20Muncher.zip
 Description: Alternate Redrawn Muncher
 
-Package: smwgraphics-alternative-redrawn-pidgit-bill
-Version: 2.0
-Section: smwgraphics
-Architecture: smw
-Maintainer: Frattari Gaspar, Moltz, SF - The Dark Warrior
-Filename: pool/smwgraphics/42756/New Redrawn Pidgit v2.zip
-Size: 11300
-X-SMWC-ID: 42756
-X-SMWAPT-Kind: AssetOnly
-X-SMWAPT-URL: https://dl.smwcentral.net/42756/New%20Redrawn%20Pidgit%20v2.zip
-Description: Alternative Redrawn Pidgit Bill
-
-Package: smwgraphics-bandr-s-grassland
-Version: smwc-42783-1785954429
-Section: smwgraphics
-Architecture: smw
-Maintainer: bandr
-Filename: pool/smwgraphics/42783/bandr-Grass.zip
-Size: 4071
-X-SMWC-ID: 42783
-X-SMWAPT-Kind: AssetOnly
-X-SMWAPT-URL: https://dl.smwcentral.net/42783/bandr-Grass.zip
-Description: bandr's Grassland
-
 Package: smwgraphics-brambles
 Version: smwc-43038-1787609487
 Section: smwgraphics
@@ -718,6 +694,66 @@ X-SMWAPT-Kind: AssetOnly
 X-SMWAPT-URL: https://dl.smwcentral.net/42876/burntmario.zip
 Description: Burnt Mario
 
+Package: smwgraphics-burnt-rex
+Version: smwc-43369-1792880618
+Section: smwgraphics
+Architecture: smw
+Maintainer: pepperannfanatic
+Filename: pool/smwgraphics/43369/Burnt_Rex.zip
+Size: 2056
+X-SMWC-ID: 43369
+X-SMWAPT-Kind: AssetOnly
+X-SMWAPT-URL: https://dl.smwcentral.net/43369/Burnt_Rex.zip
+Description: Burnt Rex
+
+Package: smwgraphics-calling-all-mixels-inspired-cragster-land
+Version: smwc-43370-1792355244
+Section: smwgraphics
+Architecture: smw
+Maintainer: playagmes169
+Filename: pool/smwgraphics/43370/cragsterland.zip
+Size: 11601
+X-SMWC-ID: 43370
+X-SMWAPT-Kind: AssetOnly
+X-SMWAPT-URL: https://dl.smwcentral.net/43370/cragsterland.zip
+Description: Calling All Mixels-inspired Cragster Land
+
+Package: smwgraphics-calling-all-mixels-inspired-infernite-land
+Version: smwc-43325-1792355987
+Section: smwgraphics
+Architecture: smw
+Maintainer: playagmes169
+Filename: pool/smwgraphics/43325/infernitesland.zip
+Size: 10111
+X-SMWC-ID: 43325
+X-SMWAPT-Kind: AssetOnly
+X-SMWAPT-URL: https://dl.smwcentral.net/43325/infernitesland.zip
+Description: Calling All Mixels-inspired Infernite Land
+
+Package: smwgraphics-castlevania-aria-of-sorrow-dance-hall-basement-boss-room
+Version: smwc-42917-1792793338
+Section: smwgraphics
+Architecture: smw
+Maintainer: Anorakun
+Filename: pool/smwgraphics/42917/Castlevania Aria of Sorrow - Dance Hall Basement (Boss Room).zip
+Size: 5924
+X-SMWC-ID: 42917
+X-SMWAPT-Kind: AssetOnly
+X-SMWAPT-URL: https://dl.smwcentral.net/42917/Castlevania%20Aria%20of%20Sorrow%20-%20Dance%20Hall%20Basement%20%28Boss%20Room%29.zip
+Description: Castlevania: Aria of Sorrow - Dance Hall ~ Basement (Boss Room)
+
+Package: smwgraphics-castlevania-dracula-x-stage
+Version: smwc-42918-1792793735
+Section: smwgraphics
+Architecture: smw
+Maintainer: Anorakun
+Filename: pool/smwgraphics/42918/Castlevania Dracula X - Stage 7 (Vertical Section).zip
+Size: 4845
+X-SMWC-ID: 42918
+X-SMWAPT-Kind: AssetOnly
+X-SMWAPT-URL: https://dl.smwcentral.net/42918/Castlevania%20Dracula%20X%20-%20Stage%207%20%28Vertical%20Section%29.zip
+Description: Castlevania: Dracula X - Stage 7 (Vertical Section)
+
 Package: smwgraphics-chef-chuck
 Version: smwc-43081-1791080573
 Section: smwgraphics
@@ -729,6 +765,30 @@ X-SMWC-ID: 43081
 X-SMWAPT-Kind: AssetOnly
 X-SMWAPT-URL: https://dl.smwcentral.net/43081/Chef%20Chuck.zip
 Description: Chef Chuck
+
+Package: smwgraphics-custom-ninji-giant-ninji-sideways-ninji-and-giant-sideways-ninji
+Version: smwc-43373-1792591432
+Section: smwgraphics
+Architecture: smw
+Maintainer: Broozer
+Filename: pool/smwgraphics/43373/custom-ninjis.zip
+Size: 4651
+X-SMWC-ID: 43373
+X-SMWAPT-Kind: AssetOnly
+X-SMWAPT-URL: https://dl.smwcentral.net/43373/custom-ninjis.zip
+Description: Custom Ninji, Giant Ninji, Sideways Ninji and Giant Sideways Ninji
+
+Package: smwgraphics-custom-skeeter
+Version: smwc-43270-1792355624
+Section: smwgraphics
+Architecture: smw
+Maintainer: Broozer
+Filename: pool/smwgraphics/43270/custom-skeeter.zip
+Size: 5937
+X-SMWC-ID: 43270
+X-SMWAPT-Kind: AssetOnly
+X-SMWAPT-URL: https://dl.smwcentral.net/43270/custom-skeeter.zip
+Description: Custom Skeeter
 
 Package: smwgraphics-custom-super-mario-bros
 Version: smwc-43197-1791145414
@@ -946,18 +1006,6 @@ X-SMWAPT-Kind: AssetOnly
 X-SMWAPT-URL: https://dl.smwcentral.net/43060/SMWGFXmarioscircuit.zip
 Description: Mario Circuit
 
-Package: smwgraphics-mario-if-he-locked-in
-Version: smwc-42613-1784912978
-Section: smwgraphics
-Architecture: smw
-Maintainer: 16-BitMario94
-Filename: pool/smwgraphics/42613/Mario if he locked in.zip
-Size: 11362
-X-SMWC-ID: 42613
-X-SMWAPT-Kind: AssetOnly
-X-SMWAPT-URL: https://dl.smwcentral.net/42613/Mario%20if%20he%20locked%20in.zip
-Description: Mario if he locked in
-
 Package: smwgraphics-mega-man-x2-x-hunter-base
 Version: smwc-42948-1787462091
 Section: smwgraphics
@@ -969,18 +1017,6 @@ X-SMWC-ID: 42948
 X-SMWAPT-Kind: AssetOnly
 X-SMWAPT-URL: https://dl.smwcentral.net/42948/Mega%20Man%20X2%20-%20X-Hunter%20Stage%204%20%28Boss%20Rematch%29.zip
 Description: Mega Man X2 - X-Hunter Base 4 (Boss Rematch)
-
-Package: smwgraphics-minus-galaxy-styled-mario
-Version: smwc-42774-1785695919
-Section: smwgraphics
-Architecture: smw
-Maintainer: Gamer collin, mit
-Filename: pool/smwgraphics/42774/Mario (Minus Galaxy Style).zip
-Size: 49729
-X-SMWC-ID: 42774
-X-SMWAPT-Kind: AssetOnly
-X-SMWAPT-URL: https://dl.smwcentral.net/42774/Mario%20%28Minus%20Galaxy%20Style%29.zip
-Description: Minus Galaxy Styled Mario
 
 Package: smwgraphics-mushrooms
 Version: smwc-43074-1787871298
@@ -1066,30 +1102,6 @@ X-SMWAPT-Kind: AssetOnly
 X-SMWAPT-URL: https://dl.smwcentral.net/43220/sonicmaniasszact1.zip
 Description: Sonic Mania - Stardust Speedway Zone (Act 1)
 
-Package: smwgraphics-soul-blazer-battle-with-deathtoll
-Version: smwc-42024-1785442984
-Section: smwgraphics
-Architecture: smw
-Maintainer: Anorakun, Darolac, TheXander
-Filename: pool/smwgraphics/42024/Soul Blazer - Battle with Deathtoll (feat. parallax).zip
-Size: 5158
-X-SMWC-ID: 42024
-X-SMWAPT-Kind: AssetOnly
-X-SMWAPT-URL: https://dl.smwcentral.net/42024/Soul%20Blazer%20-%20Battle%20with%20Deathtoll%20%28feat.%20parallax%29.zip
-Description: Soul Blazer - Battle with Deathtoll
-
-Package: smwgraphics-soul-blazer-world-of-evil-space
-Version: smwc-42036-1785442976
-Section: smwgraphics
-Architecture: smw
-Maintainer: Anorakun, Donut
-Filename: pool/smwgraphics/42036/Soul Blazer - World of Evil (Space + Wave Effect).zip
-Size: 5240
-X-SMWC-ID: 42036
-X-SMWAPT-Kind: AssetOnly
-X-SMWAPT-URL: https://dl.smwcentral.net/42036/Soul%20Blazer%20-%20World%20of%20Evil%20%28Space%20%2B%20Wave%20Effect%29.zip
-Description: Soul Blazer - World of Evil (Space)
-
 Package: smwgraphics-spike
 Version: smwc-42818-1786305647
 Section: smwgraphics
@@ -1126,29 +1138,41 @@ X-SMWAPT-Kind: AssetOnly
 X-SMWAPT-URL: https://dl.smwcentral.net/42852/SMBX%20-%20MarioSprite-OnlyBlocks.zip
 Description: Super Mario Bros. X - Mario-Only and Sprite-Only Blocks
 
-Package: smwgraphics-super-mario-world-styled-desert
-Version: 1.1
+Package: smwgraphics-super-mario-world-redrawn-s-world-map-graphics-pack
+Version: 2
+Section: smwgraphics
+Architecture: smw
+Maintainer: Moltz, icegoom
+Filename: pool/smwgraphics/43237/Redrawn Overworld Pack.zip
+Size: 114259
+X-SMWC-ID: 43237
+X-SMWAPT-Kind: AssetOnly
+X-SMWAPT-URL: https://dl.smwcentral.net/43237/Redrawn%20Overworld%20Pack.zip
+Description: Super Mario World Redrawn's World Map Graphics Pack
+
+Package: smwgraphics-super-mario-world-styled-shy-guy-tweeter-snifit-and-beezo
+Version: smwc-43272-1792350879
 Section: smwgraphics
 Architecture: smw
 Maintainer: RebootedThunder
-Filename: pool/smwgraphics/42655/SMW-Styled Desert.zip
-Size: 7518
-X-SMWC-ID: 42655
+Filename: pool/smwgraphics/43272/SMW Styled Beezo%2C ShyGuy%2C Tweeter%2C Snifit.zip
+Size: 3882
+X-SMWC-ID: 43272
 X-SMWAPT-Kind: AssetOnly
-X-SMWAPT-URL: https://dl.smwcentral.net/42655/SMW-Styled%20Desert.zip
-Description: Super Mario World Styled Desert
+X-SMWAPT-URL: https://dl.smwcentral.net/43272/SMW%20Styled%20Beezo%2C%20ShyGuy%2C%20Tweeter%2C%20Snifit.zip
+Description: Super Mario World Styled Shy Guy, Tweeter, Snifit and Beezo
 
-Package: smwgraphics-super-mario-world-styled-princess-peach
-Version: smwc-42623-1784915675
+Package: smwgraphics-super-mario-world-styled-super-mario-all-stars-super-mario-bros-hills
+Version: smwc-43381-1792591092
 Section: smwgraphics
 Architecture: smw
-Maintainer: LinkstormZ
-Filename: pool/smwgraphics/42623/SMW-Styled Princess Peach.zip
-Size: 48620
-X-SMWC-ID: 42623
+Maintainer: RebootedThunder
+Filename: pool/smwgraphics/43381/SMW Styled SMAS SMB1 Hills BG.zip
+Size: 6761
+X-SMWC-ID: 43381
 X-SMWAPT-Kind: AssetOnly
-X-SMWAPT-URL: https://dl.smwcentral.net/42623/SMW-Styled%20Princess%20Peach.zip
-Description: Super Mario World Styled Princess Peach
+X-SMWAPT-URL: https://dl.smwcentral.net/43381/SMW%20Styled%20SMAS%20SMB1%20Hills%20BG.zip
+Description: Super Mario World Styled Super Mario All-Stars: Super Mario Bros. Hills
 
 Package: smwgraphics-super-mario-world-styled-super-mario-bros
 Version: smwc-42866-1788055137
@@ -1162,185 +1186,605 @@ X-SMWAPT-Kind: AssetOnly
 X-SMWAPT-URL: https://dl.smwcentral.net/42866/SMW---Styled%20SMB2%20Grassland.zip
 Description: Super Mario World Styled Super Mario Bros. 2 Grassland
 
-Package: smwgraphics-wario-land
-Version: smwc-42725-1784772436
-Section: smwgraphics
-Architecture: smw
-Maintainer: Brutapode89
-Filename: pool/smwgraphics/42725/Wario Land 3 - Above the Clouds (Inside Moon).zip
-Size: 6726
-X-SMWC-ID: 42725
-X-SMWAPT-Kind: AssetOnly
-X-SMWAPT-URL: https://dl.smwcentral.net/42725/Wario%20Land%203%20-%20Above%20the%20Clouds%20%28Inside%20Moon%29.zip
-Description: Wario Land 3 - Above the Clouds (Moon Area)
-
-Package: smwgraphics-whisper-the-wolf
-Version: smwc-41927-1785436075
-Section: smwgraphics
-Architecture: smw
-Maintainer: NinAlexTM
-Filename: pool/smwgraphics/41927/Whisper in SMW.zip
-Size: 23932
-X-SMWC-ID: 41927
-X-SMWAPT-Kind: AssetOnly
-X-SMWAPT-URL: https://dl.smwcentral.net/41927/Whisper%20in%20SMW.zip
-Description: Whisper The Wolf
-
-Package: smwmusic-brandish
-Version: smwc-42522-1790694895
+Package: smwmusic-immaculate-sense-in-darkness-eyes-shut
+Version: smwc-42869-1792779812
 Section: smwmusic
 Architecture: smw
-Maintainer: SiameseTwins
-Filename: pool/smwmusic/42522/Brandish 2 (SFC) - Ninja Yashiki ~ Spilling Innocent Blood.zip
-Size: 77882
-X-SMWC-ID: 42522
+Maintainer: Archbishop Weeble-Wobble, Hooded Edge
+Filename: pool/smwmusic/42869/Immaculate Sense in Darkness ~  Eyes Shut.zip
+Size: 429135
+X-SMWC-ID: 42869
 X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/42522/Brandish%202%20%28SFC%29%20-%20Ninja%20Yashiki%20~%20Spilling%20Innocent%20Blood.zip
-Description: Brandish 2: The Planet Buster (SNES) - Ninja Yashiki ~ Spilling Innocent Blood
+X-SMWAPT-URL: https://dl.smwcentral.net/42869/Immaculate%20Sense%20in%20Darkness%20~%20%20Eyes%20Shut.zip
+Description: Immaculate Sense in Darkness ~ Eyes Shut
 
-Package: smwmusic-buzzer-frozen
-Version: smwc-42276-1791321924
-Section: smwmusic
-Architecture: smw
-Maintainer: Samantha
-Filename: pool/smwmusic/42276/Frozen.zip
-Size: 83929
-X-SMWC-ID: 42276
-X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/42276/Frozen.zip
-Description: Buzzer - Frozen
-
-Package: smwmusic-final-fantasy-vi-epitaph
-Version: smwc-42604-1790695991
-Section: smwmusic
-Architecture: smw
-Maintainer: h.carrell
-Filename: pool/smwmusic/42604/Epitaph.zip
-Size: 46641
-X-SMWC-ID: 42604
-X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/42604/Epitaph.zip
-Description: Final Fantasy VI - Epitaph
-
-Package: smwmusic-mega-man-ii-gb-magnet-man-mega-man-x-style
-Version: smwc-42518-1790695696
-Section: smwmusic
-Architecture: smw
-Maintainer: JX444444
-Filename: pool/smwmusic/42518/MagnetGB_X1.zip
-Size: 61823
-X-SMWC-ID: 42518
-X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/42518/MagnetGB_X1.zip
-Description: Mega Man II(GB) - Magnet Man (Mega Man X Style)
-
-Package: smwmusic-star-fox
-Version: smwc-43066-1791005223
-Section: smwmusic
-Architecture: smw
-Maintainer: ggamer77
-Filename: pool/smwmusic/43066/Star Fox 64 - Aquas.zip
-Size: 81395
-X-SMWC-ID: 43066
-X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/43066/Star%20Fox%2064%20-%20Aquas.zip
-Description: Star Fox 64 - Aquas
-
-Package: smwmusic-super-mario-advance
-Version: smwc-43322-1791577525
-Section: smwmusic
-Architecture: smw
-Maintainer: LadiesMan217, musicalman
-Filename: pool/smwmusic/43322/Yoshi%27s Island - Title.zip
-Size: 36706
-X-SMWC-ID: 43322
-X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/43322/Yoshi%27s%20Island%20-%20Title.zip
-Description: Super Mario Advance 3: Yoshi's Island - Title
-
-Package: smwmusic-super-mario-world
-Version: smwc-43318-1791577217
-Section: smwmusic
-Architecture: smw
-Maintainer: LadiesMan217
-Filename: pool/smwmusic/43318/Yoshi%27s Island - Yoshi%27s Start Demo.zip
-Size: 39952
-X-SMWC-ID: 43318
-X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/43318/Yoshi%27s%20Island%20-%20Yoshi%27s%20Start%20Demo.zip
-Description: Super Mario World 2: Yoshi's Island - The Journey Begins
-
-Package: smwmusic-super-mario-world-2-yoshi-s-island-ending-part
-Version: smwc-43291-1791575374
-Section: smwmusic
-Architecture: smw
-Maintainer: LadiesMan217
-Filename: pool/smwmusic/43291/Yoshi%27s Island - Ending (Part 2).zip
-Size: 56158
-X-SMWC-ID: 43291
-X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/43291/Yoshi%27s%20Island%20-%20Ending%20%28Part%202%29.zip
-Description: Super Mario World 2: Yoshi's Island - Ending (Part 2)
-
-Package: smwmusic-super-mario-world-2-yoshi-s-island-map-screen-world
-Version: smwc-43305-1791576338
-Section: smwmusic
-Architecture: smw
-Maintainer: LadiesMan217
-Filename: pool/smwmusic/43305/Yoshi%27s Island - Map (World 7).zip
-Size: 56348
-X-SMWC-ID: 43305
-X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/43305/Yoshi%27s%20Island%20-%20Map%20%28World%207%29.zip
-Description: Super Mario World 2: Yoshi's Island - Map Screen (World 7)
-
-Package: smwmusic-tales-of-phantasia-second-act
-Version: smwc-42742-1790633401
+Package: smwmusic-lufia-ii-rise-of-the-sinistrals-after-the-ceremony
+Version: smwc-43011-1792784971
 Section: smwmusic
 Architecture: smw
 Maintainer: Ahrion
-Filename: pool/smwmusic/42742/Second_Act.zip
-Size: 62823
-X-SMWC-ID: 42742
+Filename: pool/smwmusic/43011/After the Ceremony.zip
+Size: 47703
+X-SMWC-ID: 43011
 X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/42742/Second_Act.zip
-Description: Tales of Phantasia - Second Act
+X-SMWAPT-URL: https://dl.smwcentral.net/43011/After%20the%20Ceremony.zip
+Description: Lufia II: Rise of the Sinistrals - After the Ceremony
 
-Package: smwmusic-the-doctor-christmas-demo
-Version: smwc-42738-1792246032
+Package: smwmusic-lufia-ii-rise-of-the-sinistrals-autumn
+Version: smwc-43014-1792785467
 Section: smwmusic
 Architecture: smw
-Maintainer: h.carrell
-Filename: pool/smwmusic/42738/Christmas Demo.zip
-Size: 126507
-X-SMWC-ID: 42738
+Maintainer: Ahrion
+Filename: pool/smwmusic/43014/Lufia 2 Autumn.zip
+Size: 56616
+X-SMWC-ID: 43014
 X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/42738/Christmas%20Demo.zip
-Description: The Doctor - Christmas Demo
+X-SMWAPT-URL: https://dl.smwcentral.net/43014/Lufia%202%20Autumn.zip
+Description: Lufia II: Rise of the Sinistrals - Autumn
 
-Package: smwmusic-the-legend-of-zelda-ocarina-of-time-temple-of-time
-Version: smwc-43268-1791319694
+Package: smwmusic-lufia-ii-rise-of-the-sinistrals-azure-ocean
+Version: smwc-43018-1792786217
 Section: smwmusic
 Architecture: smw
-Maintainer: ContinueGames17
-Filename: pool/smwmusic/43268/TLoZ Ocarina of Time - Temple of Time.zip
-Size: 152441
-X-SMWC-ID: 43268
+Maintainer: Ahrion
+Filename: pool/smwmusic/43018/Azure Ocean.zip
+Size: 60594
+X-SMWC-ID: 43018
 X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/43268/TLoZ%20Ocarina%20of%20Time%20-%20Temple%20of%20Time.zip
-Description: The Legend of Zelda: Ocarina of Time - Temple of Time
+X-SMWAPT-URL: https://dl.smwcentral.net/43018/Azure%20Ocean.zip
+Description: Lufia II: Rise of the Sinistrals - Azure Ocean
 
-Package: smwmusic-watermelon-valley
-Version: smwc-42711-1790632226
+Package: smwmusic-lufia-ii-rise-of-the-sinistrals-battle
+Version: smwc-42997-1792782692
 Section: smwmusic
 Architecture: smw
-Maintainer: EDIT3333
-Filename: pool/smwmusic/42711/Watermelon Valley .zip
-Size: 31369
-X-SMWC-ID: 42711
+Maintainer: Ahrion
+Filename: pool/smwmusic/42997/Battle 2.zip
+Size: 56700
+X-SMWC-ID: 42997
 X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/42711/Watermelon%20Valley%20.zip
-Description: Watermelon Valley
+X-SMWAPT-URL: https://dl.smwcentral.net/42997/Battle%202.zip
+Description: Lufia II: Rise of the Sinistrals - Battle #2
+
+Package: smwmusic-lufia-ii-rise-of-the-sinistrals-big-game
+Version: smwc-43023-1792787628
+Section: smwmusic
+Architecture: smw
+Maintainer: Ahrion
+Filename: pool/smwmusic/43023/Big Game.zip
+Size: 47114
+X-SMWC-ID: 43023
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/43023/Big%20Game.zip
+Description: Lufia II: Rise of the Sinistrals - Big Game
+
+Package: smwmusic-lufia-ii-rise-of-the-sinistrals-capsule-monster
+Version: smwc-43001-1792783428
+Section: smwmusic
+Architecture: smw
+Maintainer: Ahrion
+Filename: pool/smwmusic/43001/Capsule Monster.zip
+Size: 57729
+X-SMWC-ID: 43001
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/43001/Capsule%20Monster.zip
+Description: Lufia II: Rise of the Sinistrals - Capsule Monster
+
+Package: smwmusic-lufia-ii-rise-of-the-sinistrals-casino
+Version: smwc-43021-1792787489
+Section: smwmusic
+Architecture: smw
+Maintainer: Ahrion
+Filename: pool/smwmusic/43021/Casino.zip
+Size: 37132
+X-SMWC-ID: 43021
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/43021/Casino.zip
+Description: Lufia II: Rise of the Sinistrals - Casino
+
+Package: smwmusic-lufia-ii-rise-of-the-sinistrals-castle
+Version: smwc-42999-1792783132
+Section: smwmusic
+Architecture: smw
+Maintainer: Ahrion
+Filename: pool/smwmusic/42999/Castle.zip
+Size: 56202
+X-SMWC-ID: 42999
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42999/Castle.zip
+Description: Lufia II: Rise of the Sinistrals - Castle
+
+Package: smwmusic-lufia-ii-rise-of-the-sinistrals-cave
+Version: smwc-42990-1792781845
+Section: smwmusic
+Architecture: smw
+Maintainer: Ahrion
+Filename: pool/smwmusic/42990/Cave.zip
+Size: 54552
+X-SMWC-ID: 42990
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42990/Cave.zip
+Description: Lufia II: Rise of the Sinistrals - Cave
+
+Package: smwmusic-lufia-ii-rise-of-the-sinistrals-comrade
+Version: smwc-42995-1792782193
+Section: smwmusic
+Architecture: smw
+Maintainer: Ahrion
+Filename: pool/smwmusic/42995/Comrade.zip
+Size: 44523
+X-SMWC-ID: 42995
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42995/Comrade.zip
+Description: Lufia II: Rise of the Sinistrals - Comrade
+
+Package: smwmusic-lufia-ii-rise-of-the-sinistrals-despair
+Version: smwc-43006-1792784174
+Section: smwmusic
+Architecture: smw
+Maintainer: Ahrion
+Filename: pool/smwmusic/43006/Despair.zip
+Size: 52979
+X-SMWC-ID: 43006
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/43006/Despair.zip
+Description: Lufia II: Rise of the Sinistrals - Despair
+
+Package: smwmusic-lufia-ii-rise-of-the-sinistrals-door-of-journey
+Version: smwc-43004-1792783717
+Section: smwmusic
+Architecture: smw
+Maintainer: Ahrion
+Filename: pool/smwmusic/43004/Door of Journey.zip
+Size: 36708
+X-SMWC-ID: 43004
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/43004/Door%20of%20Journey.zip
+Description: Lufia II: Rise of the Sinistrals - Door of Journey
+
+Package: smwmusic-lufia-ii-rise-of-the-sinistrals-flute-of-sleepwalk
+Version: smwc-43019-1792786322
+Section: smwmusic
+Architecture: smw
+Maintainer: Ahrion
+Filename: pool/smwmusic/43019/Flute of Sleepwalk.zip
+Size: 32407
+X-SMWC-ID: 43019
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/43019/Flute%20of%20Sleepwalk.zip
+Description: Lufia II: Rise of the Sinistrals - Flute of Sleepwalk
+
+Package: smwmusic-lufia-ii-rise-of-the-sinistrals-four-gods
+Version: smwc-43031-1792789120
+Section: smwmusic
+Architecture: smw
+Maintainer: Ahrion
+Filename: pool/smwmusic/43031/Four Gods.zip
+Size: 56001
+X-SMWC-ID: 43031
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/43031/Four%20Gods.zip
+Description: Lufia II: Rise of the Sinistrals - Four Gods
+
+Package: smwmusic-lufia-ii-rise-of-the-sinistrals-growth
+Version: smwc-43002-1792783511
+Section: smwmusic
+Architecture: smw
+Maintainer: Ahrion
+Filename: pool/smwmusic/43002/Growth%21.zip
+Size: 44797
+X-SMWC-ID: 43002
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/43002/Growth%21.zip
+Description: Lufia II: Rise of the Sinistrals - Growth!
+
+Package: smwmusic-lufia-ii-rise-of-the-sinistrals-hit
+Version: smwc-43024-1792787731
+Section: smwmusic
+Architecture: smw
+Maintainer: Ahrion
+Filename: pool/smwmusic/43024/Hit%21.zip
+Size: 48371
+X-SMWC-ID: 43024
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/43024/Hit%21.zip
+Description: Lufia II: Rise of the Sinistrals - Hit!
+
+Package: smwmusic-lufia-ii-rise-of-the-sinistrals-item
+Version: smwc-42991-1792781936
+Section: smwmusic
+Architecture: smw
+Maintainer: Ahrion
+Filename: pool/smwmusic/42991/Item.zip
+Size: 42425
+X-SMWC-ID: 42991
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42991/Item.zip
+Description: Lufia II: Rise of the Sinistrals - Item
+
+Package: smwmusic-lufia-ii-rise-of-the-sinistrals-lexis-shaia-lab
+Version: smwc-43020-1792786499
+Section: smwmusic
+Architecture: smw
+Maintainer: Ahrion
+Filename: pool/smwmusic/43020/Lexis Shaia Lab.zip
+Size: 56978
+X-SMWC-ID: 43020
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/43020/Lexis%20Shaia%20Lab.zip
+Description: Lufia II: Rise of the Sinistrals - Lexis Shaia Lab
+
+Package: smwmusic-lufia-ii-rise-of-the-sinistrals-light-slumber
+Version: smwc-42989-1792781667
+Section: smwmusic
+Architecture: smw
+Maintainer: Ahrion
+Filename: pool/smwmusic/42989/Light Slumber.zip
+Size: 34798
+X-SMWC-ID: 42989
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42989/Light%20Slumber.zip
+Description: Lufia II: Rise of the Sinistrals - Light Slumber
+
+Package: smwmusic-lufia-ii-rise-of-the-sinistrals-mutation
+Version: smwc-43035-1792790675
+Section: smwmusic
+Architecture: smw
+Maintainer: Ahrion
+Filename: pool/smwmusic/43035/Mutation.zip
+Size: 44657
+X-SMWC-ID: 43035
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/43035/Mutation.zip
+Description: Lufia II: Rise of the Sinistrals - Mutation
+
+Package: smwmusic-lufia-ii-rise-of-the-sinistrals-parting
+Version: smwc-43009-1792784692
+Section: smwmusic
+Architecture: smw
+Maintainer: Ahrion
+Filename: pool/smwmusic/43009/Parting.zip
+Size: 51252
+X-SMWC-ID: 43009
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/43009/Parting.zip
+Description: Lufia II: Rise of the Sinistrals - Parting
+
+Package: smwmusic-lufia-ii-rise-of-the-sinistrals-port-town
+Version: smwc-43016-1792785914
+Section: smwmusic
+Architecture: smw
+Maintainer: Ahrion
+Filename: pool/smwmusic/43016/Port Town.zip
+Size: 67231
+X-SMWC-ID: 43016
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/43016/Port%20Town.zip
+Description: Lufia II: Rise of the Sinistrals - Port Town
+
+Package: smwmusic-lufia-ii-rise-of-the-sinistrals-prisphea-flowers
+Version: smwc-43033-1792790247
+Section: smwmusic
+Architecture: smw
+Maintainer: Ahrion
+Filename: pool/smwmusic/43033/Prisphea Flowers.zip
+Size: 36034
+X-SMWC-ID: 43033
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/43033/Prisphea%20Flowers.zip
+Description: Lufia II: Rise of the Sinistrals - Prisphea Flowers
+
+Package: smwmusic-lufia-ii-rise-of-the-sinistrals-rumbling
+Version: smwc-42987-1792781420
+Section: smwmusic
+Architecture: smw
+Maintainer: Ahrion
+Filename: pool/smwmusic/42987/Rumbling.zip
+Size: 64079
+X-SMWC-ID: 42987
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42987/Rumbling.zip
+Description: Lufia II: Rise of the Sinistrals - Rumbling
+
+Package: smwmusic-lufia-ii-rise-of-the-sinistrals-scenario-item
+Version: smwc-42993-1792782126
+Section: smwmusic
+Architecture: smw
+Maintainer: Ahrion
+Filename: pool/smwmusic/42993/Scenario Item.zip
+Size: 51892
+X-SMWC-ID: 42993
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42993/Scenario%20Item.zip
+Description: Lufia II: Rise of the Sinistrals - Scenario Item
+
+Package: smwmusic-lufia-ii-rise-of-the-sinistrals-shrine
+Version: smwc-43005-1792784090
+Section: smwmusic
+Architecture: smw
+Maintainer: Ahrion
+Filename: pool/smwmusic/43005/Shrine.zip
+Size: 54366
+X-SMWC-ID: 43005
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/43005/Shrine.zip
+Description: Lufia II: Rise of the Sinistrals - Shrine
+
+Package: smwmusic-lufia-ii-rise-of-the-sinistrals-shudder
+Version: smwc-43007-1792784329
+Section: smwmusic
+Architecture: smw
+Maintainer: Ahrion
+Filename: pool/smwmusic/43007/Shudder.zip
+Size: 49192
+X-SMWC-ID: 43007
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/43007/Shudder.zip
+Description: Lufia II: Rise of the Sinistrals - Shudder
+
+Package: smwmusic-lufia-ii-rise-of-the-sinistrals-skill-item
+Version: smwc-42992-1792782065
+Section: smwmusic
+Architecture: smw
+Maintainer: Ahrion
+Filename: pool/smwmusic/42992/Skill Item.zip
+Size: 48101
+X-SMWC-ID: 42992
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42992/Skill%20Item.zip
+Description: Lufia II: Rise of the Sinistrals - Skill Item
+
+Package: smwmusic-lufia-ii-rise-of-the-sinistrals-slot
+Version: smwc-43022-1792787550
+Section: smwmusic
+Architecture: smw
+Maintainer: Ahrion
+Filename: pool/smwmusic/43022/Slot.zip
+Size: 47434
+X-SMWC-ID: 43022
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/43022/Slot.zip
+Description: Lufia II: Rise of the Sinistrals - Slot
+
+Package: smwmusic-lufia-ii-rise-of-the-sinistrals-spring
+Version: smwc-43012-1792785082
+Section: smwmusic
+Architecture: smw
+Maintainer: Ahrion
+Filename: pool/smwmusic/43012/Spring.zip
+Size: 50599
+X-SMWC-ID: 43012
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/43012/Spring.zip
+Description: Lufia II: Rise of the Sinistrals - Spring
+
+Package: smwmusic-lufia-ii-rise-of-the-sinistrals-start-of-the-journey
+Version: smwc-42988-1792781605
+Section: smwmusic
+Architecture: smw
+Maintainer: Ahrion
+Filename: pool/smwmusic/42988/Start of the Journey.zip
+Size: 47841
+X-SMWC-ID: 42988
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42988/Start%20of%20the%20Journey.zip
+Description: Lufia II: Rise of the Sinistrals - Start of the Journey
+
+Package: smwmusic-lufia-ii-rise-of-the-sinistrals-summer
+Version: smwc-43013-1792785211
+Section: smwmusic
+Architecture: smw
+Maintainer: Ahrion
+Filename: pool/smwmusic/43013/Summer.zip
+Size: 59593
+X-SMWC-ID: 43013
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/43013/Summer.zip
+Description: Lufia II: Rise of the Sinistrals - Summer
+
+Package: smwmusic-lufia-ii-rise-of-the-sinistrals-the-abysmal-depths-of-the-ocean
+Version: smwc-43025-1792787918
+Section: smwmusic
+Architecture: smw
+Maintainer: Ahrion
+Filename: pool/smwmusic/43025/The Abysmal Depths of the Ocean.zip
+Size: 49899
+X-SMWC-ID: 43025
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/43025/The%20Abysmal%20Depths%20of%20the%20Ocean.zip
+Description: Lufia II: Rise of the Sinistrals - The Abysmal Depths of the Ocean
+
+Package: smwmusic-lufia-ii-rise-of-the-sinistrals-the-greatest-thieves-in-the-world
+Version: smwc-43000-1792783247
+Section: smwmusic
+Architecture: smw
+Maintainer: Ahrion
+Filename: pool/smwmusic/43000/The Greatest Thieves in the World.zip
+Size: 54521
+X-SMWC-ID: 43000
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/43000/The%20Greatest%20Thieves%20in%20the%20World.zip
+Description: Lufia II: Rise of the Sinistrals - The Greatest Thieves in the World
+
+Package: smwmusic-lufia-ii-rise-of-the-sinistrals-the-island-in-the-void
+Version: smwc-43030-1792788816
+Section: smwmusic
+Architecture: smw
+Maintainer: Ahrion
+Filename: pool/smwmusic/43030/The Island in the Void.zip
+Size: 59511
+X-SMWC-ID: 43030
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/43030/The%20Island%20in%20the%20Void.zip
+Description: Lufia II: Rise of the Sinistrals - The Island in the Void
+
+Package: smwmusic-lufia-ii-rise-of-the-sinistrals-the-prophet
+Version: smwc-42998-1792782875
+Section: smwmusic
+Architecture: smw
+Maintainer: Ahrion
+Filename: pool/smwmusic/42998/The Prophet.zip
+Size: 54498
+X-SMWC-ID: 42998
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42998/The%20Prophet.zip
+Description: Lufia II: Rise of the Sinistrals - The Prophet
+
+Package: smwmusic-lufia-ii-rise-of-the-sinistrals-the-quieting-world
+Version: smwc-43026-1792788168
+Section: smwmusic
+Architecture: smw
+Maintainer: Ahrion
+Filename: pool/smwmusic/43026/The Quieting World.zip
+Size: 51269
+X-SMWC-ID: 43026
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/43026/The%20Quieting%20World.zip
+Description: Lufia II: Rise of the Sinistrals - The Quieting World
+
+Package: smwmusic-lufia-ii-rise-of-the-sinistrals-the-strongest-man
+Version: smwc-43008-1792784514
+Section: smwmusic
+Architecture: smw
+Maintainer: Ahrion
+Filename: pool/smwmusic/43008/The Strongest Man.zip
+Size: 61481
+X-SMWC-ID: 43008
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/43008/The%20Strongest%20Man.zip
+Description: Lufia II: Rise of the Sinistrals - The Strongest Man
+
+Package: smwmusic-lufia-ii-rise-of-the-sinistrals-theme-of-daos
+Version: smwc-43034-1792790612
+Section: smwmusic
+Architecture: smw
+Maintainer: Ahrion
+Filename: pool/smwmusic/43034/Theme of Daos.zip
+Size: 61925
+X-SMWC-ID: 43034
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/43034/Theme%20of%20Daos.zip
+Description: Lufia II: Rise of the Sinistrals - Theme of Daos
+
+Package: smwmusic-lufia-ii-rise-of-the-sinistrals-time-of-judgement
+Version: smwc-42986-1792780573
+Section: smwmusic
+Architecture: smw
+Maintainer: Ahrion
+Filename: pool/smwmusic/42986/Time of Judgement.zip
+Size: 45635
+X-SMWC-ID: 42986
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42986/Time%20of%20Judgement.zip
+Description: Lufia II: Rise of the Sinistrals - Time of Judgement
+
+Package: smwmusic-lufia-ii-rise-of-the-sinistrals-to-the-future
+Version: smwc-43032-1792789973
+Section: smwmusic
+Architecture: smw
+Maintainer: Ahrion
+Filename: pool/smwmusic/43032/To the Future.zip
+Size: 125677
+X-SMWC-ID: 43032
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/43032/To%20the%20Future.zip
+Description: Lufia II: Rise of the Sinistrals - To the Future
+
+Package: smwmusic-lufia-ii-rise-of-the-sinistrals-to-those-of-the-azure-skies
+Version: smwc-43028-1792788323
+Section: smwmusic
+Architecture: smw
+Maintainer: Ahrion
+Filename: pool/smwmusic/43028/To Those of the Azure Skies.zip
+Size: 62266
+X-SMWC-ID: 43028
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/43028/To%20Those%20of%20the%20Azure%20Skies.zip
+Description: Lufia II: Rise of the Sinistrals - To Those of the Azure Skies
+
+Package: smwmusic-lufia-ii-rise-of-the-sinistrals-tower
+Version: smwc-43003-1792783650
+Section: smwmusic
+Architecture: smw
+Maintainer: Ahrion
+Filename: pool/smwmusic/43003/Tower.zip
+Size: 61372
+X-SMWC-ID: 43003
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/43003/Tower.zip
+Description: Lufia II: Rise of the Sinistrals - Tower
+
+Package: smwmusic-lufia-ii-rise-of-the-sinistrals-towering-mountain
+Version: smwc-43017-1792786069
+Section: smwmusic
+Architecture: smw
+Maintainer: Ahrion
+Filename: pool/smwmusic/43017/Towering Mountain.zip
+Size: 62481
+X-SMWC-ID: 43017
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/43017/Towering%20Mountain.zip
+Description: Lufia II: Rise of the Sinistrals - Towering Mountain
+
+Package: smwmusic-lufia-ii-rise-of-the-sinistrals-village
+Version: smwc-42996-1792782443
+Section: smwmusic
+Architecture: smw
+Maintainer: Ahrion
+Filename: pool/smwmusic/42996/Village.zip
+Size: 52150
+X-SMWC-ID: 42996
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42996/Village.zip
+Description: Lufia II: Rise of the Sinistrals - Village
+
+Package: smwmusic-lufia-ii-rise-of-the-sinistrals-watchtowers-of-the-seal
+Version: smwc-43029-1792788499
+Section: smwmusic
+Architecture: smw
+Maintainer: Ahrion
+Filename: pool/smwmusic/43029/Watchtowers of the Seal.zip
+Size: 57391
+X-SMWC-ID: 43029
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/43029/Watchtowers%20of%20the%20Seal.zip
+Description: Lufia II: Rise of the Sinistrals - Watchtowers of the Seal
+
+Package: smwmusic-lufia-ii-rise-of-the-sinistrals-wedding-bells
+Version: smwc-43010-1792784784
+Section: smwmusic
+Architecture: smw
+Maintainer: Ahrion
+Filename: pool/smwmusic/43010/Wedding Bells.zip
+Size: 45942
+X-SMWC-ID: 43010
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/43010/Wedding%20Bells.zip
+Description: Lufia II: Rise of the Sinistrals - Wedding Bells
+
+Package: smwmusic-lufia-ii-rise-of-the-sinistrals-winter
+Version: smwc-43015-1792785518
+Section: smwmusic
+Architecture: smw
+Maintainer: Ahrion
+Filename: pool/smwmusic/43015/Winter.zip
+Size: 54794
+X-SMWC-ID: 43015
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/43015/Winter.zip
+Description: Lufia II: Rise of the Sinistrals - Winter
+
+Package: smwmusic-the-15th-vanilla-level-design-contest-here-we-groovy
+Version: smwc-42966-1792780284
+Section: smwmusic
+Architecture: smw
+Maintainer: Dispace
+Filename: pool/smwmusic/42966/REMIX - Here Were Groovy%21.zip
+Size: 33766
+X-SMWC-ID: 42966
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42966/REMIX%20-%20Here%20Were%20Groovy%21.zip
+Description: The 15th Vanilla Level Design Contest - Here We Groovy!
 
 Package: smwpatches-air-bubbles-priority-fix
 Version: v1.0
@@ -1642,18 +2086,6 @@ X-SMWAPT-Kind: AsarPatch
 X-SMWAPT-URL: https://dl.smwcentral.net/41746/Modified%20Bomber%20Banzai%20Bill%20Entrance.zip
 Description: Modified Bomber/Banzai Bill Entrance
 
-Package: smwpatches-more-fireballs
-Version: smwc-41647-1771447475
-Section: smwpatches
-Architecture: smw
-Maintainer: imamelia
-Filename: pool/smwpatches/41647/MoreFireballs.zip
-Size: 649
-X-SMWC-ID: 41647
-X-SMWAPT-Kind: AsarPatch
-X-SMWAPT-URL: https://dl.smwcentral.net/41647/MoreFireballs.zip
-Description: More Fireballs
-
 Package: smwpatches-morton-roy-ludwig-tilemap-editor
 Version: 1.11
 Section: smwpatches
@@ -1737,6 +2169,18 @@ X-SMWC-ID: 41597
 X-SMWAPT-Kind: AsarPatch
 X-SMWAPT-URL: https://dl.smwcentral.net/41597/PickUpSound.zip
 Description: Pick Up Sprite Sound
+
+Package: smwpatches-pipe-in-boundary-fix
+Version: 1.0
+Section: smwpatches
+Architecture: smw
+Maintainer: Arinsu
+Filename: pool/smwpatches/43338/Pipe in Boundary Fix.zip
+Size: 571
+X-SMWC-ID: 43338
+X-SMWAPT-Kind: AsarPatch
+X-SMWAPT-URL: https://dl.smwcentral.net/43338/Pipe%20in%20Boundary%20Fix.zip
+Description: Pipe In Boundary Fix
 
 Package: smwpatches-player-damaging-fireball-flag
 Version: v1.2.1

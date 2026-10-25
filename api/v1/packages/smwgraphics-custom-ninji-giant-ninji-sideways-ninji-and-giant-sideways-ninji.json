@@ -1,0 +1,33 @@
+{
+  "name": "smwgraphics-custom-ninji-giant-ninji-sideways-ninji-and-giant-sideways-ninji",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 43373,
+  "title": "Custom Ninji, Giant Ninji, Sideways Ninji and Giant Sideways Ninji",
+  "authors": [
+    "Broozer"
+  ],
+  "tags": [
+    "giant ninji",
+    "giant sideways ninji",
+    "ninji",
+    "sideways ninji"
+  ],
+  "description": "Original graphic replacements for the following sprites:<br>\r\n<br>\r\n<ul><li>Ninji (sprite 51)</li>\n<li><a href=\"https://www.smwcentral.net/?p=section&a=details&id=28494\">Sideways Ninji</a></li>\n<li><a href=\"https://www.smwcentral.net/?p=section&a=details&id=23712\">Giant Ninji</a></li>\n<li><a href=\"https://bin.smwcentral.net/u/28983/Giant%2BSideways%2BNinji.zip&key=C4JRzOhm\" rel=\"nofollow\">Giant Sideways Ninji</a></li></ul><br>\r\nAs well as any custom sprite that uses the original Ninji graphics.<br>\r\n<br>\r\nIn addition to the graphics, the .zip comes with a custom palette for a purple Ninji skin, akin to the enemy's appearance in SMAS:SMB2. Required to set the sprites' palette through STEAR/Tweaker/PIXI's CFG Editor from palette C to palette F for the color change to take effect.<br>\r\n<br>\r\nAdditional information in the readme file. Credit is optional, but appreciated.",
+  "latest_version": "smwc-43373-1792591432",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 43373,
+      "title": "Custom Ninji, Giant Ninji, Sideways Ninji and Giant Sideways Ninji",
+      "version": "smwc-43373-1792591432",
+      "upstream_time": 1792591432,
+      "download_url": "https://dl.smwcentral.net/43373/custom-ninjis.zip",
+      "filename": "custom-ninjis.zip",
+      "size": 4651,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

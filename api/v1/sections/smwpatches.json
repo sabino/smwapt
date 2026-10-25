@@ -903,41 +903,6 @@
     ]
   },
   {
-    "name": "smwpatches-more-fireballs",
-    "aliases": [],
-    "section": "smwpatches",
-    "upstream_id": 41647,
-    "title": "More Fireballs",
-    "authors": [
-      "imamelia"
-    ],
-    "tags": [
-      "abilities",
-      "lorom",
-      "power-up",
-      "sa-1"
-    ],
-    "description": "This patch will allow you to shoot more than two fireballs, up to 10, in fact (though high values should be avoided when using other extended sprites or the mode 7 bosses).<br>\r\n<br>\r\nRequires 10 bytes of freespace in bank $02.",
-    "latest_version": "smwc-41647-1771447475",
-    "install_kind": "asar_patch",
-    "versions": [
-      {
-        "upstream_id": 41647,
-        "title": "More Fireballs",
-        "version": "smwc-41647-1771447475",
-        "upstream_time": 1771447475,
-        "download_url": "https://dl.smwcentral.net/41647/MoreFireballs.zip",
-        "filename": "MoreFireballs.zip",
-        "size": 649,
-        "sha256": null,
-        "dependencies": [
-          "asar"
-        ],
-        "install_kind": "asar_patch"
-      }
-    ]
-  },
-  {
     "name": "smwpatches-morton-roy-ludwig-tilemap-editor",
     "aliases": [],
     "section": "smwpatches",
@@ -1127,7 +1092,7 @@
       "player",
       "sa-1"
     ],
-    "description": "This patch will allow you to selectively have straight fireballs in a per-player basis: either for player 1 or for player 2.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Zack-san\"><a href=\"/?p=profile&amp;id=23097\" style=\"color: #eb6123;\" class=\"un unavailable inactive\">Zack-san</a></span>.",
+    "description": "This patch will allow you to selectively have straight fireballs in a per-player basis: either for player 1 or for player 2.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Zack-san\"><a href=\"/?p=profile&amp;id=23097\" style=\"color: #eb6123;\" class=\"un\">Zack-san</a></span>.",
     "latest_version": "V1.0.1",
     "install_kind": "asar_patch",
     "versions": [
@@ -1182,6 +1147,41 @@
     ]
   },
   {
+    "name": "smwpatches-pipe-in-boundary-fix",
+    "aliases": [],
+    "section": "smwpatches",
+    "upstream_id": 43338,
+    "title": "Pipe In Boundary Fix",
+    "authors": [
+      "Arinsu"
+    ],
+    "tags": [
+      "lorom",
+      "pipe",
+      "sa-1",
+      "screen exit"
+    ],
+    "description": "Fixes horizontal pipes in the leftmost or rightmost part of horizontal levels taking the player to an unpredictable sublevel.",
+    "latest_version": "1.0",
+    "install_kind": "asar_patch",
+    "versions": [
+      {
+        "upstream_id": 43338,
+        "title": "Pipe In Boundary Fix",
+        "version": "1.0",
+        "upstream_time": 1792549176,
+        "download_url": "https://dl.smwcentral.net/43338/Pipe%20in%20Boundary%20Fix.zip",
+        "filename": "Pipe in Boundary Fix.zip",
+        "size": 571,
+        "sha256": null,
+        "dependencies": [
+          "asar"
+        ],
+        "install_kind": "asar_patch"
+      }
+    ]
+  },
+  {
     "name": "smwpatches-player-damaging-fireball-flag",
     "aliases": [],
     "section": "smwpatches",
@@ -1195,7 +1195,7 @@
       "lorom",
       "sa-1"
     ],
-    "description": "This patch adds a flag which changes if fireballs interact with sprites or hurt the player.<br>\r\nAffects Yoshi and player fireballs.<br>\r\n<br>\r\nIf you spawn fireballs via asm, make sure you set the flag to interact with the player or with sprites. If you don't set this flag, it might still be set or not set from the previous sprite.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #f8a481;\" title=\"Tewi\" class=\"un\">Arinsu</a></span>.",
+    "description": "This patch adds a flag which changes if fireballs interact with sprites or hurt the player.<br>\r\nAffects Yoshi and player fireballs.<br>\r\n<br>\r\nIf you spawn fireballs via asm, make sure you set the flag to interact with the player or with sprites. If you don't set this flag, it might still be set or not set from the previous sprite.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #fdadf4;\" title=\"Tewi\" class=\"un\">Arinsu</a></span>.",
     "latest_version": "v1.2.1",
     "install_kind": "asar_patch",
     "versions": [

@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-the-abysmal-depths-of-the-ocean",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 43025,
+  "title": "Lufia II: Rise of the Sinistrals - The Abysmal Depths of the Ocean",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "calm",
+    "mysterious"
+  ],
+  "description": "Lufia II music",
+  "latest_version": "smwc-43025-1792787918",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 43025,
+      "title": "Lufia II: Rise of the Sinistrals - The Abysmal Depths of the Ocean",
+      "version": "smwc-43025-1792787918",
+      "upstream_time": 1792787918,
+      "download_url": "https://dl.smwcentral.net/43025/The%20Abysmal%20Depths%20of%20the%20Ocean.zip",
+      "filename": "The Abysmal Depths of the Ocean.zip",
+      "size": 49899,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "smwgraphics-custom-skeeter",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 43270,
+  "title": "Custom Skeeter",
+  "authors": [
+    "Broozer"
+  ],
+  "tags": [],
+  "description": "Original graphic replacements for <a href=\"https://www.smwcentral.net/?p=section&a=details&id=6419\">Dispari Scuro's Skeeter sprite</a>.<br>\r\n<br>\r\nIncludes 6 variations, one for each design of the enemy in different Mario games.<br>\r\n<br>\r\nAdditional information in the readme file. Credit is optional, but appreciated.",
+  "latest_version": "smwc-43270-1792355624",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 43270,
+      "title": "Custom Skeeter",
+      "version": "smwc-43270-1792355624",
+      "upstream_time": 1792355624,
+      "download_url": "https://dl.smwcentral.net/43270/custom-skeeter.zip",
+      "filename": "custom-skeeter.zip",
+      "size": 5937,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

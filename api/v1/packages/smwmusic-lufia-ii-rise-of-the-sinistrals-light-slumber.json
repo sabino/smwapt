@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-light-slumber",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42989,
+  "title": "Lufia II: Rise of the Sinistrals - Light Slumber",
+  "authors": [
+    "Ahrion"
+  ],
+  "tags": [
+    "calm",
+    "cutscene"
+  ],
+  "description": "Lufia II music",
+  "latest_version": "smwc-42989-1792781667",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42989,
+      "title": "Lufia II: Rise of the Sinistrals - Light Slumber",
+      "version": "smwc-42989-1792781667",
+      "upstream_time": 1792781667,
+      "download_url": "https://dl.smwcentral.net/42989/Light%20Slumber.zip",
+      "filename": "Light Slumber.zip",
+      "size": 34798,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}
