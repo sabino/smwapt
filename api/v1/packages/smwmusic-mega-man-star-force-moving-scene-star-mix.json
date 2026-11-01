@@ -1,0 +1,35 @@
+{
+  "name": "smwmusic-mega-man-star-force-moving-scene-star-mix",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42145,
+  "title": "Mega Man Star Force - Moving Scene (Star-mix)",
+  "authors": [
+    "Hooded Edge"
+  ],
+  "tags": [
+    "cutscene",
+    "p-switch",
+    "star",
+    "upbeat"
+  ],
+  "description": "Did a short arrangement of <b><a href=\"https://youtu.be/tbo_ToDleNY\" rel=\"nofollow\">Moving Scene</a></b> from <i>Mega Man Star Force</i> (which is basically a shortened variation of the game's <a href=\"https://youtu.be/ftj-S6QUcD4\" rel=\"nofollow\">Title theme</a>). The Mega Man Star Force Legacy Collection came out recently, and I thought I'd do a short mix for now (before doing an actual remix in the future) 'cuz Star Force 1 deserves it!!! SERIOUSLY, GO PLAY IT!!!<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. B Minor (Original Pitch)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤ2. A# Minor (Custom Pitch 1)<br>\r\nㅤ3. C Minor (Custom Pitch 2)<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. Enables the Intro (INTRO Enabled)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤ2. Shortens the Intro (INTRO Shortened)<br>\r\nㅤ3. Skips the Intro (INTRO Skipped)<br>\r\n<br>\r\n<center><img src=\"https://media1.tenor.com/m/-QCvYNBuWr4AAAAC/lock-in-mega-man-star-force.gif\" alt=\"\"></center>",
+  "latest_version": "smwc-42145-1793040998",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42145,
+      "title": "Mega Man Star Force - Moving Scene (Star-mix)",
+      "version": "smwc-42145-1793040998",
+      "upstream_time": 1793040998,
+      "download_url": "https://dl.smwcentral.net/42145/Mega%20Man%20Star%20Force%20%28Star-mix%29.zip",
+      "filename": "Mega Man Star Force (Star-mix).zip",
+      "size": 278814,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

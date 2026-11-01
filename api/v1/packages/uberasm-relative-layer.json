@@ -1,0 +1,38 @@
+{
+  "name": "uberasm-relative-layer",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 41102,
+  "title": "Relative Layer 2 Vertical Rise/Fall",
+  "authors": [
+    "Koopster",
+    "yoshifanatic"
+  ],
+  "tags": [
+    "autoscroll",
+    "fall",
+    "layer 2",
+    "lorom",
+    "rise",
+    "sa-1"
+  ],
+  "description": "This code auto-scrolls level (or background) layer 2 up or down relative to layer 1, which makes rising and falling layer 2 sections possible without taking away vertical camera freedom.<br>\r\n<br>\r\nA couple notes:<br>\r\n-Lunar Magic 3.40+ can already autoscroll layer 2. However, you only get 12 options, while this gives you far more customization for how fast layer 2 moves.<br>\r\n-It must be assured that the player can never reach layer 2 scrolled past the area that has been placed in Lunar Magic, or glitchy tiles will appear. This works for the applications shown in the screenshots, as the layer 2 itself impedes the player from going further down (for the lava) or up (for the blocks). For rising layer 2, it is of interest to also account for Mario's death animation, as he falls down a fair amount when dying (the .asm file talks about this in more detail).",
+  "latest_version": "V1.1",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 41102,
+      "title": "Relative Layer 2 Vertical Rise/Fall",
+      "version": "V1.1",
+      "upstream_time": 1769856084,
+      "download_url": "https://dl.smwcentral.net/41102/L2RelVScrollV1_1.zip",
+      "filename": "L2RelVScrollV1_1.zip",
+      "size": 1085,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "uberasm-level-warp-display",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 40975,
+  "title": "Level Warp Display",
+  "authors": [
+    "JackTheSpades",
+    "yoshifanatic"
+  ],
+  "tags": [
+    "debug",
+    "layer 3",
+    "level",
+    "lorom",
+    "sa-1",
+    "warp"
+  ],
+  "description": "An easy to configure level code for creating warp hubs.<br>\r\nIt displays a custom text in the top left corner, switching between values when pressing left or right. Pushing A or B sends you to the designated level.<br>\r\nThe text displayed, destination level and amount of levels can be easily changed, just add or remove values from the tables.<br>\r\n<br>\r\nUseful for debugging or actual in game hubs.",
+  "latest_version": "1.1.1",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 40975,
+      "title": "Level Warp Display",
+      "version": "1.1.1",
+      "upstream_time": 1763928647,
+      "download_url": "https://dl.smwcentral.net/40975/levelwarpV1.1.1.zip",
+      "filename": "levelwarpV1.1.1.zip",
+      "size": 2102,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

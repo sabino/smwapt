@@ -1,0 +1,38 @@
+{
+  "name": "smwmusic-gravity-circuit",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42510,
+  "title": "Gravity Circuit 2 - The Boys are Back! 🔴🟢  ~ Opening Stage (Remix)",
+  "authors": [
+    "Hooded Edge"
+  ],
+  "tags": [
+    "final",
+    "fire",
+    "industrial",
+    "mountain",
+    "tense",
+    "upbeat",
+    "urban"
+  ],
+  "description": "<center><img src=\"https://bin.smwcentral.net/u/23547/Kai%2B%2526%2BCable.webp\" alt=\"\"></center><br>\r\nDid an arrangement of <b><a href=\"https://youtu.be/w6qCiOE24SU\" rel=\"nofollow\">Opening Stage</a></b> revealed in <a href=\"https://youtu.be/M_FeY9l1KqA\" rel=\"nofollow\"><i>Gravity Circuit 2's</i> trailer</a>. I was hyped AF for a sequel to be announced (ft. <span style=\"color: #6ece4b;\">Cable</span>), and then Ninmark released the song on his YouTube channel, and I KNEW I HAD TO GET MY HANDS ON THAT INTRO STAGE THEME THE SECOND DOMINIC NINMARK DROPPED IT!!!<br>\r\n<br>\r\nGravity Circuit was 2023's GOTY for me, and it getting a sequel is exactly what this world needs!!!<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. Enables the voice clip, but sacrifices SMW-Compatibility (VOICE Enabled)ㅤ<span style=\"color: #C291EB;\">[Listening-Only]</span><br>\r\nㅤ2. Disables the voice clip & Decreases the Echo (VOICE Disabled)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤㅤ ♠  What's disabled:<br>\r\nㅤㅤㅤ  -  \"Bonus End\" (@7)<br>\r\nㅤㅤㅤ  -  Thunder SFX<br>\r\nㅤㅤㅤ  -  P-Switch<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable pitches for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. B Minor (Original Pitch)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span> <br>\r\nㅤ2. A Minor (Custom Pitch 1)<br>\r\nㅤ3. C Minor (Custom Pitch 2)",
+  "latest_version": "smwc-42510-1793456496",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42510,
+      "title": "Gravity Circuit 2 - The Boys are Back! 🔴🟢  ~ Opening Stage (Remix)",
+      "version": "smwc-42510-1793456496",
+      "upstream_time": 1793456496,
+      "download_url": "https://dl.smwcentral.net/42510/Boys_Are_Back%21%2C_The.zip",
+      "filename": "Boys_Are_Back%21%2C_The.zip",
+      "size": 295821,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

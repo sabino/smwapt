@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-super-mario-bros",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 43183,
+  "title": "Super Mario Bros. 3 Screen Scrolling Pipes",
+  "authors": [
+    "HammerBrother"
+  ],
+  "tags": [
+    "lorom",
+    "pipe",
+    "sa-1",
+    "uberasm needed"
+  ],
+  "description": "These pipes, when entered, will cause the player to travel through them within the same level rather than refreshing the screen. Useful for maze levels for those who refuse to use screen exits.<br>\r\n<br>\r\n<b>Read tutorial on how to insert them:<a href=\"https://www.smwcentral.net/?p=section&a=details&id=41525\">here</a>.</b><br>\r\n<br>\r\nNotes:<br>\r\n* If there are at least 2 sprites on screen, and Mario enters a pipe, he will partially disappear as he enters a pipe. You should patch <a href=\"https://smwc.me/s/40702\">NMSTL</a> to prevent that.<br>\r\n* If you have a low-gravity generator that does <div class=\"code inline filter-noemote filter-nobr\"><pre>DEC $7D</pre></div> (Mario's Y speed), make sure that you add a check that if $9D is nonzero, or the low nibble (low 4 bits, %----XXXX) of RAM address <div class=\"code inline filter-noemote filter-nobr\"><pre>!pipe_dir</pre></div> is non-zero, then skip/return, because otherwise Mario will rise up slowly while traveling through horizontal pipes. You absolutely don't want to touch his physics while inside pipes.<br>\r\n<br>\r\nGitHub: <a href=\"https://github.com/GhbSmwc/SMB3_ScreenScrollingPipes\" rel=\"nofollow\">https://github.com/GhbSmwc/SMB3_ScreenScrollingPipes</a>",
+  "latest_version": "4.0.6",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 43183,
+      "title": "Super Mario Bros. 3 Screen Scrolling Pipes",
+      "version": "4.0.6",
+      "upstream_time": 1789909853,
+      "download_url": "https://dl.smwcentral.net/43183/SMB3_ScreenScrollingPipes_v4_0_6.zip",
+      "filename": "SMB3_ScreenScrollingPipes_v4_0_6.zip",
+      "size": 194361,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

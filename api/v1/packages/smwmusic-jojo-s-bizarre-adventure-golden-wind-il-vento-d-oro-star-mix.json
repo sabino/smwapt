@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-jojo-s-bizarre-adventure-golden-wind-il-vento-d-oro-star-mix",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42303,
+  "title": "JoJo's Bizarre Adventure: Golden Wind - il vento d'oro (Star-mix)",
+  "authors": [
+    "Hooded Edge"
+  ],
+  "tags": [
+    "cutscene",
+    "p-switch",
+    "star",
+    "tense",
+    "upbeat"
+  ],
+  "description": "<center><img src=\"https://media1.tenor.com/m/-5Lpvgh3MAAAAAAC/giorno-tea.gif\" alt=\"\"></center><br>\r\n<br>\r\nDid a short star-mix of <b><a href=\"https://youtu.be/U0TXIXTzJEY\" rel=\"nofollow\">il vento d'oro</a></b> from <i>JoJo's Bizarre Adventure: Golden Wind</i>. Look, I already did Steel Ball Run's theme, so I had to do Golden Wind's theme too!!<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. Lead is @1 (Default Version)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤ2. Lead is @7 (Funny Version)<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. Skips the Intro (INTRO Skipped)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span> <br>\r\nㅤ2. Enables the Intro (INTRO Enabled)",
+  "latest_version": "smwc-42303-1793041066",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42303,
+      "title": "JoJo's Bizarre Adventure: Golden Wind - il vento d'oro (Star-mix)",
+      "version": "smwc-42303-1793041066",
+      "upstream_time": 1793041066,
+      "download_url": "https://dl.smwcentral.net/42303/il%20vento%20d%27oro%20%28Star-mix%29.zip",
+      "filename": "il vento d%27oro (Star-mix).zip",
+      "size": 125589,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

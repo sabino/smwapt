@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-directional-hurt-blocks",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 41218,
+  "title": "Directional Hurt Blocks",
+  "authors": [
+    "HammerBrother"
+  ],
+  "tags": [
+    "hurt",
+    "kill",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "Unlike the hurt specific sides block, this block has a lot of improvements and features:<br>\r\n<br>\r\n-the sides of the block does not hurt the player if the player is touching the side unless he moves towards or into the block (smw munchers and spikes (from castle and ghost houses) does this), by checking if mario's hitbox pixel is either overlapping (at least 1 pixel) it or adjacent to the block. <br>\r\n<br>\r\n-various options like killing the player instantly regardless of powerup (or HP if using HP patch), killing sprites and more!",
+  "latest_version": "1.2",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 41218,
+      "title": "Directional Hurt Blocks",
+      "version": "1.2",
+      "upstream_time": 1764815640,
+      "download_url": "https://dl.smwcentral.net/41218/Directional%20Hurt%20Blocks%20v1.2.zip",
+      "filename": "Directional Hurt Blocks v1.2.zip",
+      "size": 15583,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

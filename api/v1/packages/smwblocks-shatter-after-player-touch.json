@@ -1,0 +1,37 @@
+{
+  "name": "smwblocks-shatter-after-player-touch",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 41235,
+  "title": "Shatter After Player Touch",
+  "authors": [
+    "Arinsu",
+    "HammerBrother"
+  ],
+  "tags": [
+    "lorom",
+    "map16",
+    "sa-1",
+    "shatter",
+    "sprite needed"
+  ],
+  "description": "This custom block will shatter after the player gets off it. Good for platforming stages or places where you jump a lot to dodge stuff.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Final Theory\"><a href=\"/?p=profile&amp;id=22015\" style=\"color: #9d4edd;\" class=\"un\">Final Theory</a></span>.",
+  "latest_version": "2.0",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 41235,
+      "title": "Shatter After Player Touch",
+      "version": "2.0",
+      "upstream_time": 1765916599,
+      "download_url": "https://dl.smwcentral.net/41235/Aftertouch%20Shatter.zip",
+      "filename": "Aftertouch Shatter.zip",
+      "size": 1922,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

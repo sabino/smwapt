@@ -1,0 +1,36 @@
+{
+  "name": "smwblocks-disappearing-block",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 41173,
+  "title": "Disappearing Block",
+  "authors": [
+    "Luknight"
+  ],
+  "tags": [
+    "disappear",
+    "lorom",
+    "triangle",
+    "uberasm needed",
+    "wall jump"
+  ],
+  "description": "A block that disappears shortly after Mario walks on it.",
+  "latest_version": "2.3",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 41173,
+      "title": "Disappearing Block",
+      "version": "2.3",
+      "upstream_time": 1764465123,
+      "download_url": "https://dl.smwcentral.net/41173/Disappearing%20Block%20Asar%202.zip",
+      "filename": "Disappearing Block Asar 2.zip",
+      "size": 2128,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

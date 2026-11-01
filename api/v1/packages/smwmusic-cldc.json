@@ -1,0 +1,55 @@
+{
+  "name": "smwmusic-cldc",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42759,
+  "title": "CLDC '13: Yoshi's Treasure Hunt - Ruins",
+  "authors": [
+    "Moose"
+  ],
+  "tags": [
+    "castle",
+    "cave",
+    "dark",
+    "forest",
+    "jungle",
+    "mysterious",
+    "ruins",
+    "swamp",
+    "temple",
+    "water"
+  ],
+  "description": "one of two pieces written for Gregor's chocolate level design entry. this plays in the interior ruins section",
+  "latest_version": "smwc-42759-1793208440",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42759,
+      "title": "CLDC '13: Yoshi's Treasure Hunt - Ruins",
+      "version": "smwc-42759-1793208440",
+      "upstream_time": 1793208440,
+      "download_url": "https://dl.smwcentral.net/42759/cldc13-descent.zip",
+      "filename": "cldc13-descent.zip",
+      "size": 32600,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 42758,
+      "title": "CLDC '13: Yoshi's Treasure Hunt - Jungle",
+      "version": "smwc-42758-1793208434",
+      "upstream_time": 1793208434,
+      "download_url": "https://dl.smwcentral.net/42758/cldc13-bongos.zip",
+      "filename": "cldc13-bongos.zip",
+      "size": 31698,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

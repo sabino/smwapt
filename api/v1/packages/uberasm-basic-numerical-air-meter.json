@@ -1,0 +1,40 @@
+{
+  "name": "uberasm-basic-numerical-air-meter",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 41011,
+  "title": "Basic Numerical Air Meter",
+  "authors": [
+    "Sonikku",
+    "yoshifanatic"
+  ],
+  "tags": [
+    "air",
+    "air meter",
+    "layer 3",
+    "lorom",
+    "numerical",
+    "sa-1",
+    "status bar",
+    "water"
+  ],
+  "description": "This simple piece of code places a numerical air meter on the status bar, effectively replacing the stars counter (protip: change the star graphics to a bubble or something for a better impact).<br>\r\n<br>\r\nQuite customizable, and SA-1 hybrid.",
+  "latest_version": "V1.1",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 41011,
+      "title": "Basic Numerical Air Meter",
+      "version": "V1.1",
+      "upstream_time": 1763931254,
+      "download_url": "https://dl.smwcentral.net/41011/AirMeter.zip",
+      "filename": "AirMeter.zip",
+      "size": 980,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

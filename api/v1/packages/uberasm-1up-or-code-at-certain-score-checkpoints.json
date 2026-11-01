@@ -1,0 +1,36 @@
+{
+  "name": "uberasm-1up-or-code-at-certain-score-checkpoints",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 41058,
+  "title": "1UP (or code) at Certain Score Checkpoints",
+  "authors": [
+    "Arinsu",
+    "yoshifanatic"
+  ],
+  "tags": [
+    "1-up",
+    "lorom",
+    "sa-1",
+    "score"
+  ],
+  "description": "This simple code grants the player an extra life at certain checkpoints in the score.  More details in the .asm file.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"LucasRCD\"><a href=\"/?p=profile&amp;id=26593\" style=\"color: #9d4edd;\" class=\"un\">LucasRCD</a></span>.",
+  "latest_version": "1.1",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 41058,
+      "title": "1UP (or code) at Certain Score Checkpoints",
+      "version": "1.1",
+      "upstream_time": 1763938565,
+      "download_url": "https://dl.smwcentral.net/41058/Lives%20Every%20Score%20V1.1.zip",
+      "filename": "Lives Every Score V1.1.zip",
+      "size": 963,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

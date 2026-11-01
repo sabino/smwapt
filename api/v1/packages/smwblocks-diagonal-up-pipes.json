@@ -1,0 +1,36 @@
+{
+  "name": "smwblocks-diagonal-up-pipes",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 41171,
+  "title": "Diagonal Up Pipes",
+  "authors": [
+    "Djief"
+  ],
+  "tags": [
+    "lorom",
+    "patch needed",
+    "pipes",
+    "sa-1",
+    "uberasm needed"
+  ],
+  "description": "Diagonal pipes you can enter the same way as normal pipes (well you do need to hold up and right/left)<br>\r\n<br>\r\nThanks to Bob66, now includes GFX and a map16 file to work with.<br>\r\n<br>\r\nRequires asar, GPS and uberASM to work properly, see readme file for instructions.",
+  "latest_version": "v1.1",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 41171,
+      "title": "Diagonal Up Pipes",
+      "version": "v1.1",
+      "upstream_time": 1764463471,
+      "download_url": "https://dl.smwcentral.net/41171/Diagonal%20Pipes.zip",
+      "filename": "Diagonal Pipes.zip",
+      "size": 21964,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

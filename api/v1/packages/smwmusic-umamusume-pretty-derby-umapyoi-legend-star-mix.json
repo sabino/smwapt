@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-umamusume-pretty-derby-umapyoi-legend-star-mix",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42662,
+  "title": "Umamusume: Pretty Derby - Umapyoi Legend (Star-mix)",
+  "authors": [
+    "Hooded Edge"
+  ],
+  "tags": [
+    "chase",
+    "final",
+    "p-switch",
+    "star",
+    "tense"
+  ],
+  "description": "Did a short arrangement of <b><a href=\"https://youtu.be/eoAVxKMzSpU?t=50\" rel=\"nofollow\">Umapyoi Legend</a></b> / <b><a href=\"https://youtu.be/ZzH5JNe6YFg?t=49\" rel=\"nofollow\">Umapyoi Densetsu</a></b> from <i>Umamusume: Pretty Derby</i>. There's a lack of Uma-rep on this site, so let's change that!!!<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. G Major (Original Pitch) ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤ2. F Major (<a href=\"https://youtu.be/zgHcAwUkadA\" rel=\"nofollow\">Enhance Menu</a> Pitch)<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. Enables the Intro (INTRO Enabled)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤ2. Skips the Intro (INTRO Skipped)<br>\r\n<br>\r\n<center><a href=\"https://youtu.be/lNdRbLJlmAk\" rel=\"nofollow\"><img src=\"https://media1.tenor.com/m/a9G7-zI6Tv8AAAAd/tokai-teio-teio.gif\" alt=\"\"></a></center>",
+  "latest_version": "smwc-42662-1793114543",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42662,
+      "title": "Umamusume: Pretty Derby - Umapyoi Legend (Star-mix)",
+      "version": "smwc-42662-1793114543",
+      "upstream_time": 1793114543,
+      "download_url": "https://dl.smwcentral.net/42662/Umapyoi%20Legend%20%28Star-mix%29.zip",
+      "filename": "Umapyoi Legend (Star-mix).zip",
+      "size": 126049,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

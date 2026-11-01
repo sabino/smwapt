@@ -1,10 +1,10 @@
 [
   {
-    "name": "smwblocks-32x32-coins-v1",
+    "name": "smwblocks-32x32-coins",
     "aliases": [],
     "section": "smwblocks",
     "upstream_id": 41176,
-    "title": "32x32 Coins v1.2",
+    "title": "32x32 Coins",
     "authors": [
       "Luknight"
     ],
@@ -14,14 +14,14 @@
       "sa-1",
       "sprite needed"
     ],
-    "description": "Big coins which aren't affected by P switches.<br>\r\nComes in 10, 30, and 50 coin versions, and includes a sparkle effect (as an extended sprite).<br>\r\n<br>\r\nChangelog:<br>\r\n2019/08/09 v1.2<br>\r\n- fixed vertical level.<br>\r\n<br>\r\nv1.1<br>\r\n- add effect flag<br>\r\n- add pow flag",
-    "latest_version": "smwc-41176-1764467824",
+    "description": "Big coins which aren't affected by P switches.<br>\r\nComes in 10, 30, and 50 coin versions, and includes a sparkle effect (as an extended sprite).",
+    "latest_version": "1.2",
     "install_kind": "gps_block",
     "versions": [
       {
         "upstream_id": 41176,
-        "title": "32x32 Coins v1.2",
-        "version": "smwc-41176-1764467824",
+        "title": "32x32 Coins",
+        "version": "1.2",
         "upstream_time": 1764467824,
         "download_url": "https://dl.smwcentral.net/41176/Megaton%20Coin%20v1.2.zip",
         "filename": "Megaton Coin v1.2.zip",
@@ -49,7 +49,7 @@
       "sa-1",
       "uberasm needed"
     ],
-    "description": "These block contains 16 cannon blocks, button-dependent and automatic ones, each with 8 different directions, as well as 2 stopper blocks and a solid block that is only passable when Mario is being launched.<br>\r\n<br>\r\nWhen launched, Mario will shoot in a straight line, so place them carefully.<br>\r\n<br>\r\nThe button based cannons are used if the player is waiting for enemies to get out of his way, whereas the automatic ones are used for areas to blast the player from one place to another quickly.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\">(12/7/2025)<br>\r\n* Fixed a label being uppercase confusing UberASMTool 2.0 and newer.<br>\r\n<br>\r\n(10/2/2022)<br>\r\n* Made Sa-1 Hybrid<br>\r\n* Made to work with UberASM Tool<br>\r\n* Moved a few defines over to cannon_defs.txt <br>\r\n* Added defines for the sound the cannons make </div></div>",
+    "description": "These block contains 16 cannon blocks, button-dependent and automatic ones, each with 8 different directions, as well as 2 stopper blocks and a solid block that is only passable when Mario is being launched.<br>\r\n<br>\r\nWhen launched, Mario will shoot in a straight line, so place them carefully.<br>\r\n<br>\r\nThe button based cannons are used if the player is waiting for enemies to get out of his way, whereas the automatic ones are used for areas to blast the player from one place to another quickly.",
     "latest_version": "smwc-41238-1765160588",
     "install_kind": "gps_block",
     "versions": [
@@ -143,11 +143,11 @@
     ]
   },
   {
-    "name": "smwblocks-air-jump-blocks-v2",
+    "name": "smwblocks-air-jump-blocks",
     "aliases": [],
     "section": "smwblocks",
     "upstream_id": 41215,
-    "title": "Air Jump Blocks v2.1",
+    "title": "Air Jump Blocks",
     "authors": [
       "HammerBrother"
     ],
@@ -157,14 +157,14 @@
       "sa-1",
       "spinjump"
     ],
-    "description": "When Mario touches this non-solid block, it allows him to jump off while in mid-air when you press the (spin) jump button. Perfect for platforming levels. <br>\r\n<br>\r\nNotes: you can only jump if Mario is falling, not rising (so press jump when Mario is falling to make this work).<br>\r\nAnother thing is if you make a staircase of this block, change 0x07A78 from [D0] to [80] to allow free vertical scrolling so the screen won't obscure Mario on top of the screen.<br>\r\n<br>\r\nCredit not necessary.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\">updates:<br>\r\n-fix the flying cape mario can \"jump\" on these blocks.<br>\r\n-mario can now spinjump off these blocks<br>\r\n-compatable with water on/off levels<br>\r\n-easy labels to change how high mario jumps off the block<br>\r\n-now doesn't cancel Mario's long jump.<br>\r\n-remove having stompable enemies around these block makes consecutive 1-up stomp possible if more than 1 screen line of this blocks, now resets the consecutive stomp counter if mario jumps off.<br>\r\n<br>\r\nupdates 2.1:<br>\r\n-fix the problem with spinjumping in midair while carrying an item<br>\r\n-added new conditional airjump blocks (like having to alternate two different jumps in order to use them) for the challenge!<br>\r\n-added an optional uberasm code that fixes the origional smw's glitches with performing certain actions while spinjumping.<br>\r\n-added an option that the blocks will disappear when used.</div></div>",
-    "latest_version": "smwc-41215-1764811888",
+    "description": "When Mario touches this non-solid block, it allows him to jump off while in mid-air when you press the (spin) jump button. Perfect for platforming levels. <br>\r\n<br>\r\nNotes: you can only jump if Mario is falling, not rising (so press jump when Mario is falling to make this work).<br>\r\nAnother thing is if you make a staircase of this block, change 0x07A78 from [D0] to [80] to allow free vertical scrolling so the screen won't obscure Mario on top of the screen.<br>\r\n<br>\r\nCredit not necessary.",
+    "latest_version": "2.1",
     "install_kind": "gps_block",
     "versions": [
       {
         "upstream_id": 41215,
-        "title": "Air Jump Blocks v2.1",
-        "version": "smwc-41215-1764811888",
+        "title": "Air Jump Blocks",
+        "version": "2.1",
         "upstream_time": 1764811888,
         "download_url": "https://dl.smwcentral.net/41215/Air%20Jump%20Blocks.zip",
         "filename": "Air Jump Blocks.zip",
@@ -213,11 +213,11 @@
     ]
   },
   {
-    "name": "smwblocks-black-piranha-plant-muncher-v1",
+    "name": "smwblocks-black-piranha-plant-muncher",
     "aliases": [],
     "section": "smwblocks",
     "upstream_id": 41222,
-    "title": "Black Piranha Plant (Muncher) v1.1",
+    "title": "Black Piranha Plant (Muncher)",
     "authors": [
       "HammerBrother"
     ],
@@ -229,13 +229,13 @@
       "vanilla"
     ],
     "description": "<img src=\"http://floating.muncher.se/muncher.gif\"><br>\r\nAn expanded muncher from Super Mario World.<br>\r\n-Can be a reverse muncher (as in, it starts as a coin, but if you trigger the silver P-Switch, changes to a muncher).<br>\r\n- Can choose what switch turns it from muncher to coin.<br>\r\n- Can configure which side won't hurt the player while being a muncher.<br>\r\n<br>\r\nIt retains the \"side touch\" hitbox, meaning that if the player touches the side without overlapping it (by moving straight up and down on it, NOT moving against it), it won't hurt them.",
-    "latest_version": "smwc-41222-1764893715",
+    "latest_version": "v1.1",
     "install_kind": "gps_block",
     "versions": [
       {
         "upstream_id": 41222,
-        "title": "Black Piranha Plant (Muncher) v1.1",
-        "version": "smwc-41222-1764893715",
+        "title": "Black Piranha Plant (Muncher)",
+        "version": "v1.1",
         "upstream_time": 1764893715,
         "download_url": "https://dl.smwcentral.net/41222/VanillaMuncher%20v1.1.zip",
         "filename": "VanillaMuncher v1.1.zip",
@@ -333,7 +333,7 @@
       "outline",
       "sa-1"
     ],
-    "description": "This is a New Super Mario Bros. coin outline, which turns into a coin after a configurable amount of time.<br>\r\nIn order for this block to work, insert the included UberASMTool code as level code.<br>\r\nRequires 240 bytes of free RAM.<br>\r\n<br>\r\nGraphics included ripped by larenlarsenv and <span class=\"un-outer\" title=\"Soul\"><a href=\"/?p=profile&amp;id=51674\" style=\"color: #eb6123;\" class=\"un\">Soul</a></span>.",
+    "description": "This is a New Super Mario Bros. coin outline, which turns into a coin after a configurable amount of time.<br>\r\nIn order for this block to work, insert the included UberASMTool code as level code.<br>\r\nRequires 240 bytes of free RAM.<br>\r\n<br>\r\nGraphics included ripped by larenlarsenv and <span class=\"un-outer\" title=\"Soul\"><a href=\"/?p=profile&amp;id=51674\" style=\"color: #eb6123;\" class=\"un unavailable inactive\">Soul</a></span>.",
     "latest_version": "smwc-41120-1764271572",
     "install_kind": "gps_block",
     "versions": [
@@ -389,11 +389,11 @@
     ]
   },
   {
-    "name": "smwblocks-custom-turnblock-v1",
+    "name": "smwblocks-custom-turnblock",
     "aliases": [],
     "section": "smwblocks",
     "upstream_id": 41237,
-    "title": "Custom Turnblock v1.1",
+    "title": "Custom Turnblock",
     "authors": [
       "spooonsss"
     ],
@@ -403,14 +403,14 @@
       "solid",
       "sprite needed"
     ],
-    "description": "A turnblock that behaves mostly like the original. Useful for changing palettes or customizing the asm.<br>\r\n<br>\r\nRequires PIXI 1.40 for the included bounce sprite.<br>\r\n<br>\r\nCheck the readme file for adjustments that may be required to ensure proper functionality.<br>\r\n<br>\r\nNote: hitting more than 4 at a time will not revert to the turnblock, but some blocks will be left spinning forever. <br>\r\n<br>\r\nNote: blocks on layer 2 moving down will crush the player instead of activating the block.<br>\r\n<br>\r\nv1.1 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #fdadf4;\" title=\"Tewi\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n* Added the functionality to also make the turnblock turn when spinjumping it.",
-    "latest_version": "smwc-41237-1765159682",
+    "description": "A turnblock that behaves mostly like the original. Useful for changing palettes or customizing the asm.<br>\r\n<br>\r\nRequires PIXI 1.40 for the included bounce sprite.<br>\r\n<br>\r\nCheck the readme file for adjustments that may be required to ensure proper functionality.<br>\r\n<br>\r\nNote: hitting more than 4 at a time will not revert to the turnblock, but some blocks will be left spinning forever. <br>\r\n<br>\r\nNote: blocks on layer 2 moving down will crush the player instead of activating the block.",
+    "latest_version": "v1.1",
     "install_kind": "gps_block",
     "versions": [
       {
         "upstream_id": 41237,
-        "title": "Custom Turnblock v1.1",
-        "version": "smwc-41237-1765159682",
+        "title": "Custom Turnblock",
+        "version": "v1.1",
         "upstream_time": 1765159682,
         "download_url": "https://dl.smwcentral.net/41237/Custom%20Turnblock%20v1.1.zip",
         "filename": "Custom Turnblock v1.1.zip",
@@ -424,11 +424,11 @@
     ]
   },
   {
-    "name": "smwblocks-diagonal-up-pipes-v1",
+    "name": "smwblocks-diagonal-up-pipes",
     "aliases": [],
     "section": "smwblocks",
     "upstream_id": 41171,
-    "title": "Diagonal Up Pipes v1.1",
+    "title": "Diagonal Up Pipes",
     "authors": [
       "Djief"
     ],
@@ -439,14 +439,14 @@
       "sa-1",
       "uberasm needed"
     ],
-    "description": "Diagonal pipes you can enter the same way as normal pipes (well you do need to hold up and right/left)<br>\r\n<br>\r\nThanks to Bob66, now includes GFX and a map16 file to work with.<br>\r\n<br>\r\nRequires asar, GPS and uberASM to work properly, see readme file for instructions.<br>\r\n<br>\r\nNew in 1.1 :<br>\r\n- Small pipes included<br>\r\n- Anti-clip helper blocks<br>\r\n- GFX and map16 files (Thanks, Bob66)<br>\r\n",
-    "latest_version": "smwc-41171-1764463471",
+    "description": "Diagonal pipes you can enter the same way as normal pipes (well you do need to hold up and right/left)<br>\r\n<br>\r\nThanks to Bob66, now includes GFX and a map16 file to work with.<br>\r\n<br>\r\nRequires asar, GPS and uberASM to work properly, see readme file for instructions.",
+    "latest_version": "v1.1",
     "install_kind": "gps_block",
     "versions": [
       {
         "upstream_id": 41171,
-        "title": "Diagonal Up Pipes v1.1",
-        "version": "smwc-41171-1764463471",
+        "title": "Diagonal Up Pipes",
+        "version": "v1.1",
         "upstream_time": 1764463471,
         "download_url": "https://dl.smwcentral.net/41171/Diagonal%20Pipes.zip",
         "filename": "Diagonal Pipes.zip",
@@ -460,11 +460,11 @@
     ]
   },
   {
-    "name": "smwblocks-directional-hurt-blocks-v1",
+    "name": "smwblocks-directional-hurt-blocks",
     "aliases": [],
     "section": "smwblocks",
     "upstream_id": 41218,
-    "title": "Directional Hurt Blocks v1.2",
+    "title": "Directional Hurt Blocks",
     "authors": [
       "HammerBrother"
     ],
@@ -474,14 +474,14 @@
       "lorom",
       "sa-1"
     ],
-    "description": "Unlike the hurt specific sides block, this block has a lot of improvements and features:<br>\r\n<br>\r\n-the sides of the block does not hurt the player if the player is touching the side unless he moves towards or into the block (smw munchers and spikes (from castle and ghost houses) does this), by checking if mario's hitbox pixel is either overlapping (at least 1 pixel) it or adjacent to the block. <br>\r\n<br>\r\n-various options like killing the player instantly regardless of powerup (or HP if using HP patch), killing sprites and more!<br>\r\n<br>\r\nUpdate 1.2 (<span class=\"un-outer\" title=\"DrAnas\"><a href=\"/?p=profile&amp;id=25222\" style=\"color: #eb6123;\" class=\"un\">DrAnas</a></span>): converted all the blocks to SA-1 and included slippery versions of the blocks for use with <a href=\"https://www.smwcentral.net/?p=section&a=details&id=35067\">GHB's perfect slippery blocks</a>!",
-    "latest_version": "smwc-41218-1764815640",
+    "description": "Unlike the hurt specific sides block, this block has a lot of improvements and features:<br>\r\n<br>\r\n-the sides of the block does not hurt the player if the player is touching the side unless he moves towards or into the block (smw munchers and spikes (from castle and ghost houses) does this), by checking if mario's hitbox pixel is either overlapping (at least 1 pixel) it or adjacent to the block. <br>\r\n<br>\r\n-various options like killing the player instantly regardless of powerup (or HP if using HP patch), killing sprites and more!",
+    "latest_version": "1.2",
     "install_kind": "gps_block",
     "versions": [
       {
         "upstream_id": 41218,
-        "title": "Directional Hurt Blocks v1.2",
-        "version": "smwc-41218-1764815640",
+        "title": "Directional Hurt Blocks",
+        "version": "1.2",
         "upstream_time": 1764815640,
         "download_url": "https://dl.smwcentral.net/41218/Directional%20Hurt%20Blocks%20v1.2.zip",
         "filename": "Directional Hurt Blocks v1.2.zip",
@@ -495,11 +495,11 @@
     ]
   },
   {
-    "name": "smwblocks-disappearing-block-v2",
+    "name": "smwblocks-disappearing-block",
     "aliases": [],
     "section": "smwblocks",
     "upstream_id": 41173,
-    "title": "Disappearing Block v2.3",
+    "title": "Disappearing Block",
     "authors": [
       "Luknight"
     ],
@@ -510,14 +510,14 @@
       "uberasm needed",
       "wall jump"
     ],
-    "description": "A block that disappears shortly after Mario walks on it.<br>\r\n<br>\r\n<br>\r\nChangelog:<br>\r\nv2.3<br>\r\nWorks on <a href=\"https://dl.smwcentral.net/18720/wall_kick.zip\" rel=\"nofollow\">wall jumps</a>.<br>\r\nReduced unnecessary processing.<br>\r\n<br>\r\nv2.2<br>\r\nNow works with layer 2.<br>\r\n<br>\r\nv2.0<br>\r\nSwitched from sprite to uberasm.",
-    "latest_version": "smwc-41173-1764465123",
+    "description": "A block that disappears shortly after Mario walks on it.",
+    "latest_version": "2.3",
     "install_kind": "gps_block",
     "versions": [
       {
         "upstream_id": 41173,
-        "title": "Disappearing Block v2.3",
-        "version": "smwc-41173-1764465123",
+        "title": "Disappearing Block",
+        "version": "2.3",
         "upstream_time": 1764465123,
         "download_url": "https://dl.smwcentral.net/41173/Disappearing%20Block%20Asar%202.zip",
         "filename": "Disappearing Block Asar 2.zip",
@@ -531,11 +531,11 @@
     ]
   },
   {
-    "name": "smwblocks-door-entering-animation",
+    "name": "smwblocks-door-with-entry-animation",
     "aliases": [],
     "section": "smwblocks",
     "upstream_id": 42864,
-    "title": "Door entering animation",
+    "title": "Door with Entry Animation",
     "authors": [
       "HammerBrother"
     ],
@@ -551,7 +551,7 @@
     "versions": [
       {
         "upstream_id": 42864,
-        "title": "Door entering animation",
+        "title": "Door with Entry Animation",
         "version": "smwc-42864-1786926599",
         "upstream_time": 1786926599,
         "download_url": "https://dl.smwcentral.net/42864/Door%20Animation.zip",
@@ -674,11 +674,11 @@
     ]
   },
   {
-    "name": "smwblocks-event-dependent-block-v-1",
+    "name": "smwblocks-event-dependent-block",
     "aliases": [],
     "section": "smwblocks",
     "upstream_id": 41269,
-    "title": "Event Dependent Block V.1.21",
+    "title": "Event Dependent Block",
     "authors": [
       "RussianMan"
     ],
@@ -688,13 +688,13 @@
       "sa-1"
     ],
     "description": "This block will act like another block when certain event is activated.<br>\r\n<br>\r\nBe sure to check readme for more details.<br>\r\n<br>\r\nRequested by Gi Manilla",
-    "latest_version": "smwc-41269-1765665189",
+    "latest_version": "1.21",
     "install_kind": "gps_block",
     "versions": [
       {
         "upstream_id": 41269,
-        "title": "Event Dependent Block V.1.21",
-        "version": "smwc-41269-1765665189",
+        "title": "Event Dependent Block",
+        "version": "1.21",
         "upstream_time": 1765665189,
         "download_url": "https://dl.smwcentral.net/41269/Event%20Dependent%20Block%201.21.zip",
         "filename": "Event Dependent Block 1.21.zip",
@@ -746,11 +746,11 @@
     ]
   },
   {
-    "name": "smwblocks-jump-activated-spikes-hurt-blocks-v1-1",
+    "name": "smwblocks-jump-activated-spikes-hurt-blocks",
     "aliases": [],
     "section": "smwblocks",
     "upstream_id": 41209,
-    "title": "Jump-Activated Spikes/Hurt Blocks v1.1.1",
+    "title": "Jump-Activated Spikes/Hurt Blocks",
     "authors": [
       "TheBiob"
     ],
@@ -761,14 +761,14 @@
       "sa-1",
       "uberasm needed"
     ],
-    "description": "These blocks will change every time the player jumps.<br>\r\nRequested by <span class=\"un-outer\" title=\"mr bean6652\"><a href=\"/?p=profile&amp;id=26761\" style=\"color: #eb6123;\" class=\"un unavailable inactive\">mr bean6652</a></span>.<br>\r\n<br>\r\nv1.1 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #fdadf4;\" title=\"Tewi\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n- Added SA-1 support.<br>\r\n- Added a define to not hurt the player while on Yoshi on the above variant of the spikes.<br>\r\n- Added a Map16 page.",
-    "latest_version": "smwc-41209-1765844757",
+    "description": "These blocks will change every time the player jumps.<br>\r\nRequested by <span class=\"un-outer\" title=\"mr bean6652\"><a href=\"/?p=profile&amp;id=26761\" style=\"color: #eb6123;\" class=\"un unavailable inactive\">mr bean6652</a></span>.",
+    "latest_version": "v1.1.1",
     "install_kind": "gps_block",
     "versions": [
       {
         "upstream_id": 41209,
-        "title": "Jump-Activated Spikes/Hurt Blocks v1.1.1",
-        "version": "smwc-41209-1765844757",
+        "title": "Jump-Activated Spikes/Hurt Blocks",
+        "version": "v1.1.1",
         "upstream_time": 1765844757,
         "download_url": "https://dl.smwcentral.net/41209/Jump%20Activated%20Spikes%20v1.1.1.zip",
         "filename": "Jump Activated Spikes v1.1.1.zip",
@@ -1063,11 +1063,11 @@
     ]
   },
   {
-    "name": "smwblocks-shatter-after-player-touch-v2",
+    "name": "smwblocks-shatter-after-player-touch",
     "aliases": [],
     "section": "smwblocks",
     "upstream_id": 41235,
-    "title": "Shatter After Player Touch v2.0",
+    "title": "Shatter After Player Touch",
     "authors": [
       "Arinsu",
       "HammerBrother"
@@ -1079,14 +1079,14 @@
       "shatter",
       "sprite needed"
     ],
-    "description": "This custom block will shatter after the player gets off it. Good for platforming stages or places where you jump a lot to dodge stuff.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Final Theory\"><a href=\"/?p=profile&amp;id=22015\" style=\"color: #9d4edd;\" class=\"un\">Final Theory</a></span>.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\">v2.0 (<span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #fdadf4;\" title=\"Tewi\" class=\"un\">Arinsu</a></span>)<br>\r\n---<br>\r\n- Added SA-1 compatibility.<br>\r\n- Changed the included sprite to a bounce sprite.<br>\r\n- Simplified the code a lot.</div></div>",
-    "latest_version": "smwc-41235-1765916599",
+    "description": "This custom block will shatter after the player gets off it. Good for platforming stages or places where you jump a lot to dodge stuff.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Final Theory\"><a href=\"/?p=profile&amp;id=22015\" style=\"color: #9d4edd;\" class=\"un\">Final Theory</a></span>.",
+    "latest_version": "2.0",
     "install_kind": "gps_block",
     "versions": [
       {
         "upstream_id": 41235,
-        "title": "Shatter After Player Touch v2.0",
-        "version": "smwc-41235-1765916599",
+        "title": "Shatter After Player Touch",
+        "version": "2.0",
         "upstream_time": 1765916599,
         "download_url": "https://dl.smwcentral.net/41235/Aftertouch%20Shatter.zip",
         "filename": "Aftertouch Shatter.zip",
@@ -1203,11 +1203,11 @@
     ]
   },
   {
-    "name": "smwblocks-super-mario-bros-3-screen-scrolling-pipes-v4-0",
+    "name": "smwblocks-super-mario-bros",
     "aliases": [],
     "section": "smwblocks",
     "upstream_id": 43183,
-    "title": "Super Mario Bros. 3 Screen Scrolling Pipes v4.0.6",
+    "title": "Super Mario Bros. 3 Screen Scrolling Pipes",
     "authors": [
       "HammerBrother"
     ],
@@ -1217,14 +1217,14 @@
       "sa-1",
       "uberasm needed"
     ],
-    "description": "<span style=\"color: #FF0000\"><b>See tutorial <a href=\"https://www.smwcentral.net/?p=section&a=details&id=41525\">here</a>. The blocks section has a small 1MIB limit preventing me from submitting this as a whole.</b></span><br>\r\n<br>\r\nThese pipes, when entered, will cause the player to travel through them within the same level rather than refreshing the screen. Useful for maze levels for those who refuse to use screen exits.<br>\r\n<br>\r\nNotes:<br>\r\n* If there are at least 2 sprites on screen, and Mario enters a pipe, he will partially disappear as he enters a pipe. You should patch <a href=\"https://smwc.me/s/40702\">NMSTL</a> to prevent that.<br>\r\n* If you have a low-gravity generator that does <div class=\"code inline filter-noemote filter-nobr\"><pre>DEC $7D</pre></div> (Mario's Y speed), make sure that you add a check that if $9D is nonzero, or the low nibble (low 4 bits, %----XXXX) of RAM address <div class=\"code inline filter-noemote filter-nobr\"><pre>!pipe_dir</pre></div> is non-zero, then skip/return, because otherwise Mario will rise up slowly while traveling through horizontal pipes. You absolutely don't want to touch his physics while inside pipes.<br>\r\n<br>\r\nGitHub: <a href=\"https://github.com/GhbSmwc/SMB3_ScreenScrollingPipes\" rel=\"nofollow\">https://github.com/GhbSmwc/SMB3_ScreenScrollingPipes</a><br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\"><pre>01-01-2025 4.0.3<br>\r\n\t-Fixed an oversight where some sprites still interacts with the player while inside a pipe, such as<br>\r\n\t a boo ring. Give thanks to AmperSam for reporting on it.<br>\r\n12/26/2025 4.0.4<br>\r\n\t-Bug fixes:<br>\r\n\t--Fixed a missing TopCorner for small pipes that I forgot to include for small-mario-only pipes.<br>\r\n\t--Fixed a problem where sprite interaction with the player during pipe travel still happens (lose yoshi)<br>\r\n\t  when the player is riding yoshi.<br>\r\n\t--Fixed a problem where if player is off yoshi, and enters a pipe and turns invisible, so too will<br>\r\n\t  yoshi. Credit to AmperSam (https://www.smwcentral.net/?p=profile&id=41223). Note that this isn't a<br>\r\n\t  true fix since yoshi checks if RAM $78 is #$FF would hide him. Problem is that the yoshi routine<br>\r\n\t  that checks the RAM is hijacked by SA-1.<br>\r\n\t--Fixed a minor visual quirk where if the player crouch-slide into the top of a pipe and enters it,<br>\r\n\t  the player will retain his crouching state throughout the pipe travel.<br>\r\n\t--Fixed an issue with Warp/Drag mode in SA-1 breaking on accurate emulators (when applied to SA-1 game,<br>\r\n\t  the main pipes code for UAT's gamemode 14 would still run in SNES CPU, runs an aiming routine that<br>\r\n\t  would use SA-1 math registers, which would fail). This now invokes SA-1 when the game is SA-1.<br>\r\n\t--Fixed a slight error where dying the same frame the player enters a pipe with !Setting_SSP_FreezeTime<br>\r\n\t  set to 1 would cause an abrupt fade out on the dying animation.<br>\r\n\t--Fixed a bug where yoshi turning around animation persists when traveling through vertical pipes.<br>\r\n\t--Made horizontal pipes also set X position and vertical pipes set Y position in addition to centering<br>\r\n\t  the player so that the player goes from entering to stem state at a consistent position (sprites,<br>\r\n\t  wind generators or anything that would position the player slightly off can affect this).<br>\r\n\t-Added an optional fix for camera panning to allow the camera to pan in the direction the player is<br>\r\n\t facing when enabling freezing during pipe travel (previously, the camera would pan in front of<br>\r\n\t player's facing when the freeze setting is off, but does not do so when on).<br>\r\n\t-Player's XY Subpixels position (RAM $13DA and $13DC) updates:<br>\r\n\t--Centering codes now also sets the player's XY subpixel position, thus movement no longer have a 1<br>\r\n\t  pixel variance of the player's XY position upon exiting pipe caps.<br>\r\n\t--Made an extremely minor change on \"Fixes.asm\" to include clearing the player's Y position subpixel<br>\r\n\t  when standing on layer 1 & 2 platforms.<br>\r\n\t -Moved several block codes to subroutines:<br>\r\n\t--Vertical centering code (accounting for whether or not riding yoshi or powerup states) now moved<br>\r\n\t  to subroutines.<br>\r\n\t--Majority of the code handling exiting vertical pipe caps and turn corners now moved to block<br>\r\n\t  subroutines, saving significant space.<br>\r\n\t-!Freeram_SSP_EntrExtFlg updated to now have values for entering, stem traveling, exiting normally,<br>\r\n\t and cannon exiting. Also the defines now reflect on this.<br>\r\n\t-Renamed several routine files to have a \"SSP\" at the beginning of the name using freeram of screen<br>\r\n\t scrolling pipes (It's better to have ASM resource-specific routines have their name (in this case,<br>\r\n\t \"screen scrolling pipes\") in so that (1) reduce the risk of filename conflicts, and (2) be more<br>\r\n\t informative that it is resource-specific).<br>\r\n\t-Vertical regular-sized pipe caps and turn corners will now check if the player is centered enough to<br>\r\n\t trigger them. This allows setups like seen here:<br>\r\n\t \"Readme_files/VerticalExitCapsRequirePlayerCenteredHorizontally.png\"<br>\r\n\t--Did a similar thing with the warp/drag mode block as well as the new \"set_visibility_off.asm\" and<br>\r\n\t  \"set_visibility_on.asm\", however it accepts both single-block centered and 2-block centered (half<br>\r\n\t  block to the right).<br>\r\n\t-Added an option !Setting_SSP_HideDuringPipeStemTravel, which can be set to 0 so that the player and<br>\r\n\t carried sprite does not turn invisible inside pipes, ideal for glass pipes.<br>\r\n\t-Map16 files for LM's map16 and tile list for GPS for \"v2\" versions now have page 4 and page 5 merged<br>\r\n\t rather than having one file per-page.<br>\r\n\t-Depreciated files:<br>\r\n\t--Deleted the old version of the map16 blocks and for the GPS tool.<br>\r\n\t--Got rid of the old level file since it is now depreciated and causing confusion.<br>\r\n\t-Made moving blocks to a different block number for blocks list for GPS much MUCH easier, by including<br>\r\n\t a tool, \"JS_GPSBlockListRelocator.html\" which will offset them to a different map16 number.<br>\r\n\t-Facing directions are now corrected when traveling through pipes rather than just when the player<br>\r\n\t exits horizontal pipe caps, so that the player doesn't appear going backwards in glass pipes.<br>\r\n\t-The uberasm tool code is no longer a library code to be called from a gamemode 14 ASM file, because<br>\r\n\t UAT2.0 now supports multiple separate ASM files for the same N where N is the level/gamemode/<br>\r\n\t overworld number to apply its effects on.<br>\r\n\t-Added a per-level wraparound feature for warp-drag mode: If the player pipe traveling heads into the<br>\r\n\t edge of a level, will send him to the opposite edge of the level. If V/H scrolling disabled, then<br>\r\n\t wraparound will adjust to be the screen's width. It also comes with an extra byte setting to also<br>\r\n\t invert along the edge.<br>\r\n\t-Added a uberasm tool level file that adds wraparound effect for screen scrolling pipes when the<br>\r\n\t traveling player hits the edge of the level.<br>\r\n\t-Several removed freerams:<br>\r\n\t--Late discovery that somebody (MarioFanGamer) found that RAM $8F is a reliable copy of $72 for<br>\r\n\t  checking if Mario is on the ground. Thus, freeram !Freeram_BlockedStatBkp will optionally not be used<br>\r\n\t  (!Setting_SSP_CopyRAM77 set to 0 by default to not use a freeram).<br>\r\n\t--Removing !Freeram_SSP_CarrySpr would still works with carried sprites. Thus this is redundant.<br>\r\n\t-Added optional Freeram: !Freeram_SSP_InvisbleFlag, due to having both visible and invisible states for<br>\r\n\t doors and glass pipe support (will be used if !Setting_SSP_HideDuringPipeStemTravel == 0).<br>\r\n\t-Added walking animation for horizontal pipe caps (note that it runs the vanilla code that handles<br>\r\n\t walking animations, as seen when $71 == #$05), which are JSL $00CEB1, JSL $00CFBC and<br>\r\n\t JSR $00D1F4. Finally fulfilled RPG Hacker's recommendation (https://smwc.me/s/41236/12725 ).<br>\r\n\t-Moved aiming routine used by warp/drag mode to newer uberasm tool's routines.<br>\r\n\t-Added an optional feature for warp/drag mode to make the player move faster if the destination is far<br>\r\n\t away enough.<br>\r\n\t-Renamed various defines that start with \"!SSP\" with \"!Setting_SSP\" for consistency.<br>\r\n\t-Sound effects can now be configured.<br>\r\n08/16/2026 v 4.0.5 Hotfix of a sneaky branch that jump to middle of hijack<br>\r\n\t-Fixed a crash that could happen due to a branch at $00C5C9.<br>\r\n09/19/2026 v 4.0.6 Fixes<br>\r\n\t-Bug fixes:<br>\r\n\t--Fixed depreciation issue with \"routines/sspdragmariomode.asm\". Credit to \"MrDeePay\" for pointing it<br>\r\n\t  out.<br>\r\n\t--Fixed an issue with several GPS routines files potentially accessing data at the wrong bank, mainly<br>\r\n\t  because they're using 16-bit addressing without using \"PHB : PHK : PLB : &lt;CodeHere&gt; : PLB\" or using<br>\r\n\t  24-bit address (&lt;opcode&gt;.l Table,x), the files in question are: \"SSPExitDoor.asm\" and<br>\r\n\t  \"SSPReverseDirection.asm\".</pre></div></div>",
-    "latest_version": "smwc-43183-1789909853",
+    "description": "These pipes, when entered, will cause the player to travel through them within the same level rather than refreshing the screen. Useful for maze levels for those who refuse to use screen exits.<br>\r\n<br>\r\n<b>Read tutorial on how to insert them:<a href=\"https://www.smwcentral.net/?p=section&a=details&id=41525\">here</a>.</b><br>\r\n<br>\r\nNotes:<br>\r\n* If there are at least 2 sprites on screen, and Mario enters a pipe, he will partially disappear as he enters a pipe. You should patch <a href=\"https://smwc.me/s/40702\">NMSTL</a> to prevent that.<br>\r\n* If you have a low-gravity generator that does <div class=\"code inline filter-noemote filter-nobr\"><pre>DEC $7D</pre></div> (Mario's Y speed), make sure that you add a check that if $9D is nonzero, or the low nibble (low 4 bits, %----XXXX) of RAM address <div class=\"code inline filter-noemote filter-nobr\"><pre>!pipe_dir</pre></div> is non-zero, then skip/return, because otherwise Mario will rise up slowly while traveling through horizontal pipes. You absolutely don't want to touch his physics while inside pipes.<br>\r\n<br>\r\nGitHub: <a href=\"https://github.com/GhbSmwc/SMB3_ScreenScrollingPipes\" rel=\"nofollow\">https://github.com/GhbSmwc/SMB3_ScreenScrollingPipes</a>",
+    "latest_version": "4.0.6",
     "install_kind": "gps_block",
     "versions": [
       {
         "upstream_id": 43183,
-        "title": "Super Mario Bros. 3 Screen Scrolling Pipes v4.0.6",
-        "version": "smwc-43183-1789909853",
+        "title": "Super Mario Bros. 3 Screen Scrolling Pipes",
+        "version": "4.0.6",
         "upstream_time": 1789909853,
         "download_url": "https://dl.smwcentral.net/43183/SMB3_ScreenScrollingPipes_v4_0_6.zip",
         "filename": "SMB3_ScreenScrollingPipes_v4_0_6.zip",
@@ -1707,11 +1707,11 @@
     ]
   },
   {
-    "name": "smwblocks-trampoline-block-v1",
+    "name": "smwblocks-trampoline-block",
     "aliases": [],
     "section": "smwblocks",
     "upstream_id": 41122,
-    "title": "Trampoline Block v1.2",
+    "title": "Trampoline Block",
     "authors": [
       "HammerBrother"
     ],
@@ -1722,14 +1722,14 @@
       "sa-1",
       "uberasm needed"
     ],
-    "description": "Acts as 025 or 130.<br>\r\n<br>\r\nInspired by NSMB's Bouncy Mushrooms in <a href=\"http://www.mariowiki.com/World_1-5_%28New_Super_Mario_Bros.%29\" rel=\"nofollow\">World 1-5</a>.<br>\r\n<br>\r\nUnlike all other boost blocks, in order to bounce high, it requires the player to tap and hold the jump/spinjump button the instant they land on top of the block rather than also requiring just to hold the jump/spinjump button <i>before</i> landing.<br>\r\n<br>\r\nUses 3 bytes of freeram:<br>\r\n-!FreeRam_TimedJump is the margin of error range that allows the player to press a button within the window of time when bounced.<br>\r\n-!FreeRam_Ylow and !FreeRam_Yhi is a fix to prevent slightly higher jump.",
-    "latest_version": "smwc-41122-1764281528",
+    "description": "Inspired by NSMB's Bouncy Mushrooms in <a href=\"http://www.mariowiki.com/World_1-5_%28New_Super_Mario_Bros.%29\" rel=\"nofollow\">World 1-5</a>.<br>\r\n<br>\r\nUnlike all other boost blocks, in order to bounce high, it requires the player to tap and hold the jump/spinjump button the instant they land on top of the block rather than also requiring just to hold the jump/spinjump button <i>before</i> landing.<br>\r\n<br>\r\nUses 3 bytes of freeram:<br>\r\n-!FreeRam_TimedJump is the margin of error range that allows the player to press a button within the window of time when bounced.<br>\r\n-!FreeRam_Ylow and !FreeRam_Yhi is a fix to prevent slightly higher jump.",
+    "latest_version": "v1.2",
     "install_kind": "gps_block",
     "versions": [
       {
         "upstream_id": 41122,
-        "title": "Trampoline Block v1.2",
-        "version": "smwc-41122-1764281528",
+        "title": "Trampoline Block",
+        "version": "v1.2",
         "upstream_time": 1764281528,
         "download_url": "https://dl.smwcentral.net/41122/Trampoline%20Block%20v1.2.zip",
         "filename": "Trampoline Block v1.2.zip",

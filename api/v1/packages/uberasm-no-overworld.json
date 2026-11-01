@@ -1,0 +1,34 @@
+{
+  "name": "uberasm-no-overworld",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 39756,
+  "title": "No Overworld",
+  "authors": [
+    "Brolencho"
+  ],
+  "tags": [
+    "lorom",
+    "overworld",
+    "sa-1"
+  ],
+  "description": "Originally inspired by a resource from <span class=\"un-outer\" title=\"Alcaro\"><a href=\"/?p=profile&amp;id=1686\" style=\"color: #68782c;\" class=\"un unavailable inactive\">Alcaro</a></span>, and does pretty much the same thing: disables returning to overworld after beating levels and instead has the player go through levels in a sequence, either in numerical order or in an order defined by you.",
+  "latest_version": "1.3",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 39756,
+      "title": "No Overworld",
+      "version": "1.3",
+      "upstream_time": 1772229699,
+      "download_url": "https://dl.smwcentral.net/39756/No%20Overworld%20v1.3.zip",
+      "filename": "No Overworld v1.3.zip",
+      "size": 8750,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

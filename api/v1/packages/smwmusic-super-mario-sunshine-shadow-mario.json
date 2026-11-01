@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-super-mario-sunshine-shadow-mario",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42685,
+  "title": "Super Mario Sunshine - Shadow Mario",
+  "authors": [
+    "NamyX"
+  ],
+  "tags": [
+    "boss",
+    "tense"
+  ],
+  "description": "The song that plays when you chase Shadow Mario in SMS.<br>\r\n<br>\r\nNote: Incompatible with Bonus End.",
+  "latest_version": "smwc-42685-1793115260",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42685,
+      "title": "Super Mario Sunshine - Shadow Mario",
+      "version": "smwc-42685-1793115260",
+      "upstream_time": 1793115260,
+      "download_url": "https://dl.smwcentral.net/42685/Shadow%20Mario.zip",
+      "filename": "Shadow Mario.zip",
+      "size": 103597,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

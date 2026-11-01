@@ -1,0 +1,36 @@
+{
+  "name": "uberasm-graphical-air-meter",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 39678,
+  "title": "Graphical Air Meter",
+  "authors": [
+    "HammerBrother"
+  ],
+  "tags": [
+    "air",
+    "air meter",
+    "counter",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This is basically similar to the sprite version, but recoded from scratch, and more customizability. The amount of time the player can be in the water, unlike the sprite version, can be any value rather than restricted to powers of 2 \"ticks\" (which happens at every !CountDownFrequency+1 frames) starting at 255 units.",
+  "latest_version": "2.0.2",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 39678,
+      "title": "Graphical Air Meter",
+      "version": "2.0.2",
+      "upstream_time": 1770563680,
+      "download_url": "https://dl.smwcentral.net/39678/Air-meter_v2_0_2_.zip",
+      "filename": "Air-meter_v2_0_2_.zip",
+      "size": 123081,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

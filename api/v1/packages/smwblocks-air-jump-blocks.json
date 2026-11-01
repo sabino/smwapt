@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-air-jump-blocks",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 41215,
+  "title": "Air Jump Blocks",
+  "authors": [
+    "HammerBrother"
+  ],
+  "tags": [
+    "jump",
+    "lorom",
+    "sa-1",
+    "spinjump"
+  ],
+  "description": "When Mario touches this non-solid block, it allows him to jump off while in mid-air when you press the (spin) jump button. Perfect for platforming levels. <br>\r\n<br>\r\nNotes: you can only jump if Mario is falling, not rising (so press jump when Mario is falling to make this work).<br>\r\nAnother thing is if you make a staircase of this block, change 0x07A78 from [D0] to [80] to allow free vertical scrolling so the screen won't obscure Mario on top of the screen.<br>\r\n<br>\r\nCredit not necessary.",
+  "latest_version": "2.1",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 41215,
+      "title": "Air Jump Blocks",
+      "version": "2.1",
+      "upstream_time": 1764811888,
+      "download_url": "https://dl.smwcentral.net/41215/Air%20Jump%20Blocks.zip",
+      "filename": "Air Jump Blocks.zip",
+      "size": 8081,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

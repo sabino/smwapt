@@ -3,7 +3,7 @@
   "aliases": [],
   "section": "uberasm",
   "upstream_id": 42938,
-  "title": "Retry System v2.2.0",
+  "title": "Retry System",
   "authors": [
     "Kevin"
   ],
@@ -22,7 +22,7 @@
   "versions": [
     {
       "upstream_id": 42938,
-      "title": "Retry System v2.2.0",
+      "title": "Retry System",
       "version": "2.2.0",
       "upstream_time": 1787414609,
       "download_url": "https://dl.smwcentral.net/42938/retry-system_v2.2.0.zip",

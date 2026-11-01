@@ -1,36 +1,250 @@
 [
   {
-    "name": "smwmusic-immaculate-sense-in-darkness-eyes-shut",
+    "name": "smwmusic-blastar-boss",
     "aliases": [],
     "section": "smwmusic",
-    "upstream_id": 42869,
-    "title": "Immaculate Sense in Darkness ~ Eyes Shut",
+    "upstream_id": 42794,
+    "title": "Blastar - Boss 5",
     "authors": [
-      "Archbishop Weeble-Wobble",
-      "Hooded Edge"
+      "Margulan"
     ],
     "tags": [
-      "athletic",
       "boss",
+      "cave",
+      "chaotic",
       "chase",
       "dark",
-      "final",
-      "night",
-      "tense",
-      "upbeat"
+      "industrial",
+      "sewer",
+      "tense"
     ],
-    "description": "It's the Touhou-inspired original entry for Super Famicompo #8 from <span class=\"un-outer\" title=\"Archbishop Weeble-Wobble\"><a href=\"/?p=profile&amp;id=59278\" style=\"color: #f7b801;\" title=\"Spooky Cathedral-Wobble\" class=\"un\">Archbishop Weeble-Wobble</a></span> & <span class=\"un-outer\" title=\"Hooded Edge\"><a href=\"/?p=profile&amp;id=23547\" style=\"color: #9d4edd;\" title=\"MoistCr1tikal\" class=\"un\">Hooded Edge</a></span> that got <b><span style=\"color: #db8fff;\">4th Place</span></b>.<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. Original Echo Delay, but sacrifices SMW-Compatibility (OG Echo)ㅤ<span style=\"color: #C291EB;\">[Listening-Only]</span><br>\r\nㅤ2. Decreased Echo Delay (LOWER Echo)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤㅤ ♠  What's disabled:<br>\r\nㅤㅤㅤ  -  \"Bonus End\" (@7)<br>\r\nㅤㅤㅤ  -  \"P-Switch\" (@12) <span style=\"color: #3DDA8D;\">← (\"S-550 LA Tom.brr\" is in its place in case you really need it)</span> <br>\r\nㅤㅤㅤ  -  Yoshi SFX (@15)<br>\r\nㅤㅤㅤ  -  Thunder SFX<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable pitches for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. F# Minor w/ Slight Detune (Original Pitch)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span> <br>\r\nㅤ2. F# Minor (Custom Pitch 1)<br>\r\nㅤ3. G Minor (Custom Pitch 2)<br>\r\nㅤ4. F Minor (Custom Pitch 3)",
-    "latest_version": "smwc-42869-1792779812",
+    "description": "Boss 5 or music 14 from technical hardcore amiga game.<br>\r\nGood for underground and hardcore levels.",
+    "latest_version": "smwc-42794-1793372720",
     "install_kind": "add_music_k_music",
     "versions": [
       {
-        "upstream_id": 42869,
-        "title": "Immaculate Sense in Darkness ~ Eyes Shut",
-        "version": "smwc-42869-1792779812",
-        "upstream_time": 1792779812,
-        "download_url": "https://dl.smwcentral.net/42869/Immaculate%20Sense%20in%20Darkness%20~%20%20Eyes%20Shut.zip",
-        "filename": "Immaculate Sense in Darkness ~  Eyes Shut.zip",
-        "size": 429135,
+        "upstream_id": 42794,
+        "title": "Blastar - Boss 5",
+        "version": "smwc-42794-1793372720",
+        "upstream_time": 1793372720,
+        "download_url": "https://dl.smwcentral.net/42794/Blastar_Boss_5.zip",
+        "filename": "Blastar_Boss_5.zip",
+        "size": 61426,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-cldc",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42759,
+    "title": "CLDC '13: Yoshi's Treasure Hunt - Ruins",
+    "authors": [
+      "Moose"
+    ],
+    "tags": [
+      "castle",
+      "cave",
+      "dark",
+      "forest",
+      "jungle",
+      "mysterious",
+      "ruins",
+      "swamp",
+      "temple",
+      "water"
+    ],
+    "description": "one of two pieces written for Gregor's chocolate level design entry. this plays in the interior ruins section",
+    "latest_version": "smwc-42759-1793208440",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42759,
+        "title": "CLDC '13: Yoshi's Treasure Hunt - Ruins",
+        "version": "smwc-42759-1793208440",
+        "upstream_time": 1793208440,
+        "download_url": "https://dl.smwcentral.net/42759/cldc13-descent.zip",
+        "filename": "cldc13-descent.zip",
+        "size": 32600,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      },
+      {
+        "upstream_id": 42758,
+        "title": "CLDC '13: Yoshi's Treasure Hunt - Jungle",
+        "version": "smwc-42758-1793208434",
+        "upstream_time": 1793208434,
+        "download_url": "https://dl.smwcentral.net/42758/cldc13-bongos.zip",
+        "filename": "cldc13-bongos.zip",
+        "size": 31698,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-deltarune-shop",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42558,
+    "title": "Deltarune - Shop 3",
+    "authors": [
+      "PolyPlayer"
+    ],
+    "tags": [
+      "calm",
+      "cutscene",
+      "menu",
+      "night",
+      "town"
+    ],
+    "description": "(This version is Unsampled)<br>\r\nShop 3 from Deltarune Chapter 5<br>\r\n<br>\r\nit was revealed in a newsletter in December 2025. <br>\r\nCould work in night or town levels<br>\r\n<br>\r\nSpoilers for Chapter 5:<br>\r\n<div class=\"spoiler\"><input type=\"checkbox\" class=\"spoiler-reveal\"><div class=\"spoilerInner\">The song plays when you enter Pink's shop near the cliffs</div></div>",
+    "latest_version": "smwc-42558-1793040652",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42558,
+        "title": "Deltarune - Shop 3",
+        "version": "smwc-42558-1793040652",
+        "upstream_time": 1793040652,
+        "download_url": "https://dl.smwcentral.net/42558/Shop%203%20%28Unsampled%29%20.zip",
+        "filename": "Shop 3 (Unsampled) .zip",
+        "size": 30973,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      },
+      {
+        "upstream_id": 42557,
+        "title": "Deltarune - Shop 3",
+        "version": "smwc-42557-1793040651",
+        "upstream_time": 1793040651,
+        "download_url": "https://dl.smwcentral.net/42557/Shop%203%20%28Sampled%29%20.zip",
+        "filename": "Shop 3 (Sampled) .zip",
+        "size": 42159,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-gravity-circuit",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42510,
+    "title": "Gravity Circuit 2 - The Boys are Back! 🔴🟢  ~ Opening Stage (Remix)",
+    "authors": [
+      "Hooded Edge"
+    ],
+    "tags": [
+      "final",
+      "fire",
+      "industrial",
+      "mountain",
+      "tense",
+      "upbeat",
+      "urban"
+    ],
+    "description": "<center><img src=\"https://bin.smwcentral.net/u/23547/Kai%2B%2526%2BCable.webp\" alt=\"\"></center><br>\r\nDid an arrangement of <b><a href=\"https://youtu.be/w6qCiOE24SU\" rel=\"nofollow\">Opening Stage</a></b> revealed in <a href=\"https://youtu.be/M_FeY9l1KqA\" rel=\"nofollow\"><i>Gravity Circuit 2's</i> trailer</a>. I was hyped AF for a sequel to be announced (ft. <span style=\"color: #6ece4b;\">Cable</span>), and then Ninmark released the song on his YouTube channel, and I KNEW I HAD TO GET MY HANDS ON THAT INTRO STAGE THEME THE SECOND DOMINIC NINMARK DROPPED IT!!!<br>\r\n<br>\r\nGravity Circuit was 2023's GOTY for me, and it getting a sequel is exactly what this world needs!!!<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. Enables the voice clip, but sacrifices SMW-Compatibility (VOICE Enabled)ㅤ<span style=\"color: #C291EB;\">[Listening-Only]</span><br>\r\nㅤ2. Disables the voice clip & Decreases the Echo (VOICE Disabled)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤㅤ ♠  What's disabled:<br>\r\nㅤㅤㅤ  -  \"Bonus End\" (@7)<br>\r\nㅤㅤㅤ  -  Thunder SFX<br>\r\nㅤㅤㅤ  -  P-Switch<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable pitches for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. B Minor (Original Pitch)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span> <br>\r\nㅤ2. A Minor (Custom Pitch 1)<br>\r\nㅤ3. C Minor (Custom Pitch 2)",
+    "latest_version": "smwc-42510-1793456496",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42510,
+        "title": "Gravity Circuit 2 - The Boys are Back! 🔴🟢  ~ Opening Stage (Remix)",
+        "version": "smwc-42510-1793456496",
+        "upstream_time": 1793456496,
+        "download_url": "https://dl.smwcentral.net/42510/Boys_Are_Back%21%2C_The.zip",
+        "filename": "Boys_Are_Back%21%2C_The.zip",
+        "size": 295821,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-harukanaru-augusta-for-windows-course-bgm",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42912,
+    "title": "Harukanaru Augusta for Windows - Course BGM 1",
+    "authors": [
+      "Fullcannon"
+    ],
+    "tags": [
+      "forest",
+      "grassland",
+      "sea",
+      "sky",
+      "upbeat"
+    ],
+    "description": "First of the three chronological in-game themes heard during the Augusta golf course of Harukanaru Augusta for Windows (PC).",
+    "latest_version": "smwc-42912-1793208652",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42912,
+        "title": "Harukanaru Augusta for Windows - Course BGM 1",
+        "version": "smwc-42912-1793208652",
+        "upstream_time": 1793208652,
+        "download_url": "https://dl.smwcentral.net/42912/Harukanaru%20Augusta%20for%20Windows%20-%20Course%20BGM%201.zip",
+        "filename": "Harukanaru Augusta for Windows - Course BGM 1.zip",
+        "size": 84209,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-jojo-s-bizarre-adventure-golden-wind-il-vento-d-oro-star-mix",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42303,
+    "title": "JoJo's Bizarre Adventure: Golden Wind - il vento d'oro (Star-mix)",
+    "authors": [
+      "Hooded Edge"
+    ],
+    "tags": [
+      "cutscene",
+      "p-switch",
+      "star",
+      "tense",
+      "upbeat"
+    ],
+    "description": "<center><img src=\"https://media1.tenor.com/m/-5Lpvgh3MAAAAAAC/giorno-tea.gif\" alt=\"\"></center><br>\r\n<br>\r\nDid a short star-mix of <b><a href=\"https://youtu.be/U0TXIXTzJEY\" rel=\"nofollow\">il vento d'oro</a></b> from <i>JoJo's Bizarre Adventure: Golden Wind</i>. Look, I already did Steel Ball Run's theme, so I had to do Golden Wind's theme too!!<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. Lead is @1 (Default Version)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤ2. Lead is @7 (Funny Version)<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. Skips the Intro (INTRO Skipped)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span> <br>\r\nㅤ2. Enables the Intro (INTRO Enabled)",
+    "latest_version": "smwc-42303-1793041066",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42303,
+        "title": "JoJo's Bizarre Adventure: Golden Wind - il vento d'oro (Star-mix)",
+        "version": "smwc-42303-1793041066",
+        "upstream_time": 1793041066,
+        "download_url": "https://dl.smwcentral.net/42303/il%20vento%20d%27oro%20%28Star-mix%29.zip",
+        "filename": "il vento d%27oro (Star-mix).zip",
+        "size": 125589,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -141,41 +355,6 @@
     ]
   },
   {
-    "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-battle",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42997,
-    "title": "Lufia II: Rise of the Sinistrals - Battle #2",
-    "authors": [
-      "Ahrion"
-    ],
-    "tags": [
-      "boss",
-      "castle",
-      "final",
-      "tense"
-    ],
-    "description": "Lufia II music",
-    "latest_version": "smwc-42997-1792782692",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42997,
-        "title": "Lufia II: Rise of the Sinistrals - Battle #2",
-        "version": "smwc-42997-1792782692",
-        "upstream_time": 1792782692,
-        "download_url": "https://dl.smwcentral.net/42997/Battle%202.zip",
-        "filename": "Battle 2.zip",
-        "size": 56700,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
     "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-big-game",
     "aliases": [],
     "section": "smwmusic",
@@ -199,40 +378,6 @@
         "download_url": "https://dl.smwcentral.net/43023/Big%20Game.zip",
         "filename": "Big Game.zip",
         "size": 47114,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-capsule-monster",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 43001,
-    "title": "Lufia II: Rise of the Sinistrals - Capsule Monster",
-    "authors": [
-      "Ahrion"
-    ],
-    "tags": [
-      "forest",
-      "grassland",
-      "town"
-    ],
-    "description": "Lufia II music",
-    "latest_version": "smwc-43001-1792783428",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 43001,
-        "title": "Lufia II: Rise of the Sinistrals - Capsule Monster",
-        "version": "smwc-43001-1792783428",
-        "upstream_time": 1792783428,
-        "download_url": "https://dl.smwcentral.net/43001/Capsule%20Monster.zip",
-        "filename": "Capsule Monster.zip",
-        "size": 57729,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -267,106 +412,6 @@
         "download_url": "https://dl.smwcentral.net/43021/Casino.zip",
         "filename": "Casino.zip",
         "size": 37132,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-castle",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42999,
-    "title": "Lufia II: Rise of the Sinistrals - Castle",
-    "authors": [
-      "Ahrion"
-    ],
-    "tags": [
-      "castle",
-      "cutscene",
-      "town"
-    ],
-    "description": "Lufia II music",
-    "latest_version": "smwc-42999-1792783132",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42999,
-        "title": "Lufia II: Rise of the Sinistrals - Castle",
-        "version": "smwc-42999-1792783132",
-        "upstream_time": 1792783132,
-        "download_url": "https://dl.smwcentral.net/42999/Castle.zip",
-        "filename": "Castle.zip",
-        "size": 56202,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-cave",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42990,
-    "title": "Lufia II: Rise of the Sinistrals - Cave",
-    "authors": [
-      "Ahrion"
-    ],
-    "tags": [
-      "castle",
-      "cave",
-      "dark"
-    ],
-    "description": "Lufia II music",
-    "latest_version": "smwc-42990-1792781845",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42990,
-        "title": "Lufia II: Rise of the Sinistrals - Cave",
-        "version": "smwc-42990-1792781845",
-        "upstream_time": 1792781845,
-        "download_url": "https://dl.smwcentral.net/42990/Cave.zip",
-        "filename": "Cave.zip",
-        "size": 54552,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-comrade",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42995,
-    "title": "Lufia II: Rise of the Sinistrals - Comrade",
-    "authors": [
-      "Ahrion"
-    ],
-    "tags": [
-      "abstract"
-    ],
-    "description": "Lufia II music",
-    "latest_version": "smwc-42995-1792782193",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42995,
-        "title": "Lufia II: Rise of the Sinistrals - Comrade",
-        "version": "smwc-42995-1792782193",
-        "upstream_time": 1792782193,
-        "download_url": "https://dl.smwcentral.net/42995/Comrade.zip",
-        "filename": "Comrade.zip",
-        "size": 44523,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -509,38 +554,6 @@
     ]
   },
   {
-    "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-growth",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 43002,
-    "title": "Lufia II: Rise of the Sinistrals - Growth!",
-    "authors": [
-      "Ahrion"
-    ],
-    "tags": [
-      "abstract"
-    ],
-    "description": "Lufia II music",
-    "latest_version": "smwc-43002-1792783511",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 43002,
-        "title": "Lufia II: Rise of the Sinistrals - Growth!",
-        "version": "smwc-43002-1792783511",
-        "upstream_time": 1792783511,
-        "download_url": "https://dl.smwcentral.net/43002/Growth%21.zip",
-        "filename": "Growth%21.zip",
-        "size": 44797,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
     "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-hit",
     "aliases": [],
     "section": "smwmusic",
@@ -564,38 +577,6 @@
         "download_url": "https://dl.smwcentral.net/43024/Hit%21.zip",
         "filename": "Hit%21.zip",
         "size": 48371,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-item",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42991,
-    "title": "Lufia II: Rise of the Sinistrals - Item",
-    "authors": [
-      "Ahrion"
-    ],
-    "tags": [
-      "abstract"
-    ],
-    "description": "Lufia II music",
-    "latest_version": "smwc-42991-1792781936",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42991,
-        "title": "Lufia II: Rise of the Sinistrals - Item",
-        "version": "smwc-42991-1792781936",
-        "upstream_time": 1792781936,
-        "download_url": "https://dl.smwcentral.net/42991/Item.zip",
-        "filename": "Item.zip",
-        "size": 42425,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -631,39 +612,6 @@
         "download_url": "https://dl.smwcentral.net/43020/Lexis%20Shaia%20Lab.zip",
         "filename": "Lexis Shaia Lab.zip",
         "size": 56978,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-light-slumber",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42989,
-    "title": "Lufia II: Rise of the Sinistrals - Light Slumber",
-    "authors": [
-      "Ahrion"
-    ],
-    "tags": [
-      "calm",
-      "cutscene"
-    ],
-    "description": "Lufia II music",
-    "latest_version": "smwc-42989-1792781667",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42989,
-        "title": "Lufia II: Rise of the Sinistrals - Light Slumber",
-        "version": "smwc-42989-1792781667",
-        "upstream_time": 1792781667,
-        "download_url": "https://dl.smwcentral.net/42989/Light%20Slumber.zip",
-        "filename": "Light Slumber.zip",
-        "size": 34798,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -807,72 +755,6 @@
     ]
   },
   {
-    "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-rumbling",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42987,
-    "title": "Lufia II: Rise of the Sinistrals - Rumbling",
-    "authors": [
-      "Ahrion"
-    ],
-    "tags": [
-      "credits",
-      "cutscene",
-      "title"
-    ],
-    "description": "Lufia II music",
-    "latest_version": "smwc-42987-1792781420",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42987,
-        "title": "Lufia II: Rise of the Sinistrals - Rumbling",
-        "version": "smwc-42987-1792781420",
-        "upstream_time": 1792781420,
-        "download_url": "https://dl.smwcentral.net/42987/Rumbling.zip",
-        "filename": "Rumbling.zip",
-        "size": 64079,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-scenario-item",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42993,
-    "title": "Lufia II: Rise of the Sinistrals - Scenario Item",
-    "authors": [
-      "Ahrion"
-    ],
-    "tags": [
-      "abstract"
-    ],
-    "description": "Lufia II music",
-    "latest_version": "smwc-42993-1792782126",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42993,
-        "title": "Lufia II: Rise of the Sinistrals - Scenario Item",
-        "version": "smwc-42993-1792782126",
-        "upstream_time": 1792782126,
-        "download_url": "https://dl.smwcentral.net/42993/Scenario%20Item.zip",
-        "filename": "Scenario Item.zip",
-        "size": 51892,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
     "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-shrine",
     "aliases": [],
     "section": "smwmusic",
@@ -941,38 +823,6 @@
     ]
   },
   {
-    "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-skill-item",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42992,
-    "title": "Lufia II: Rise of the Sinistrals - Skill Item",
-    "authors": [
-      "Ahrion"
-    ],
-    "tags": [
-      "abstract"
-    ],
-    "description": "Lufia II music",
-    "latest_version": "smwc-42992-1792782065",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42992,
-        "title": "Lufia II: Rise of the Sinistrals - Skill Item",
-        "version": "smwc-42992-1792782065",
-        "upstream_time": 1792782065,
-        "download_url": "https://dl.smwcentral.net/42992/Skill%20Item.zip",
-        "filename": "Skill Item.zip",
-        "size": 48101,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
     "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-slot",
     "aliases": [],
     "section": "smwmusic",
@@ -1029,40 +879,6 @@
         "download_url": "https://dl.smwcentral.net/43012/Spring.zip",
         "filename": "Spring.zip",
         "size": 50599,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-start-of-the-journey",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42988,
-    "title": "Lufia II: Rise of the Sinistrals - Start of the Journey",
-    "authors": [
-      "Ahrion"
-    ],
-    "tags": [
-      "credits",
-      "cutscene",
-      "title"
-    ],
-    "description": "Lufia II music",
-    "latest_version": "smwc-42988-1792781605",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42988,
-        "title": "Lufia II: Rise of the Sinistrals - Start of the Journey",
-        "version": "smwc-42988-1792781605",
-        "upstream_time": 1792781605,
-        "download_url": "https://dl.smwcentral.net/42988/Start%20of%20the%20Journey.zip",
-        "filename": "Start of the Journey.zip",
-        "size": 47841,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -1138,40 +954,6 @@
     ]
   },
   {
-    "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-the-greatest-thieves-in-the-world",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 43000,
-    "title": "Lufia II: Rise of the Sinistrals - The Greatest Thieves in the World",
-    "authors": [
-      "Ahrion"
-    ],
-    "tags": [
-      "abstract",
-      "carnival",
-      "cutscene"
-    ],
-    "description": "Lufia II music",
-    "latest_version": "smwc-43000-1792783247",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 43000,
-        "title": "Lufia II: Rise of the Sinistrals - The Greatest Thieves in the World",
-        "version": "smwc-43000-1792783247",
-        "upstream_time": 1792783247,
-        "download_url": "https://dl.smwcentral.net/43000/The%20Greatest%20Thieves%20in%20the%20World.zip",
-        "filename": "The Greatest Thieves in the World.zip",
-        "size": 54521,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
     "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-the-island-in-the-void",
     "aliases": [],
     "section": "smwmusic",
@@ -1197,40 +979,6 @@
         "download_url": "https://dl.smwcentral.net/43030/The%20Island%20in%20the%20Void.zip",
         "filename": "The Island in the Void.zip",
         "size": 59511,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-the-prophet",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42998,
-    "title": "Lufia II: Rise of the Sinistrals - The Prophet",
-    "authors": [
-      "Ahrion"
-    ],
-    "tags": [
-      "cutscene",
-      "mysterious",
-      "sad"
-    ],
-    "description": "Lufia II music",
-    "latest_version": "smwc-42998-1792782875",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42998,
-        "title": "Lufia II: Rise of the Sinistrals - The Prophet",
-        "version": "smwc-42998-1792782875",
-        "upstream_time": 1792782875,
-        "download_url": "https://dl.smwcentral.net/42998/The%20Prophet.zip",
-        "filename": "The Prophet.zip",
-        "size": 54498,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -1332,40 +1080,6 @@
         "download_url": "https://dl.smwcentral.net/43034/Theme%20of%20Daos.zip",
         "filename": "Theme of Daos.zip",
         "size": 61925,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-time-of-judgement",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42986,
-    "title": "Lufia II: Rise of the Sinistrals - Time of Judgement",
-    "authors": [
-      "Ahrion"
-    ],
-    "tags": [
-      "castle",
-      "cutscene",
-      "dark"
-    ],
-    "description": "Lufia II music",
-    "latest_version": "smwc-42986-1792780573",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42986,
-        "title": "Lufia II: Rise of the Sinistrals - Time of Judgement",
-        "version": "smwc-42986-1792780573",
-        "upstream_time": 1792780573,
-        "download_url": "https://dl.smwcentral.net/42986/Time%20of%20Judgement.zip",
-        "filename": "Time of Judgement.zip",
-        "size": 45635,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -1507,40 +1221,6 @@
     ]
   },
   {
-    "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-village",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 42996,
-    "title": "Lufia II: Rise of the Sinistrals - Village",
-    "authors": [
-      "Ahrion"
-    ],
-    "tags": [
-      "calm",
-      "credits",
-      "town"
-    ],
-    "description": "Lufia II music",
-    "latest_version": "smwc-42996-1792782443",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 42996,
-        "title": "Lufia II: Rise of the Sinistrals - Village",
-        "version": "smwc-42996-1792782443",
-        "upstream_time": 1792782443,
-        "download_url": "https://dl.smwcentral.net/42996/Village.zip",
-        "filename": "Village.zip",
-        "size": 52150,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
     "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-watchtowers-of-the-seal",
     "aliases": [],
     "section": "smwmusic",
@@ -1641,34 +1321,360 @@
     ]
   },
   {
-    "name": "smwmusic-the-15th-vanilla-level-design-contest-here-we-groovy",
+    "name": "smwmusic-mega-man-star-force-moving-scene-star-mix",
     "aliases": [],
     "section": "smwmusic",
-    "upstream_id": 42966,
-    "title": "The 15th Vanilla Level Design Contest - Here We Groovy!",
+    "upstream_id": 42145,
+    "title": "Mega Man Star Force - Moving Scene (Star-mix)",
     "authors": [
-      "Dispace"
+      "Hooded Edge"
     ],
     "tags": [
-      "abstract",
-      "athletic",
-      "beach",
-      "grassland",
-      "town",
-      "urban"
+      "cutscene",
+      "p-switch",
+      "star",
+      "upbeat"
     ],
-    "description": "While VLDC15 remix contest result is \"coming soon\", but port release is \"inaugural\" during C3 Summer 2026. Here We Go! remix but urban groovy styled",
-    "latest_version": "smwc-42966-1792780284",
+    "description": "Did a short arrangement of <b><a href=\"https://youtu.be/tbo_ToDleNY\" rel=\"nofollow\">Moving Scene</a></b> from <i>Mega Man Star Force</i> (which is basically a shortened variation of the game's <a href=\"https://youtu.be/ftj-S6QUcD4\" rel=\"nofollow\">Title theme</a>). The Mega Man Star Force Legacy Collection came out recently, and I thought I'd do a short mix for now (before doing an actual remix in the future) 'cuz Star Force 1 deserves it!!! SERIOUSLY, GO PLAY IT!!!<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. B Minor (Original Pitch)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤ2. A# Minor (Custom Pitch 1)<br>\r\nㅤ3. C Minor (Custom Pitch 2)<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. Enables the Intro (INTRO Enabled)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤ2. Shortens the Intro (INTRO Shortened)<br>\r\nㅤ3. Skips the Intro (INTRO Skipped)<br>\r\n<br>\r\n<center><img src=\"https://media1.tenor.com/m/-QCvYNBuWr4AAAAC/lock-in-mega-man-star-force.gif\" alt=\"\"></center>",
+    "latest_version": "smwc-42145-1793040998",
     "install_kind": "add_music_k_music",
     "versions": [
       {
-        "upstream_id": 42966,
-        "title": "The 15th Vanilla Level Design Contest - Here We Groovy!",
-        "version": "smwc-42966-1792780284",
-        "upstream_time": 1792780284,
-        "download_url": "https://dl.smwcentral.net/42966/REMIX%20-%20Here%20Were%20Groovy%21.zip",
-        "filename": "REMIX - Here Were Groovy%21.zip",
-        "size": 33766,
+        "upstream_id": 42145,
+        "title": "Mega Man Star Force - Moving Scene (Star-mix)",
+        "version": "smwc-42145-1793040998",
+        "upstream_time": 1793040998,
+        "download_url": "https://dl.smwcentral.net/42145/Mega%20Man%20Star%20Force%20%28Star-mix%29.zip",
+        "filename": "Mega Man Star Force (Star-mix).zip",
+        "size": 278814,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-rudra-no-hihou-dance-with-the-zombie",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42659,
+    "title": "Rudra no Hihou - Dance with the Zombie",
+    "authors": [
+      "NamyX"
+    ],
+    "tags": [
+      "ghost house",
+      "night"
+    ],
+    "description": "Dance with the Zombie from Rudra no Hihou",
+    "latest_version": "smwc-42659-1793307537",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42659,
+        "title": "Rudra no Hihou - Dance with the Zombie",
+        "version": "smwc-42659-1793307537",
+        "upstream_time": 1793307537,
+        "download_url": "https://dl.smwcentral.net/42659/RnH%20Dance%20with%20the%20Zombie.zip",
+        "filename": "RnH Dance with the Zombie.zip",
+        "size": 69174,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-steel-ball-run-jojo-s-bizarre-adventure-dance-with-steel-ball-run-star-mix",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42297,
+    "title": "Steel Ball Run: JoJo's Bizarre Adventure - Dance with STEEL BALL RUN (Star-mix)",
+    "authors": [
+      "Hooded Edge"
+    ],
+    "tags": [
+      "cutscene",
+      "p-switch",
+      "star",
+      "tense",
+      "upbeat"
+    ],
+    "description": "<center><img src=\"https://media1.tenor.com/m/fbBOQI9UqgoAAAAd/gyro-zeppeli-jojo%27s-bizarre-adventure.gif\" alt=\"\"></center><br>\r\n<br>\r\nDid a short star-mix of <b><a href=\"https://youtu.be/AFZFhMyiSZ8\" rel=\"nofollow\">Dance with STEEL BALL RUN</a></b> from <i>Steel Ball Run: JoJo's Bizarre Adventure</i> because I haven't done anything Jojo related in a while, and I thought I'd shit this one out before I get to doing real stuff with the series again.<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. C (Original Pitch)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤ2. B Minor (Custom Pitch 1)<br>\r\nㅤ3. C# Minor (Custom Pitch 2)<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. Skips the Intro (INTRO Skipped)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span> <br>\r\nㅤ2. Enables the Intro (INTRO Enabled)",
+    "latest_version": "smwc-42297-1793041049",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42297,
+        "title": "Steel Ball Run: JoJo's Bizarre Adventure - Dance with STEEL BALL RUN (Star-mix)",
+        "version": "smwc-42297-1793041049",
+        "upstream_time": 1793041049,
+        "download_url": "https://dl.smwcentral.net/42297/Dance%20with%20STEEL%20BALL%20RUN%20%28Star-mix%29.zip",
+        "filename": "Dance with STEEL BALL RUN (Star-mix).zip",
+        "size": 186863,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-super-mario-sunshine-shadow-mario",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42685,
+    "title": "Super Mario Sunshine - Shadow Mario",
+    "authors": [
+      "NamyX"
+    ],
+    "tags": [
+      "boss",
+      "tense"
+    ],
+    "description": "The song that plays when you chase Shadow Mario in SMS.<br>\r\n<br>\r\nNote: Incompatible with Bonus End.",
+    "latest_version": "smwc-42685-1793115260",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42685,
+        "title": "Super Mario Sunshine - Shadow Mario",
+        "version": "smwc-42685-1793115260",
+        "upstream_time": 1793115260,
+        "download_url": "https://dl.smwcentral.net/42685/Shadow%20Mario.zip",
+        "filename": "Shadow Mario.zip",
+        "size": 103597,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-the-legend-of-zelda-ocarina-of-time-bring-the-heat-in-gerudo-valley-remix",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42782,
+    "title": "The Legend of Zelda: Ocarina of Time - Bring the Heat in!! 🔥 ~ Gerudo Valley (Remix)",
+    "authors": [
+      "Hooded Edge"
+    ],
+    "tags": [
+      "bonus",
+      "credits",
+      "desert",
+      "mountain",
+      "ruins",
+      "temple",
+      "tense",
+      "upbeat"
+    ],
+    "description": "<center><span style=\"font-size: 18pt;\"><a href=\"https://youtu.be/TqoJAyt4NQ4?t=6\" rel=\"nofollow\">❝ 𝙄 𝘽𝙐𝙏𝙏𝙀𝙍 𝙄𝙏 𝙐𝙋 𝙐𝙋<b><i>!!</i></b> 𝙄 𝘽𝙐𝙏𝙏𝙀𝙍 𝙄𝙏 𝙐𝙋 𝙐𝙋<b><i>!!</i></b> ❞</a></span><br>\r\nㅤ<span style=\"font-size: 8pt;\">- Smooth McGroove (2013)</span><br>\r\n<a href=\"https://cardsagaswars.wordpress.com/\" rel=\"nofollow\"><img src=\"https://bin.smwcentral.net/u/23547/Link%2B%255BCard%2BSaga%2BWars%255D.webp\" alt=\"\"></a></center><br>\r\nDid a special arrangement of <b><a href=\"https://youtu.be/0hEYvdMoF2g\" rel=\"nofollow\">THE WORLD'S</a> <a href=\"https://youtu.be/X0_wnfI5ey4\" rel=\"nofollow\">GREATEST ZELDA</a> <a href=\"https://youtu.be/8cuv2fXQ9_M\" rel=\"nofollow\">/ DESERT</a> <a href=\"https://youtu.be/y1TUzRxSPwg\" rel=\"nofollow\">THEME</a></b> from <i>The Legend of Zelda: Ocarina of Time</i>. This was one of the few songs I've been holding off doing until the moment was right because I really wanted to make this remix something else. Gerudo Valley is one of my favorite songs of all-time, despite mostly hearing it in games outside of its original source material (i.e. Nintendo Land, Smash 4, Cadence of Hyrule, etc.).<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. Original Echo Delay, but sacrifices SMW-Compatibility (OG Echo)ㅤ<span style=\"color: #C291EB;\">[Listening-Only]</span><br>\r\nㅤ2. Decreased Echo Delay (LOWER Echo)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤㅤ ♠  What's disabled:<br>\r\nㅤㅤㅤ  -  \"Bonus End\" (@7)<br>\r\nㅤㅤㅤ  -  \"P-Switch\" (@12) <span style=\"color: #3DDA8D;\">← (\"SBM2 Synth Brass.brr\" is in its place in case you really need it)</span><br>\r\nㅤㅤㅤ  -  Thunder SFX<br>\r\nㅤ3. Decreased Echo Delay & Cut Intro (INTRO Cut)<br>\r\nㅤㅤ ♠  What's disabled:<br>\r\nㅤㅤㅤ  -  \"Bonus End\" (@7)<br>\r\nㅤㅤㅤ  -  \"P-Switch\" (@12) <span style=\"color: #3DDA8D;\">← (\"SBM2 Synth Brass.brr\" is in its place in case you really need it)</span><br>\r\nㅤㅤㅤ  -  Thunder SFX<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable pitches for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. F# Minor w/ Slight Detune (Remix Pitch)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤ2. F# Minor (Original Pitch)<br>\r\nㅤ3. G Minor (Custom Pitch 1)<br>\r\nㅤ4. E Minor (Custom Pitch 2)<br>\r\nㅤ5. F Minor (Custom Pitch 2)",
+    "latest_version": "smwc-42782-1793113618",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42782,
+        "title": "The Legend of Zelda: Ocarina of Time - Bring the Heat in!! 🔥 ~ Gerudo Valley (Remix)",
+        "version": "smwc-42782-1793113618",
+        "upstream_time": 1793113618,
+        "download_url": "https://dl.smwcentral.net/42782/Bring%20the%20Heat%20in%21%21.zip",
+        "filename": "Bring the Heat in%21%21.zip",
+        "size": 753883,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-tiger-mission-high-score",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42575,
+    "title": "Tiger Mission - High Score",
+    "authors": [
+      "YoungsVideos44"
+    ],
+    "tags": [
+      "ambient",
+      "calm",
+      "credits",
+      "night",
+      "overworld",
+      "space"
+    ],
+    "description": "A calm, soothing track best used for overworlds and credits.<br>\r\nThe high score theme from the Commodore 64 game Tiger Mission, composed by Johannes Bjerregaard.<br>\r\nThis port is specifically based off the remix by Drax (Thomas Mogensen), which was used for the Fairstars MP3 Recorder keygen.<br>\r\nAlso known as Infinitode 2 - DQ4.",
+    "latest_version": "smwc-42575-1793463071",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42575,
+        "title": "Tiger Mission - High Score",
+        "version": "smwc-42575-1793463071",
+        "upstream_time": 1793463071,
+        "download_url": "https://dl.smwcentral.net/42575/Tiger%20Mission%20High%20Score.zip",
+        "filename": "Tiger Mission High Score.zip",
+        "size": 22447,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-touhou-gouyoku-ibun-sunken-fossil-world-the-great-pillars-of-war-the-venerable-ancient-battlefield-remix",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42485,
+    "title": "Touhou Gouyoku Ibun ~ Sunken Fossil World - The Great Pillars of War 🍁 ~ The Venerable Ancient Battlefield (Remix)",
+    "authors": [
+      "Hooded Edge"
+    ],
+    "tags": [
+      "athletic",
+      "boss",
+      "chaotic",
+      "chase",
+      "dark",
+      "final",
+      "fire",
+      "mountain",
+      "tense",
+      "upbeat"
+    ],
+    "description": "<center><span style=\"font-size: 18pt;\"><span style=\"color: #DF4C4F;\">❝ 𝐀 𝐠𝐨𝐝 𝐦𝐮𝐬𝐭 𝐞𝐥𝐢𝐦𝐢𝐧𝐚𝐭𝐞 𝐚𝐥𝐥 𝐰𝐡𝐨 𝐨𝐩𝐩𝐨𝐬𝐞 𝐭𝐡𝐞𝐢𝐫 𝐬𝐭𝐫𝐮𝐠𝐠𝐥𝐞 𝐟𝐨𝐫 𝐟𝐚𝐢𝐭𝐡, 𝐨𝐧𝐞 𝐛𝐲 𝐨𝐧𝐞. ❞</span></span><br>\r\nㅤ<span style=\"font-size: 8pt;\">- Kanako Yasaka, <i>東方風神録 ~ Mountain of Faith</i> (2007)</span><br>\r\n<br>\r\nㅤㅤ<img src=\"https://bin.smwcentral.net/u/23547/Kanako%2BYasaka.webp\" alt=\"\"></center><br>\r\n<br>\r\nDid an arrangement of Kanako Yasaka's theme, <b><a href=\"https://youtu.be/ssh_Ufp1AKw\" rel=\"nofollow\">The Venerable Ancient Battlefield ~</a> <a href=\"https://youtu.be/uXlqR94K0sM\" rel=\"nofollow\">Suwa Foughten Field</a></b>, from <i>Touhou 17.5 Gouyoku Ibun ~ Sunken Fossil World</i> (originally from <i>Touhou 10 Fuujinroku ~ Mountain of Faith</i>). It's been a hot minute since my last Touhou remix (which is crazy given how addicted I am to Touhou music). I'm in the mood for some intense (and I mean <b><i>INTENSE</i></b>) final boss music, and Kanako Yasaka has me covered in that regard. I did her <a href=\"https://smwc.me/s/27106\">stage theme</a> <a href=\"https://youtu.be/Halo5fZxgd0\" rel=\"nofollow\">five years ago</a>, and now it's time to do her actual theme song.<br>\r\n<br>\r\nI've always been a huge fan of her SFW theme. It's way more sinister and intense than the original and feels more fitting for the ruthless Pillar Woman.<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. Original Echo Delay, but sacrifices SMW-Compatibility (OG Echo)ㅤ<span style=\"color: #C291EB;\">[Listening-Only]</span><br>\r\nㅤ2. Decreased Echo Delay (LOWER Echo)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤㅤ ♠  What's disabled:<br>\r\nㅤㅤㅤ  -  \"Bonus End\" (@7) <span style=\"color: #3DDA8D;\">← (\"JV-1080 Creamy Guitar Lead.brr\" is in its place in case you really need it)</span> <br>\r\nㅤㅤㅤ  -  \"P-Switch\" (@12) <span style=\"color: #3DDA8D;\">← (\"S-550 LA Tom.brr\" is in its place in case you really need it)</span> <br>\r\nㅤㅤㅤ  -  Yoshi SFX (@15)<br>\r\nㅤㅤㅤ  -  Thunder SFX<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable pitches for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. C Minor (<a href=\"https://youtu.be/ssh_Ufp1AKw\" rel=\"nofollow\">Gouyoku Ibun</a> Pitch)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span> <br>\r\nㅤ2. C# Minor (<a href=\"https://youtu.be/uXlqR94K0sM\" rel=\"nofollow\">Mountain of Faith</a> Pitch)<br>\r\nㅤ3. B Minor (Custom Pitch 1)<br>\r\nㅤ4. D Minor (Custom Pitch 2)",
+    "latest_version": "smwc-42485-1793114088",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42485,
+        "title": "Touhou Gouyoku Ibun ~ Sunken Fossil World - The Great Pillars of War 🍁 ~ The Venerable Ancient Battlefield (Remix)",
+        "version": "smwc-42485-1793114088",
+        "upstream_time": 1793114088,
+        "download_url": "https://dl.smwcentral.net/42485/Great%20Pillars%20of%20Wars%2C%20The.zip",
+        "filename": "Great Pillars of Wars%2C The.zip",
+        "size": 370403,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-touhou-koumakyou-the-embodiment-of-the-scarlet-devil-danza-de-la-mente-locked-girl-the-girl-s-secret-room-remix",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42581,
+    "title": "Touhou Koumakyou ~ the Embodiment of the Scarlet Devil - Danza de la Mente 📕 ~ Locked Girl ~ The Girl's Secret Room (Remix)",
+    "authors": [
+      "Hooded Edge"
+    ],
+    "tags": [
+      "abstract",
+      "castle",
+      "cave",
+      "ghost house",
+      "ice",
+      "night",
+      "spooky",
+      "tense",
+      "upbeat"
+    ],
+    "description": "<center><span style=\"font-size: 18pt;\"><span style=\"color: #BF91ED;\">❝ <i>𝐋𝐞𝐭'𝐬 𝐬𝐞𝐞... 𝐇𝐨𝐰 𝐭𝐨 𝐭𝐚𝐤𝐞 𝐨𝐮𝐭 𝐭𝐡𝐞 𝐛𝐥𝐚𝐜𝐤 𝐭𝐡𝐢𝐧𝐠 𝐢𝐧 𝐟𝐫𝐨𝐧𝐭 𝐨𝐟 𝐦𝐞<br>\r\n𝐰𝐢𝐭𝐡𝐨𝐮𝐭 𝐡𝐚𝐯𝐢𝐧𝐠 𝐭𝐨 𝐝𝐨 𝐚𝐧𝐲𝐭𝐡𝐢𝐧𝐠...</i> ❞</span></span><br>\r\nㅤ<span style=\"font-size: 8pt;\">- Patchouli Knowledge, <i>東方紅魔郷 〜 the Embodiment of Scarlet Devil</i> (2002)</span><br>\r\n<br>\r\nㅤㅤ<img src=\"https://bin.smwcentral.net/u/23547/Patchouli%2BKnowledge.webp\" alt=\"\"></center><br>\r\n<br>\r\nDid an arrangement of Patchouli Knowledge's theme song, <b><a href=\"https://youtu.be/ygyraTutBJg\" rel=\"nofollow\">Locked Girl ~</a> <a href=\"https://youtu.be/5uMMEUzoP60\" rel=\"nofollow\">The Girl's</a> <a href=\"https://youtu.be/5Rda4JOvYNI \" rel=\"nofollow\">Secret Room</a></b>, from <i>Touhou 6 Kōmakyō ~ the Embodiment of Scarlet Devil</i> in celebration for the <a href=\"https://youtu.be/gTYdXwuIr84\" rel=\"nofollow\">Touhou 6 Remake</a> announcement!! Realized I only have (technically) two more songs to do (one more boss theme in particular), and I thought to start on that!! Only thing was I had a hard time deciding what to do for Patchouli's theme given I find it kinda repetitious (it's easily my least favorite of the boss themes in Touhou 6), but then I remembered that the 7/4 time signature exists, and that's how this came to be.<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. Original Volume, but sacrifices SMW-Compatibility (OG Volume)ㅤ<span style=\"color: #C291EB;\">[Listening-Only]</span><br>\r\nㅤ2. Decreased Volume (LOWER Volume)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤㅤ ♠  What's disabled:<br>\r\nㅤㅤㅤ  -  \"Bonus End\" (@7)<br>\r\nㅤㅤㅤ  -  \"P-Switch\" (@12) <span style=\"color: #3DDA8D;\">← (\"CRONO Bongo.brr\" is in its place in case you really need it)</span><br>\r\nㅤㅤㅤ  -  Thunder SFX<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable pitches for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. G Minor w/ Major Detune (Original Pitch)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span> <br>\r\nㅤ2. G# Minor (Custom Pitch)<br>\r\nㅤ3. G Minor (<a href=\"https://youtu.be/5Rda4JOvYNI\" rel=\"nofollow\">Scarlet Weather Rhapsody</a> Pitch)<br>\r\nㅤ4. A Minor (<a href=\"https://youtu.be/ygyraTutBJg\" rel=\"nofollow\">Koumakyou</a> Pitch)<br>\r\nㅤ5. A# Minor (<a href=\"https://youtu.be/_Ngek8PHNx4\" rel=\"nofollow\">Azure Reflections</a> Pitch)",
+    "latest_version": "smwc-42581-1793461078",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42581,
+        "title": "Touhou Koumakyou ~ the Embodiment of the Scarlet Devil - Danza de la Mente 📕 ~ Locked Girl ~ The Girl's Secret Room (Remix)",
+        "version": "smwc-42581-1793461078",
+        "upstream_time": 1793461078,
+        "download_url": "https://dl.smwcentral.net/42581/Danza%20de%20la%20Mente.zip",
+        "filename": "Danza de la Mente.zip",
+        "size": 464345,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-umamusume-pretty-derby-girls-legend-u-star-mix",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42778,
+    "title": "Umamusume: Pretty Derby - Girls' Legend U (Star-mix)",
+    "authors": [
+      "Hooded Edge"
+    ],
+    "tags": [
+      "p-switch",
+      "star"
+    ],
+    "description": "Did a short arrangement of <b><a href=\"https://youtu.be/xekWhWOjQDU?t=4\" rel=\"nofollow\">Girls' Legend U</a></b> from <i>Umamusume: Pretty Derby</i>. Found out this song could be shortened to be used PERFECTLY with SMW's global music. Also, this makes 3 Umamusume-related submissions on here (y'all should do more with me).<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. Bass is @14 (Slap Bass)<br>\r\nㅤㅤ ♠  Will not work w/ global tracks unless you go into \"Addmusic_sample groups.txt\" and add a \"!\" in front of \"DEFAULT/0D SMW @14.brr\"<br>\r\nㅤ2. Bass is @8 (Fingered Bass)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span> <br>\r\nㅤㅤ ♠  Will work w/ global tracks<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. Enables the Intro (INTRO Enabled)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤ2. Cuts the Intro (INTRO Cut)<br>\r\n<br>\r\n<center><a href=\"https://youtu.be/gTyMgta0HE4\" rel=\"nofollow\"><img src=\"https://media1.tenor.com/m/ciEOibLbF4cAAAAd/gold-ship-gold.gif\" alt=\"\"></a></center>",
+    "latest_version": "smwc-42778-1793114557",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42778,
+        "title": "Umamusume: Pretty Derby - Girls' Legend U (Star-mix)",
+        "version": "smwc-42778-1793114557",
+        "upstream_time": 1793114557,
+        "download_url": "https://dl.smwcentral.net/42778/Girls%27%20Legend%20U%20%28Star-mix%29.zip",
+        "filename": "Girls%27 Legend U (Star-mix).zip",
+        "size": 127569,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-umamusume-pretty-derby-umapyoi-legend-star-mix",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42662,
+    "title": "Umamusume: Pretty Derby - Umapyoi Legend (Star-mix)",
+    "authors": [
+      "Hooded Edge"
+    ],
+    "tags": [
+      "chase",
+      "final",
+      "p-switch",
+      "star",
+      "tense"
+    ],
+    "description": "Did a short arrangement of <b><a href=\"https://youtu.be/eoAVxKMzSpU?t=50\" rel=\"nofollow\">Umapyoi Legend</a></b> / <b><a href=\"https://youtu.be/ZzH5JNe6YFg?t=49\" rel=\"nofollow\">Umapyoi Densetsu</a></b> from <i>Umamusume: Pretty Derby</i>. There's a lack of Uma-rep on this site, so let's change that!!!<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. G Major (Original Pitch) ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤ2. F Major (<a href=\"https://youtu.be/zgHcAwUkadA\" rel=\"nofollow\">Enhance Menu</a> Pitch)<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. Enables the Intro (INTRO Enabled)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤ2. Skips the Intro (INTRO Skipped)<br>\r\n<br>\r\n<center><a href=\"https://youtu.be/lNdRbLJlmAk\" rel=\"nofollow\"><img src=\"https://media1.tenor.com/m/a9G7-zI6Tv8AAAAd/tokai-teio-teio.gif\" alt=\"\"></a></center>",
+    "latest_version": "smwc-42662-1793114543",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42662,
+        "title": "Umamusume: Pretty Derby - Umapyoi Legend (Star-mix)",
+        "version": "smwc-42662-1793114543",
+        "upstream_time": 1793114543,
+        "download_url": "https://dl.smwcentral.net/42662/Umapyoi%20Legend%20%28Star-mix%29.zip",
+        "filename": "Umapyoi Legend (Star-mix).zip",
+        "size": 126049,
         "sha256": null,
         "dependencies": [
           "addmusick"

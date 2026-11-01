@@ -1,0 +1,36 @@
+{
+  "name": "uberasm-press-r-to-switch-characters",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 41819,
+  "title": "Press R to Switch Characters",
+  "authors": [
+    "AuraDee",
+    "Noobish Noobsicle",
+    "yoshifanatic"
+  ],
+  "tags": [
+    "lorom",
+    "player",
+    "sa-1"
+  ],
+  "description": "Whenever you press the R button, you will switch between Mario and Luigi! Keep in mind that whenever you switch characters, you will have to switch controllers, too. Unless you make use of <a href=\"https://smwc.me/w/22\">this tweak</a>.<br>\r\n<br>\r\nIncludes options for allowing Mario and Luigi to have separate coin counts, powerups, and item boxes. Separate lives is possible too, but was not included as setting Luigi's starting lives correctly would require a hijack. Also includes a helper UberASM that prevents problems on the overworld if exiting a level as the other character.",
+  "latest_version": "1.1.1",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 41819,
+      "title": "Press R to Switch Characters",
+      "version": "1.1.1",
+      "upstream_time": 1772931288,
+      "download_url": "https://dl.smwcentral.net/41819/RChar%20V1.1.1.zip",
+      "filename": "RChar V1.1.1.zip",
+      "size": 1881,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

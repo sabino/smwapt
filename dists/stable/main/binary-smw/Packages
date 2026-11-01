@@ -46,8 +46,8 @@ X-SMWAPT-Kind: Tool
 X-SMWAPT-URL: https://dl.smwcentral.net/40056/GPS%28V1.4.5%29.zip
 Description: GPS V1.4.5 - Gopher Popcorn Stew
 
-Package: smwblocks-32x32-coins-v1
-Version: smwc-41176-1764467824
+Package: smwblocks-32x32-coins
+Version: 1.2
 Section: smwblocks
 Architecture: smw
 Maintainer: Luknight
@@ -56,7 +56,7 @@ Size: 10798
 X-SMWC-ID: 41176
 X-SMWAPT-Kind: GpsBlock
 X-SMWAPT-URL: https://dl.smwcentral.net/41176/Megaton%20Coin%20v1.2.zip
-Description: 32x32 Coins v1.2
+Description: 32x32 Coins
 
 Package: smwblocks-8-directional-cannon-blocks
 Version: smwc-41238-1765160588
@@ -94,8 +94,8 @@ X-SMWAPT-Kind: GpsBlock
 X-SMWAPT-URL: https://dl.smwcentral.net/41157/Achievement%20Doors.zip
 Description: Achievement Doors
 
-Package: smwblocks-air-jump-blocks-v2
-Version: smwc-41215-1764811888
+Package: smwblocks-air-jump-blocks
+Version: 2.1
 Section: smwblocks
 Architecture: smw
 Maintainer: HammerBrother
@@ -104,7 +104,7 @@ Size: 8081
 X-SMWC-ID: 41215
 X-SMWAPT-Kind: GpsBlock
 X-SMWAPT-URL: https://dl.smwcentral.net/41215/Air%20Jump%20Blocks.zip
-Description: Air Jump Blocks v2.1
+Description: Air Jump Blocks
 
 Package: smwblocks-basic-teleport-block
 Version: smwc-41144-1764371402
@@ -118,8 +118,8 @@ X-SMWAPT-Kind: GpsBlock
 X-SMWAPT-URL: https://dl.smwcentral.net/41144/teleport.zip
 Description: Basic Teleport Block
 
-Package: smwblocks-black-piranha-plant-muncher-v1
-Version: smwc-41222-1764893715
+Package: smwblocks-black-piranha-plant-muncher
+Version: v1.1
 Section: smwblocks
 Architecture: smw
 Maintainer: HammerBrother
@@ -128,7 +128,7 @@ Size: 3595
 X-SMWC-ID: 41222
 X-SMWAPT-Kind: GpsBlock
 X-SMWAPT-URL: https://dl.smwcentral.net/41222/VanillaMuncher%20v1.1.zip
-Description: Black Piranha Plant (Muncher) v1.1
+Description: Black Piranha Plant (Muncher)
 
 Package: smwblocks-carriable-cement-block
 Version: smwc-41172-1764464228
@@ -178,8 +178,8 @@ X-SMWAPT-Kind: GpsBlock
 X-SMWAPT-URL: https://dl.smwcentral.net/42082/custom_exit_enabled_pipes.zip
 Description: Custom Exit Enabled Pipes (Specific Screen + Conditional + Random)
 
-Package: smwblocks-custom-turnblock-v1
-Version: smwc-41237-1765159682
+Package: smwblocks-custom-turnblock
+Version: v1.1
 Section: smwblocks
 Architecture: smw
 Maintainer: spooonsss
@@ -188,10 +188,10 @@ Size: 3358
 X-SMWC-ID: 41237
 X-SMWAPT-Kind: GpsBlock
 X-SMWAPT-URL: https://dl.smwcentral.net/41237/Custom%20Turnblock%20v1.1.zip
-Description: Custom Turnblock v1.1
+Description: Custom Turnblock
 
-Package: smwblocks-diagonal-up-pipes-v1
-Version: smwc-41171-1764463471
+Package: smwblocks-diagonal-up-pipes
+Version: v1.1
 Section: smwblocks
 Architecture: smw
 Maintainer: Djief
@@ -200,10 +200,10 @@ Size: 21964
 X-SMWC-ID: 41171
 X-SMWAPT-Kind: GpsBlock
 X-SMWAPT-URL: https://dl.smwcentral.net/41171/Diagonal%20Pipes.zip
-Description: Diagonal Up Pipes v1.1
+Description: Diagonal Up Pipes
 
-Package: smwblocks-directional-hurt-blocks-v1
-Version: smwc-41218-1764815640
+Package: smwblocks-directional-hurt-blocks
+Version: 1.2
 Section: smwblocks
 Architecture: smw
 Maintainer: HammerBrother
@@ -212,10 +212,10 @@ Size: 15583
 X-SMWC-ID: 41218
 X-SMWAPT-Kind: GpsBlock
 X-SMWAPT-URL: https://dl.smwcentral.net/41218/Directional%20Hurt%20Blocks%20v1.2.zip
-Description: Directional Hurt Blocks v1.2
+Description: Directional Hurt Blocks
 
-Package: smwblocks-disappearing-block-v2
-Version: smwc-41173-1764465123
+Package: smwblocks-disappearing-block
+Version: 2.3
 Section: smwblocks
 Architecture: smw
 Maintainer: Luknight
@@ -224,9 +224,9 @@ Size: 2128
 X-SMWC-ID: 41173
 X-SMWAPT-Kind: GpsBlock
 X-SMWAPT-URL: https://dl.smwcentral.net/41173/Disappearing%20Block%20Asar%202.zip
-Description: Disappearing Block v2.3
+Description: Disappearing Block
 
-Package: smwblocks-door-entering-animation
+Package: smwblocks-door-with-entry-animation
 Version: smwc-42864-1786926599
 Section: smwblocks
 Architecture: smw
@@ -236,7 +236,7 @@ Size: 16945
 X-SMWC-ID: 42864
 X-SMWAPT-Kind: GpsBlock
 X-SMWAPT-URL: https://dl.smwcentral.net/42864/Door%20Animation.zip
-Description: Door entering animation
+Description: Door with Entry Animation
 
 Package: smwblocks-end-level-coin
 Version: smwc-41210-1765828351
@@ -274,8 +274,8 @@ X-SMWAPT-Kind: GpsBlock
 X-SMWAPT-URL: https://dl.smwcentral.net/42051/endlessthrowblock.zip
 Description: Endless Throw Block
 
-Package: smwblocks-event-dependent-block-v-1
-Version: smwc-41269-1765665189
+Package: smwblocks-event-dependent-block
+Version: 1.21
 Section: smwblocks
 Architecture: smw
 Maintainer: RussianMan
@@ -284,7 +284,7 @@ Size: 1335
 X-SMWC-ID: 41269
 X-SMWAPT-Kind: GpsBlock
 X-SMWAPT-URL: https://dl.smwcentral.net/41269/Event%20Dependent%20Block%201.21.zip
-Description: Event Dependent Block V.1.21
+Description: Event Dependent Block
 
 Package: smwblocks-invincibility-while-ducking
 Version: 1.1.1
@@ -298,8 +298,8 @@ X-SMWAPT-Kind: GpsBlock
 X-SMWAPT-URL: https://dl.smwcentral.net/42025/Invincible%20Duck%20Block%20v1.1.1.zip
 Description: Invincibility While Ducking
 
-Package: smwblocks-jump-activated-spikes-hurt-blocks-v1-1
-Version: smwc-41209-1765844757
+Package: smwblocks-jump-activated-spikes-hurt-blocks
+Version: v1.1.1
 Section: smwblocks
 Architecture: smw
 Maintainer: TheBiob
@@ -308,7 +308,7 @@ Size: 7673
 X-SMWC-ID: 41209
 X-SMWAPT-Kind: GpsBlock
 X-SMWAPT-URL: https://dl.smwcentral.net/41209/Jump%20Activated%20Spikes%20v1.1.1.zip
-Description: Jump-Activated Spikes/Hurt Blocks v1.1.1
+Description: Jump-Activated Spikes/Hurt Blocks
 
 Package: smwblocks-key-lock-blocks
 Version: smwc-41117-1764224192
@@ -406,8 +406,8 @@ X-SMWAPT-Kind: GpsBlock
 X-SMWAPT-URL: https://dl.smwcentral.net/41485/RockClimbBlocksUpdate.zip
 Description: Rock Climb Blocks
 
-Package: smwblocks-shatter-after-player-touch-v2
-Version: smwc-41235-1765916599
+Package: smwblocks-shatter-after-player-touch
+Version: 2.0
 Section: smwblocks
 Architecture: smw
 Maintainer: Arinsu, HammerBrother
@@ -416,7 +416,7 @@ Size: 1922
 X-SMWC-ID: 41235
 X-SMWAPT-Kind: GpsBlock
 X-SMWAPT-URL: https://dl.smwcentral.net/41235/Aftertouch%20Shatter.zip
-Description: Shatter After Player Touch v2.0
+Description: Shatter After Player Touch
 
 Package: smwblocks-sprite-pipes
 Version: smwc-41591-1788302427
@@ -454,8 +454,8 @@ X-SMWAPT-Kind: GpsBlock
 X-SMWAPT-URL: https://dl.smwcentral.net/41217/Stationary%20P-Switch.zip
 Description: Stationary Re-Usable P-Switch
 
-Package: smwblocks-super-mario-bros-3-screen-scrolling-pipes-v4-0
-Version: smwc-43183-1789909853
+Package: smwblocks-super-mario-bros
+Version: 4.0.6
 Section: smwblocks
 Architecture: smw
 Maintainer: HammerBrother
@@ -464,7 +464,7 @@ Size: 194361
 X-SMWC-ID: 43183
 X-SMWAPT-Kind: GpsBlock
 X-SMWAPT-URL: https://dl.smwcentral.net/43183/SMB3_ScreenScrollingPipes_v4_0_6.zip
-Description: Super Mario Bros. 3 Screen Scrolling Pipes v4.0.6
+Description: Super Mario Bros. 3 Screen Scrolling Pipes
 
 Package: smwblocks-super-mario-bros-wonder-marimba-blocks
 Version: smwc-41393-1768070809
@@ -622,8 +622,8 @@ X-SMWAPT-Kind: GpsBlock
 X-SMWAPT-URL: https://dl.smwcentral.net/41219/ToH%20Fan.zip
 Description: Tower of Heaven Fan
 
-Package: smwblocks-trampoline-block-v1
-Version: smwc-41122-1764281528
+Package: smwblocks-trampoline-block
+Version: v1.2
 Section: smwblocks
 Architecture: smw
 Maintainer: HammerBrother
@@ -632,7 +632,7 @@ Size: 3023
 X-SMWC-ID: 41122
 X-SMWAPT-Kind: GpsBlock
 X-SMWAPT-URL: https://dl.smwcentral.net/41122/Trampoline%20Block%20v1.2.zip
-Description: Trampoline Block v1.2
+Description: Trampoline Block
 
 Package: smwblocks-walljump-blocks
 Version: smwc-41216-1764814192
@@ -695,15 +695,15 @@ X-SMWAPT-URL: https://dl.smwcentral.net/42876/burntmario.zip
 Description: Burnt Mario
 
 Package: smwgraphics-burnt-rex
-Version: smwc-43369-1792880618
+Version: 1.1
 Section: smwgraphics
 Architecture: smw
 Maintainer: pepperannfanatic
-Filename: pool/smwgraphics/43369/Burnt_Rex.zip
-Size: 2056
-X-SMWC-ID: 43369
+Filename: pool/smwgraphics/43403/Burnt_Rex.zip
+Size: 3898
+X-SMWC-ID: 43403
 X-SMWAPT-Kind: AssetOnly
-X-SMWAPT-URL: https://dl.smwcentral.net/43369/Burnt_Rex.zip
+X-SMWAPT-URL: https://dl.smwcentral.net/43403/Burnt_Rex.zip
 Description: Burnt Rex
 
 Package: smwgraphics-calling-all-mixels-inspired-cragster-land
@@ -813,18 +813,6 @@ X-SMWC-ID: 42949
 X-SMWAPT-Kind: AssetOnly
 X-SMWAPT-URL: https://dl.smwcentral.net/42949/Doraemon%203%20%28SFC%29%20-%20Factory%20%28Bonus%20Room%29.zip
 Description: Doraemon 3: Nobita to Toki no Hougyoku - Factory (Bonus Room)
-
-Package: smwgraphics-doremi-fantasy-milon-no-dokidoki-daibouken-guardian-s-lair-world
-Version: smwc-42799-1786303567
-Section: smwgraphics
-Architecture: smw
-Maintainer: playagmes169
-Filename: pool/smwgraphics/42799/doremifantasyguardian2.zip
-Size: 11769
-X-SMWC-ID: 42799
-X-SMWAPT-Kind: AssetOnly
-X-SMWAPT-URL: https://dl.smwcentral.net/42799/doremifantasyguardian2.zip
-Description: DoReMi Fantasy: Milon no DokiDoki Daibouken - Guardian's Lair (World 2)
 
 Package: smwgraphics-forest-jungle
 Version: smwc-43230-1791147031
@@ -969,6 +957,18 @@ X-SMWC-ID: 43076
 X-SMWAPT-Kind: AssetOnly
 X-SMWAPT-URL: https://dl.smwcentral.net/43076/jumpervt369grassland.zip
 Description: Jumper (VT369) - Grassland
+
+Package: smwgraphics-jurassic-park-brachiosaurus-exhibit
+Version: smwc-43389-1792949372
+Section: smwgraphics
+Architecture: smw
+Maintainer: Brutapode89
+Filename: pool/smwgraphics/43389/Jurassic Park - Brachiosaurus Exhibit.zip
+Size: 4109
+X-SMWC-ID: 43389
+X-SMWAPT-Kind: AssetOnly
+X-SMWAPT-URL: https://dl.smwcentral.net/43389/Jurassic%20Park%20-%20Brachiosaurus%20Exhibit.zip
+Description: Jurassic Park - Brachiosaurus Exhibit
 
 Package: smwgraphics-kirby-canvas-curse-the-world-of-drawcia
 Version: smwc-43255-1791146490
@@ -1186,17 +1186,77 @@ X-SMWAPT-Kind: AssetOnly
 X-SMWAPT-URL: https://dl.smwcentral.net/42866/SMW---Styled%20SMB2%20Grassland.zip
 Description: Super Mario World Styled Super Mario Bros. 2 Grassland
 
-Package: smwmusic-immaculate-sense-in-darkness-eyes-shut
-Version: smwc-42869-1792779812
+Package: smwmusic-blastar-boss
+Version: smwc-42794-1793372720
 Section: smwmusic
 Architecture: smw
-Maintainer: Archbishop Weeble-Wobble, Hooded Edge
-Filename: pool/smwmusic/42869/Immaculate Sense in Darkness ~  Eyes Shut.zip
-Size: 429135
-X-SMWC-ID: 42869
+Maintainer: Margulan
+Filename: pool/smwmusic/42794/Blastar_Boss_5.zip
+Size: 61426
+X-SMWC-ID: 42794
 X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/42869/Immaculate%20Sense%20in%20Darkness%20~%20%20Eyes%20Shut.zip
-Description: Immaculate Sense in Darkness ~ Eyes Shut
+X-SMWAPT-URL: https://dl.smwcentral.net/42794/Blastar_Boss_5.zip
+Description: Blastar - Boss 5
+
+Package: smwmusic-cldc
+Version: smwc-42759-1793208440
+Section: smwmusic
+Architecture: smw
+Maintainer: Moose
+Filename: pool/smwmusic/42759/cldc13-descent.zip
+Size: 32600
+X-SMWC-ID: 42759
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42759/cldc13-descent.zip
+Description: CLDC '13: Yoshi's Treasure Hunt - Ruins
+
+Package: smwmusic-deltarune-shop
+Version: smwc-42558-1793040652
+Section: smwmusic
+Architecture: smw
+Maintainer: PolyPlayer
+Filename: pool/smwmusic/42558/Shop 3 (Unsampled) .zip
+Size: 30973
+X-SMWC-ID: 42558
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42558/Shop%203%20%28Unsampled%29%20.zip
+Description: Deltarune - Shop 3
+
+Package: smwmusic-gravity-circuit
+Version: smwc-42510-1793456496
+Section: smwmusic
+Architecture: smw
+Maintainer: Hooded Edge
+Filename: pool/smwmusic/42510/Boys_Are_Back%21%2C_The.zip
+Size: 295821
+X-SMWC-ID: 42510
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42510/Boys_Are_Back%21%2C_The.zip
+Description: Gravity Circuit 2 - The Boys are Back! 🔴🟢 ~ Opening Stage (Remix)
+
+Package: smwmusic-harukanaru-augusta-for-windows-course-bgm
+Version: smwc-42912-1793208652
+Section: smwmusic
+Architecture: smw
+Maintainer: Fullcannon
+Filename: pool/smwmusic/42912/Harukanaru Augusta for Windows - Course BGM 1.zip
+Size: 84209
+X-SMWC-ID: 42912
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42912/Harukanaru%20Augusta%20for%20Windows%20-%20Course%20BGM%201.zip
+Description: Harukanaru Augusta for Windows - Course BGM 1
+
+Package: smwmusic-jojo-s-bizarre-adventure-golden-wind-il-vento-d-oro-star-mix
+Version: smwc-42303-1793041066
+Section: smwmusic
+Architecture: smw
+Maintainer: Hooded Edge
+Filename: pool/smwmusic/42303/il vento d%27oro (Star-mix).zip
+Size: 125589
+X-SMWC-ID: 42303
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42303/il%20vento%20d%27oro%20%28Star-mix%29.zip
+Description: JoJo's Bizarre Adventure: Golden Wind - il vento d'oro (Star-mix)
 
 Package: smwmusic-lufia-ii-rise-of-the-sinistrals-after-the-ceremony
 Version: smwc-43011-1792784971
@@ -1234,18 +1294,6 @@ X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/43018/Azure%20Ocean.zip
 Description: Lufia II: Rise of the Sinistrals - Azure Ocean
 
-Package: smwmusic-lufia-ii-rise-of-the-sinistrals-battle
-Version: smwc-42997-1792782692
-Section: smwmusic
-Architecture: smw
-Maintainer: Ahrion
-Filename: pool/smwmusic/42997/Battle 2.zip
-Size: 56700
-X-SMWC-ID: 42997
-X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/42997/Battle%202.zip
-Description: Lufia II: Rise of the Sinistrals - Battle #2
-
 Package: smwmusic-lufia-ii-rise-of-the-sinistrals-big-game
 Version: smwc-43023-1792787628
 Section: smwmusic
@@ -1258,18 +1306,6 @@ X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/43023/Big%20Game.zip
 Description: Lufia II: Rise of the Sinistrals - Big Game
 
-Package: smwmusic-lufia-ii-rise-of-the-sinistrals-capsule-monster
-Version: smwc-43001-1792783428
-Section: smwmusic
-Architecture: smw
-Maintainer: Ahrion
-Filename: pool/smwmusic/43001/Capsule Monster.zip
-Size: 57729
-X-SMWC-ID: 43001
-X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/43001/Capsule%20Monster.zip
-Description: Lufia II: Rise of the Sinistrals - Capsule Monster
-
 Package: smwmusic-lufia-ii-rise-of-the-sinistrals-casino
 Version: smwc-43021-1792787489
 Section: smwmusic
@@ -1281,42 +1317,6 @@ X-SMWC-ID: 43021
 X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/43021/Casino.zip
 Description: Lufia II: Rise of the Sinistrals - Casino
-
-Package: smwmusic-lufia-ii-rise-of-the-sinistrals-castle
-Version: smwc-42999-1792783132
-Section: smwmusic
-Architecture: smw
-Maintainer: Ahrion
-Filename: pool/smwmusic/42999/Castle.zip
-Size: 56202
-X-SMWC-ID: 42999
-X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/42999/Castle.zip
-Description: Lufia II: Rise of the Sinistrals - Castle
-
-Package: smwmusic-lufia-ii-rise-of-the-sinistrals-cave
-Version: smwc-42990-1792781845
-Section: smwmusic
-Architecture: smw
-Maintainer: Ahrion
-Filename: pool/smwmusic/42990/Cave.zip
-Size: 54552
-X-SMWC-ID: 42990
-X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/42990/Cave.zip
-Description: Lufia II: Rise of the Sinistrals - Cave
-
-Package: smwmusic-lufia-ii-rise-of-the-sinistrals-comrade
-Version: smwc-42995-1792782193
-Section: smwmusic
-Architecture: smw
-Maintainer: Ahrion
-Filename: pool/smwmusic/42995/Comrade.zip
-Size: 44523
-X-SMWC-ID: 42995
-X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/42995/Comrade.zip
-Description: Lufia II: Rise of the Sinistrals - Comrade
 
 Package: smwmusic-lufia-ii-rise-of-the-sinistrals-despair
 Version: smwc-43006-1792784174
@@ -1366,18 +1366,6 @@ X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/43031/Four%20Gods.zip
 Description: Lufia II: Rise of the Sinistrals - Four Gods
 
-Package: smwmusic-lufia-ii-rise-of-the-sinistrals-growth
-Version: smwc-43002-1792783511
-Section: smwmusic
-Architecture: smw
-Maintainer: Ahrion
-Filename: pool/smwmusic/43002/Growth%21.zip
-Size: 44797
-X-SMWC-ID: 43002
-X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/43002/Growth%21.zip
-Description: Lufia II: Rise of the Sinistrals - Growth!
-
 Package: smwmusic-lufia-ii-rise-of-the-sinistrals-hit
 Version: smwc-43024-1792787731
 Section: smwmusic
@@ -1390,18 +1378,6 @@ X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/43024/Hit%21.zip
 Description: Lufia II: Rise of the Sinistrals - Hit!
 
-Package: smwmusic-lufia-ii-rise-of-the-sinistrals-item
-Version: smwc-42991-1792781936
-Section: smwmusic
-Architecture: smw
-Maintainer: Ahrion
-Filename: pool/smwmusic/42991/Item.zip
-Size: 42425
-X-SMWC-ID: 42991
-X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/42991/Item.zip
-Description: Lufia II: Rise of the Sinistrals - Item
-
 Package: smwmusic-lufia-ii-rise-of-the-sinistrals-lexis-shaia-lab
 Version: smwc-43020-1792786499
 Section: smwmusic
@@ -1413,18 +1389,6 @@ X-SMWC-ID: 43020
 X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/43020/Lexis%20Shaia%20Lab.zip
 Description: Lufia II: Rise of the Sinistrals - Lexis Shaia Lab
-
-Package: smwmusic-lufia-ii-rise-of-the-sinistrals-light-slumber
-Version: smwc-42989-1792781667
-Section: smwmusic
-Architecture: smw
-Maintainer: Ahrion
-Filename: pool/smwmusic/42989/Light Slumber.zip
-Size: 34798
-X-SMWC-ID: 42989
-X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/42989/Light%20Slumber.zip
-Description: Lufia II: Rise of the Sinistrals - Light Slumber
 
 Package: smwmusic-lufia-ii-rise-of-the-sinistrals-mutation
 Version: smwc-43035-1792790675
@@ -1474,30 +1438,6 @@ X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/43033/Prisphea%20Flowers.zip
 Description: Lufia II: Rise of the Sinistrals - Prisphea Flowers
 
-Package: smwmusic-lufia-ii-rise-of-the-sinistrals-rumbling
-Version: smwc-42987-1792781420
-Section: smwmusic
-Architecture: smw
-Maintainer: Ahrion
-Filename: pool/smwmusic/42987/Rumbling.zip
-Size: 64079
-X-SMWC-ID: 42987
-X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/42987/Rumbling.zip
-Description: Lufia II: Rise of the Sinistrals - Rumbling
-
-Package: smwmusic-lufia-ii-rise-of-the-sinistrals-scenario-item
-Version: smwc-42993-1792782126
-Section: smwmusic
-Architecture: smw
-Maintainer: Ahrion
-Filename: pool/smwmusic/42993/Scenario Item.zip
-Size: 51892
-X-SMWC-ID: 42993
-X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/42993/Scenario%20Item.zip
-Description: Lufia II: Rise of the Sinistrals - Scenario Item
-
 Package: smwmusic-lufia-ii-rise-of-the-sinistrals-shrine
 Version: smwc-43005-1792784090
 Section: smwmusic
@@ -1521,18 +1461,6 @@ X-SMWC-ID: 43007
 X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/43007/Shudder.zip
 Description: Lufia II: Rise of the Sinistrals - Shudder
-
-Package: smwmusic-lufia-ii-rise-of-the-sinistrals-skill-item
-Version: smwc-42992-1792782065
-Section: smwmusic
-Architecture: smw
-Maintainer: Ahrion
-Filename: pool/smwmusic/42992/Skill Item.zip
-Size: 48101
-X-SMWC-ID: 42992
-X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/42992/Skill%20Item.zip
-Description: Lufia II: Rise of the Sinistrals - Skill Item
 
 Package: smwmusic-lufia-ii-rise-of-the-sinistrals-slot
 Version: smwc-43022-1792787550
@@ -1558,18 +1486,6 @@ X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/43012/Spring.zip
 Description: Lufia II: Rise of the Sinistrals - Spring
 
-Package: smwmusic-lufia-ii-rise-of-the-sinistrals-start-of-the-journey
-Version: smwc-42988-1792781605
-Section: smwmusic
-Architecture: smw
-Maintainer: Ahrion
-Filename: pool/smwmusic/42988/Start of the Journey.zip
-Size: 47841
-X-SMWC-ID: 42988
-X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/42988/Start%20of%20the%20Journey.zip
-Description: Lufia II: Rise of the Sinistrals - Start of the Journey
-
 Package: smwmusic-lufia-ii-rise-of-the-sinistrals-summer
 Version: smwc-43013-1792785211
 Section: smwmusic
@@ -1594,18 +1510,6 @@ X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/43025/The%20Abysmal%20Depths%20of%20the%20Ocean.zip
 Description: Lufia II: Rise of the Sinistrals - The Abysmal Depths of the Ocean
 
-Package: smwmusic-lufia-ii-rise-of-the-sinistrals-the-greatest-thieves-in-the-world
-Version: smwc-43000-1792783247
-Section: smwmusic
-Architecture: smw
-Maintainer: Ahrion
-Filename: pool/smwmusic/43000/The Greatest Thieves in the World.zip
-Size: 54521
-X-SMWC-ID: 43000
-X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/43000/The%20Greatest%20Thieves%20in%20the%20World.zip
-Description: Lufia II: Rise of the Sinistrals - The Greatest Thieves in the World
-
 Package: smwmusic-lufia-ii-rise-of-the-sinistrals-the-island-in-the-void
 Version: smwc-43030-1792788816
 Section: smwmusic
@@ -1617,18 +1521,6 @@ X-SMWC-ID: 43030
 X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/43030/The%20Island%20in%20the%20Void.zip
 Description: Lufia II: Rise of the Sinistrals - The Island in the Void
-
-Package: smwmusic-lufia-ii-rise-of-the-sinistrals-the-prophet
-Version: smwc-42998-1792782875
-Section: smwmusic
-Architecture: smw
-Maintainer: Ahrion
-Filename: pool/smwmusic/42998/The Prophet.zip
-Size: 54498
-X-SMWC-ID: 42998
-X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/42998/The%20Prophet.zip
-Description: Lufia II: Rise of the Sinistrals - The Prophet
 
 Package: smwmusic-lufia-ii-rise-of-the-sinistrals-the-quieting-world
 Version: smwc-43026-1792788168
@@ -1665,18 +1557,6 @@ X-SMWC-ID: 43034
 X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/43034/Theme%20of%20Daos.zip
 Description: Lufia II: Rise of the Sinistrals - Theme of Daos
-
-Package: smwmusic-lufia-ii-rise-of-the-sinistrals-time-of-judgement
-Version: smwc-42986-1792780573
-Section: smwmusic
-Architecture: smw
-Maintainer: Ahrion
-Filename: pool/smwmusic/42986/Time of Judgement.zip
-Size: 45635
-X-SMWC-ID: 42986
-X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/42986/Time%20of%20Judgement.zip
-Description: Lufia II: Rise of the Sinistrals - Time of Judgement
 
 Package: smwmusic-lufia-ii-rise-of-the-sinistrals-to-the-future
 Version: smwc-43032-1792789973
@@ -1726,18 +1606,6 @@ X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/43017/Towering%20Mountain.zip
 Description: Lufia II: Rise of the Sinistrals - Towering Mountain
 
-Package: smwmusic-lufia-ii-rise-of-the-sinistrals-village
-Version: smwc-42996-1792782443
-Section: smwmusic
-Architecture: smw
-Maintainer: Ahrion
-Filename: pool/smwmusic/42996/Village.zip
-Size: 52150
-X-SMWC-ID: 42996
-X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/42996/Village.zip
-Description: Lufia II: Rise of the Sinistrals - Village
-
 Package: smwmusic-lufia-ii-rise-of-the-sinistrals-watchtowers-of-the-seal
 Version: smwc-43029-1792788499
 Section: smwmusic
@@ -1774,17 +1642,125 @@ X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/43015/Winter.zip
 Description: Lufia II: Rise of the Sinistrals - Winter
 
-Package: smwmusic-the-15th-vanilla-level-design-contest-here-we-groovy
-Version: smwc-42966-1792780284
+Package: smwmusic-mega-man-star-force-moving-scene-star-mix
+Version: smwc-42145-1793040998
 Section: smwmusic
 Architecture: smw
-Maintainer: Dispace
-Filename: pool/smwmusic/42966/REMIX - Here Were Groovy%21.zip
-Size: 33766
-X-SMWC-ID: 42966
+Maintainer: Hooded Edge
+Filename: pool/smwmusic/42145/Mega Man Star Force (Star-mix).zip
+Size: 278814
+X-SMWC-ID: 42145
 X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/42966/REMIX%20-%20Here%20Were%20Groovy%21.zip
-Description: The 15th Vanilla Level Design Contest - Here We Groovy!
+X-SMWAPT-URL: https://dl.smwcentral.net/42145/Mega%20Man%20Star%20Force%20%28Star-mix%29.zip
+Description: Mega Man Star Force - Moving Scene (Star-mix)
+
+Package: smwmusic-rudra-no-hihou-dance-with-the-zombie
+Version: smwc-42659-1793307537
+Section: smwmusic
+Architecture: smw
+Maintainer: NamyX
+Filename: pool/smwmusic/42659/RnH Dance with the Zombie.zip
+Size: 69174
+X-SMWC-ID: 42659
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42659/RnH%20Dance%20with%20the%20Zombie.zip
+Description: Rudra no Hihou - Dance with the Zombie
+
+Package: smwmusic-steel-ball-run-jojo-s-bizarre-adventure-dance-with-steel-ball-run-star-mix
+Version: smwc-42297-1793041049
+Section: smwmusic
+Architecture: smw
+Maintainer: Hooded Edge
+Filename: pool/smwmusic/42297/Dance with STEEL BALL RUN (Star-mix).zip
+Size: 186863
+X-SMWC-ID: 42297
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42297/Dance%20with%20STEEL%20BALL%20RUN%20%28Star-mix%29.zip
+Description: Steel Ball Run: JoJo's Bizarre Adventure - Dance with STEEL BALL RUN (Star-mix)
+
+Package: smwmusic-super-mario-sunshine-shadow-mario
+Version: smwc-42685-1793115260
+Section: smwmusic
+Architecture: smw
+Maintainer: NamyX
+Filename: pool/smwmusic/42685/Shadow Mario.zip
+Size: 103597
+X-SMWC-ID: 42685
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42685/Shadow%20Mario.zip
+Description: Super Mario Sunshine - Shadow Mario
+
+Package: smwmusic-the-legend-of-zelda-ocarina-of-time-bring-the-heat-in-gerudo-valley-remix
+Version: smwc-42782-1793113618
+Section: smwmusic
+Architecture: smw
+Maintainer: Hooded Edge
+Filename: pool/smwmusic/42782/Bring the Heat in%21%21.zip
+Size: 753883
+X-SMWC-ID: 42782
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42782/Bring%20the%20Heat%20in%21%21.zip
+Description: The Legend of Zelda: Ocarina of Time - Bring the Heat in!! 🔥 ~ Gerudo Valley (Remix)
+
+Package: smwmusic-tiger-mission-high-score
+Version: smwc-42575-1793463071
+Section: smwmusic
+Architecture: smw
+Maintainer: YoungsVideos44
+Filename: pool/smwmusic/42575/Tiger Mission High Score.zip
+Size: 22447
+X-SMWC-ID: 42575
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42575/Tiger%20Mission%20High%20Score.zip
+Description: Tiger Mission - High Score
+
+Package: smwmusic-touhou-gouyoku-ibun-sunken-fossil-world-the-great-pillars-of-war-the-venerable-ancient-battlefield-remix
+Version: smwc-42485-1793114088
+Section: smwmusic
+Architecture: smw
+Maintainer: Hooded Edge
+Filename: pool/smwmusic/42485/Great Pillars of Wars%2C The.zip
+Size: 370403
+X-SMWC-ID: 42485
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42485/Great%20Pillars%20of%20Wars%2C%20The.zip
+Description: Touhou Gouyoku Ibun ~ Sunken Fossil World - The Great Pillars of War 🍁 ~ The Venerable Ancient Battlefield (Remix)
+
+Package: smwmusic-touhou-koumakyou-the-embodiment-of-the-scarlet-devil-danza-de-la-mente-locked-girl-the-girl-s-secret-room-remix
+Version: smwc-42581-1793461078
+Section: smwmusic
+Architecture: smw
+Maintainer: Hooded Edge
+Filename: pool/smwmusic/42581/Danza de la Mente.zip
+Size: 464345
+X-SMWC-ID: 42581
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42581/Danza%20de%20la%20Mente.zip
+Description: Touhou Koumakyou ~ the Embodiment of the Scarlet Devil - Danza de la Mente 📕 ~ Locked Girl ~ The Girl's Secret Room (Remix)
+
+Package: smwmusic-umamusume-pretty-derby-girls-legend-u-star-mix
+Version: smwc-42778-1793114557
+Section: smwmusic
+Architecture: smw
+Maintainer: Hooded Edge
+Filename: pool/smwmusic/42778/Girls%27 Legend U (Star-mix).zip
+Size: 127569
+X-SMWC-ID: 42778
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42778/Girls%27%20Legend%20U%20%28Star-mix%29.zip
+Description: Umamusume: Pretty Derby - Girls' Legend U (Star-mix)
+
+Package: smwmusic-umamusume-pretty-derby-umapyoi-legend-star-mix
+Version: smwc-42662-1793114543
+Section: smwmusic
+Architecture: smw
+Maintainer: Hooded Edge
+Filename: pool/smwmusic/42662/Umapyoi Legend (Star-mix).zip
+Size: 126049
+X-SMWC-ID: 42662
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42662/Umapyoi%20Legend%20%28Star-mix%29.zip
+Description: Umamusume: Pretty Derby - Umapyoi Legend (Star-mix)
 
 Package: smwpatches-air-bubbles-priority-fix
 Version: v1.0
@@ -1810,8 +1786,8 @@ X-SMWAPT-Kind: AsarPatch
 X-SMWAPT-URL: https://dl.smwcentral.net/41249/RNG_3_1_1.zip
 Description: Better Random Number Generator
 
-Package: smwpatches-bounce-block-fixes-v1-2
-Version: smwc-41825-1773695911
+Package: smwpatches-bounce-block-fixes
+Version: 1.2.2
 Section: smwpatches
 Architecture: smw
 Maintainer: HammerBrother
@@ -1820,7 +1796,7 @@ Size: 60242
 X-SMWC-ID: 41825
 X-SMWAPT-Kind: AsarPatch
 X-SMWAPT-URL: https://dl.smwcentral.net/41825/BounceBlockFixes_v1_2_2_.zip
-Description: Bounce block fixes v1.2.2
+Description: Bounce Block Fixes
 
 Package: smwpatches-bring-up-life-exchange-prompt-fixes
 Version: V1.0.2
@@ -2098,8 +2074,8 @@ X-SMWAPT-Kind: AsarPatch
 X-SMWAPT-URL: https://dl.smwcentral.net/42384/MortonRoyLudwigTilemap%20Editor%201.11.zip
 Description: Morton, Roy & Ludwig Tilemap Editor
 
-Package: smwpatches-multiple-title-screen-demos-v1-1
-Version: smwc-40309-1774901115
+Package: smwpatches-multiple-title-screen-demos
+Version: v1.1.2
 Section: smwpatches
 Architecture: smw
 Maintainer: Arinsu
@@ -2108,7 +2084,7 @@ Size: 6116
 X-SMWC-ID: 40309
 X-SMWAPT-Kind: AsarPatch
 X-SMWAPT-URL: https://dl.smwcentral.net/40309/Multiple%20Title%20Screen%20Demos%201.1.2.zip
-Description: Multiple Title Screen Demos v1.1.2
+Description: Multiple Title Screen Demos
 
 Package: smwpatches-optimize
 Version: smwc-41786-1772056855
@@ -2411,7 +2387,7 @@ X-SMWAPT-URL: https://dl.smwcentral.net/42057/fireworks.zip
 Description: Background Fireworks
 
 Package: smwsprites-beezo
-Version: v1.1.1
+Version: 1.1.1
 Section: smwsprites
 Architecture: smw
 Maintainer: DrAnas, Sonikku
@@ -2758,8 +2734,8 @@ X-SMWAPT-Kind: PixiSprite
 X-SMWAPT-URL: https://dl.smwcentral.net/42811/Skating%20KoopaV1.0.1.zip
 Description: Ice Skating Koopa
 
-Package: smwsprites-invisible-sprite-killer-box-v1
-Version: smwc-42764-1785484543
+Package: smwsprites-invisible-sprite-killer-box
+Version: v1.1
 Section: smwsprites
 Architecture: smw
 Maintainer: Darolac, MellyMellouange
@@ -2768,7 +2744,7 @@ Size: 2266
 X-SMWC-ID: 42764
 X-SMWAPT-Kind: PixiSprite
 X-SMWAPT-URL: https://dl.smwcentral.net/42764/Invisible%20Sprite%20Killer%20Box.zip
-Description: Invisible Sprite Killer Box v1.1
+Description: Invisible Sprite Killer Box
 
 Package: smwsprites-lemon-drop
 Version: smwc-43161-1789331241
@@ -2903,7 +2879,7 @@ X-SMWAPT-URL: https://dl.smwcentral.net/42618/Pot_Remodded.zip
 Description: Pot
 
 Package: smwsprites-shyguy-snifit
-Version: v1.1.1
+Version: 1.1.1
 Section: smwsprites
 Architecture: smw
 Maintainer: DrAnas, Sonikku
@@ -2938,8 +2914,8 @@ X-SMWAPT-Kind: PixiSprite
 X-SMWAPT-URL: https://dl.smwcentral.net/42696/SMW-Like%20Lemmy.zip
 Description: SMW-Like Lemmy Boss
 
-Package: smwsprites-statue-chuck-v1
-Version: smwc-42081-1777567687
+Package: smwsprites-statue-chuck
+Version: v1.1
 Section: smwsprites
 Architecture: smw
 Maintainer: Arinsu
@@ -2948,7 +2924,7 @@ Size: 6413
 X-SMWC-ID: 42081
 X-SMWAPT-Kind: PixiSprite
 X-SMWAPT-URL: https://dl.smwcentral.net/42081/Statue%20Chuck%20v1.1.zip
-Description: Statue Chuck v1.1
+Description: Statue Chuck
 
 Package: smwsprites-super-bob-omb
 Version: smwc-42638-1783173745
@@ -3514,8 +3490,8 @@ X-SMWAPT-Kind: Tool
 X-SMWAPT-URL: https://dl.smwcentral.net/27208/yychr20210606.zip
 Description: YY-CHR (.NET Version, English/Japanese)
 
-Package: uberasm-1up-or-code-at-certain-score-checkpoints-v1
-Version: smwc-41058-1763938565
+Package: uberasm-1up-or-code-at-certain-score-checkpoints
+Version: 1.1
 Section: uberasm
 Architecture: smw
 Maintainer: Arinsu, yoshifanatic
@@ -3524,7 +3500,7 @@ Size: 963
 X-SMWC-ID: 41058
 X-SMWAPT-Kind: UberAsm
 X-SMWAPT-URL: https://dl.smwcentral.net/41058/Lives%20Every%20Score%20V1.1.zip
-Description: 1UP (or code) at Certain Score Checkpoints V1.1
+Description: 1UP (or code) at Certain Score Checkpoints
 
 Package: uberasm-add-color
 Version: smwc-41162-1764430474
@@ -3574,8 +3550,8 @@ X-SMWAPT-Kind: UberAsm
 X-SMWAPT-URL: https://dl.smwcentral.net/42819/BalloonTriggerV1.1.zip
 Description: Balloon Trigger
 
-Package: uberasm-basic-numerical-air-meter-v1
-Version: smwc-41011-1763931254
+Package: uberasm-basic-numerical-air-meter
+Version: V1.1
 Section: uberasm
 Architecture: smw
 Maintainer: Sonikku, yoshifanatic
@@ -3584,7 +3560,7 @@ Size: 980
 X-SMWC-ID: 41011
 X-SMWAPT-Kind: UberAsm
 X-SMWAPT-URL: https://dl.smwcentral.net/41011/AirMeter.zip
-Description: Basic Numerical Air Meter V1.1
+Description: Basic Numerical Air Meter
 
 Package: uberasm-configurable-amount-of-baby-yoshi-eats
 Version: V1.1
@@ -3646,8 +3622,8 @@ X-SMWAPT-Kind: UberAsm
 X-SMWAPT-URL: https://dl.smwcentral.net/41094/DolphinGeneratorUBERASM.zip
 Description: Dolphin Generator
 
-Package: uberasm-dynamic-radius-circle-window-v1-1
-Version: smwc-41035-1763932365
+Package: uberasm-dynamic-radius-circle-window
+Version: 1.1.1
 Section: uberasm
 Architecture: smw
 Maintainer: undefinied3, yoshifanatic
@@ -3656,7 +3632,7 @@ Size: 4320
 X-SMWC-ID: 41035
 X-SMWAPT-Kind: UberAsm
 X-SMWAPT-URL: https://dl.smwcentral.net/41035/Circle%20Window%20v1.1.1.zip
-Description: Dynamic Radius Circle Window v1.1.1
+Description: Dynamic Radius Circle Window
 
 Package: uberasm-dynamic-sprites-utility
 Version: 1.1.0
@@ -3694,8 +3670,8 @@ X-SMWAPT-Kind: UberAsm
 X-SMWAPT-URL: https://dl.smwcentral.net/41705/Fade%20From%20Title%20Screen%20to%20File%20Select%20Menu.zip
 Description: Fade from Title Screen to File Select Menu
 
-Package: uberasm-fading-lights-v1-1
-Version: smwc-41443-1768763821
+Package: uberasm-fading-lights
+Version: v1.1.2
 Section: uberasm
 Architecture: smw
 Maintainer: Kevin
@@ -3704,7 +3680,7 @@ Size: 1920
 X-SMWC-ID: 41443
 X-SMWAPT-Kind: UberAsm
 X-SMWAPT-URL: https://dl.smwcentral.net/41443/lights_timer%20asar2.zip
-Description: Fading Lights v1.1.2
+Description: Fading Lights
 
 Package: uberasm-fair-powerup-filters
 Version: V1.0.1
@@ -3754,8 +3730,8 @@ X-SMWAPT-Kind: UberAsm
 X-SMWAPT-URL: https://dl.smwcentral.net/42724/GlidingParachuteV1.0.1.zip
 Description: Gliding Parachute
 
-Package: uberasm-graphical-air-meter-v2-0
-Version: smwc-39678-1770563680
+Package: uberasm-graphical-air-meter
+Version: 2.0.2
 Section: uberasm
 Architecture: smw
 Maintainer: HammerBrother
@@ -3764,10 +3740,10 @@ Size: 123081
 X-SMWC-ID: 39678
 X-SMWAPT-Kind: UberAsm
 X-SMWAPT-URL: https://dl.smwcentral.net/39678/Air-meter_v2_0_2_.zip
-Description: Graphical Air Meter v2.0.2
+Description: Graphical Air Meter
 
-Package: uberasm-hurt-kill-on-sound-effect-trigger-v1
-Version: smwc-41071-1763939200
+Package: uberasm-hurt-kill-on-sound-effect-trigger
+Version: V1.1
 Section: uberasm
 Architecture: smw
 Maintainer: Kevin, yoshifanatic
@@ -3776,7 +3752,7 @@ Size: 898
 X-SMWC-ID: 41071
 X-SMWAPT-Kind: UberAsm
 X-SMWAPT-URL: https://dl.smwcentral.net/41071/kill_on_sfx_V1_1.zip
-Description: Hurt/Kill on Sound Effect Trigger V1.1
+Description: Hurt/Kill on Sound Effect Trigger
 
 Package: uberasm-level-timer-air-meter
 Version: v1.1.1
@@ -3790,8 +3766,8 @@ X-SMWAPT-Kind: UberAsm
 X-SMWAPT-URL: https://dl.smwcentral.net/42854/Level%20Timer%20Air%20Meter%20V1.1.1.zip
 Description: Level Timer Air Meter
 
-Package: uberasm-level-warp-display-v1-1
-Version: smwc-40975-1763928647
+Package: uberasm-level-warp-display
+Version: 1.1.1
 Section: uberasm
 Architecture: smw
 Maintainer: JackTheSpades, yoshifanatic
@@ -3800,10 +3776,10 @@ Size: 2102
 X-SMWC-ID: 40975
 X-SMWAPT-Kind: UberAsm
 X-SMWAPT-URL: https://dl.smwcentral.net/40975/levelwarpV1.1.1.zip
-Description: Level Warp Display v1.1.1
+Description: Level Warp Display
 
-Package: uberasm-lightning-generator-v1-0
-Version: smwc-41464-1769128280
+Package: uberasm-lightning-generator
+Version: v1.0.1
 Section: uberasm
 Architecture: smw
 Maintainer: MarioFanGamer
@@ -3812,22 +3788,10 @@ Size: 9030
 X-SMWC-ID: 41464
 X-SMWAPT-Kind: UberAsm
 X-SMWAPT-URL: https://dl.smwcentral.net/41464/Lightning%20Generator.zip
-Description: Lightning Generator v1.0.1
+Description: Lightning Generator
 
-Package: uberasm-modern-starman-v1
-Version: smwc-40902-1763926611
-Section: uberasm
-Architecture: smw
-Maintainer: Darolac, yoshifanatic
-Filename: pool/uberasm/40902/modernstarman_v1_1.zip
-Size: 734
-X-SMWC-ID: 40902
-X-SMWAPT-Kind: UberAsm
-X-SMWAPT-URL: https://dl.smwcentral.net/40902/modernstarman_v1_1.zip
-Description: Modern Starman V1.1
-
-Package: uberasm-multi-step-autoscroll-v1
-Version: smwc-41204-1772912351
+Package: uberasm-multi-step-autoscroll
+Version: V1.1
 Section: uberasm
 Architecture: smw
 Maintainer: mathie, yoshifanatic
@@ -3836,7 +3800,7 @@ Size: 3401
 X-SMWC-ID: 41204
 X-SMWAPT-Kind: UberAsm
 X-SMWAPT-URL: https://dl.smwcentral.net/41204/MultiStepAutoscrollV1.1.zip
-Description: Multi-step Autoscroll V1.1
+Description: Multi-step Autoscroll
 
 Package: uberasm-new-super-mario-bros-wii-styled-secret-passages
 Version: smwc-41425-1772929452
@@ -3850,8 +3814,8 @@ X-SMWAPT-Kind: UberAsm
 X-SMWAPT-URL: https://dl.smwcentral.net/41425/NSMBWii%20Secret%20Passages.zip
 Description: New Super Mario Bros. Wii Styled Secret Passages
 
-Package: uberasm-no-overworld-v1
-Version: smwc-39756-1772229699
+Package: uberasm-no-overworld
+Version: 1.3
 Section: uberasm
 Architecture: smw
 Maintainer: Brolencho
@@ -3860,7 +3824,7 @@ Size: 8750
 X-SMWC-ID: 39756
 X-SMWAPT-Kind: UberAsm
 X-SMWAPT-URL: https://dl.smwcentral.net/39756/No%20Overworld%20v1.3.zip
-Description: No Overworld v1.3
+Description: No Overworld
 
 Package: uberasm-overworld-songs-based-on-event
 Version: V1.0.1
@@ -3898,8 +3862,8 @@ X-SMWAPT-Kind: UberAsm
 X-SMWAPT-URL: https://dl.smwcentral.net/41563/Peach%27s%20Floating%20Ability.zip
 Description: Peach's Floating Ability
 
-Package: uberasm-player-animated-tiles-exgfx-v1
-Version: smwc-41924-1773698516
+Package: uberasm-player-animated-tiles-exgfx
+Version: v1.2
 Section: uberasm
 Architecture: smw
 Maintainer: Kevin
@@ -3908,10 +3872,10 @@ Size: 4423
 X-SMWC-ID: 41924
 X-SMWAPT-Kind: UberAsm
 X-SMWAPT-URL: https://dl.smwcentral.net/41924/mario_exgfx_uberasm.zip
-Description: Player + Animated Tiles ExGFX v1.2
+Description: Player + Animated Tiles ExGFX
 
-Package: uberasm-press-r-to-switch-characters-v1-1
-Version: smwc-41819-1772931288
+Package: uberasm-press-r-to-switch-characters
+Version: 1.1.1
 Section: uberasm
 Architecture: smw
 Maintainer: AuraDee, Noobish Noobsicle, yoshifanatic
@@ -3920,10 +3884,10 @@ Size: 1881
 X-SMWC-ID: 41819
 X-SMWAPT-Kind: UberAsm
 X-SMWAPT-URL: https://dl.smwcentral.net/41819/RChar%20V1.1.1.zip
-Description: Press R to Switch Characters V1.1.1
+Description: Press R to Switch Characters
 
-Package: uberasm-press-r-to-switch-mario-and-luigi-on-the-overworld-v1
-Version: smwc-41659-1772933113
+Package: uberasm-press-r-to-switch-mario-and-luigi-on-the-overworld
+Version: 1.1
 Section: uberasm
 Architecture: smw
 Maintainer: Bensalot, yoshifanatic
@@ -3932,7 +3896,7 @@ Size: 1776
 X-SMWC-ID: 41659
 X-SMWAPT-Kind: UberAsm
 X-SMWAPT-URL: https://dl.smwcentral.net/41659/RtoSwitchOW%20V1.1.zip
-Description: Press R to Switch Mario and Luigi on the Overworld V1.1
+Description: Press R to Switch Mario and Luigi on the Overworld
 
 Package: uberasm-princess-peach-abilities-floating-charged-jump-bomber
 Version: smwc-42483-1782085948
@@ -3946,8 +3910,8 @@ X-SMWAPT-Kind: UberAsm
 X-SMWAPT-URL: https://dl.smwcentral.net/42483/Unified%20Peach%20Abilities%20-%20V1.zip
 Description: Princess Peach Abilities (Floating / Charged Jump / Bomber)
 
-Package: uberasm-relative-layer-2-vertical-rise-fall-v1
-Version: smwc-41102-1769856084
+Package: uberasm-relative-layer
+Version: V1.1
 Section: uberasm
 Architecture: smw
 Maintainer: Koopster, yoshifanatic
@@ -3956,10 +3920,10 @@ Size: 1085
 X-SMWC-ID: 41102
 X-SMWAPT-Kind: UberAsm
 X-SMWAPT-URL: https://dl.smwcentral.net/41102/L2RelVScrollV1_1.zip
-Description: Relative Layer 2 Vertical Rise/Fall V1.1
+Description: Relative Layer 2 Vertical Rise/Fall
 
-Package: uberasm-reset-level-on-falling-down-offscreen-v1
-Version: smwc-41052-1763937958
+Package: uberasm-reset-level-on-falling-down-offscreen
+Version: V1.1
 Section: uberasm
 Architecture: smw
 Maintainer: Nitrocell Inc., yoshifanatic
@@ -3968,7 +3932,7 @@ Size: 1303
 X-SMWC-ID: 41052
 X-SMWAPT-Kind: UberAsm
 X-SMWAPT-URL: https://dl.smwcentral.net/41052/Reset%20If%20Falling%20Offscreen%20v1.1.zip
-Description: Reset Level on Falling Down Offscreen V1.1
+Description: Reset Level on Falling Down Offscreen
 
 Package: uberasm-retry-system
 Version: 2.2.0
@@ -3980,7 +3944,7 @@ Size: 279774
 X-SMWC-ID: 42938
 X-SMWAPT-Kind: UberAsm
 X-SMWAPT-URL: https://dl.smwcentral.net/42938/retry-system_v2.2.0.zip
-Description: Retry System v2.2.0
+Description: Retry System
 
 Package: uberasm-reverse-controls
 Version: V1.0.1
@@ -4030,8 +3994,8 @@ X-SMWAPT-Kind: UberAsm
 X-SMWAPT-URL: https://dl.smwcentral.net/42506/SuperStarWithCoinsV1.1.zip
 Description: Super Star With Coins
 
-Package: uberasm-teleport-when-dying-v1
-Version: smwc-41419-1768504655
+Package: uberasm-teleport-when-dying
+Version: V1.1
 Section: uberasm
 Architecture: smw
 Maintainer: TheXander
@@ -4040,7 +4004,7 @@ Size: 3859
 X-SMWC-ID: 41419
 X-SMWAPT-Kind: UberAsm
 X-SMWAPT-URL: https://dl.smwcentral.net/41419/Teleport%20When%20Dying%20V1.1.zip
-Description: Teleport When Dying V1.1
+Description: Teleport When Dying
 
 Package: uberasm-tool
 Version: smwc-39036-1743185200
@@ -4113,6 +4077,18 @@ X-SMWC-ID: 41600
 X-SMWAPT-Kind: UberAsm
 X-SMWAPT-URL: https://dl.smwcentral.net/41600/XRaySpotlight.zip
 Description: X-Ray Spotlight
+
+Package: uberasm-yoshi-disappears-after-eating-too-much
+Version: V1.1
+Section: uberasm
+Architecture: smw
+Maintainer: Kevin
+Filename: pool/uberasm/42642/MaxYoshiEatsV1.1.zip
+Size: 1765
+X-SMWC-ID: 42642
+X-SMWAPT-Kind: UberAsm
+X-SMWAPT-URL: https://dl.smwcentral.net/42642/MaxYoshiEatsV1.1.zip
+Description: Yoshi Disappears After Eating Too Much
 
 Package: uberasm-yoshi-wings-teleport-on-yoshi-mount
 Version: V1.0.1

@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-bounce-block-fixes",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 41825,
+  "title": "Bounce Block Fixes",
+  "authors": [
+    "HammerBrother"
+  ],
+  "tags": [
+    "bounce block",
+    "double carry",
+    "lorom",
+    "physics",
+    "sa-1"
+  ],
+  "description": "This patch fixes various bounce block-related glitches:<br>\r\n<ul><li>Blocks can be hit multiple times before turning into tile $152 briefly, either by multiple kicked sprites hitting the block at the same frame, or during $9D being set. SMW only lets the block change via processing the bounce sprite, rather than immediately.</li>\n<li>The flip kicked sprite effect reuses the quake effect, causing sprites to always be knocked away from the player, even when the block is hit by a kicked sprite from the opposite side of the player</li></ul>",
+  "latest_version": "1.2.2",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 41825,
+      "title": "Bounce Block Fixes",
+      "version": "1.2.2",
+      "upstream_time": 1773695911,
+      "download_url": "https://dl.smwcentral.net/41825/BounceBlockFixes_v1_2_2_.zip",
+      "filename": "BounceBlockFixes_v1_2_2_.zip",
+      "size": 60242,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

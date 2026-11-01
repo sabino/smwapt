@@ -1,0 +1,38 @@
+{
+  "name": "uberasm-hurt-kill-on-sound-effect-trigger",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 41071,
+  "title": "Hurt/Kill on Sound Effect Trigger",
+  "authors": [
+    "Kevin",
+    "yoshifanatic"
+  ],
+  "tags": [
+    "hurt",
+    "kill",
+    "lorom",
+    "sa-1",
+    "sfx",
+    "sound effect"
+  ],
+  "description": "Hurts or kills Mario when any sound effect starts playing (choose which option in the asm file).<br>\r\nRequested by <span class=\"un-outer\" title=\"Golden Yoshi\"><a href=\"/?p=profile&amp;id=306\" style=\"color: #eb6123;\" class=\"un\">Golden Yoshi</a></span>.",
+  "latest_version": "V1.1",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 41071,
+      "title": "Hurt/Kill on Sound Effect Trigger",
+      "version": "V1.1",
+      "upstream_time": 1763939200,
+      "download_url": "https://dl.smwcentral.net/41071/kill_on_sfx_V1_1.zip",
+      "filename": "kill_on_sfx_V1_1.zip",
+      "size": 898,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

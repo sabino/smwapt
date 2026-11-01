@@ -1,10 +1,10 @@
 [
   {
-    "name": "uberasm-1up-or-code-at-certain-score-checkpoints-v1",
+    "name": "uberasm-1up-or-code-at-certain-score-checkpoints",
     "aliases": [],
     "section": "uberasm",
     "upstream_id": 41058,
-    "title": "1UP (or code) at Certain Score Checkpoints V1.1",
+    "title": "1UP (or code) at Certain Score Checkpoints",
     "authors": [
       "Arinsu",
       "yoshifanatic"
@@ -15,14 +15,14 @@
       "sa-1",
       "score"
     ],
-    "description": "This simple code grants the player an extra life at certain checkpoints in the score.  More details in the .asm file.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"LucasRCD\"><a href=\"/?p=profile&amp;id=26593\" style=\"color: #9d4edd;\" class=\"un\">LucasRCD</a></span>.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\"><span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" title=\"ghostly yoshifanatic\" class=\"un\">yoshifanatic</a></span>'s Update<br>\r\n- Made this compatible with asar 2.0.<br>\r\n- Fixed a bug where you wouldn't be given a reward unless all 3 score bytes were greater than the 3 current checkpoint score bytes (ie. 15,000 &lt; 10,000 because the DC in #$05DC was less than the E8 in #$03E8).<br>\r\n- Changed the default reward code to one that spawns a 1-up score sprite instead of incrementing the life counter directly.<br>\r\n- Made this work for Luigi as well. Note that this requires an extra free RAM byte.</div></div>",
-    "latest_version": "smwc-41058-1763938565",
+    "description": "This simple code grants the player an extra life at certain checkpoints in the score.  More details in the .asm file.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"LucasRCD\"><a href=\"/?p=profile&amp;id=26593\" style=\"color: #9d4edd;\" class=\"un\">LucasRCD</a></span>.",
+    "latest_version": "1.1",
     "install_kind": "uber_asm",
     "versions": [
       {
         "upstream_id": 41058,
-        "title": "1UP (or code) at Certain Score Checkpoints V1.1",
-        "version": "smwc-41058-1763938565",
+        "title": "1UP (or code) at Certain Score Checkpoints",
+        "version": "1.1",
         "upstream_time": 1763938565,
         "download_url": "https://dl.smwcentral.net/41058/Lives%20Every%20Score%20V1.1.zip",
         "filename": "Lives Every Score V1.1.zip",
@@ -175,11 +175,11 @@
     ]
   },
   {
-    "name": "uberasm-basic-numerical-air-meter-v1",
+    "name": "uberasm-basic-numerical-air-meter",
     "aliases": [],
     "section": "uberasm",
     "upstream_id": 41011,
-    "title": "Basic Numerical Air Meter V1.1",
+    "title": "Basic Numerical Air Meter",
     "authors": [
       "Sonikku",
       "yoshifanatic"
@@ -194,14 +194,14 @@
       "status bar",
       "water"
     ],
-    "description": "This simple piece of code places a numerical air meter on the status bar, effectively replacing the stars counter (protip: change the star graphics to a bubble or something for a better impact).<br>\r\n<br>\r\nQuite customizable, and SA-1 hybrid.<br>\r\n<br>\r\n<span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" title=\"ghostly yoshifanatic\" class=\"un\">yoshifanatic</a></span>'s update:<br>\r\n- Fixed an oversight where pausing on the frame the meter updates will cause it to update every frame. You'd also softlock if this happened while in water.<br>\r\n- Created a define that does the effect described in the comments for reversing the air meter.<br>\r\n- Made it so the air meter tile is initialized in init so it displays during the fade in instead of popping in right after.<br>\r\n- Made a few minor code optimizations.",
-    "latest_version": "smwc-41011-1763931254",
+    "description": "This simple piece of code places a numerical air meter on the status bar, effectively replacing the stars counter (protip: change the star graphics to a bubble or something for a better impact).<br>\r\n<br>\r\nQuite customizable, and SA-1 hybrid.",
+    "latest_version": "V1.1",
     "install_kind": "uber_asm",
     "versions": [
       {
         "upstream_id": 41011,
-        "title": "Basic Numerical Air Meter V1.1",
-        "version": "smwc-41011-1763931254",
+        "title": "Basic Numerical Air Meter",
+        "version": "V1.1",
         "upstream_time": 1763931254,
         "download_url": "https://dl.smwcentral.net/41011/AirMeter.zip",
         "filename": "AirMeter.zip",
@@ -389,11 +389,11 @@
     ]
   },
   {
-    "name": "uberasm-dynamic-radius-circle-window-v1-1",
+    "name": "uberasm-dynamic-radius-circle-window",
     "aliases": [],
     "section": "uberasm",
     "upstream_id": 41035,
-    "title": "Dynamic Radius Circle Window v1.1.1",
+    "title": "Dynamic Radius Circle Window",
     "authors": [
       "undefinied3",
       "yoshifanatic"
@@ -403,14 +403,14 @@
       "lorom",
       "sa-1"
     ],
-    "description": "This is basically a piece of code to draw a circle window with a given radius. Unlike the one that comes with Effect Tool, this one generates the circle on the run, not using a pre-computed table, allowing you to change the radius anytime you want.<br>\r\n<br>\r\nThe ASM file comes with some customizable options, such as whether the circle is centered at a fixed position or at Mario, the initial radius and some other stuff.<br>\r\n<br>\r\nNotes: don't use it with message boxes, and make sure your level end isn't in the same level of this effect, otherwise stuff will look glitched up when you cross the goal tape or use the keyhole.<br>\r\n<br>\r\nIf not using the SA-1 patch, turn on the interlacing setting! Otherwise, this will likely cause lag.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\"><span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" title=\"ghostly yoshifanatic\" class=\"un\">yoshifanatic</a></span>'s update<br>\r\n- Changed the encoding of CircleWindow.asm to UTF-8 so it'll work in asar 2.0.<br>\r\n- Made this LoROM compatible.<br>\r\n- Added a setting that enables interlacing to save on performance at the cost of making the circle look blurrier in motion. Enabling this is recommended if not using the SA-1 patch.<br>\r\n- Made the HDMA channel customizable.<br>\r\n- Fixed a bug where the circle would not initialize if you exit a sublevel and the circle draws at the exact same on screen position before in the next sublevel.</div></div>",
-    "latest_version": "smwc-41035-1763932365",
+    "description": "This is basically a piece of code to draw a circle window with a given radius. Unlike the one that comes with Effect Tool, this one generates the circle on the run, not using a pre-computed table, allowing you to change the radius anytime you want.<br>\r\n<br>\r\nThe ASM file comes with some customizable options, such as whether the circle is centered at a fixed position or at Mario, the initial radius and some other stuff.<br>\r\n<br>\r\nNotes: don't use it with message boxes, and make sure your level end isn't in the same level of this effect, otherwise stuff will look glitched up when you cross the goal tape or use the keyhole.<br>\r\n<br>\r\nIf not using the SA-1 patch, turn on the interlacing setting! Otherwise, this will likely cause lag.",
+    "latest_version": "1.1.1",
     "install_kind": "uber_asm",
     "versions": [
       {
         "upstream_id": 41035,
-        "title": "Dynamic Radius Circle Window v1.1.1",
-        "version": "smwc-41035-1763932365",
+        "title": "Dynamic Radius Circle Window",
+        "version": "1.1.1",
         "upstream_time": 1763932365,
         "download_url": "https://dl.smwcentral.net/41035/Circle%20Window%20v1.1.1.zip",
         "filename": "Circle Window v1.1.1.zip",
@@ -528,11 +528,11 @@
     ]
   },
   {
-    "name": "uberasm-fading-lights-v1-1",
+    "name": "uberasm-fading-lights",
     "aliases": [],
     "section": "uberasm",
     "upstream_id": 41443,
-    "title": "Fading Lights v1.1.2",
+    "title": "Fading Lights",
     "authors": [
       "Kevin"
     ],
@@ -542,14 +542,14 @@
       "lorom",
       "sa-1"
     ],
-    "description": "This UberASM will fade the brightness in the level in and out. There's two different modes available:<br>\r\n- Constant fading in/out based on a timer.<br>\r\n- Fade based on a certain switch. This can also be of two types: lights go back to bright when hitting a switch, but fade immediately to dark; or they only fade to dark when the switch goes off. Possible switches are: ON/OFF, blue POW, silver POW, red ? block.<br>\r\nIn the file you can customize some parameters: how bright/dark the lights go and how long the fade will take.<br>\r\n<br>\r\nv1.1:<br>\r\n- Doesn't use a dedicated HDMA channel anymore (smh).<br>\r\n- Uses 2 bytes of freeram instead of 7.<br>\r\n- Smaller code.<br>\r\n<br>\r\nv1.1.1:<br>\r\n- Fixed a bug where this causes flashing during level end.<br>\r\n<br>\r\nv1.1.2<br>\r\n- Fixed an underflow bug that caused the screen to turn black if !DarkValue was set lower than the default.",
-    "latest_version": "smwc-41443-1768763821",
+    "description": "This UberASM will fade the brightness in the level in and out. There's two different modes available:<br>\r\n- Constant fading in/out based on a timer.<br>\r\n- Fade based on a certain switch. This can also be of two types: lights go back to bright when hitting a switch, but fade immediately to dark; or they only fade to dark when the switch goes off. Possible switches are: ON/OFF, blue POW, silver POW, red ? block.<br>\r\nIn the file you can customize some parameters: how bright/dark the lights go and how long the fade will take.",
+    "latest_version": "v1.1.2",
     "install_kind": "uber_asm",
     "versions": [
       {
         "upstream_id": 41443,
-        "title": "Fading Lights v1.1.2",
-        "version": "smwc-41443-1768763821",
+        "title": "Fading Lights",
+        "version": "v1.1.2",
         "upstream_time": 1768763821,
         "download_url": "https://dl.smwcentral.net/41443/lights_timer%20asar2.zip",
         "filename": "lights_timer asar2.zip",
@@ -698,11 +698,11 @@
     ]
   },
   {
-    "name": "uberasm-graphical-air-meter-v2-0",
+    "name": "uberasm-graphical-air-meter",
     "aliases": [],
     "section": "uberasm",
     "upstream_id": 39678,
-    "title": "Graphical Air Meter v2.0.2",
+    "title": "Graphical Air Meter",
     "authors": [
       "HammerBrother"
     ],
@@ -713,14 +713,14 @@
       "lorom",
       "sa-1"
     ],
-    "description": "This is basically similar to the sprite version, but recoded from scratch, and more customizability. The amount of time the player can be in the water, unlike the sprite version, can be any value rather than restricted to powers of 2 \"ticks\" (which happens at every !CountDownFrequency+1 frames) starting at 255 units.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>changelog</span></div><div class=\"collapse-content\"><div class=\"code\"><div class=\"codeHead\"><span>Code</span></div><pre class=\"codeInner filter-noemote filter-nobr\">2025-06-14 (v2.0.2) - small update\r\n - Removed some redundant code relating to storing EXB1 (Index\r\n   0; the maximum air value) into scratch RAM.\r\n - Added a new feature: InvertFill extra byte. When nonzero,\r\n   the displayed meter fills up from empty as the player loses\r\n   air rather than decreases from full.\r\n2025-05-04 (v2.0.1) - text info update\r\n - Explained clearly about when later you need to change the\r\n   defines settings that you need to update its copies and\r\n   reinsert.\r\n - Added comment info about that the tables not being used if\r\n   the corresponding pieces set to 0 in Level_AirMeter.asm.\r\n   This was only mentioned in the defines file.\r\n - Clarify CTRL+F \"Static end tiles option\" inside\r\n   AirMeterDefines.asm on that file rather than being vague.\r\n - Corrected a description about !Freeram_AirMeterAirState\r\n   that previously stated the wrong extra byte.\r\n - Placed a note in this readme explaining where the info\r\n   about the extra bytes is in \"Level_AirMeter.asm\".\r\n2025-04-11 (v2.0.1) - description update\r\n - Updated several graphical bar's write to HUD routine's\r\n   description explaining that writing vertical bars routine\r\n   should not be used for stripe.\r\n - Did mention on the insertion process instructions about the\r\n   list.txt for a demo level test.\r\n - Explained more about sprite positioning in the defines.\r\n2025-04-06 (v2.0.1) - minor fixes and small features\r\n - Fixed a problem with the COURSE CLEAR! message when using\r\n   stripe.\r\n - Added static end tiles support, for status bar, stripe, and\r\n   sprite. This took me FOREVER making sure this works right.\r\n2025-03-31 (v2.0) - BIG massive update\r\n - Uses updated version of the graphical bar system.\r\n - Vertical bar support.\r\n - Makes use of UAT v2.1's new features: extra bytes. This\r\n   allows variations of the same level ASM without duplicates.\r\n --Included per-level different lengths of time of being in\r\n   the water, what effect when the meter runs out (such as\r\n   damage and refill), how fast the meter refills, how it\r\n   drains.\r\n - Makes use of UAT's routines folder, really love that I can\r\n   finally call another routine file from a routine file.\r\n -Supports stripe image and sprite OAM (does not occupy\r\n  one of normal/pixi sprite's 12 or 22 slot).\r\n -When set to use sprite OAM, supports multiple tilesets for\r\n  the bar rather than having a single set so you can have a\r\n  per-level sprite graphics without conflicts (assuming you\r\n  have enough tiles) with other GFX.</pre></div></div></div>",
-    "latest_version": "smwc-39678-1770563680",
+    "description": "This is basically similar to the sprite version, but recoded from scratch, and more customizability. The amount of time the player can be in the water, unlike the sprite version, can be any value rather than restricted to powers of 2 \"ticks\" (which happens at every !CountDownFrequency+1 frames) starting at 255 units.",
+    "latest_version": "2.0.2",
     "install_kind": "uber_asm",
     "versions": [
       {
         "upstream_id": 39678,
-        "title": "Graphical Air Meter v2.0.2",
-        "version": "smwc-39678-1770563680",
+        "title": "Graphical Air Meter",
+        "version": "2.0.2",
         "upstream_time": 1770563680,
         "download_url": "https://dl.smwcentral.net/39678/Air-meter_v2_0_2_.zip",
         "filename": "Air-meter_v2_0_2_.zip",
@@ -734,11 +734,11 @@
     ]
   },
   {
-    "name": "uberasm-hurt-kill-on-sound-effect-trigger-v1",
+    "name": "uberasm-hurt-kill-on-sound-effect-trigger",
     "aliases": [],
     "section": "uberasm",
     "upstream_id": 41071,
-    "title": "Hurt/Kill on Sound Effect Trigger V1.1",
+    "title": "Hurt/Kill on Sound Effect Trigger",
     "authors": [
       "Kevin",
       "yoshifanatic"
@@ -751,14 +751,14 @@
       "sfx",
       "sound effect"
     ],
-    "description": "Hurts or kills Mario when any sound effect starts playing (choose which option in the asm file).<br>\r\nRequested by <span class=\"un-outer\" title=\"Golden Yoshi\"><a href=\"/?p=profile&amp;id=306\" style=\"color: #eb6123;\" class=\"un\">Golden Yoshi</a></span>.<br>\r\n<br>\r\n<span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" title=\"ghostly yoshifanatic\" class=\"un\">yoshifanatic</a></span>'s Update:<br>\r\n- Made this use UberASMTool 2.0's end label to make this less janky.<br>\r\n- Added 3 tables that allow you to customize which sounds hurt/kill you. By default, the pause, time running out, the Yoshi drum commands, and AddmusicK's pause/echo commands don't hurt you.<br>\r\n- Made it so this UberASM doesn't run during level end or no Yoshi intros.",
-    "latest_version": "smwc-41071-1763939200",
+    "description": "Hurts or kills Mario when any sound effect starts playing (choose which option in the asm file).<br>\r\nRequested by <span class=\"un-outer\" title=\"Golden Yoshi\"><a href=\"/?p=profile&amp;id=306\" style=\"color: #eb6123;\" class=\"un\">Golden Yoshi</a></span>.",
+    "latest_version": "V1.1",
     "install_kind": "uber_asm",
     "versions": [
       {
         "upstream_id": 41071,
-        "title": "Hurt/Kill on Sound Effect Trigger V1.1",
-        "version": "smwc-41071-1763939200",
+        "title": "Hurt/Kill on Sound Effect Trigger",
+        "version": "V1.1",
         "upstream_time": 1763939200,
         "download_url": "https://dl.smwcentral.net/41071/kill_on_sfx_V1_1.zip",
         "filename": "kill_on_sfx_V1_1.zip",
@@ -807,11 +807,11 @@
     ]
   },
   {
-    "name": "uberasm-level-warp-display-v1-1",
+    "name": "uberasm-level-warp-display",
     "aliases": [],
     "section": "uberasm",
     "upstream_id": 40975,
-    "title": "Level Warp Display v1.1.1",
+    "title": "Level Warp Display",
     "authors": [
       "JackTheSpades",
       "yoshifanatic"
@@ -824,14 +824,14 @@
       "sa-1",
       "warp"
     ],
-    "description": "An easy to configure level code for creating warp hubs.<br>\r\nIt displays a custom text in the top left corner, switching between values when pressing left or right. Pushing A or B sends you to the designated level.<br>\r\nThe text displayed, destination level and amount of levels can be easily changed, just add or remove values from the tables.<br>\r\n<br>\r\nUseful for debugging or actual in game hubs.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\"><span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" title=\"ghostly yoshifanatic\" class=\"un\">yoshifanatic</a></span>'s update:<br>\r\n- Made this asar 2.0 compatible.<br>\r\n- Made this compatible with vertical levels and Lunar Magic 3.00's horizontal level modes.<br>\r\n- Fixed an oversight where this will run during No-Yoshi intros.<br>\r\n- Made it so the code doesn't run when the game is paused.<br>\r\n- Made it so layer 3 is given priority so the text is always visible.<br>\r\n- Fixed an oversight where the secondary entrance macro didn't calculate the format for $19D8 correctly for secondary entrances greater than FF.</div></div>",
-    "latest_version": "smwc-40975-1763928647",
+    "description": "An easy to configure level code for creating warp hubs.<br>\r\nIt displays a custom text in the top left corner, switching between values when pressing left or right. Pushing A or B sends you to the designated level.<br>\r\nThe text displayed, destination level and amount of levels can be easily changed, just add or remove values from the tables.<br>\r\n<br>\r\nUseful for debugging or actual in game hubs.",
+    "latest_version": "1.1.1",
     "install_kind": "uber_asm",
     "versions": [
       {
         "upstream_id": 40975,
-        "title": "Level Warp Display v1.1.1",
-        "version": "smwc-40975-1763928647",
+        "title": "Level Warp Display",
+        "version": "1.1.1",
         "upstream_time": 1763928647,
         "download_url": "https://dl.smwcentral.net/40975/levelwarpV1.1.1.zip",
         "filename": "levelwarpV1.1.1.zip",
@@ -845,11 +845,11 @@
     ]
   },
   {
-    "name": "uberasm-lightning-generator-v1-0",
+    "name": "uberasm-lightning-generator",
     "aliases": [],
     "section": "uberasm",
     "upstream_id": 41464,
-    "title": "Lightning Generator v1.0.1",
+    "title": "Lightning Generator",
     "authors": [
       "MarioFanGamer"
     ],
@@ -861,13 +861,13 @@
       "thunder"
     ],
     "description": "A visual generator which displays a lightning effect. It can be customised to write to any colour on the palette (it's 0 by default which affects the background) as well as customised in what colours the lightning will generate, how long it waits between each strike, etc.<br>\r\n<br>\r\nAlso included is a generator which can be inserted with <a href=\"https://www.smwcentral.net/?p=section&a=details&id=32277\">PIXI</a> if you prefer the old-school way.",
-    "latest_version": "smwc-41464-1769128280",
+    "latest_version": "v1.0.1",
     "install_kind": "uber_asm",
     "versions": [
       {
         "upstream_id": 41464,
-        "title": "Lightning Generator v1.0.1",
-        "version": "smwc-41464-1769128280",
+        "title": "Lightning Generator",
+        "version": "v1.0.1",
         "upstream_time": 1769128280,
         "download_url": "https://dl.smwcentral.net/41464/Lightning%20Generator.zip",
         "filename": "Lightning Generator.zip",
@@ -881,50 +881,11 @@
     ]
   },
   {
-    "name": "uberasm-modern-starman-v1",
-    "aliases": [],
-    "section": "uberasm",
-    "upstream_id": 40902,
-    "title": "Modern Starman V1.1",
-    "authors": [
-      "Darolac",
-      "yoshifanatic"
-    ],
-    "tags": [
-      "lorom",
-      "modern",
-      "p-meter",
-      "sa-1",
-      "speed",
-      "star",
-      "starman"
-    ],
-    "description": "This UberASM increases Mario's P-speed and reduces the amount of time required for P-speed while he has a Starman active. Check the asm file for customization options.<br>\r\n<br>\r\nNote: Use this <a href=\"https://www.smwcentral.net/?p=tweaks&a=details&id=278\">tweak</a> to prevent a bug where Mario can rapidly turn while in an icy level.<br>\r\n<br>\r\n<span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" title=\"ghostly yoshifanatic\" class=\"un\">yoshifanatic</a></span>'s update:<br>\r\n- Fixed an oversight where spin jumping/cape spinning causes Mario to rapidly alternate between moving left/right when he has P-speed.<br>\r\n- Fixed a bug where you could clip into walls while running with P-speed.<br>\r\n- Fixed a bug where you'd gain P-speed just by holding down X/Y without moving.<br>\r\n- Fixed a bug where you could fill your P-meter by running into a wall.<br>\r\n- Added checks to stop Mario from keeping his P-speed when climbing, ducking, swimming, stunned, sliding, and while using a P-balloon and lakitu cloud.<br>\r\n- Made it so the turning is not instant.<br>\r\n- Optimized the code a little.<br>\r\n",
-    "latest_version": "smwc-40902-1763926611",
-    "install_kind": "uber_asm",
-    "versions": [
-      {
-        "upstream_id": 40902,
-        "title": "Modern Starman V1.1",
-        "version": "smwc-40902-1763926611",
-        "upstream_time": 1763926611,
-        "download_url": "https://dl.smwcentral.net/40902/modernstarman_v1_1.zip",
-        "filename": "modernstarman_v1_1.zip",
-        "size": 734,
-        "sha256": null,
-        "dependencies": [
-          "uberasm-tool"
-        ],
-        "install_kind": "uber_asm"
-      }
-    ]
-  },
-  {
-    "name": "uberasm-multi-step-autoscroll-v1",
+    "name": "uberasm-multi-step-autoscroll",
     "aliases": [],
     "section": "uberasm",
     "upstream_id": 41204,
-    "title": "Multi-step Autoscroll V1.1",
+    "title": "Multi-step Autoscroll",
     "authors": [
       "mathie",
       "yoshifanatic"
@@ -934,14 +895,14 @@
       "lorom",
       "sa-1"
     ],
-    "description": "This code allows you to create your own special autoscroll that goes where you want at the speed you want, much like the generator used in Butter Bridge 1 (level 00C) in the original game.<br>\r\n<br>\r\nIt works by using tables where you store X/Y speeds for each step of the autoscroll. It allows the use of fractional speeds and can be paused/resumed anytime you want using a flag. Plus, all the free RAM used can be easily changed to avoid conflicts, and the whole scrolling code can either stop or loop when it reaches the end of the tables.<br>\r\n<br>\r\nUPDATE: You can now setup a custom code that will interrupt the autoscroll and be executed at certain points in time. This way, you force the player to progress only if a certain thing has been done.<br>\r\nDefault code is the classic \"advance if all sprites have been killed\".<br>\r\n<br>\r\nDetails in .asm file.<br>\r\n<br>\r\n<span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" title=\"ghostly yoshifanatic\" class=\"un\">yoshifanatic</a></span>'s update:<br>\r\n- Fixed a warning about LDA $XX,y not being a valid opcode when inserting this to non-SA-1 ROMs.<br>\r\n- Added mention of <a href=\"https://www.smwcentral.net/?p=section&a=details&id=40600\">this patch</a> in case users run into issues with sprites spawning.<br>\r\n- Made !ListLength automatic, so the user doesn't need to keep track of the size of the ignored sprite list.<br>\r\n- Fixed a bug where this runs during no Yoshi intros.<br>\r\n- Added throw blocks, Peach, the bonus game, winged cage, layer 3 smasher, side exit, ball n' chain, Bowser, wooden spikes, and Bowser statue to the list of ignored sprites.<br>\r\n- Fixed an oversight where the sprite check breaks when not using PIXI.<br>\r\n- Made various minor code optimizations.",
-    "latest_version": "smwc-41204-1772912351",
+    "description": "This code allows you to create your own special autoscroll that goes where you want at the speed you want, much like the generator used in Butter Bridge 1 (level 00C) in the original game.<br>\r\n<br>\r\nIt works by using tables where you store X/Y speeds for each step of the autoscroll. It allows the use of fractional speeds and can be paused/resumed anytime you want using a flag. Plus, all the free RAM used can be easily changed to avoid conflicts, and the whole scrolling code can either stop or loop when it reaches the end of the tables.<br>\r\n<br>\r\nDetails in .asm file.",
+    "latest_version": "V1.1",
     "install_kind": "uber_asm",
     "versions": [
       {
         "upstream_id": 41204,
-        "title": "Multi-step Autoscroll V1.1",
-        "version": "smwc-41204-1772912351",
+        "title": "Multi-step Autoscroll",
+        "version": "V1.1",
         "upstream_time": 1772912351,
         "download_url": "https://dl.smwcentral.net/41204/MultiStepAutoscrollV1.1.zip",
         "filename": "MultiStepAutoscrollV1.1.zip",
@@ -991,11 +952,11 @@
     ]
   },
   {
-    "name": "uberasm-no-overworld-v1",
+    "name": "uberasm-no-overworld",
     "aliases": [],
     "section": "uberasm",
     "upstream_id": 39756,
-    "title": "No Overworld v1.3",
+    "title": "No Overworld",
     "authors": [
       "Brolencho"
     ],
@@ -1004,14 +965,14 @@
       "overworld",
       "sa-1"
     ],
-    "description": "Originally inspired by a resource from <span class=\"un-outer\" title=\"Alcaro\"><a href=\"/?p=profile&amp;id=1686\" style=\"color: #68782c;\" class=\"un unavailable inactive\">Alcaro</a></span>, and does pretty much the same thing: disables returning to overworld after beating levels and instead has the player go through levels in a sequence, either in numerical order or in an order defined by you.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\">v1.3 (by AmperSam)<br>\r\n- made compatible with UberASM Tool 2.0<br>\r\n- dropped the 'global_code' instructions in favour of gamemode<br>\r\n- generally made the options and instructions more understandable and readable<br>\r\n<br>\r\nv1.2<br>\r\n- Fixed crash with retry patch<br>\r\n- Fixed graphic issue when using \"VWF intro 1.22\"<br>\r\n- Fixed Player 2 compatiblity with \"Exit Block (no OW events)\" and \"Door exit\"<br>\r\n- More info for coders.txt<br>\r\n<br>\r\nThanks to Darolac for pointing some of these issues and testing.<br>\r\n<br>\r\nv1.1<br>\r\n- Supports two players<br>\r\n- Secret exits(advanced mode)<br>\r\n- various fixes<br>\r\n- clean.asm is now integrated in NoOverworld.asm</div></div>",
-    "latest_version": "smwc-39756-1772229699",
+    "description": "Originally inspired by a resource from <span class=\"un-outer\" title=\"Alcaro\"><a href=\"/?p=profile&amp;id=1686\" style=\"color: #68782c;\" class=\"un unavailable inactive\">Alcaro</a></span>, and does pretty much the same thing: disables returning to overworld after beating levels and instead has the player go through levels in a sequence, either in numerical order or in an order defined by you.",
+    "latest_version": "1.3",
     "install_kind": "uber_asm",
     "versions": [
       {
         "upstream_id": 39756,
-        "title": "No Overworld v1.3",
-        "version": "smwc-39756-1772229699",
+        "title": "No Overworld",
+        "version": "1.3",
         "upstream_time": 1772229699,
         "download_url": "https://dl.smwcentral.net/39756/No%20Overworld%20v1.3.zip",
         "filename": "No Overworld v1.3.zip",
@@ -1128,11 +1089,11 @@
     ]
   },
   {
-    "name": "uberasm-player-animated-tiles-exgfx-v1",
+    "name": "uberasm-player-animated-tiles-exgfx",
     "aliases": [],
     "section": "uberasm",
     "upstream_id": 41924,
-    "title": "Player + Animated Tiles ExGFX v1.2",
+    "title": "Player + Animated Tiles ExGFX",
     "authors": [
       "Kevin"
     ],
@@ -1142,14 +1103,14 @@
       "player",
       "sa-1"
     ],
-    "description": "This UberASM allows you to insert different ExGFX files for GFX32 and 33 (player and animations GFX) on a sublevel, submap and cutscene basis. It's similar to the patch by Roy, but with a few key differences explained in the README. Mainly, it doesn't have issues on SA-1 (that I know of), and it should have faster loading times in some cases. Additionally you can also change GFX manually with code, if you want to go more advanced. Anyway, make sure to check the README for insertion instructions and whatnot.<br>\r\n<br>\r\nv1.1:<br>\r\n- fixed GFX not changing when using a pipe/star warp on the Overworld<br>\r\n- now you can change the GFX on the title screen (using levels C7/1C7)<br>\r\n<br>\r\nv1.2:<br>\r\n- made compatible with UberASM Tool 2.0+",
-    "latest_version": "smwc-41924-1773698516",
+    "description": "This UberASM allows you to insert different ExGFX files for GFX32 and 33 (player and animations GFX) on a sublevel, submap and cutscene basis. It's similar to the patch by Roy, but with a few key differences explained in the README. Mainly, it doesn't have issues on SA-1 (that I know of), and it should have faster loading times in some cases. Additionally you can also change GFX manually with code, if you want to go more advanced. Anyway, make sure to check the README for insertion instructions and whatnot.",
+    "latest_version": "v1.2",
     "install_kind": "uber_asm",
     "versions": [
       {
         "upstream_id": 41924,
-        "title": "Player + Animated Tiles ExGFX v1.2",
-        "version": "smwc-41924-1773698516",
+        "title": "Player + Animated Tiles ExGFX",
+        "version": "v1.2",
         "upstream_time": 1773698516,
         "download_url": "https://dl.smwcentral.net/41924/mario_exgfx_uberasm.zip",
         "filename": "mario_exgfx_uberasm.zip",
@@ -1163,11 +1124,11 @@
     ]
   },
   {
-    "name": "uberasm-press-r-to-switch-characters-v1-1",
+    "name": "uberasm-press-r-to-switch-characters",
     "aliases": [],
     "section": "uberasm",
     "upstream_id": 41819,
-    "title": "Press R to Switch Characters V1.1.1",
+    "title": "Press R to Switch Characters",
     "authors": [
       "AuraDee",
       "Noobish Noobsicle",
@@ -1178,14 +1139,14 @@
       "player",
       "sa-1"
     ],
-    "description": "Whenever you press the R button, you will switch between Mario and Luigi! Keep in mind that whenever you switch characters, you will have to switch controllers, too. Unless you make use of <a href=\"https://smwc.me/w/22\">this tweak</a>.<br>\r\n<br>\r\nIncludes options for allowing Mario and Luigi to have separate coin counts, powerups, and item boxes. Separate lives is possible too, but was not included as setting Luigi's starting lives correctly would require a hijack. Also includes a helper UberASM that prevents problems on the overworld if exiting a level as the other character.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\"><span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" title=\"ghostly yoshifanatic\" class=\"un\">yoshifanatic</a></span>'s update:<br>\r\n- Made this compatible with UberASM Tool 2.0<br>\r\n- Added a check to prevent the R button from switching characters while the game is paused, you're in a No Yoshi intro, a message is displaying, or you're doing the goal walk.<br>\r\n- Added an option to give Mario and Luigi a separate item box.<br>\r\n- Made the button to press for the character switch configurable.<br>\r\n- Made it so L/R scrolling is not disabled.<br>\r\n- Included a helper UberASM that fixes a major problem that occurs on the overworld if you exit the level as a different character than the one you entered with.<br>\r\n- Optimized the code a bit.</div></div>",
-    "latest_version": "smwc-41819-1772931288",
+    "description": "Whenever you press the R button, you will switch between Mario and Luigi! Keep in mind that whenever you switch characters, you will have to switch controllers, too. Unless you make use of <a href=\"https://smwc.me/w/22\">this tweak</a>.<br>\r\n<br>\r\nIncludes options for allowing Mario and Luigi to have separate coin counts, powerups, and item boxes. Separate lives is possible too, but was not included as setting Luigi's starting lives correctly would require a hijack. Also includes a helper UberASM that prevents problems on the overworld if exiting a level as the other character.",
+    "latest_version": "1.1.1",
     "install_kind": "uber_asm",
     "versions": [
       {
         "upstream_id": 41819,
-        "title": "Press R to Switch Characters V1.1.1",
-        "version": "smwc-41819-1772931288",
+        "title": "Press R to Switch Characters",
+        "version": "1.1.1",
         "upstream_time": 1772931288,
         "download_url": "https://dl.smwcentral.net/41819/RChar%20V1.1.1.zip",
         "filename": "RChar V1.1.1.zip",
@@ -1199,11 +1160,11 @@
     ]
   },
   {
-    "name": "uberasm-press-r-to-switch-mario-and-luigi-on-the-overworld-v1",
+    "name": "uberasm-press-r-to-switch-mario-and-luigi-on-the-overworld",
     "aliases": [],
     "section": "uberasm",
     "upstream_id": 41659,
-    "title": "Press R to Switch Mario and Luigi on the Overworld V1.1",
+    "title": "Press R to Switch Mario and Luigi on the Overworld",
     "authors": [
       "Bensalot",
       "yoshifanatic"
@@ -1214,14 +1175,14 @@
       "player",
       "sa-1"
     ],
-    "description": "This will switch the player from Mario to Luigi and back when Pressing the R button on the overworld during a Single Player game while leaving the 2 Player option intact.<br>\r\n<br>\r\nIt will take Mario's Score, Bonus Stars, Powerups, Yoshi's, overworld position and completely allows you to swap players without any odd behaviors like some of the other versions of \"Switch Characters\" blocks or patches.<br>\r\n<br>\r\nThis will work with Smallhacker's Separate Player graphics patch to give Luigi separate graphics from Mario. Instructions in the UberASM.<br>\r\n<br>\r\nNote: Does require a patch for asar that is included. It fixes the lives system so that you won't get weird behaviors when you get a game over as Luigi.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Changelog</span></div><div class=\"collapse-content\"><span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" title=\"ghostly yoshifanatic\" class=\"un\">yoshifanatic</a></span>'s update:<br>\r\n- Merged the lives.asm patch into the main UberASM's file so you don't need to apply the patch separately.<br>\r\n- Removed the 1control.asm file, because there is now a <a href=\"https://smwc.me/w/22\">tweak</a> that does the exact same thing and it's not required for this patch to function. In addition, that tweak is SA-1 compatible while this was not.<br>\r\n- Made the patch code properly remove itself when you unpatch it, instead of running the original code in free space.<br>\r\n- Added FastROM support to the patch.<br>\r\n- Changed the main label to end, which makes it so overworld Mario/Luigi don't visually update during the fade out.<br>\r\n- Fixed a minor visual quirk where Luigi does not lose his halo when selecting continue.<br>\r\n- Various minor optimizations.</div></div>",
-    "latest_version": "smwc-41659-1772933113",
+    "description": "This will switch the player from Mario to Luigi and back when Pressing the R button on the overworld during a Single Player game while leaving the 2 Player option intact.<br>\r\n<br>\r\nIt will take Mario's Score, Bonus Stars, Powerups, Yoshi's, overworld position and completely allows you to swap players without any odd behaviors like some of the other versions of \"Switch Characters\" blocks or patches.<br>\r\n<br>\r\nThis will work with Smallhacker's Separate Player graphics patch to give Luigi separate graphics from Mario. Instructions in the UberASM.<br>\r\n<br>\r\nNote: Does require a patch for asar that is included. It fixes the lives system so that you won't get weird behaviors when you get a game over as Luigi.",
+    "latest_version": "1.1",
     "install_kind": "uber_asm",
     "versions": [
       {
         "upstream_id": 41659,
-        "title": "Press R to Switch Mario and Luigi on the Overworld V1.1",
-        "version": "smwc-41659-1772933113",
+        "title": "Press R to Switch Mario and Luigi on the Overworld",
+        "version": "1.1",
         "upstream_time": 1772933113,
         "download_url": "https://dl.smwcentral.net/41659/RtoSwitchOW%20V1.1.zip",
         "filename": "RtoSwitchOW V1.1.zip",
@@ -1276,11 +1237,11 @@
     ]
   },
   {
-    "name": "uberasm-relative-layer-2-vertical-rise-fall-v1",
+    "name": "uberasm-relative-layer",
     "aliases": [],
     "section": "uberasm",
     "upstream_id": 41102,
-    "title": "Relative Layer 2 Vertical Rise/Fall V1.1",
+    "title": "Relative Layer 2 Vertical Rise/Fall",
     "authors": [
       "Koopster",
       "yoshifanatic"
@@ -1293,14 +1254,14 @@
       "rise",
       "sa-1"
     ],
-    "description": "This code auto-scrolls level (or background) layer 2 up or down relative to layer 1, which makes rising and falling layer 2 sections possible without taking away vertical camera freedom.<br>\r\n<br>\r\nA couple notes:<br>\r\n-Lunar Magic 3.40+ can already autoscroll layer 2. However, you only get 12 options, while this gives you far more customization for how fast layer 2 moves.<br>\r\n-It must be assured that the player can never reach layer 2 scrolled past the area that has been placed in Lunar Magic, or glitchy tiles will appear. This works for the applications shown in the screenshots, as the layer 2 itself impedes the player from going further down (for the lava) or up (for the blocks). For rising layer 2, it is of interest to also account for Mario's death animation, as he falls down a fair amount when dying (the .asm file talks about this in more detail).<br>\r\n<br>\r\n<span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" title=\"ghostly yoshifanatic\" class=\"un\">yoshifanatic</a></span>'s Update:<br>\r\n- Fixed the faulty no Yoshi intro check so pipe entrances don't break this UberASM.<br>\r\n- Made some minor optimizations.<br>\r\n- Made this disable vertical layer 2 scroll during level init as a convenience.<br>\r\n- Added functionality to customize how many subpixels layer 2 moves to allow for more precision.",
-    "latest_version": "smwc-41102-1769856084",
+    "description": "This code auto-scrolls level (or background) layer 2 up or down relative to layer 1, which makes rising and falling layer 2 sections possible without taking away vertical camera freedom.<br>\r\n<br>\r\nA couple notes:<br>\r\n-Lunar Magic 3.40+ can already autoscroll layer 2. However, you only get 12 options, while this gives you far more customization for how fast layer 2 moves.<br>\r\n-It must be assured that the player can never reach layer 2 scrolled past the area that has been placed in Lunar Magic, or glitchy tiles will appear. This works for the applications shown in the screenshots, as the layer 2 itself impedes the player from going further down (for the lava) or up (for the blocks). For rising layer 2, it is of interest to also account for Mario's death animation, as he falls down a fair amount when dying (the .asm file talks about this in more detail).",
+    "latest_version": "V1.1",
     "install_kind": "uber_asm",
     "versions": [
       {
         "upstream_id": 41102,
-        "title": "Relative Layer 2 Vertical Rise/Fall V1.1",
-        "version": "smwc-41102-1769856084",
+        "title": "Relative Layer 2 Vertical Rise/Fall",
+        "version": "V1.1",
         "upstream_time": 1769856084,
         "download_url": "https://dl.smwcentral.net/41102/L2RelVScrollV1_1.zip",
         "filename": "L2RelVScrollV1_1.zip",
@@ -1314,11 +1275,11 @@
     ]
   },
   {
-    "name": "uberasm-reset-level-on-falling-down-offscreen-v1",
+    "name": "uberasm-reset-level-on-falling-down-offscreen",
     "aliases": [],
     "section": "uberasm",
     "upstream_id": 41052,
-    "title": "Reset Level on Falling Down Offscreen V1.1",
+    "title": "Reset Level on Falling Down Offscreen",
     "authors": [
       "Nitrocell Inc.",
       "yoshifanatic"
@@ -1329,14 +1290,14 @@
       "sa-1",
       "teleport"
     ],
-    "description": "This UberASM works as Level and Game Mode 14 ASM. Instead of dying when falling offscreen, the level will restart as if you reentered it from the overworld.<br>\r\n<br>\r\nNote: This doesn't work on level 24 unless you disable it's gimmick in Lunar Magic!<br>\r\n<br>\r\n<span class=\"un-outer\" title=\"yoshifanatic\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=13743\" style=\"color: #4fff00;\" title=\"ghostly yoshifanatic\" class=\"un\">yoshifanatic</a></span>'s Update:<br>\r\n- Removed the SA-1 check because it's redundant as UberASM already does this.<br>\r\n- Added support for Lunar Magic 3.00's horizontal level modes.<br>\r\n- Added midpoint support, so this code can teleport you to the midpoint of a level if you have it.<br>\r\n- Significantly optimized the code for getting a teleport destination.",
-    "latest_version": "smwc-41052-1763937958",
+    "description": "This UberASM works as Level and Game Mode 14 ASM. Instead of dying when falling offscreen, the level will restart as if you reentered it from the overworld.<br>\r\n<br>\r\nNote: This doesn't work on level 24 unless you disable it's gimmick in Lunar Magic!",
+    "latest_version": "V1.1",
     "install_kind": "uber_asm",
     "versions": [
       {
         "upstream_id": 41052,
-        "title": "Reset Level on Falling Down Offscreen V1.1",
-        "version": "smwc-41052-1763937958",
+        "title": "Reset Level on Falling Down Offscreen",
+        "version": "V1.1",
         "upstream_time": 1763937958,
         "download_url": "https://dl.smwcentral.net/41052/Reset%20If%20Falling%20Offscreen%20v1.1.zip",
         "filename": "Reset If Falling Offscreen v1.1.zip",
@@ -1354,7 +1315,7 @@
     "aliases": [],
     "section": "uberasm",
     "upstream_id": 42938,
-    "title": "Retry System v2.2.0",
+    "title": "Retry System",
     "authors": [
       "Kevin"
     ],
@@ -1373,7 +1334,7 @@
     "versions": [
       {
         "upstream_id": 42938,
-        "title": "Retry System v2.2.0",
+        "title": "Retry System",
         "version": "2.2.0",
         "upstream_time": 1787414609,
         "download_url": "https://dl.smwcentral.net/42938/retry-system_v2.2.0.zip",
@@ -1539,11 +1500,11 @@
     ]
   },
   {
-    "name": "uberasm-teleport-when-dying-v1",
+    "name": "uberasm-teleport-when-dying",
     "aliases": [],
     "section": "uberasm",
     "upstream_id": 41419,
-    "title": "Teleport When Dying V1.1",
+    "title": "Teleport When Dying",
     "authors": [
       "TheXander"
     ],
@@ -1553,14 +1514,14 @@
       "sa-1",
       "teleport"
     ],
-    "description": "<b>Teleport When Dying V1.1</b><br>\r\n<br>\r\n<b>Description:</b> It's a simple UberASM that does what the title says: you'll get teleported to another level or sub-level if the player dies.<br>\r\nComes with a few options and defines for some customization.<br>\r\n<br>\r\n<a href=\"https://www.smwcentral.net/?p=viewthread&t=131500\">Requested</a> by <span class=\"un-outer\" title=\"isaix\"><a href=\"/?p=profile&amp;id=14960\" style=\"color: #eb6123;\" class=\"un\">isaix</a></span>",
-    "latest_version": "smwc-41419-1768504655",
+    "description": "It's a simple UberASM that does what the title says: you'll get teleported to another level or sub-level if the player dies. Comes with a few options and defines for some customization.<br>\r\n<br>\r\n<a href=\"https://www.smwcentral.net/?p=viewthread&t=131500\">Requested</a> by <span class=\"un-outer\" title=\"isaix\"><a href=\"/?p=profile&amp;id=14960\" style=\"color: #eb6123;\" class=\"un\">isaix</a></span>",
+    "latest_version": "V1.1",
     "install_kind": "uber_asm",
     "versions": [
       {
         "upstream_id": 41419,
-        "title": "Teleport When Dying V1.1",
-        "version": "smwc-41419-1768504655",
+        "title": "Teleport When Dying",
+        "version": "V1.1",
         "upstream_time": 1768504655,
         "download_url": "https://dl.smwcentral.net/41419/Teleport%20When%20Dying%20V1.1.zip",
         "filename": "Teleport When Dying V1.1.zip",
@@ -1700,7 +1661,7 @@
       "sa-1",
       "tile"
     ],
-    "description": "<span class=\"un-outer\" title=\"MellyMellouange\"><a href=\"/?p=profile&amp;id=565\" style=\"color: #eb6123;\" class=\"un unavailable inactive\">MellyMellouange</a></span>'s old Wing Cap sprite, cleaned up, optimized, made LM3 compatible, bugfixed and converted to UberASM by <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #fdadf4;\" title=\"Tewi\" class=\"un\">Arinsu</a></span>. <br>\r\n<br>\r\nGives the player the ability to fly: also includes an optional spinjump drill down and glide ability.",
+    "description": "<span class=\"un-outer\" title=\"MellyMellouange\"><a href=\"/?p=profile&amp;id=565\" style=\"color: #eb6123;\" class=\"un\">MellyMellouange</a></span>'s old Wing Cap sprite, cleaned up, optimized, made LM3 compatible, bugfixed and converted to UberASM by <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #fdadf4;\" title=\"Tewi\" class=\"un\">Arinsu</a></span>. <br>\r\n<br>\r\nGives the player the ability to fly: also includes an optional spinjump drill down and glide ability.",
     "latest_version": "1.1.1",
     "install_kind": "uber_asm",
     "versions": [
@@ -1746,6 +1707,41 @@
         "download_url": "https://dl.smwcentral.net/41600/XRaySpotlight.zip",
         "filename": "XRaySpotlight.zip",
         "size": 844,
+        "sha256": null,
+        "dependencies": [
+          "uberasm-tool"
+        ],
+        "install_kind": "uber_asm"
+      }
+    ]
+  },
+  {
+    "name": "uberasm-yoshi-disappears-after-eating-too-much",
+    "aliases": [],
+    "section": "uberasm",
+    "upstream_id": 42642,
+    "title": "Yoshi Disappears After Eating Too Much",
+    "authors": [
+      "Kevin"
+    ],
+    "tags": [
+      "counter",
+      "lorom",
+      "sa-1",
+      "yoshi"
+    ],
+    "description": "This UberASM will make so that Yoshi disappears in a puff of smoke after he eats (and swallows) a certain amount of sprites. Check out the readme for more details.",
+    "latest_version": "V1.1",
+    "install_kind": "uber_asm",
+    "versions": [
+      {
+        "upstream_id": 42642,
+        "title": "Yoshi Disappears After Eating Too Much",
+        "version": "V1.1",
+        "upstream_time": 1793384265,
+        "download_url": "https://dl.smwcentral.net/42642/MaxYoshiEatsV1.1.zip",
+        "filename": "MaxYoshiEatsV1.1.zip",
+        "size": 1765,
         "sha256": null,
         "dependencies": [
           "uberasm-tool"

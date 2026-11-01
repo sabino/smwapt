@@ -1,0 +1,31 @@
+{
+  "name": "smwgraphics-jurassic-park-brachiosaurus-exhibit",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 43389,
+  "title": "Jurassic Park - Brachiosaurus Exhibit",
+  "authors": [
+    "Brutapode89"
+  ],
+  "tags": [
+    "jungle",
+    "lake"
+  ],
+  "description": "Ripped from the Brachiosaurus Exhibit level in Jurassic Park on Arcade.",
+  "latest_version": "smwc-43389-1792949372",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 43389,
+      "title": "Jurassic Park - Brachiosaurus Exhibit",
+      "version": "smwc-43389-1792949372",
+      "upstream_time": 1792949372,
+      "download_url": "https://dl.smwcentral.net/43389/Jurassic%20Park%20-%20Brachiosaurus%20Exhibit.zip",
+      "filename": "Jurassic Park - Brachiosaurus Exhibit.zip",
+      "size": 4109,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-umamusume-pretty-derby-girls-legend-u-star-mix",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42778,
+  "title": "Umamusume: Pretty Derby - Girls' Legend U (Star-mix)",
+  "authors": [
+    "Hooded Edge"
+  ],
+  "tags": [
+    "p-switch",
+    "star"
+  ],
+  "description": "Did a short arrangement of <b><a href=\"https://youtu.be/xekWhWOjQDU?t=4\" rel=\"nofollow\">Girls' Legend U</a></b> from <i>Umamusume: Pretty Derby</i>. Found out this song could be shortened to be used PERFECTLY with SMW's global music. Also, this makes 3 Umamusume-related submissions on here (y'all should do more with me).<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. Bass is @14 (Slap Bass)<br>\r\nㅤㅤ ♠  Will not work w/ global tracks unless you go into \"Addmusic_sample groups.txt\" and add a \"!\" in front of \"DEFAULT/0D SMW @14.brr\"<br>\r\nㅤ2. Bass is @8 (Fingered Bass)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span> <br>\r\nㅤㅤ ♠  Will work w/ global tracks<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. Enables the Intro (INTRO Enabled)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤ2. Cuts the Intro (INTRO Cut)<br>\r\n<br>\r\n<center><a href=\"https://youtu.be/gTyMgta0HE4\" rel=\"nofollow\"><img src=\"https://media1.tenor.com/m/ciEOibLbF4cAAAAd/gold-ship-gold.gif\" alt=\"\"></a></center>",
+  "latest_version": "smwc-42778-1793114557",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42778,
+      "title": "Umamusume: Pretty Derby - Girls' Legend U (Star-mix)",
+      "version": "smwc-42778-1793114557",
+      "upstream_time": 1793114557,
+      "download_url": "https://dl.smwcentral.net/42778/Girls%27%20Legend%20U%20%28Star-mix%29.zip",
+      "filename": "Girls%27 Legend U (Star-mix).zip",
+      "size": 127569,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

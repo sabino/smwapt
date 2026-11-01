@@ -1,0 +1,35 @@
+{
+  "name": "uberasm-multi-step-autoscroll",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 41204,
+  "title": "Multi-step Autoscroll",
+  "authors": [
+    "mathie",
+    "yoshifanatic"
+  ],
+  "tags": [
+    "autoscroll",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This code allows you to create your own special autoscroll that goes where you want at the speed you want, much like the generator used in Butter Bridge 1 (level 00C) in the original game.<br>\r\n<br>\r\nIt works by using tables where you store X/Y speeds for each step of the autoscroll. It allows the use of fractional speeds and can be paused/resumed anytime you want using a flag. Plus, all the free RAM used can be easily changed to avoid conflicts, and the whole scrolling code can either stop or loop when it reaches the end of the tables.<br>\r\n<br>\r\nDetails in .asm file.",
+  "latest_version": "V1.1",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 41204,
+      "title": "Multi-step Autoscroll",
+      "version": "V1.1",
+      "upstream_time": 1772912351,
+      "download_url": "https://dl.smwcentral.net/41204/MultiStepAutoscrollV1.1.zip",
+      "filename": "MultiStepAutoscrollV1.1.zip",
+      "size": 3401,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

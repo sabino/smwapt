@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-harukanaru-augusta-for-windows-course-bgm",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42912,
+  "title": "Harukanaru Augusta for Windows - Course BGM 1",
+  "authors": [
+    "Fullcannon"
+  ],
+  "tags": [
+    "forest",
+    "grassland",
+    "sea",
+    "sky",
+    "upbeat"
+  ],
+  "description": "First of the three chronological in-game themes heard during the Augusta golf course of Harukanaru Augusta for Windows (PC).",
+  "latest_version": "smwc-42912-1793208652",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42912,
+      "title": "Harukanaru Augusta for Windows - Course BGM 1",
+      "version": "smwc-42912-1793208652",
+      "upstream_time": 1793208652,
+      "download_url": "https://dl.smwcentral.net/42912/Harukanaru%20Augusta%20for%20Windows%20-%20Course%20BGM%201.zip",
+      "filename": "Harukanaru Augusta for Windows - Course BGM 1.zip",
+      "size": 84209,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-steel-ball-run-jojo-s-bizarre-adventure-dance-with-steel-ball-run-star-mix",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42297,
+  "title": "Steel Ball Run: JoJo's Bizarre Adventure - Dance with STEEL BALL RUN (Star-mix)",
+  "authors": [
+    "Hooded Edge"
+  ],
+  "tags": [
+    "cutscene",
+    "p-switch",
+    "star",
+    "tense",
+    "upbeat"
+  ],
+  "description": "<center><img src=\"https://media1.tenor.com/m/fbBOQI9UqgoAAAAd/gyro-zeppeli-jojo%27s-bizarre-adventure.gif\" alt=\"\"></center><br>\r\n<br>\r\nDid a short star-mix of <b><a href=\"https://youtu.be/AFZFhMyiSZ8\" rel=\"nofollow\">Dance with STEEL BALL RUN</a></b> from <i>Steel Ball Run: JoJo's Bizarre Adventure</i> because I haven't done anything Jojo related in a while, and I thought I'd shit this one out before I get to doing real stuff with the series again.<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. C (Original Pitch)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤ2. B Minor (Custom Pitch 1)<br>\r\nㅤ3. C# Minor (Custom Pitch 2)<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. Skips the Intro (INTRO Skipped)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span> <br>\r\nㅤ2. Enables the Intro (INTRO Enabled)",
+  "latest_version": "smwc-42297-1793041049",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42297,
+      "title": "Steel Ball Run: JoJo's Bizarre Adventure - Dance with STEEL BALL RUN (Star-mix)",
+      "version": "smwc-42297-1793041049",
+      "upstream_time": 1793041049,
+      "download_url": "https://dl.smwcentral.net/42297/Dance%20with%20STEEL%20BALL%20RUN%20%28Star-mix%29.zip",
+      "filename": "Dance with STEEL BALL RUN (Star-mix).zip",
+      "size": 186863,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

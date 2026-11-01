@@ -128,7 +128,7 @@
     "name": "smwgraphics-burnt-rex",
     "aliases": [],
     "section": "smwgraphics",
-    "upstream_id": 43369,
+    "upstream_id": 43403,
     "title": "Burnt Rex",
     "authors": [
       "pepperannfanatic"
@@ -136,18 +136,18 @@
     "tags": [
       "rex"
     ],
-    "description": "Here are the Burnt Rex graphics I just made in minutes.<br>\r\n<br>\r\nDon't forget to give credit",
-    "latest_version": "smwc-43369-1792880618",
+    "description": "Here are the Burnt Rex graphics I just made in minutes. Now includes optional GFX for <span class=\"un-outer\" title=\"RussianMan\"><a href=\"/?p=profile&amp;id=28983\" style=\"color: #2e9ca5;\" class=\"un\">RussianMan</a></span>'s <a href=\"https://smwc.me/s/39736\">Spittin' Rex</a> custom sprite.<br>\r\n<br>\r\nDon't forget to give credit",
+    "latest_version": "1.1",
     "install_kind": "asset_only",
     "versions": [
       {
-        "upstream_id": 43369,
+        "upstream_id": 43403,
         "title": "Burnt Rex",
-        "version": "smwc-43369-1792880618",
-        "upstream_time": 1792880618,
-        "download_url": "https://dl.smwcentral.net/43369/Burnt_Rex.zip",
+        "version": "1.1",
+        "upstream_time": 1792950610,
+        "download_url": "https://dl.smwcentral.net/43403/Burnt_Rex.zip",
         "filename": "Burnt_Rex.zip",
-        "size": 2056,
+        "size": 3898,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -489,38 +489,6 @@
         "download_url": "https://dl.smwcentral.net/42771/Doraemon%203%20%28SFC%29%20-%20Sky.zip",
         "filename": "Doraemon 3 (SFC) - Sky.zip",
         "size": 7589,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
-    "name": "smwgraphics-doremi-fantasy-milon-no-dokidoki-daibouken-guardian-s-lair-world",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 42799,
-    "title": "DoReMi Fantasy: Milon no DokiDoki Daibouken - Guardian's Lair (World 2)",
-    "authors": [
-      "playagmes169"
-    ],
-    "tags": [
-      "food",
-      "house",
-      "interior"
-    ],
-    "description": "The 2nd dungeon's tasty BG and FG from DoReMi Fantasy, you can use this for a sweets-themed stage (obviously), or you could just use the starry night sky BG for something else (even if I don't know how to animate palettes yet, since in the original game the BG palette was animated). I had to compress 4 of the original game's palettes used for this FG tileset into 1, including the fact that I had to paint the moving ledge platform red.<br>\r\nFor better performance with the ledge hole sprite, use <a href=\"https://www.smwcentral.net/?p=section&a=details&id=19572\"> this patch</a>.",
-    "latest_version": "smwc-42799-1786303567",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 42799,
-        "title": "DoReMi Fantasy: Milon no DokiDoki Daibouken - Guardian's Lair (World 2)",
-        "version": "smwc-42799-1786303567",
-        "upstream_time": 1786303567,
-        "download_url": "https://dl.smwcentral.net/42799/doremifantasyguardian2.zip",
-        "filename": "doremifantasyguardian2.zip",
-        "size": 11769,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -912,6 +880,37 @@
         "download_url": "https://dl.smwcentral.net/43076/jumpervt369grassland.zip",
         "filename": "jumpervt369grassland.zip",
         "size": 5073,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
+    "name": "smwgraphics-jurassic-park-brachiosaurus-exhibit",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 43389,
+    "title": "Jurassic Park - Brachiosaurus Exhibit",
+    "authors": [
+      "Brutapode89"
+    ],
+    "tags": [
+      "jungle",
+      "lake"
+    ],
+    "description": "Ripped from the Brachiosaurus Exhibit level in Jurassic Park on Arcade.",
+    "latest_version": "smwc-43389-1792949372",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 43389,
+        "title": "Jurassic Park - Brachiosaurus Exhibit",
+        "version": "smwc-43389-1792949372",
+        "upstream_time": 1792949372,
+        "download_url": "https://dl.smwcentral.net/43389/Jurassic%20Park%20-%20Brachiosaurus%20Exhibit.zip",
+        "filename": "Jurassic Park - Brachiosaurus Exhibit.zip",
+        "size": 4109,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"

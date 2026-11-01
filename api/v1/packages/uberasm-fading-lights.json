@@ -1,0 +1,35 @@
+{
+  "name": "uberasm-fading-lights",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 41443,
+  "title": "Fading Lights",
+  "authors": [
+    "Kevin"
+  ],
+  "tags": [
+    "dark",
+    "light",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This UberASM will fade the brightness in the level in and out. There's two different modes available:<br>\r\n- Constant fading in/out based on a timer.<br>\r\n- Fade based on a certain switch. This can also be of two types: lights go back to bright when hitting a switch, but fade immediately to dark; or they only fade to dark when the switch goes off. Possible switches are: ON/OFF, blue POW, silver POW, red ? block.<br>\r\nIn the file you can customize some parameters: how bright/dark the lights go and how long the fade will take.",
+  "latest_version": "v1.1.2",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 41443,
+      "title": "Fading Lights",
+      "version": "v1.1.2",
+      "upstream_time": 1768763821,
+      "download_url": "https://dl.smwcentral.net/41443/lights_timer%20asar2.zip",
+      "filename": "lights_timer asar2.zip",
+      "size": 1920,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

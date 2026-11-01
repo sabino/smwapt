@@ -1,0 +1,39 @@
+{
+  "name": "smwmusic-the-legend-of-zelda-ocarina-of-time-bring-the-heat-in-gerudo-valley-remix",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42782,
+  "title": "The Legend of Zelda: Ocarina of Time - Bring the Heat in!! 🔥 ~ Gerudo Valley (Remix)",
+  "authors": [
+    "Hooded Edge"
+  ],
+  "tags": [
+    "bonus",
+    "credits",
+    "desert",
+    "mountain",
+    "ruins",
+    "temple",
+    "tense",
+    "upbeat"
+  ],
+  "description": "<center><span style=\"font-size: 18pt;\"><a href=\"https://youtu.be/TqoJAyt4NQ4?t=6\" rel=\"nofollow\">❝ 𝙄 𝘽𝙐𝙏𝙏𝙀𝙍 𝙄𝙏 𝙐𝙋 𝙐𝙋<b><i>!!</i></b> 𝙄 𝘽𝙐𝙏𝙏𝙀𝙍 𝙄𝙏 𝙐𝙋 𝙐𝙋<b><i>!!</i></b> ❞</a></span><br>\r\nㅤ<span style=\"font-size: 8pt;\">- Smooth McGroove (2013)</span><br>\r\n<a href=\"https://cardsagaswars.wordpress.com/\" rel=\"nofollow\"><img src=\"https://bin.smwcentral.net/u/23547/Link%2B%255BCard%2BSaga%2BWars%255D.webp\" alt=\"\"></a></center><br>\r\nDid a special arrangement of <b><a href=\"https://youtu.be/0hEYvdMoF2g\" rel=\"nofollow\">THE WORLD'S</a> <a href=\"https://youtu.be/X0_wnfI5ey4\" rel=\"nofollow\">GREATEST ZELDA</a> <a href=\"https://youtu.be/8cuv2fXQ9_M\" rel=\"nofollow\">/ DESERT</a> <a href=\"https://youtu.be/y1TUzRxSPwg\" rel=\"nofollow\">THEME</a></b> from <i>The Legend of Zelda: Ocarina of Time</i>. This was one of the few songs I've been holding off doing until the moment was right because I really wanted to make this remix something else. Gerudo Valley is one of my favorite songs of all-time, despite mostly hearing it in games outside of its original source material (i.e. Nintendo Land, Smash 4, Cadence of Hyrule, etc.).<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. Original Echo Delay, but sacrifices SMW-Compatibility (OG Echo)ㅤ<span style=\"color: #C291EB;\">[Listening-Only]</span><br>\r\nㅤ2. Decreased Echo Delay (LOWER Echo)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤㅤ ♠  What's disabled:<br>\r\nㅤㅤㅤ  -  \"Bonus End\" (@7)<br>\r\nㅤㅤㅤ  -  \"P-Switch\" (@12) <span style=\"color: #3DDA8D;\">← (\"SBM2 Synth Brass.brr\" is in its place in case you really need it)</span><br>\r\nㅤㅤㅤ  -  Thunder SFX<br>\r\nㅤ3. Decreased Echo Delay & Cut Intro (INTRO Cut)<br>\r\nㅤㅤ ♠  What's disabled:<br>\r\nㅤㅤㅤ  -  \"Bonus End\" (@7)<br>\r\nㅤㅤㅤ  -  \"P-Switch\" (@12) <span style=\"color: #3DDA8D;\">← (\"SBM2 Synth Brass.brr\" is in its place in case you really need it)</span><br>\r\nㅤㅤㅤ  -  Thunder SFX<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable pitches for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. F# Minor w/ Slight Detune (Remix Pitch)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤ2. F# Minor (Original Pitch)<br>\r\nㅤ3. G Minor (Custom Pitch 1)<br>\r\nㅤ4. E Minor (Custom Pitch 2)<br>\r\nㅤ5. F Minor (Custom Pitch 2)",
+  "latest_version": "smwc-42782-1793113618",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42782,
+      "title": "The Legend of Zelda: Ocarina of Time - Bring the Heat in!! 🔥 ~ Gerudo Valley (Remix)",
+      "version": "smwc-42782-1793113618",
+      "upstream_time": 1793113618,
+      "download_url": "https://dl.smwcentral.net/42782/Bring%20the%20Heat%20in%21%21.zip",
+      "filename": "Bring the Heat in%21%21.zip",
+      "size": 753883,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

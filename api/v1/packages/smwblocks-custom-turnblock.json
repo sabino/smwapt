@@ -1,0 +1,35 @@
+{
+  "name": "smwblocks-custom-turnblock",
+  "aliases": [],
+  "section": "smwblocks",
+  "upstream_id": 41237,
+  "title": "Custom Turnblock",
+  "authors": [
+    "spooonsss"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "solid",
+    "sprite needed"
+  ],
+  "description": "A turnblock that behaves mostly like the original. Useful for changing palettes or customizing the asm.<br>\r\n<br>\r\nRequires PIXI 1.40 for the included bounce sprite.<br>\r\n<br>\r\nCheck the readme file for adjustments that may be required to ensure proper functionality.<br>\r\n<br>\r\nNote: hitting more than 4 at a time will not revert to the turnblock, but some blocks will be left spinning forever. <br>\r\n<br>\r\nNote: blocks on layer 2 moving down will crush the player instead of activating the block.",
+  "latest_version": "v1.1",
+  "install_kind": "gps_block",
+  "versions": [
+    {
+      "upstream_id": 41237,
+      "title": "Custom Turnblock",
+      "version": "v1.1",
+      "upstream_time": 1765159682,
+      "download_url": "https://dl.smwcentral.net/41237/Custom%20Turnblock%20v1.1.zip",
+      "filename": "Custom Turnblock v1.1.zip",
+      "size": 3358,
+      "sha256": null,
+      "dependencies": [
+        "gps"
+      ],
+      "install_kind": "gps_block"
+    }
+  ]
+}

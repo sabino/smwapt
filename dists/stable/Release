@@ -6,11 +6,11 @@ Architectures: smw
 Components: main
 Description: SMW package registry
 MD5Sum:
- cf58537aab644fe1570b7bb699fee6f2           122899 main/binary-smw/Packages
- d3d94c26dc5c0a2ee6d1d491115023f4            23245 main/binary-smw/Packages.gz
+ 2c3a7cf6d30a659816aec5dd2e532528           121834 main/binary-smw/Packages
+ 9274098b11410d69b78cf2649e12635f            23519 main/binary-smw/Packages.gz
 SHA1:
- e23943cc7c9e660aced42e52adef6fe7ae6907fc           122899 main/binary-smw/Packages
- 13437de3f342023d80ff1e16efad703d505288e4            23245 main/binary-smw/Packages.gz
+ 929e1861c5c9514982340880d27c6f266db3bd9f           121834 main/binary-smw/Packages
+ eba1c60e7630af5a21d9d137f4ae2c480b838efc            23519 main/binary-smw/Packages.gz
 SHA256:
- a055eb85606f15f00806c69a88ffcdabe12f3bfeb28299fa12bb80174338ac48           122899 main/binary-smw/Packages
- 305d700c8a7f88b49304f801402b553871a262279ef3e7c23a4992d02edb04ef            23245 main/binary-smw/Packages.gz
+ d5dcdd721163afdba89a093433334242b688f90a8e7538fe61872a475feac864           121834 main/binary-smw/Packages
+ a61b53709936f45506032d08b1882994f0fbdba77afc0e71a979f287fb9f7b2c            23519 main/binary-smw/Packages.gz

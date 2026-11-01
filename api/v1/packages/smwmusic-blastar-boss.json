@@ -1,0 +1,39 @@
+{
+  "name": "smwmusic-blastar-boss",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42794,
+  "title": "Blastar - Boss 5",
+  "authors": [
+    "Margulan"
+  ],
+  "tags": [
+    "boss",
+    "cave",
+    "chaotic",
+    "chase",
+    "dark",
+    "industrial",
+    "sewer",
+    "tense"
+  ],
+  "description": "Boss 5 or music 14 from technical hardcore amiga game.<br>\r\nGood for underground and hardcore levels.",
+  "latest_version": "smwc-42794-1793372720",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42794,
+      "title": "Blastar - Boss 5",
+      "version": "smwc-42794-1793372720",
+      "upstream_time": 1793372720,
+      "download_url": "https://dl.smwcentral.net/42794/Blastar_Boss_5.zip",
+      "filename": "Blastar_Boss_5.zip",
+      "size": 61426,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

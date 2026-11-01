@@ -1,0 +1,41 @@
+{
+  "name": "smwmusic-touhou-gouyoku-ibun-sunken-fossil-world-the-great-pillars-of-war-the-venerable-ancient-battlefield-remix",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42485,
+  "title": "Touhou Gouyoku Ibun ~ Sunken Fossil World - The Great Pillars of War 🍁 ~ The Venerable Ancient Battlefield (Remix)",
+  "authors": [
+    "Hooded Edge"
+  ],
+  "tags": [
+    "athletic",
+    "boss",
+    "chaotic",
+    "chase",
+    "dark",
+    "final",
+    "fire",
+    "mountain",
+    "tense",
+    "upbeat"
+  ],
+  "description": "<center><span style=\"font-size: 18pt;\"><span style=\"color: #DF4C4F;\">❝ 𝐀 𝐠𝐨𝐝 𝐦𝐮𝐬𝐭 𝐞𝐥𝐢𝐦𝐢𝐧𝐚𝐭𝐞 𝐚𝐥𝐥 𝐰𝐡𝐨 𝐨𝐩𝐩𝐨𝐬𝐞 𝐭𝐡𝐞𝐢𝐫 𝐬𝐭𝐫𝐮𝐠𝐠𝐥𝐞 𝐟𝐨𝐫 𝐟𝐚𝐢𝐭𝐡, 𝐨𝐧𝐞 𝐛𝐲 𝐨𝐧𝐞. ❞</span></span><br>\r\nㅤ<span style=\"font-size: 8pt;\">- Kanako Yasaka, <i>東方風神録 ~ Mountain of Faith</i> (2007)</span><br>\r\n<br>\r\nㅤㅤ<img src=\"https://bin.smwcentral.net/u/23547/Kanako%2BYasaka.webp\" alt=\"\"></center><br>\r\n<br>\r\nDid an arrangement of Kanako Yasaka's theme, <b><a href=\"https://youtu.be/ssh_Ufp1AKw\" rel=\"nofollow\">The Venerable Ancient Battlefield ~</a> <a href=\"https://youtu.be/uXlqR94K0sM\" rel=\"nofollow\">Suwa Foughten Field</a></b>, from <i>Touhou 17.5 Gouyoku Ibun ~ Sunken Fossil World</i> (originally from <i>Touhou 10 Fuujinroku ~ Mountain of Faith</i>). It's been a hot minute since my last Touhou remix (which is crazy given how addicted I am to Touhou music). I'm in the mood for some intense (and I mean <b><i>INTENSE</i></b>) final boss music, and Kanako Yasaka has me covered in that regard. I did her <a href=\"https://smwc.me/s/27106\">stage theme</a> <a href=\"https://youtu.be/Halo5fZxgd0\" rel=\"nofollow\">five years ago</a>, and now it's time to do her actual theme song.<br>\r\n<br>\r\nI've always been a huge fan of her SFW theme. It's way more sinister and intense than the original and feels more fitting for the ruthless Pillar Woman.<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. Original Echo Delay, but sacrifices SMW-Compatibility (OG Echo)ㅤ<span style=\"color: #C291EB;\">[Listening-Only]</span><br>\r\nㅤ2. Decreased Echo Delay (LOWER Echo)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤㅤ ♠  What's disabled:<br>\r\nㅤㅤㅤ  -  \"Bonus End\" (@7) <span style=\"color: #3DDA8D;\">← (\"JV-1080 Creamy Guitar Lead.brr\" is in its place in case you really need it)</span> <br>\r\nㅤㅤㅤ  -  \"P-Switch\" (@12) <span style=\"color: #3DDA8D;\">← (\"S-550 LA Tom.brr\" is in its place in case you really need it)</span> <br>\r\nㅤㅤㅤ  -  Yoshi SFX (@15)<br>\r\nㅤㅤㅤ  -  Thunder SFX<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable pitches for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. C Minor (<a href=\"https://youtu.be/ssh_Ufp1AKw\" rel=\"nofollow\">Gouyoku Ibun</a> Pitch)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span> <br>\r\nㅤ2. C# Minor (<a href=\"https://youtu.be/uXlqR94K0sM\" rel=\"nofollow\">Mountain of Faith</a> Pitch)<br>\r\nㅤ3. B Minor (Custom Pitch 1)<br>\r\nㅤ4. D Minor (Custom Pitch 2)",
+  "latest_version": "smwc-42485-1793114088",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42485,
+      "title": "Touhou Gouyoku Ibun ~ Sunken Fossil World - The Great Pillars of War 🍁 ~ The Venerable Ancient Battlefield (Remix)",
+      "version": "smwc-42485-1793114088",
+      "upstream_time": 1793114088,
+      "download_url": "https://dl.smwcentral.net/42485/Great%20Pillars%20of%20Wars%2C%20The.zip",
+      "filename": "Great Pillars of Wars%2C The.zip",
+      "size": 370403,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "uberasm-press-r-to-switch-mario-and-luigi-on-the-overworld",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 41659,
+  "title": "Press R to Switch Mario and Luigi on the Overworld",
+  "authors": [
+    "Bensalot",
+    "yoshifanatic"
+  ],
+  "tags": [
+    "lorom",
+    "overworld",
+    "player",
+    "sa-1"
+  ],
+  "description": "This will switch the player from Mario to Luigi and back when Pressing the R button on the overworld during a Single Player game while leaving the 2 Player option intact.<br>\r\n<br>\r\nIt will take Mario's Score, Bonus Stars, Powerups, Yoshi's, overworld position and completely allows you to swap players without any odd behaviors like some of the other versions of \"Switch Characters\" blocks or patches.<br>\r\n<br>\r\nThis will work with Smallhacker's Separate Player graphics patch to give Luigi separate graphics from Mario. Instructions in the UberASM.<br>\r\n<br>\r\nNote: Does require a patch for asar that is included. It fixes the lives system so that you won't get weird behaviors when you get a game over as Luigi.",
+  "latest_version": "1.1",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 41659,
+      "title": "Press R to Switch Mario and Luigi on the Overworld",
+      "version": "1.1",
+      "upstream_time": 1772933113,
+      "download_url": "https://dl.smwcentral.net/41659/RtoSwitchOW%20V1.1.zip",
+      "filename": "RtoSwitchOW V1.1.zip",
+      "size": 1776,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

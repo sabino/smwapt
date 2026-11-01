@@ -2,7 +2,7 @@
   "name": "smwgraphics-burnt-rex",
   "aliases": [],
   "section": "smwgraphics",
-  "upstream_id": 43369,
+  "upstream_id": 43403,
   "title": "Burnt Rex",
   "authors": [
     "pepperannfanatic"
@@ -10,18 +10,18 @@
   "tags": [
     "rex"
   ],
-  "description": "Here are the Burnt Rex graphics I just made in minutes.<br>\r\n<br>\r\nDon't forget to give credit",
-  "latest_version": "smwc-43369-1792880618",
+  "description": "Here are the Burnt Rex graphics I just made in minutes. Now includes optional GFX for <span class=\"un-outer\" title=\"RussianMan\"><a href=\"/?p=profile&amp;id=28983\" style=\"color: #2e9ca5;\" class=\"un\">RussianMan</a></span>'s <a href=\"https://smwc.me/s/39736\">Spittin' Rex</a> custom sprite.<br>\r\n<br>\r\nDon't forget to give credit",
+  "latest_version": "1.1",
   "install_kind": "asset_only",
   "versions": [
     {
-      "upstream_id": 43369,
+      "upstream_id": 43403,
       "title": "Burnt Rex",
-      "version": "smwc-43369-1792880618",
-      "upstream_time": 1792880618,
-      "download_url": "https://dl.smwcentral.net/43369/Burnt_Rex.zip",
+      "version": "1.1",
+      "upstream_time": 1792950610,
+      "download_url": "https://dl.smwcentral.net/43403/Burnt_Rex.zip",
       "filename": "Burnt_Rex.zip",
-      "size": 2056,
+      "size": 3898,
       "sha256": null,
       "dependencies": [],
       "install_kind": "asset_only"

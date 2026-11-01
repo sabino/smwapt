@@ -1,0 +1,35 @@
+{
+  "name": "uberasm-dynamic-radius-circle-window",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 41035,
+  "title": "Dynamic Radius Circle Window",
+  "authors": [
+    "undefinied3",
+    "yoshifanatic"
+  ],
+  "tags": [
+    "goal",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This is basically a piece of code to draw a circle window with a given radius. Unlike the one that comes with Effect Tool, this one generates the circle on the run, not using a pre-computed table, allowing you to change the radius anytime you want.<br>\r\n<br>\r\nThe ASM file comes with some customizable options, such as whether the circle is centered at a fixed position or at Mario, the initial radius and some other stuff.<br>\r\n<br>\r\nNotes: don't use it with message boxes, and make sure your level end isn't in the same level of this effect, otherwise stuff will look glitched up when you cross the goal tape or use the keyhole.<br>\r\n<br>\r\nIf not using the SA-1 patch, turn on the interlacing setting! Otherwise, this will likely cause lag.",
+  "latest_version": "1.1.1",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 41035,
+      "title": "Dynamic Radius Circle Window",
+      "version": "1.1.1",
+      "upstream_time": 1763932365,
+      "download_url": "https://dl.smwcentral.net/41035/Circle%20Window%20v1.1.1.zip",
+      "filename": "Circle Window v1.1.1.zip",
+      "size": 4320,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "uberasm-reset-level-on-falling-down-offscreen",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 41052,
+  "title": "Reset Level on Falling Down Offscreen",
+  "authors": [
+    "Nitrocell Inc.",
+    "yoshifanatic"
+  ],
+  "tags": [
+    "lorom",
+    "off screen",
+    "sa-1",
+    "teleport"
+  ],
+  "description": "This UberASM works as Level and Game Mode 14 ASM. Instead of dying when falling offscreen, the level will restart as if you reentered it from the overworld.<br>\r\n<br>\r\nNote: This doesn't work on level 24 unless you disable it's gimmick in Lunar Magic!",
+  "latest_version": "V1.1",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 41052,
+      "title": "Reset Level on Falling Down Offscreen",
+      "version": "V1.1",
+      "upstream_time": 1763937958,
+      "download_url": "https://dl.smwcentral.net/41052/Reset%20If%20Falling%20Offscreen%20v1.1.zip",
+      "filename": "Reset If Falling Offscreen v1.1.zip",
+      "size": 1303,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

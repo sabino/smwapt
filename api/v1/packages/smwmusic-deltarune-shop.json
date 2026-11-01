@@ -1,0 +1,50 @@
+{
+  "name": "smwmusic-deltarune-shop",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42558,
+  "title": "Deltarune - Shop 3",
+  "authors": [
+    "PolyPlayer"
+  ],
+  "tags": [
+    "calm",
+    "cutscene",
+    "menu",
+    "night",
+    "town"
+  ],
+  "description": "(This version is Unsampled)<br>\r\nShop 3 from Deltarune Chapter 5<br>\r\n<br>\r\nit was revealed in a newsletter in December 2025. <br>\r\nCould work in night or town levels<br>\r\n<br>\r\nSpoilers for Chapter 5:<br>\r\n<div class=\"spoiler\"><input type=\"checkbox\" class=\"spoiler-reveal\"><div class=\"spoilerInner\">The song plays when you enter Pink's shop near the cliffs</div></div>",
+  "latest_version": "smwc-42558-1793040652",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42558,
+      "title": "Deltarune - Shop 3",
+      "version": "smwc-42558-1793040652",
+      "upstream_time": 1793040652,
+      "download_url": "https://dl.smwcentral.net/42558/Shop%203%20%28Unsampled%29%20.zip",
+      "filename": "Shop 3 (Unsampled) .zip",
+      "size": 30973,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    },
+    {
+      "upstream_id": 42557,
+      "title": "Deltarune - Shop 3",
+      "version": "smwc-42557-1793040651",
+      "upstream_time": 1793040651,
+      "download_url": "https://dl.smwcentral.net/42557/Shop%203%20%28Sampled%29%20.zip",
+      "filename": "Shop 3 (Sampled) .zip",
+      "size": 42159,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

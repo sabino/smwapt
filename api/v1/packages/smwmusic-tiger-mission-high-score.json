@@ -1,0 +1,37 @@
+{
+  "name": "smwmusic-tiger-mission-high-score",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42575,
+  "title": "Tiger Mission - High Score",
+  "authors": [
+    "YoungsVideos44"
+  ],
+  "tags": [
+    "ambient",
+    "calm",
+    "credits",
+    "night",
+    "overworld",
+    "space"
+  ],
+  "description": "A calm, soothing track best used for overworlds and credits.<br>\r\nThe high score theme from the Commodore 64 game Tiger Mission, composed by Johannes Bjerregaard.<br>\r\nThis port is specifically based off the remix by Drax (Thomas Mogensen), which was used for the Fairstars MP3 Recorder keygen.<br>\r\nAlso known as Infinitode 2 - DQ4.",
+  "latest_version": "smwc-42575-1793463071",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42575,
+      "title": "Tiger Mission - High Score",
+      "version": "smwc-42575-1793463071",
+      "upstream_time": 1793463071,
+      "download_url": "https://dl.smwcentral.net/42575/Tiger%20Mission%20High%20Score.zip",
+      "filename": "Tiger Mission High Score.zip",
+      "size": 22447,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

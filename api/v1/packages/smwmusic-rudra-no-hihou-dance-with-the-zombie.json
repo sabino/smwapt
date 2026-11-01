@@ -1,0 +1,33 @@
+{
+  "name": "smwmusic-rudra-no-hihou-dance-with-the-zombie",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42659,
+  "title": "Rudra no Hihou - Dance with the Zombie",
+  "authors": [
+    "NamyX"
+  ],
+  "tags": [
+    "ghost house",
+    "night"
+  ],
+  "description": "Dance with the Zombie from Rudra no Hihou",
+  "latest_version": "smwc-42659-1793307537",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42659,
+      "title": "Rudra no Hihou - Dance with the Zombie",
+      "version": "smwc-42659-1793307537",
+      "upstream_time": 1793307537,
+      "download_url": "https://dl.smwcentral.net/42659/RnH%20Dance%20with%20the%20Zombie.zip",
+      "filename": "RnH Dance with the Zombie.zip",
+      "size": 69174,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}
