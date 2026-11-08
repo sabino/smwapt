@@ -1,0 +1,34 @@
+{
+  "name": "uberasm-repeating-layer",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 43449,
+  "title": "Repeating Layer 3 Vertical Scroll",
+  "authors": [
+    "spooonsss"
+  ],
+  "tags": [
+    "layer 3",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "This UberASM vertically scrolls a layer 3 background in a repeating pattern. Configuration includes autoscroll speed and speed to offset from layer 1.<br>\r\n<br>\r\nCompatible with the vanilla status bar. (Unlike native layer 3 scrolling, the vanilla status bar will not be scrolled into the middle of the screen)",
+  "latest_version": "V1.0.1",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 43449,
+      "title": "Repeating Layer 3 Vertical Scroll",
+      "version": "V1.0.1",
+      "upstream_time": 1793802903,
+      "download_url": "https://dl.smwcentral.net/43449/RepeatingLayer3VerticalScrollV1.0.1.zip",
+      "filename": "RepeatingLayer3VerticalScrollV1.0.1.zip",
+      "size": 16748,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

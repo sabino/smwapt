@@ -15,7 +15,7 @@
     "shatter",
     "sprite needed"
   ],
-  "description": "This custom block will shatter after the player gets off it. Good for platforming stages or places where you jump a lot to dodge stuff.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Final Theory\"><a href=\"/?p=profile&amp;id=22015\" style=\"color: #9d4edd;\" class=\"un\">Final Theory</a></span>.",
+  "description": "This custom block will shatter after the player gets off it. Good for platforming stages or places where you jump a lot to dodge stuff.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Final Theory\"><a href=\"/?p=profile&amp;id=22015\" style=\"color: var(--user-color-1);\" class=\"un\">Final Theory</a></span>.",
   "latest_version": "2.0",
   "install_kind": "gps_block",
   "versions": [

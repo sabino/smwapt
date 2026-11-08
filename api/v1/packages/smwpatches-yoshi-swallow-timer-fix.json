@@ -1,0 +1,36 @@
+{
+  "name": "smwpatches-yoshi-swallow-timer-fix",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 43468,
+  "title": "Yoshi Swallow Timer Fix",
+  "authors": [
+    "HammerBrother"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "timer",
+    "yoshi",
+    "yoshi swallow"
+  ],
+  "description": "Like the star fix patch, Nintendo made a similar mistake with the Yoshi swallow timer: if the freezable frame counter ($7E0014) is divisible by 4 (that MOD 4 = 0), AND the lock flag ($7E009D) is set, will cause the timer to decrement every frame rather than every 4th and freezing with it.<br>\r\n<br>\r\nIn the image below, the hex value in the heads-up display's item box represents the frame counter, and next to the coin is the Yoshi swallow timer. Since #$2C is divisible by 4 (4*11 = 44 or 44/4 = 11, R = 0), the swallow timer decrements each frame.",
+  "latest_version": "V1.0.1",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 43468,
+      "title": "Yoshi Swallow Timer Fix",
+      "version": "V1.0.1",
+      "upstream_time": 1794076043,
+      "download_url": "https://dl.smwcentral.net/43468/YoshiSwallowTimerFixV1.0.1.zip",
+      "filename": "YoshiSwallowTimerFixV1.0.1.zip",
+      "size": 993,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

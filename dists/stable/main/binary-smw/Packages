@@ -1582,18 +1582,6 @@ X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/43028/To%20Those%20of%20the%20Azure%20Skies.zip
 Description: Lufia II: Rise of the Sinistrals - To Those of the Azure Skies
 
-Package: smwmusic-lufia-ii-rise-of-the-sinistrals-tower
-Version: smwc-43003-1792783650
-Section: smwmusic
-Architecture: smw
-Maintainer: Ahrion
-Filename: pool/smwmusic/43003/Tower.zip
-Size: 61372
-X-SMWC-ID: 43003
-X-SMWAPT-Kind: AddMusicKMusic
-X-SMWAPT-URL: https://dl.smwcentral.net/43003/Tower.zip
-Description: Lufia II: Rise of the Sinistrals - Tower
-
 Package: smwmusic-lufia-ii-rise-of-the-sinistrals-towering-mountain
 Version: smwc-43017-1792786069
 Section: smwmusic
@@ -1653,6 +1641,18 @@ X-SMWC-ID: 42145
 X-SMWAPT-Kind: AddMusicKMusic
 X-SMWAPT-URL: https://dl.smwcentral.net/42145/Mega%20Man%20Star%20Force%20%28Star-mix%29.zip
 Description: Mega Man Star Force - Moving Scene (Star-mix)
+
+Package: smwmusic-page-dancing-man
+Version: smwc-42931-1794031165
+Section: smwmusic
+Architecture: smw
+Maintainer: Fullcannon
+Filename: pool/smwmusic/42931/Page - Dancing Man.zip
+Size: 41673
+X-SMWC-ID: 42931
+X-SMWAPT-Kind: AddMusicKMusic
+X-SMWAPT-URL: https://dl.smwcentral.net/42931/Page%20-%20Dancing%20Man.zip
+Description: Page - Dancing Man
 
 Package: smwmusic-rudra-no-hihou-dance-with-the-zombie
 Version: smwc-42659-1793307537
@@ -2086,18 +2086,6 @@ X-SMWAPT-Kind: AsarPatch
 X-SMWAPT-URL: https://dl.smwcentral.net/40309/Multiple%20Title%20Screen%20Demos%201.1.2.zip
 Description: Multiple Title Screen Demos
 
-Package: smwpatches-optimize
-Version: smwc-41786-1772056855
-Section: smwpatches
-Architecture: smw
-Maintainer: Kevin
-Filename: pool/smwpatches/41786/optimize0400.zip
-Size: 833
-X-SMWC-ID: 41786
-X-SMWAPT-Kind: AsarPatch
-X-SMWAPT-URL: https://dl.smwcentral.net/41786/optimize0400.zip
-Description: Optimize $0400 Compression Routine
-
 Package: smwpatches-optimize-background-tilemap-buffering
 Version: V1.1.1
 Section: smwpatches
@@ -2206,18 +2194,6 @@ X-SMWAPT-Kind: AsarPatch
 X-SMWAPT-URL: https://dl.smwcentral.net/43137/Preserve%20DP%20and%20Scratch%20v1.1.1.zip
 Description: Preserve Direct Page and Scratch RAM on Interrupts
 
-Package: smwpatches-ram-toggled-spin-jump
-Version: 1.1
-Section: smwpatches
-Architecture: smw
-Maintainer: AmperSam
-Filename: pool/smwpatches/41669/ram_toggled_spin_jump-v2.zip
-Size: 761
-X-SMWC-ID: 41669
-X-SMWAPT-Kind: AsarPatch
-X-SMWAPT-URL: https://dl.smwcentral.net/41669/ram_toggled_spin_jump-v2.zip
-Description: RAM-Toggled Spin Jump
-
 Package: smwpatches-random-chance-custom-tile-instead-of
 Version: smwc-42064-1775960162
 Section: smwpatches
@@ -2254,6 +2230,18 @@ X-SMWAPT-Kind: AsarPatch
 X-SMWAPT-URL: https://dl.smwcentral.net/42318/Reznor%20Fireball%20Fix%2B%2B%2B.zip
 Description: Reznor Fireball Fix + Smoke Effect Patch
 
+Package: smwpatches-running-sfx
+Version: V1.1
+Section: smwpatches
+Architecture: smw
+Maintainer: Ixtab
+Filename: pool/smwpatches/43414/runsfx_V1.1.zip
+Size: 535
+X-SMWC-ID: 43414
+X-SMWAPT-Kind: AsarPatch
+X-SMWAPT-URL: https://dl.smwcentral.net/43414/runsfx_V1.1.zip
+Description: Running SFX
+
 Package: smwpatches-separate-mario-and-luigi-game-over-themes
 Version: 1.0.1
 Section: smwpatches
@@ -2265,6 +2253,18 @@ X-SMWC-ID: 42482
 X-SMWAPT-Kind: AsarPatch
 X-SMWAPT-URL: https://dl.smwcentral.net/42482/SeparateMarioAndLuigiGameOverThemesV1.0.1.zip
 Description: Separate Mario and Luigi Game Over themes
+
+Package: smwpatches-slope-pass-glitch-fix
+Version: 2.1.3
+Section: smwpatches
+Architecture: smw
+Maintainer: lolcats439
+Filename: pool/smwpatches/43469/slopepassfix.zip
+Size: 1407
+X-SMWC-ID: 43469
+X-SMWAPT-Kind: AsarPatch
+X-SMWAPT-URL: https://dl.smwcentral.net/43469/slopepassfix.zip
+Description: Slope Pass Glitch Fix
 
 Package: smwpatches-smoke-effect-for-bowser-statue-s-fire
 Version: 1.1
@@ -2302,18 +2302,6 @@ X-SMWAPT-Kind: AsarPatch
 X-SMWAPT-URL: https://dl.smwcentral.net/42123/spritehealthbar.zip
 Description: Sprite Health Bar
 
-Package: smwpatches-tolerance-timer-aka-input-buffering-coyote-time
-Version: smwc-41751-1771791566
-Section: smwpatches
-Architecture: smw
-Maintainer: RPG Hacker
-Filename: pool/smwpatches/41751/tolerance-timer-asar2.zip
-Size: 1981
-X-SMWC-ID: 41751
-X-SMWAPT-Kind: AsarPatch
-X-SMWAPT-URL: https://dl.smwcentral.net/41751/tolerance-timer-asar2.zip
-Description: Tolerance Timer (aka Input Buffering & "Coyote Time")
-
 Package: smwpatches-wall-springboard-interaction-wraparound-fix
 Version: smwc-43129-1788878430
 Section: smwpatches
@@ -2349,6 +2337,18 @@ X-SMWC-ID: 42146
 X-SMWAPT-Kind: AsarPatch
 X-SMWAPT-URL: https://dl.smwcentral.net/42146/xorshift.zip
 Description: Xorshift Pseudo-Random Number Generator
+
+Package: smwpatches-yoshi-swallow-timer-fix
+Version: V1.0.1
+Section: smwpatches
+Architecture: smw
+Maintainer: HammerBrother
+Filename: pool/smwpatches/43468/YoshiSwallowTimerFixV1.0.1.zip
+Size: 993
+X-SMWC-ID: 43468
+X-SMWAPT-Kind: AsarPatch
+X-SMWAPT-URL: https://dl.smwcentral.net/43468/YoshiSwallowTimerFixV1.0.1.zip
+Description: Yoshi Swallow Timer Fix
 
 Package: smwpatches-yoshi-wings-bonus-level-expansion
 Version: v1.1.2
@@ -3550,18 +3550,6 @@ X-SMWAPT-Kind: UberAsm
 X-SMWAPT-URL: https://dl.smwcentral.net/42819/BalloonTriggerV1.1.zip
 Description: Balloon Trigger
 
-Package: uberasm-basic-numerical-air-meter
-Version: V1.1
-Section: uberasm
-Architecture: smw
-Maintainer: Sonikku, yoshifanatic
-Filename: pool/uberasm/41011/AirMeter.zip
-Size: 980
-X-SMWC-ID: 41011
-X-SMWAPT-Kind: UberAsm
-X-SMWAPT-URL: https://dl.smwcentral.net/41011/AirMeter.zip
-Description: Basic Numerical Air Meter
-
 Package: uberasm-configurable-amount-of-baby-yoshi-eats
 Version: V1.1
 Section: uberasm
@@ -3610,30 +3598,6 @@ X-SMWAPT-Kind: UberAsm
 X-SMWAPT-URL: https://dl.smwcentral.net/42795/double_jumpV1.1.zip
 Description: Customizable Mid-Air Jumps
 
-Package: uberasm-dolphin-generator
-Version: smwc-41094-1763928381
-Section: uberasm
-Architecture: smw
-Maintainer: RussianMan
-Filename: pool/uberasm/41094/DolphinGeneratorUBERASM.zip
-Size: 2298
-X-SMWC-ID: 41094
-X-SMWAPT-Kind: UberAsm
-X-SMWAPT-URL: https://dl.smwcentral.net/41094/DolphinGeneratorUBERASM.zip
-Description: Dolphin Generator
-
-Package: uberasm-dynamic-radius-circle-window
-Version: 1.1.1
-Section: uberasm
-Architecture: smw
-Maintainer: undefinied3, yoshifanatic
-Filename: pool/uberasm/41035/Circle Window v1.1.1.zip
-Size: 4320
-X-SMWC-ID: 41035
-X-SMWAPT-Kind: UberAsm
-X-SMWAPT-URL: https://dl.smwcentral.net/41035/Circle%20Window%20v1.1.1.zip
-Description: Dynamic Radius Circle Window
-
 Package: uberasm-dynamic-sprites-utility
 Version: 1.1.0
 Section: uberasm
@@ -3657,6 +3621,18 @@ X-SMWC-ID: 42746
 X-SMWAPT-Kind: UberAsm
 X-SMWAPT-URL: https://dl.smwcentral.net/42746/Event-Based-Flags.zip
 Description: Event-Based Triggers
+
+Package: uberasm-exit-percentage-on-the-overworld
+Version: V1.0.1
+Section: uberasm
+Architecture: smw
+Maintainer: Kevin
+Filename: pool/uberasm/43457/OWExitPercentageV1.0.1.zip
+Size: 3075
+X-SMWC-ID: 43457
+X-SMWAPT-Kind: UberAsm
+X-SMWAPT-URL: https://dl.smwcentral.net/43457/OWExitPercentageV1.0.1.zip
+Description: Exit Percentage on the Overworld
 
 Package: uberasm-fade-from-title-screen-to-file-select-menu
 Version: smwc-41705-1771684464
@@ -3766,18 +3742,6 @@ X-SMWAPT-Kind: UberAsm
 X-SMWAPT-URL: https://dl.smwcentral.net/42854/Level%20Timer%20Air%20Meter%20V1.1.1.zip
 Description: Level Timer Air Meter
 
-Package: uberasm-level-warp-display
-Version: 1.1.1
-Section: uberasm
-Architecture: smw
-Maintainer: JackTheSpades, yoshifanatic
-Filename: pool/uberasm/40975/levelwarpV1.1.1.zip
-Size: 2102
-X-SMWC-ID: 40975
-X-SMWAPT-Kind: UberAsm
-X-SMWAPT-URL: https://dl.smwcentral.net/40975/levelwarpV1.1.1.zip
-Description: Level Warp Display
-
 Package: uberasm-lightning-generator
 Version: v1.0.1
 Section: uberasm
@@ -3825,6 +3789,18 @@ X-SMWC-ID: 39756
 X-SMWAPT-Kind: UberAsm
 X-SMWAPT-URL: https://dl.smwcentral.net/39756/No%20Overworld%20v1.3.zip
 Description: No Overworld
+
+Package: uberasm-overworld-exit-counter
+Version: V1.0.1
+Section: uberasm
+Architecture: smw
+Maintainer: MarioFanGamer
+Filename: pool/uberasm/43452/Overworld Exit Counter - ReadmeV1.0.1.zip
+Size: 1666
+X-SMWC-ID: 43452
+X-SMWAPT-Kind: UberAsm
+X-SMWAPT-URL: https://dl.smwcentral.net/43452/Overworld%20Exit%20Counter%20-%20ReadmeV1.0.1.zip
+Description: Overworld Exit Counter
 
 Package: uberasm-overworld-songs-based-on-event
 Version: V1.0.1
@@ -3922,17 +3898,17 @@ X-SMWAPT-Kind: UberAsm
 X-SMWAPT-URL: https://dl.smwcentral.net/41102/L2RelVScrollV1_1.zip
 Description: Relative Layer 2 Vertical Rise/Fall
 
-Package: uberasm-reset-level-on-falling-down-offscreen
-Version: V1.1
+Package: uberasm-repeating-layer
+Version: V1.0.1
 Section: uberasm
 Architecture: smw
-Maintainer: Nitrocell Inc., yoshifanatic
-Filename: pool/uberasm/41052/Reset If Falling Offscreen v1.1.zip
-Size: 1303
-X-SMWC-ID: 41052
+Maintainer: spooonsss
+Filename: pool/uberasm/43449/RepeatingLayer3VerticalScrollV1.0.1.zip
+Size: 16748
+X-SMWC-ID: 43449
 X-SMWAPT-Kind: UberAsm
-X-SMWAPT-URL: https://dl.smwcentral.net/41052/Reset%20If%20Falling%20Offscreen%20v1.1.zip
-Description: Reset Level on Falling Down Offscreen
+X-SMWAPT-URL: https://dl.smwcentral.net/43449/RepeatingLayer3VerticalScrollV1.0.1.zip
+Description: Repeating Layer 3 Vertical Scroll
 
 Package: uberasm-retry-system
 Version: 2.2.0
@@ -3970,6 +3946,18 @@ X-SMWAPT-Kind: UberAsm
 X-SMWAPT-URL: https://dl.smwcentral.net/42708/Scrollable%20HDMA%20V1.0.1.zip
 Description: "Scrollable" HDMA Gradients
 
+Package: uberasm-slopes-hurt
+Version: V1.0.1
+Section: uberasm
+Architecture: smw
+Maintainer: spooonsss
+Filename: pool/uberasm/43451/slope_hurtV1.0.1.zip
+Size: 2010
+X-SMWC-ID: 43451
+X-SMWAPT-Kind: UberAsm
+X-SMWAPT-URL: https://dl.smwcentral.net/43451/slope_hurtV1.0.1.zip
+Description: Slopes Hurt
+
 Package: uberasm-smb2-styled-charged-jump
 Version: smwc-42124-1775285222
 Section: uberasm
@@ -3981,6 +3969,18 @@ X-SMWC-ID: 42124
 X-SMWAPT-Kind: UberAsm
 X-SMWAPT-URL: https://dl.smwcentral.net/42124/ChargedJumpUber.zip
 Description: SMB2-styled Charged Jump
+
+Package: uberasm-sonic-shields
+Version: V1.0.1
+Section: uberasm
+Architecture: smw
+Maintainer: Burning Loaf
+Filename: pool/uberasm/43456/sonicShieldsV1.0.1.zip
+Size: 13354
+X-SMWC-ID: 43456
+X-SMWAPT-Kind: UberAsm
+X-SMWAPT-URL: https://dl.smwcentral.net/43456/sonicShieldsV1.0.1.zip
+Description: Sonic Shields
 
 Package: uberasm-super-star-with-coins
 Version: V1.1

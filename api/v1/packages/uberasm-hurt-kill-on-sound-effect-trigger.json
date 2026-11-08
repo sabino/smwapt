@@ -16,7 +16,7 @@
     "sfx",
     "sound effect"
   ],
-  "description": "Hurts or kills Mario when any sound effect starts playing (choose which option in the asm file).<br>\r\nRequested by <span class=\"un-outer\" title=\"Golden Yoshi\"><a href=\"/?p=profile&amp;id=306\" style=\"color: #eb6123;\" class=\"un\">Golden Yoshi</a></span>.",
+  "description": "Hurts or kills Mario when any sound effect starts playing (choose which option in the asm file).<br>\r\nRequested by <span class=\"un-outer\" title=\"Golden Yoshi\"><a href=\"/?p=profile&amp;id=306\" style=\"color: var(--user-color-2);\" class=\"un\">Golden Yoshi</a></span>.",
   "latest_version": "V1.1",
   "install_kind": "uber_asm",
   "versions": [

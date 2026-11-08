@@ -1,0 +1,36 @@
+{
+  "name": "smwmusic-page-dancing-man",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42931,
+  "title": "Page - Dancing Man",
+  "authors": [
+    "Fullcannon"
+  ],
+  "tags": [
+    "abstract",
+    "industrial",
+    "night",
+    "upbeat",
+    "urban"
+  ],
+  "description": "As the title may imply, it is a very upbeat tracker module from swedish synthgroup PAGE.",
+  "latest_version": "smwc-42931-1794031165",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42931,
+      "title": "Page - Dancing Man",
+      "version": "smwc-42931-1794031165",
+      "upstream_time": 1794031165,
+      "download_url": "https://dl.smwcentral.net/42931/Page%20-%20Dancing%20Man.zip",
+      "filename": "Page - Dancing Man.zip",
+      "size": 41673,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

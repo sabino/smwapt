@@ -14,7 +14,7 @@
     "sa-1",
     "score"
   ],
-  "description": "This simple code grants the player an extra life at certain checkpoints in the score.  More details in the .asm file.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"LucasRCD\"><a href=\"/?p=profile&amp;id=26593\" style=\"color: #9d4edd;\" class=\"un\">LucasRCD</a></span>.",
+  "description": "This simple code grants the player an extra life at certain checkpoints in the score.  More details in the .asm file.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"LucasRCD\"><a href=\"/?p=profile&amp;id=26593\" style=\"color: var(--user-color-1);\" class=\"un\">LucasRCD</a></span>.",
   "latest_version": "1.1",
   "install_kind": "uber_asm",
   "versions": [
