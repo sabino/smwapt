@@ -11,7 +11,7 @@
     "editor",
     "inserter"
   ],
-  "description": "TT64 is pretty limited as it can only edit landscape already in Super Mario 64. This tool will allow you to create your own landscape so you can have complete control of every aspect needed to create a custom SM64 level.<br>\r\n<br>\r\nYou may want to check out <a href=\"https://sites.google.com/site/messiaen64/level-importer\" rel=\"nofollow\">this page</a>, too, to avoid running into any problems when running the tool.",
+  "description": "TT64 is pretty limited as it can only edit landscape already in Super Mario 64. This tool will allow you to create your own landscape so you can have complete control of every aspect needed to create a custom SM64 level.<br>\r\n<br>\r\nYou may want to check out <a href=\"https://sites.google.com/site/messiaen64/level-importer\" rel=\"noopener nofollow\">this page</a>, too, to avoid running into any problems when running the tool.",
   "latest_version": "smwc-4813-1366223468",
   "install_kind": "tool",
   "versions": [

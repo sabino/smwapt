@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-romancing-saga",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42367,
+  "title": "Romancing SaGa 3 - Trade Off",
+  "authors": [
+    "Samantha"
+  ],
+  "tags": [
+    "bonus",
+    "castle",
+    "switch palace"
+  ],
+  "description": "A fun, bouncy song from Romancing SaGa 3",
+  "latest_version": "smwc-42367-1794536799",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42367,
+      "title": "Romancing SaGa 3 - Trade Off",
+      "version": "smwc-42367-1794536799",
+      "upstream_time": 1794536799,
+      "download_url": "https://dl.smwcentral.net/42367/Trade%20Off.zip",
+      "filename": "Trade Off.zip",
+      "size": 33019,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}

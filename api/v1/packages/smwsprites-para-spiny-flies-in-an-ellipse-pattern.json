@@ -15,7 +15,7 @@
     "sa-1",
     "spiny"
   ],
-  "description": "A winged Spiny which flies in an elliptic range (can also be circular), controlled by the extra bytes.<br>\r\n<br>\r\nDedicated to <span class=\"un-outer\" title=\"Koopster\"><span title=\"Koopster donated $5.00.\" class=\"icon icon-donor\"></span><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=17663\" style=\"color: #2abc49;\" class=\"un\">Koopster</a></span> who made the graphics routine (and the original Para-spiny).",
+  "description": "A winged Spiny which flies in an elliptic range (can also be circular), controlled by the extra bytes.<br>\r\n<br>\r\nDedicated to <span class=\"un-outer\" title=\"Koopster\"><span title=\"Koopster donated $5.00.\" class=\"icon icon-donor\"></span><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=17663\" style=\"color: #2abc49;\" class=\"un\" rel=\"noopener\">Koopster</a></span> who made the graphics routine (and the original Para-spiny).",
   "latest_version": "V1.0.1",
   "install_kind": "pixi_sprite",
   "versions": [

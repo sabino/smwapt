@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-more-flexible-vanilla-cutscene-trigger",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 42739,
+  "title": "More Flexible Vanilla Cutscene Trigger",
+  "authors": [
+    "yoshifanatic"
+  ],
+  "tags": [
+    "cutscene",
+    "goal",
+    "lorom",
+    "sa-1"
+  ],
+  "description": "Ever want to use SMW's castle destruction cutscenes or credits, but didn't want to have Mario fight a boss to trigger them? Or you wanted more bosses that trigger the secret exit? This patch enables both of those. With this, you can trigger the vanilla cutscenes from any exit and have up to 128 levels that trigger a secret exit when defeating a boss.<br>\r\n<br>\r\nCredit not required, but appreciated!<br>\r\n<br>\r\nMade for <span class=\"un-outer\" title=\"Yano_Felix\"><a href=\"/?p=profile&amp;id=74311\" style=\"color: var(--user-color-2);\" class=\"un\" rel=\"noopener\">Yano_Felix</a></span>.",
+  "latest_version": "V1.0",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 42739,
+      "title": "More Flexible Vanilla Cutscene Trigger",
+      "version": "V1.0",
+      "upstream_time": 1794244151,
+      "download_url": "https://dl.smwcentral.net/42739/TriggerCutsceneOnAnyExit.zip",
+      "filename": "TriggerCutsceneOnAnyExit.zip",
+      "size": 2430,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

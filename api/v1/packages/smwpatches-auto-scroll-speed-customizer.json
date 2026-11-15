@@ -1,0 +1,35 @@
+{
+  "name": "smwpatches-auto-scroll-speed-customizer",
+  "aliases": [],
+  "section": "smwpatches",
+  "upstream_id": 43476,
+  "title": "Auto-Scroll Speed Customizer",
+  "authors": [
+    "imamelia"
+  ],
+  "tags": [
+    "lorom",
+    "sa-1",
+    "screen",
+    "screen scrolling"
+  ],
+  "description": "SMW only ever uses slow auto-scroll for sprite F3 because all the other speeds are actually garbage values. This patch expands that, enabling you to use up to 16 different autoscroll speeds depending on the sprite's Y position.",
+  "latest_version": "v1.0.2",
+  "install_kind": "asar_patch",
+  "versions": [
+    {
+      "upstream_id": 43476,
+      "title": "Auto-Scroll Speed Customizer",
+      "version": "v1.0.2",
+      "upstream_time": 1794173191,
+      "download_url": "https://dl.smwcentral.net/43476/auto.zip",
+      "filename": "auto.zip",
+      "size": 1024,
+      "sha256": null,
+      "dependencies": [
+        "asar"
+      ],
+      "install_kind": "asar_patch"
+    }
+  ]
+}

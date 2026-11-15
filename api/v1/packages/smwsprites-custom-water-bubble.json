@@ -1,0 +1,37 @@
+{
+  "name": "smwsprites-custom-water-bubble",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 42050,
+  "title": "Custom Water Bubble",
+  "authors": [
+    "DrAnas",
+    "Knight of Time",
+    "dogemaster"
+  ],
+  "tags": [
+    "customizable",
+    "lorom",
+    "pacifist",
+    "sa-1"
+  ],
+  "description": "This is a variant of dogemaster's green gas bubble custom sprite, that instead of being harmful, allows you to swim inside it, and has a bunch of customization options for determining how (or if) it moves around, which are all listed in the sprite's asm file.  Includes an UberASM file, which is required for the swimming interaction in the bubble.  An ExGFX file is also included.<br>\r\n<br>\r\nA note of caution: Be careful not to have two or more of these sprites placed in the same horizontal row, as this will cause sprite overdraw, which is a hardware limitation.  <a href=\"https://smwc.me/s/40702\" rel=\"noopener\">NMSTL</a> is recommended for use with this sprite, especially if there is more than one of them on screen.",
+  "latest_version": "1.1",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 42050,
+      "title": "Custom Water Bubble",
+      "version": "1.1",
+      "upstream_time": 1794692894,
+      "download_url": "https://dl.smwcentral.net/42050/Custom%20Water%20Bubble.zip",
+      "filename": "Custom Water Bubble.zip",
+      "size": 7629,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -144,6 +144,41 @@
     ]
   },
   {
+    "name": "smwmusic-earthbound-battle-against-a-machine",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 43203,
+    "title": "EarthBound - Battle Against a Machine",
+    "authors": [
+      "SiameseTwins"
+    ],
+    "tags": [
+      "boss",
+      "chase",
+      "industrial",
+      "space"
+    ],
+    "description": "The machine battle song from Earthbound. Could fit a space battle level.",
+    "latest_version": "1.1",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 43203,
+        "title": "EarthBound - Battle Against a Machine",
+        "version": "1.1",
+        "upstream_time": 1794504497,
+        "download_url": "https://dl.smwcentral.net/43203/Earthbound%20-%20Battle%20Against%20a%20Machine.zip",
+        "filename": "Earthbound - Battle Against a Machine.zip",
+        "size": 41353,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
     "name": "smwmusic-gravity-circuit",
     "aliases": [],
     "section": "smwmusic",
@@ -161,7 +196,7 @@
       "upbeat",
       "urban"
     ],
-    "description": "<center><img src=\"https://bin.smwcentral.net/u/23547/Kai%2B%2526%2BCable.webp\" alt=\"\"></center><br>\r\nDid an arrangement of <b><a href=\"https://youtu.be/w6qCiOE24SU\" rel=\"nofollow\">Opening Stage</a></b> revealed in <a href=\"https://youtu.be/M_FeY9l1KqA\" rel=\"nofollow\"><i>Gravity Circuit 2's</i> trailer</a>. I was hyped AF for a sequel to be announced (ft. <span style=\"color: #6ece4b;\">Cable</span>), and then Ninmark released the song on his YouTube channel, and I KNEW I HAD TO GET MY HANDS ON THAT INTRO STAGE THEME THE SECOND DOMINIC NINMARK DROPPED IT!!!<br>\r\n<br>\r\nGravity Circuit was 2023's GOTY for me, and it getting a sequel is exactly what this world needs!!!<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. Enables the voice clip, but sacrifices SMW-Compatibility (VOICE Enabled)ㅤ<span style=\"color: #C291EB;\">[Listening-Only]</span><br>\r\nㅤ2. Disables the voice clip & Decreases the Echo (VOICE Disabled)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤㅤ ♠  What's disabled:<br>\r\nㅤㅤㅤ  -  \"Bonus End\" (@7)<br>\r\nㅤㅤㅤ  -  Thunder SFX<br>\r\nㅤㅤㅤ  -  P-Switch<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable pitches for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. B Minor (Original Pitch)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span> <br>\r\nㅤ2. A Minor (Custom Pitch 1)<br>\r\nㅤ3. C Minor (Custom Pitch 2)",
+    "description": "<center><img src=\"https://bin.smwcentral.net/u/23547/Kai%2B%2526%2BCable.webp\" alt=\"\"></center><br>\r\nDid an arrangement of <b><a href=\"https://youtu.be/w6qCiOE24SU\" rel=\"noopener nofollow\">Opening Stage</a></b> revealed in <a href=\"https://youtu.be/M_FeY9l1KqA\" rel=\"noopener nofollow\"><i>Gravity Circuit 2's</i> trailer</a>. I was hyped AF for a sequel to be announced (ft. <span style=\"color: #6ece4b;\">Cable</span>), and then Ninmark released the song on his YouTube channel, and I KNEW I HAD TO GET MY HANDS ON THAT INTRO STAGE THEME THE SECOND DOMINIC NINMARK DROPPED IT!!!<br>\r\n<br>\r\nGravity Circuit was 2023's GOTY for me, and it getting a sequel is exactly what this world needs!!!<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. Enables the voice clip, but sacrifices SMW-Compatibility (VOICE Enabled)ㅤ<span style=\"color: #C291EB;\">[Listening-Only]</span><br>\r\nㅤ2. Disables the voice clip & Decreases the Echo (VOICE Disabled)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤㅤ ♠  What's disabled:<br>\r\nㅤㅤㅤ  -  \"Bonus End\" (@7)<br>\r\nㅤㅤㅤ  -  Thunder SFX<br>\r\nㅤㅤㅤ  -  P-Switch<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable pitches for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. B Minor (Original Pitch)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span> <br>\r\nㅤ2. A Minor (Custom Pitch 1)<br>\r\nㅤ3. C Minor (Custom Pitch 2)",
     "latest_version": "smwc-42510-1793456496",
     "install_kind": "add_music_k_music",
     "versions": [
@@ -233,7 +268,7 @@
       "tense",
       "upbeat"
     ],
-    "description": "<center><img src=\"https://media1.tenor.com/m/-5Lpvgh3MAAAAAAC/giorno-tea.gif\" alt=\"\"></center><br>\r\n<br>\r\nDid a short star-mix of <b><a href=\"https://youtu.be/U0TXIXTzJEY\" rel=\"nofollow\">il vento d'oro</a></b> from <i>JoJo's Bizarre Adventure: Golden Wind</i>. Look, I already did Steel Ball Run's theme, so I had to do Golden Wind's theme too!!<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. Lead is @1 (Default Version)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤ2. Lead is @7 (Funny Version)<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. Skips the Intro (INTRO Skipped)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span> <br>\r\nㅤ2. Enables the Intro (INTRO Enabled)",
+    "description": "<center><img src=\"https://media1.tenor.com/m/-5Lpvgh3MAAAAAAC/giorno-tea.gif\" alt=\"\"></center><br>\r\n<br>\r\nDid a short star-mix of <b><a href=\"https://youtu.be/U0TXIXTzJEY\" rel=\"noopener nofollow\">il vento d'oro</a></b> from <i>JoJo's Bizarre Adventure: Golden Wind</i>. Look, I already did Steel Ball Run's theme, so I had to do Golden Wind's theme too!!<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. Lead is @1 (Default Version)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤ2. Lead is @7 (Funny Version)<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. Skips the Intro (INTRO Skipped)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span> <br>\r\nㅤ2. Enables the Intro (INTRO Enabled)",
     "latest_version": "smwc-42303-1793041066",
     "install_kind": "add_music_k_music",
     "versions": [
@@ -444,40 +479,6 @@
         "download_url": "https://dl.smwcentral.net/43006/Despair.zip",
         "filename": "Despair.zip",
         "size": 52979,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-door-of-journey",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 43004,
-    "title": "Lufia II: Rise of the Sinistrals - Door of Journey",
-    "authors": [
-      "Ahrion"
-    ],
-    "tags": [
-      "cutscene",
-      "mysterious",
-      "sad"
-    ],
-    "description": "Lufia II music",
-    "latest_version": "smwc-43004-1792783717",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 43004,
-        "title": "Lufia II: Rise of the Sinistrals - Door of Journey",
-        "version": "smwc-43004-1792783717",
-        "upstream_time": 1792783717,
-        "download_url": "https://dl.smwcentral.net/43004/Door%20of%20Journey.zip",
-        "filename": "Door of Journey.zip",
-        "size": 36708,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -746,41 +747,6 @@
         "download_url": "https://dl.smwcentral.net/43033/Prisphea%20Flowers.zip",
         "filename": "Prisphea Flowers.zip",
         "size": 36034,
-        "sha256": null,
-        "dependencies": [
-          "addmusick"
-        ],
-        "install_kind": "add_music_k_music"
-      }
-    ]
-  },
-  {
-    "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-shrine",
-    "aliases": [],
-    "section": "smwmusic",
-    "upstream_id": 43005,
-    "title": "Lufia II: Rise of the Sinistrals - Shrine",
-    "authors": [
-      "Ahrion"
-    ],
-    "tags": [
-      "castle",
-      "cutscene",
-      "ruins",
-      "tense"
-    ],
-    "description": "Lufia II music",
-    "latest_version": "smwc-43005-1792784090",
-    "install_kind": "add_music_k_music",
-    "versions": [
-      {
-        "upstream_id": 43005,
-        "title": "Lufia II: Rise of the Sinistrals - Shrine",
-        "version": "smwc-43005-1792784090",
-        "upstream_time": 1792784090,
-        "download_url": "https://dl.smwcentral.net/43005/Shrine.zip",
-        "filename": "Shrine.zip",
-        "size": 54366,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -1303,7 +1269,7 @@
       "star",
       "upbeat"
     ],
-    "description": "Did a short arrangement of <b><a href=\"https://youtu.be/tbo_ToDleNY\" rel=\"nofollow\">Moving Scene</a></b> from <i>Mega Man Star Force</i> (which is basically a shortened variation of the game's <a href=\"https://youtu.be/ftj-S6QUcD4\" rel=\"nofollow\">Title theme</a>). The Mega Man Star Force Legacy Collection came out recently, and I thought I'd do a short mix for now (before doing an actual remix in the future) 'cuz Star Force 1 deserves it!!! SERIOUSLY, GO PLAY IT!!!<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. B Minor (Original Pitch)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤ2. A# Minor (Custom Pitch 1)<br>\r\nㅤ3. C Minor (Custom Pitch 2)<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. Enables the Intro (INTRO Enabled)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤ2. Shortens the Intro (INTRO Shortened)<br>\r\nㅤ3. Skips the Intro (INTRO Skipped)<br>\r\n<br>\r\n<center><img src=\"https://media1.tenor.com/m/-QCvYNBuWr4AAAAC/lock-in-mega-man-star-force.gif\" alt=\"\"></center>",
+    "description": "Did a short arrangement of <b><a href=\"https://youtu.be/tbo_ToDleNY\" rel=\"noopener nofollow\">Moving Scene</a></b> from <i>Mega Man Star Force</i> (which is basically a shortened variation of the game's <a href=\"https://youtu.be/ftj-S6QUcD4\" rel=\"noopener nofollow\">Title theme</a>). The Mega Man Star Force Legacy Collection came out recently, and I thought I'd do a short mix for now (before doing an actual remix in the future) 'cuz Star Force 1 deserves it!!! SERIOUSLY, GO PLAY IT!!!<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. B Minor (Original Pitch)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤ2. A# Minor (Custom Pitch 1)<br>\r\nㅤ3. C Minor (Custom Pitch 2)<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. Enables the Intro (INTRO Enabled)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤ2. Shortens the Intro (INTRO Shortened)<br>\r\nㅤ3. Skips the Intro (INTRO Skipped)<br>\r\n<br>\r\n<center><img src=\"https://media1.tenor.com/m/-QCvYNBuWr4AAAAC/lock-in-mega-man-star-force.gif\" alt=\"\"></center>",
     "latest_version": "smwc-42145-1793040998",
     "install_kind": "add_music_k_music",
     "versions": [
@@ -1351,6 +1317,40 @@
         "download_url": "https://dl.smwcentral.net/42931/Page%20-%20Dancing%20Man.zip",
         "filename": "Page - Dancing Man.zip",
         "size": 41673,
+        "sha256": null,
+        "dependencies": [
+          "addmusick"
+        ],
+        "install_kind": "add_music_k_music"
+      }
+    ]
+  },
+  {
+    "name": "smwmusic-romancing-saga",
+    "aliases": [],
+    "section": "smwmusic",
+    "upstream_id": 42367,
+    "title": "Romancing SaGa 3 - Trade Off",
+    "authors": [
+      "Samantha"
+    ],
+    "tags": [
+      "bonus",
+      "castle",
+      "switch palace"
+    ],
+    "description": "A fun, bouncy song from Romancing SaGa 3",
+    "latest_version": "smwc-42367-1794536799",
+    "install_kind": "add_music_k_music",
+    "versions": [
+      {
+        "upstream_id": 42367,
+        "title": "Romancing SaGa 3 - Trade Off",
+        "version": "smwc-42367-1794536799",
+        "upstream_time": 1794536799,
+        "download_url": "https://dl.smwcentral.net/42367/Trade%20Off.zip",
+        "filename": "Trade Off.zip",
+        "size": 33019,
         "sha256": null,
         "dependencies": [
           "addmusick"
@@ -1408,7 +1408,7 @@
       "tense",
       "upbeat"
     ],
-    "description": "<center><img src=\"https://media1.tenor.com/m/fbBOQI9UqgoAAAAd/gyro-zeppeli-jojo%27s-bizarre-adventure.gif\" alt=\"\"></center><br>\r\n<br>\r\nDid a short star-mix of <b><a href=\"https://youtu.be/AFZFhMyiSZ8\" rel=\"nofollow\">Dance with STEEL BALL RUN</a></b> from <i>Steel Ball Run: JoJo's Bizarre Adventure</i> because I haven't done anything Jojo related in a while, and I thought I'd shit this one out before I get to doing real stuff with the series again.<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. C (Original Pitch)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤ2. B Minor (Custom Pitch 1)<br>\r\nㅤ3. C# Minor (Custom Pitch 2)<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. Skips the Intro (INTRO Skipped)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span> <br>\r\nㅤ2. Enables the Intro (INTRO Enabled)",
+    "description": "<center><img src=\"https://media1.tenor.com/m/fbBOQI9UqgoAAAAd/gyro-zeppeli-jojo%27s-bizarre-adventure.gif\" alt=\"\"></center><br>\r\n<br>\r\nDid a short star-mix of <b><a href=\"https://youtu.be/AFZFhMyiSZ8\" rel=\"noopener nofollow\">Dance with STEEL BALL RUN</a></b> from <i>Steel Ball Run: JoJo's Bizarre Adventure</i> because I haven't done anything Jojo related in a while, and I thought I'd shit this one out before I get to doing real stuff with the series again.<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. C (Original Pitch)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤ2. B Minor (Custom Pitch 1)<br>\r\nㅤ3. C# Minor (Custom Pitch 2)<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. Skips the Intro (INTRO Skipped)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span> <br>\r\nㅤ2. Enables the Intro (INTRO Enabled)",
     "latest_version": "smwc-42297-1793041049",
     "install_kind": "add_music_k_music",
     "versions": [
@@ -1480,7 +1480,7 @@
       "tense",
       "upbeat"
     ],
-    "description": "<center><span style=\"font-size: 18pt;\"><a href=\"https://youtu.be/TqoJAyt4NQ4?t=6\" rel=\"nofollow\">❝ 𝙄 𝘽𝙐𝙏𝙏𝙀𝙍 𝙄𝙏 𝙐𝙋 𝙐𝙋<b><i>!!</i></b> 𝙄 𝘽𝙐𝙏𝙏𝙀𝙍 𝙄𝙏 𝙐𝙋 𝙐𝙋<b><i>!!</i></b> ❞</a></span><br>\r\nㅤ<span style=\"font-size: 8pt;\">- Smooth McGroove (2013)</span><br>\r\n<a href=\"https://cardsagaswars.wordpress.com/\" rel=\"nofollow\"><img src=\"https://bin.smwcentral.net/u/23547/Link%2B%255BCard%2BSaga%2BWars%255D.webp\" alt=\"\"></a></center><br>\r\nDid a special arrangement of <b><a href=\"https://youtu.be/0hEYvdMoF2g\" rel=\"nofollow\">THE WORLD'S</a> <a href=\"https://youtu.be/X0_wnfI5ey4\" rel=\"nofollow\">GREATEST ZELDA</a> <a href=\"https://youtu.be/8cuv2fXQ9_M\" rel=\"nofollow\">/ DESERT</a> <a href=\"https://youtu.be/y1TUzRxSPwg\" rel=\"nofollow\">THEME</a></b> from <i>The Legend of Zelda: Ocarina of Time</i>. This was one of the few songs I've been holding off doing until the moment was right because I really wanted to make this remix something else. Gerudo Valley is one of my favorite songs of all-time, despite mostly hearing it in games outside of its original source material (i.e. Nintendo Land, Smash 4, Cadence of Hyrule, etc.).<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. Original Echo Delay, but sacrifices SMW-Compatibility (OG Echo)ㅤ<span style=\"color: #C291EB;\">[Listening-Only]</span><br>\r\nㅤ2. Decreased Echo Delay (LOWER Echo)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤㅤ ♠  What's disabled:<br>\r\nㅤㅤㅤ  -  \"Bonus End\" (@7)<br>\r\nㅤㅤㅤ  -  \"P-Switch\" (@12) <span style=\"color: #3DDA8D;\">← (\"SBM2 Synth Brass.brr\" is in its place in case you really need it)</span><br>\r\nㅤㅤㅤ  -  Thunder SFX<br>\r\nㅤ3. Decreased Echo Delay & Cut Intro (INTRO Cut)<br>\r\nㅤㅤ ♠  What's disabled:<br>\r\nㅤㅤㅤ  -  \"Bonus End\" (@7)<br>\r\nㅤㅤㅤ  -  \"P-Switch\" (@12) <span style=\"color: #3DDA8D;\">← (\"SBM2 Synth Brass.brr\" is in its place in case you really need it)</span><br>\r\nㅤㅤㅤ  -  Thunder SFX<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable pitches for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. F# Minor w/ Slight Detune (Remix Pitch)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤ2. F# Minor (Original Pitch)<br>\r\nㅤ3. G Minor (Custom Pitch 1)<br>\r\nㅤ4. E Minor (Custom Pitch 2)<br>\r\nㅤ5. F Minor (Custom Pitch 2)",
+    "description": "<center><span style=\"font-size: 18pt;\"><a href=\"https://youtu.be/TqoJAyt4NQ4?t=6\" rel=\"noopener nofollow\">❝ 𝙄 𝘽𝙐𝙏𝙏𝙀𝙍 𝙄𝙏 𝙐𝙋 𝙐𝙋<b><i>!!</i></b> 𝙄 𝘽𝙐𝙏𝙏𝙀𝙍 𝙄𝙏 𝙐𝙋 𝙐𝙋<b><i>!!</i></b> ❞</a></span><br>\r\nㅤ<span style=\"font-size: 8pt;\">- Smooth McGroove (2013)</span><br>\r\n<a href=\"https://cardsagaswars.wordpress.com/\" rel=\"noopener nofollow\"><img src=\"https://bin.smwcentral.net/u/23547/Link%2B%255BCard%2BSaga%2BWars%255D.webp\" alt=\"\"></a></center><br>\r\nDid a special arrangement of <b><a href=\"https://youtu.be/0hEYvdMoF2g\" rel=\"noopener nofollow\">THE WORLD'S</a> <a href=\"https://youtu.be/X0_wnfI5ey4\" rel=\"noopener nofollow\">GREATEST ZELDA</a> <a href=\"https://youtu.be/8cuv2fXQ9_M\" rel=\"noopener nofollow\">/ DESERT</a> <a href=\"https://youtu.be/y1TUzRxSPwg\" rel=\"noopener nofollow\">THEME</a></b> from <i>The Legend of Zelda: Ocarina of Time</i>. This was one of the few songs I've been holding off doing until the moment was right because I really wanted to make this remix something else. Gerudo Valley is one of my favorite songs of all-time, despite mostly hearing it in games outside of its original source material (i.e. Nintendo Land, Smash 4, Cadence of Hyrule, etc.).<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. Original Echo Delay, but sacrifices SMW-Compatibility (OG Echo)ㅤ<span style=\"color: #C291EB;\">[Listening-Only]</span><br>\r\nㅤ2. Decreased Echo Delay (LOWER Echo)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤㅤ ♠  What's disabled:<br>\r\nㅤㅤㅤ  -  \"Bonus End\" (@7)<br>\r\nㅤㅤㅤ  -  \"P-Switch\" (@12) <span style=\"color: #3DDA8D;\">← (\"SBM2 Synth Brass.brr\" is in its place in case you really need it)</span><br>\r\nㅤㅤㅤ  -  Thunder SFX<br>\r\nㅤ3. Decreased Echo Delay & Cut Intro (INTRO Cut)<br>\r\nㅤㅤ ♠  What's disabled:<br>\r\nㅤㅤㅤ  -  \"Bonus End\" (@7)<br>\r\nㅤㅤㅤ  -  \"P-Switch\" (@12) <span style=\"color: #3DDA8D;\">← (\"SBM2 Synth Brass.brr\" is in its place in case you really need it)</span><br>\r\nㅤㅤㅤ  -  Thunder SFX<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable pitches for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. F# Minor w/ Slight Detune (Remix Pitch)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤ2. F# Minor (Original Pitch)<br>\r\nㅤ3. G Minor (Custom Pitch 1)<br>\r\nㅤ4. E Minor (Custom Pitch 2)<br>\r\nㅤ5. F Minor (Custom Pitch 2)",
     "latest_version": "smwc-42782-1793113618",
     "install_kind": "add_music_k_music",
     "versions": [
@@ -1558,7 +1558,7 @@
       "tense",
       "upbeat"
     ],
-    "description": "<center><span style=\"font-size: 18pt;\"><span style=\"color: #DF4C4F;\">❝ 𝐀 𝐠𝐨𝐝 𝐦𝐮𝐬𝐭 𝐞𝐥𝐢𝐦𝐢𝐧𝐚𝐭𝐞 𝐚𝐥𝐥 𝐰𝐡𝐨 𝐨𝐩𝐩𝐨𝐬𝐞 𝐭𝐡𝐞𝐢𝐫 𝐬𝐭𝐫𝐮𝐠𝐠𝐥𝐞 𝐟𝐨𝐫 𝐟𝐚𝐢𝐭𝐡, 𝐨𝐧𝐞 𝐛𝐲 𝐨𝐧𝐞. ❞</span></span><br>\r\nㅤ<span style=\"font-size: 8pt;\">- Kanako Yasaka, <i>東方風神録 ~ Mountain of Faith</i> (2007)</span><br>\r\n<br>\r\nㅤㅤ<img src=\"https://bin.smwcentral.net/u/23547/Kanako%2BYasaka.webp\" alt=\"\"></center><br>\r\n<br>\r\nDid an arrangement of Kanako Yasaka's theme, <b><a href=\"https://youtu.be/ssh_Ufp1AKw\" rel=\"nofollow\">The Venerable Ancient Battlefield ~</a> <a href=\"https://youtu.be/uXlqR94K0sM\" rel=\"nofollow\">Suwa Foughten Field</a></b>, from <i>Touhou 17.5 Gouyoku Ibun ~ Sunken Fossil World</i> (originally from <i>Touhou 10 Fuujinroku ~ Mountain of Faith</i>). It's been a hot minute since my last Touhou remix (which is crazy given how addicted I am to Touhou music). I'm in the mood for some intense (and I mean <b><i>INTENSE</i></b>) final boss music, and Kanako Yasaka has me covered in that regard. I did her <a href=\"https://smwc.me/s/27106\">stage theme</a> <a href=\"https://youtu.be/Halo5fZxgd0\" rel=\"nofollow\">five years ago</a>, and now it's time to do her actual theme song.<br>\r\n<br>\r\nI've always been a huge fan of her SFW theme. It's way more sinister and intense than the original and feels more fitting for the ruthless Pillar Woman.<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. Original Echo Delay, but sacrifices SMW-Compatibility (OG Echo)ㅤ<span style=\"color: #C291EB;\">[Listening-Only]</span><br>\r\nㅤ2. Decreased Echo Delay (LOWER Echo)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤㅤ ♠  What's disabled:<br>\r\nㅤㅤㅤ  -  \"Bonus End\" (@7) <span style=\"color: #3DDA8D;\">← (\"JV-1080 Creamy Guitar Lead.brr\" is in its place in case you really need it)</span> <br>\r\nㅤㅤㅤ  -  \"P-Switch\" (@12) <span style=\"color: #3DDA8D;\">← (\"S-550 LA Tom.brr\" is in its place in case you really need it)</span> <br>\r\nㅤㅤㅤ  -  Yoshi SFX (@15)<br>\r\nㅤㅤㅤ  -  Thunder SFX<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable pitches for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. C Minor (<a href=\"https://youtu.be/ssh_Ufp1AKw\" rel=\"nofollow\">Gouyoku Ibun</a> Pitch)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span> <br>\r\nㅤ2. C# Minor (<a href=\"https://youtu.be/uXlqR94K0sM\" rel=\"nofollow\">Mountain of Faith</a> Pitch)<br>\r\nㅤ3. B Minor (Custom Pitch 1)<br>\r\nㅤ4. D Minor (Custom Pitch 2)",
+    "description": "<center><span style=\"font-size: 18pt;\"><span style=\"color: #DF4C4F;\">❝ 𝐀 𝐠𝐨𝐝 𝐦𝐮𝐬𝐭 𝐞𝐥𝐢𝐦𝐢𝐧𝐚𝐭𝐞 𝐚𝐥𝐥 𝐰𝐡𝐨 𝐨𝐩𝐩𝐨𝐬𝐞 𝐭𝐡𝐞𝐢𝐫 𝐬𝐭𝐫𝐮𝐠𝐠𝐥𝐞 𝐟𝐨𝐫 𝐟𝐚𝐢𝐭𝐡, 𝐨𝐧𝐞 𝐛𝐲 𝐨𝐧𝐞. ❞</span></span><br>\r\nㅤ<span style=\"font-size: 8pt;\">- Kanako Yasaka, <i>東方風神録 ~ Mountain of Faith</i> (2007)</span><br>\r\n<br>\r\nㅤㅤ<img src=\"https://bin.smwcentral.net/u/23547/Kanako%2BYasaka.webp\" alt=\"\"></center><br>\r\n<br>\r\nDid an arrangement of Kanako Yasaka's theme, <b><a href=\"https://youtu.be/ssh_Ufp1AKw\" rel=\"noopener nofollow\">The Venerable Ancient Battlefield ~</a> <a href=\"https://youtu.be/uXlqR94K0sM\" rel=\"noopener nofollow\">Suwa Foughten Field</a></b>, from <i>Touhou 17.5 Gouyoku Ibun ~ Sunken Fossil World</i> (originally from <i>Touhou 10 Fuujinroku ~ Mountain of Faith</i>). It's been a hot minute since my last Touhou remix (which is crazy given how addicted I am to Touhou music). I'm in the mood for some intense (and I mean <b><i>INTENSE</i></b>) final boss music, and Kanako Yasaka has me covered in that regard. I did her <a href=\"https://smwc.me/s/27106\" rel=\"noopener\">stage theme</a> <a href=\"https://youtu.be/Halo5fZxgd0\" rel=\"noopener nofollow\">five years ago</a>, and now it's time to do her actual theme song.<br>\r\n<br>\r\nI've always been a huge fan of her SFW theme. It's way more sinister and intense than the original and feels more fitting for the ruthless Pillar Woman.<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. Original Echo Delay, but sacrifices SMW-Compatibility (OG Echo)ㅤ<span style=\"color: #C291EB;\">[Listening-Only]</span><br>\r\nㅤ2. Decreased Echo Delay (LOWER Echo)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤㅤ ♠  What's disabled:<br>\r\nㅤㅤㅤ  -  \"Bonus End\" (@7) <span style=\"color: #3DDA8D;\">← (\"JV-1080 Creamy Guitar Lead.brr\" is in its place in case you really need it)</span> <br>\r\nㅤㅤㅤ  -  \"P-Switch\" (@12) <span style=\"color: #3DDA8D;\">← (\"S-550 LA Tom.brr\" is in its place in case you really need it)</span> <br>\r\nㅤㅤㅤ  -  Yoshi SFX (@15)<br>\r\nㅤㅤㅤ  -  Thunder SFX<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable pitches for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. C Minor (<a href=\"https://youtu.be/ssh_Ufp1AKw\" rel=\"noopener nofollow\">Gouyoku Ibun</a> Pitch)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span> <br>\r\nㅤ2. C# Minor (<a href=\"https://youtu.be/uXlqR94K0sM\" rel=\"noopener nofollow\">Mountain of Faith</a> Pitch)<br>\r\nㅤ3. B Minor (Custom Pitch 1)<br>\r\nㅤ4. D Minor (Custom Pitch 2)",
     "latest_version": "smwc-42485-1793114088",
     "install_kind": "add_music_k_music",
     "versions": [
@@ -1598,7 +1598,7 @@
       "tense",
       "upbeat"
     ],
-    "description": "<center><span style=\"font-size: 18pt;\"><span style=\"color: #BF91ED;\">❝ <i>𝐋𝐞𝐭'𝐬 𝐬𝐞𝐞... 𝐇𝐨𝐰 𝐭𝐨 𝐭𝐚𝐤𝐞 𝐨𝐮𝐭 𝐭𝐡𝐞 𝐛𝐥𝐚𝐜𝐤 𝐭𝐡𝐢𝐧𝐠 𝐢𝐧 𝐟𝐫𝐨𝐧𝐭 𝐨𝐟 𝐦𝐞<br>\r\n𝐰𝐢𝐭𝐡𝐨𝐮𝐭 𝐡𝐚𝐯𝐢𝐧𝐠 𝐭𝐨 𝐝𝐨 𝐚𝐧𝐲𝐭𝐡𝐢𝐧𝐠...</i> ❞</span></span><br>\r\nㅤ<span style=\"font-size: 8pt;\">- Patchouli Knowledge, <i>東方紅魔郷 〜 the Embodiment of Scarlet Devil</i> (2002)</span><br>\r\n<br>\r\nㅤㅤ<img src=\"https://bin.smwcentral.net/u/23547/Patchouli%2BKnowledge.webp\" alt=\"\"></center><br>\r\n<br>\r\nDid an arrangement of Patchouli Knowledge's theme song, <b><a href=\"https://youtu.be/ygyraTutBJg\" rel=\"nofollow\">Locked Girl ~</a> <a href=\"https://youtu.be/5uMMEUzoP60\" rel=\"nofollow\">The Girl's</a> <a href=\"https://youtu.be/5Rda4JOvYNI \" rel=\"nofollow\">Secret Room</a></b>, from <i>Touhou 6 Kōmakyō ~ the Embodiment of Scarlet Devil</i> in celebration for the <a href=\"https://youtu.be/gTYdXwuIr84\" rel=\"nofollow\">Touhou 6 Remake</a> announcement!! Realized I only have (technically) two more songs to do (one more boss theme in particular), and I thought to start on that!! Only thing was I had a hard time deciding what to do for Patchouli's theme given I find it kinda repetitious (it's easily my least favorite of the boss themes in Touhou 6), but then I remembered that the 7/4 time signature exists, and that's how this came to be.<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. Original Volume, but sacrifices SMW-Compatibility (OG Volume)ㅤ<span style=\"color: #C291EB;\">[Listening-Only]</span><br>\r\nㅤ2. Decreased Volume (LOWER Volume)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤㅤ ♠  What's disabled:<br>\r\nㅤㅤㅤ  -  \"Bonus End\" (@7)<br>\r\nㅤㅤㅤ  -  \"P-Switch\" (@12) <span style=\"color: #3DDA8D;\">← (\"CRONO Bongo.brr\" is in its place in case you really need it)</span><br>\r\nㅤㅤㅤ  -  Thunder SFX<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable pitches for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. G Minor w/ Major Detune (Original Pitch)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span> <br>\r\nㅤ2. G# Minor (Custom Pitch)<br>\r\nㅤ3. G Minor (<a href=\"https://youtu.be/5Rda4JOvYNI\" rel=\"nofollow\">Scarlet Weather Rhapsody</a> Pitch)<br>\r\nㅤ4. A Minor (<a href=\"https://youtu.be/ygyraTutBJg\" rel=\"nofollow\">Koumakyou</a> Pitch)<br>\r\nㅤ5. A# Minor (<a href=\"https://youtu.be/_Ngek8PHNx4\" rel=\"nofollow\">Azure Reflections</a> Pitch)",
+    "description": "<center><span style=\"font-size: 18pt;\"><span style=\"color: #BF91ED;\">❝ <i>𝐋𝐞𝐭'𝐬 𝐬𝐞𝐞... 𝐇𝐨𝐰 𝐭𝐨 𝐭𝐚𝐤𝐞 𝐨𝐮𝐭 𝐭𝐡𝐞 𝐛𝐥𝐚𝐜𝐤 𝐭𝐡𝐢𝐧𝐠 𝐢𝐧 𝐟𝐫𝐨𝐧𝐭 𝐨𝐟 𝐦𝐞<br>\r\n𝐰𝐢𝐭𝐡𝐨𝐮𝐭 𝐡𝐚𝐯𝐢𝐧𝐠 𝐭𝐨 𝐝𝐨 𝐚𝐧𝐲𝐭𝐡𝐢𝐧𝐠...</i> ❞</span></span><br>\r\nㅤ<span style=\"font-size: 8pt;\">- Patchouli Knowledge, <i>東方紅魔郷 〜 the Embodiment of Scarlet Devil</i> (2002)</span><br>\r\n<br>\r\nㅤㅤ<img src=\"https://bin.smwcentral.net/u/23547/Patchouli%2BKnowledge.webp\" alt=\"\"></center><br>\r\n<br>\r\nDid an arrangement of Patchouli Knowledge's theme song, <b><a href=\"https://youtu.be/ygyraTutBJg\" rel=\"noopener nofollow\">Locked Girl ~</a> <a href=\"https://youtu.be/5uMMEUzoP60\" rel=\"noopener nofollow\">The Girl's</a> <a href=\"https://youtu.be/5Rda4JOvYNI \" rel=\"noopener nofollow\">Secret Room</a></b>, from <i>Touhou 6 Kōmakyō ~ the Embodiment of Scarlet Devil</i> in celebration for the <a href=\"https://youtu.be/gTYdXwuIr84\" rel=\"noopener nofollow\">Touhou 6 Remake</a> announcement!! Realized I only have (technically) two more songs to do (one more boss theme in particular), and I thought to start on that!! Only thing was I had a hard time deciding what to do for Patchouli's theme given I find it kinda repetitious (it's easily my least favorite of the boss themes in Touhou 6), but then I remembered that the 7/4 time signature exists, and that's how this came to be.<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. Original Volume, but sacrifices SMW-Compatibility (OG Volume)ㅤ<span style=\"color: #C291EB;\">[Listening-Only]</span><br>\r\nㅤ2. Decreased Volume (LOWER Volume)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤㅤ ♠  What's disabled:<br>\r\nㅤㅤㅤ  -  \"Bonus End\" (@7)<br>\r\nㅤㅤㅤ  -  \"P-Switch\" (@12) <span style=\"color: #3DDA8D;\">← (\"CRONO Bongo.brr\" is in its place in case you really need it)</span><br>\r\nㅤㅤㅤ  -  Thunder SFX<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable pitches for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. G Minor w/ Major Detune (Original Pitch)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span> <br>\r\nㅤ2. G# Minor (Custom Pitch)<br>\r\nㅤ3. G Minor (<a href=\"https://youtu.be/5Rda4JOvYNI\" rel=\"noopener nofollow\">Scarlet Weather Rhapsody</a> Pitch)<br>\r\nㅤ4. A Minor (<a href=\"https://youtu.be/ygyraTutBJg\" rel=\"noopener nofollow\">Koumakyou</a> Pitch)<br>\r\nㅤ5. A# Minor (<a href=\"https://youtu.be/_Ngek8PHNx4\" rel=\"noopener nofollow\">Azure Reflections</a> Pitch)",
     "latest_version": "smwc-42581-1793461078",
     "install_kind": "add_music_k_music",
     "versions": [
@@ -1631,7 +1631,7 @@
       "p-switch",
       "star"
     ],
-    "description": "Did a short arrangement of <b><a href=\"https://youtu.be/xekWhWOjQDU?t=4\" rel=\"nofollow\">Girls' Legend U</a></b> from <i>Umamusume: Pretty Derby</i>. Found out this song could be shortened to be used PERFECTLY with SMW's global music. Also, this makes 3 Umamusume-related submissions on here (y'all should do more with me).<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. Bass is @14 (Slap Bass)<br>\r\nㅤㅤ ♠  Will not work w/ global tracks unless you go into \"Addmusic_sample groups.txt\" and add a \"!\" in front of \"DEFAULT/0D SMW @14.brr\"<br>\r\nㅤ2. Bass is @8 (Fingered Bass)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span> <br>\r\nㅤㅤ ♠  Will work w/ global tracks<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. Enables the Intro (INTRO Enabled)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤ2. Cuts the Intro (INTRO Cut)<br>\r\n<br>\r\n<center><a href=\"https://youtu.be/gTyMgta0HE4\" rel=\"nofollow\"><img src=\"https://media1.tenor.com/m/ciEOibLbF4cAAAAd/gold-ship-gold.gif\" alt=\"\"></a></center>",
+    "description": "Did a short arrangement of <b><a href=\"https://youtu.be/xekWhWOjQDU?t=4\" rel=\"noopener nofollow\">Girls' Legend U</a></b> from <i>Umamusume: Pretty Derby</i>. Found out this song could be shortened to be used PERFECTLY with SMW's global music. Also, this makes 3 Umamusume-related submissions on here (y'all should do more with me).<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. Bass is @14 (Slap Bass)<br>\r\nㅤㅤ ♠  Will not work w/ global tracks unless you go into \"Addmusic_sample groups.txt\" and add a \"!\" in front of \"DEFAULT/0D SMW @14.brr\"<br>\r\nㅤ2. Bass is @8 (Fingered Bass)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span> <br>\r\nㅤㅤ ♠  Will work w/ global tracks<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. Enables the Intro (INTRO Enabled)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤ2. Cuts the Intro (INTRO Cut)<br>\r\n<br>\r\n<center><a href=\"https://youtu.be/gTyMgta0HE4\" rel=\"noopener nofollow\"><img src=\"https://media1.tenor.com/m/ciEOibLbF4cAAAAd/gold-ship-gold.gif\" alt=\"\"></a></center>",
     "latest_version": "smwc-42778-1793114557",
     "install_kind": "add_music_k_music",
     "versions": [
@@ -1667,7 +1667,7 @@
       "star",
       "tense"
     ],
-    "description": "Did a short arrangement of <b><a href=\"https://youtu.be/eoAVxKMzSpU?t=50\" rel=\"nofollow\">Umapyoi Legend</a></b> / <b><a href=\"https://youtu.be/ZzH5JNe6YFg?t=49\" rel=\"nofollow\">Umapyoi Densetsu</a></b> from <i>Umamusume: Pretty Derby</i>. There's a lack of Uma-rep on this site, so let's change that!!!<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. G Major (Original Pitch) ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤ2. F Major (<a href=\"https://youtu.be/zgHcAwUkadA\" rel=\"nofollow\">Enhance Menu</a> Pitch)<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. Enables the Intro (INTRO Enabled)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤ2. Skips the Intro (INTRO Skipped)<br>\r\n<br>\r\n<center><a href=\"https://youtu.be/lNdRbLJlmAk\" rel=\"nofollow\"><img src=\"https://media1.tenor.com/m/a9G7-zI6Tv8AAAAd/tokai-teio-teio.gif\" alt=\"\"></a></center>",
+    "description": "Did a short arrangement of <b><a href=\"https://youtu.be/eoAVxKMzSpU?t=50\" rel=\"noopener nofollow\">Umapyoi Legend</a></b> / <b><a href=\"https://youtu.be/ZzH5JNe6YFg?t=49\" rel=\"noopener nofollow\">Umapyoi Densetsu</a></b> from <i>Umamusume: Pretty Derby</i>. There's a lack of Uma-rep on this site, so let's change that!!!<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. G Major (Original Pitch) ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤ2. F Major (<a href=\"https://youtu.be/zgHcAwUkadA\" rel=\"noopener nofollow\">Enhance Menu</a> Pitch)<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. Enables the Intro (INTRO Enabled)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤ2. Skips the Intro (INTRO Skipped)<br>\r\n<br>\r\n<center><a href=\"https://youtu.be/lNdRbLJlmAk\" rel=\"noopener nofollow\"><img src=\"https://media1.tenor.com/m/a9G7-zI6Tv8AAAAd/tokai-teio-teio.gif\" alt=\"\"></a></center>",
     "latest_version": "smwc-42662-1793114543",
     "install_kind": "add_music_k_music",
     "versions": [

@@ -12,7 +12,7 @@
     "lorom",
     "sa-1"
   ],
-  "description": "This UberASM will display the current progress in the hack (as percentage of exits gotten) on the overworld border. It can be paired with <a href=\"https://www.smwcentral.net/?p=section&a=details&id=24677\">this patch</a> for consistency. Check out the readme for more information.<br>\r\nThis is the second part of <span class=\"un-outer\" title=\"Ondore&#039;s Lies\"><a href=\"/?p=profile&amp;id=25495\" style=\"color: var(--user-color-3);\" class=\"un\">Ondore&#039;s Lies</a></span>' request for a percentage counter on file select and overworld.",
+  "description": "This UberASM will display the current progress in the hack (as percentage of exits gotten) on the overworld border. It can be paired with <a href=\"https://www.smwcentral.net/?p=section&a=details&id=24677\" rel=\"noopener\">this patch</a> for consistency. Check out the readme for more information.<br>\r\nThis is the second part of <span class=\"un-outer\" title=\"Ondore&#039;s Lies\"><a href=\"/?p=profile&amp;id=25495\" style=\"color: var(--user-color-3);\" class=\"un\" rel=\"noopener\">Ondore&#039;s Lies</a></span>' request for a percentage counter on file select and overworld.",
   "latest_version": "V1.0.1",
   "install_kind": "uber_asm",
   "versions": [

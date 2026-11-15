@@ -13,7 +13,7 @@
     "sa-1",
     "sfx"
   ],
-  "description": "This patch adds in additional sound effects when Dry Bones and Bony Beetle is about to reanimate itself, similarly to the NSMB games.<br>\r\n<br>\r\nComes with two custom sound effects as well instructions on how to insert them.<br>\r\n<br>\r\nWhile not strictly required for this patch to work, it's meant to be used in conjunction with <a href=\"https://smwc.me/s/42569\">Dry Bones and Bony Beetle SubOffScreen Fix</a> so the sound effects don't play when said sprites are off-screen.",
+  "description": "This patch adds in additional sound effects when Dry Bones and Bony Beetle is about to reanimate itself, similarly to the NSMB games.<br>\r\n<br>\r\nComes with two custom sound effects as well instructions on how to insert them.<br>\r\n<br>\r\nWhile not strictly required for this patch to work, it's meant to be used in conjunction with <a href=\"https://smwc.me/s/42569\" rel=\"noopener\">Dry Bones and Bony Beetle SubOffScreen Fix</a> so the sound effects don't play when said sprites are off-screen.",
   "latest_version": "V1.0.1",
   "install_kind": "asar_patch",
   "versions": [

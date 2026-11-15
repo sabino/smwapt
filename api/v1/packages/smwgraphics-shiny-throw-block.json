@@ -1,0 +1,30 @@
+{
+  "name": "smwgraphics-shiny-throw-block",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 43472,
+  "title": "Shiny Throw Block",
+  "authors": [
+    "Buddyman_Gaming5619"
+  ],
+  "tags": [
+    "throw block"
+  ],
+  "description": "A custom animated version of the <span style=\"color: #4f4ce6;\"><b>Throw Block</b></span> from <b><span style=\"color: #ff0019;\">S</span><span style=\"color: #00d5ff;\">u</span><span style=\"color: #ffdd00;\">p</span><span style=\"color: #00d5ff;\">e</span><span style=\"color: #00cc18;\">r</span> <span style=\"color: #00cc18;\">M</span><span style=\"color: #00d5ff;\">a</span><span style=\"color: #ffdd00;\">r</span><span style=\"color: #ff0019;\">i</span><span style=\"color: #00cc18;\">o</span> <span style=\"color: #ffdd00;\">W</span><span style=\"color: #00d5ff;\">o</span><span style=\"color: #00cc18;\">r</span><span style=\"color: #ff0019;\">l</span><span style=\"color: #00cc18;\">d</span><span style=\"color: #00d5ff;\">™</span></b>.<br>\r\n<br>\r\nFree to use, give credit when used, Do not steal, and have fun with it!<br>\r\n<br>\r\nTools used:<br>\r\nLunar Magic 3.71<br>\r\nYY-CHR 06/06/2021 build<br>\r\nSnes9X 1.59.2",
+  "latest_version": "smwc-43472-1794161069",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 43472,
+      "title": "Shiny Throw Block",
+      "version": "smwc-43472-1794161069",
+      "upstream_time": 1794161069,
+      "download_url": "https://dl.smwcentral.net/43472/Animated-Throw-Blocks.zip",
+      "filename": "Animated-Throw-Blocks.zip",
+      "size": 2954,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

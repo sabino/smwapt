@@ -12,7 +12,7 @@
     "lorom",
     "sa-1"
   ],
-  "description": "This block will act like another block when certain event is activated.<br>\r\n<br>\r\nBe sure to check readme for more details.<br>\r\n<br>\r\nRequested by Gi Manilla",
+  "description": "This block will act like another block when certain event is activated.<br>\r\n<br>\r\nBe sure to check readme for more details.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Aram\"><span title=\"Aram donated $5.00.\" class=\"icon icon-donor\"></span><a href=\"/?p=profile&amp;id=21245\" style=\"color: var(--user-color-3);\" class=\"un unavailable inactive\" rel=\"noopener\">Aram</a></span>.",
   "latest_version": "1.21",
   "install_kind": "gps_block",
   "versions": [

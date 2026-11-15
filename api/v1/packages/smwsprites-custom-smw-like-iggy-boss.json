@@ -14,7 +14,7 @@
     "lorom",
     "sa-1"
   ],
-  "description": "Video: <a href=\"https://www.youtube.com/watch?v=scEE-jSWcC0\" rel=\"nofollow\">LINK</a><br>\r\n<br>\r\nThis is a custom Iggy Boss I coded for Mario's Enigmatic Tales. A rather simple boss that can be used in earlier worlds.<br>\r\n<br>\r\nSpecial thanks to Sonikku for the graphics (ripped from MFGG). Credit is always a plus for the code.",
+  "description": "Video: <a href=\"https://www.youtube.com/watch?v=scEE-jSWcC0\" rel=\"noopener nofollow\">LINK</a><br>\r\n<br>\r\nThis is a custom Iggy Boss I coded for Mario's Enigmatic Tales. A rather simple boss that can be used in earlier worlds.<br>\r\n<br>\r\nSpecial thanks to Sonikku for the graphics (ripped from MFGG). Credit is always a plus for the code.",
   "latest_version": "smwc-42637-1783173142",
   "install_kind": "pixi_sprite",
   "versions": [

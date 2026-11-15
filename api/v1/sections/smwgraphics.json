@@ -1,5 +1,37 @@
 [
   {
+    "name": "smwgraphics-32x32-cloud",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 43450,
+    "title": "32x32 Cloud",
+    "authors": [
+      "Buddyman_Gaming5619"
+    ],
+    "tags": [
+      "32x32",
+      "block",
+      "cloud"
+    ],
+    "description": "This is a 32x32 version of the Cloud block from <b>Super Mario World</b>.<br>\r\n<br>\r\nFree to use, give credit.",
+    "latest_version": "1.10",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 43450,
+        "title": "32x32 Cloud",
+        "version": "1.10",
+        "upstream_time": 1794159771,
+        "download_url": "https://dl.smwcentral.net/43450/32x32%20Cloud%20Block.zip",
+        "filename": "32x32 Cloud Block.zip",
+        "size": 1792,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
     "name": "smwgraphics-alternate-redrawn-muncher",
     "aliases": [],
     "section": "smwgraphics",
@@ -43,7 +75,7 @@
       "jungle",
       "sky"
     ],
-    "description": "Brambles I made for my QLDC 2021 level, Curse of the Keys. They're GBA/DS styled-ish and blend well with my other tilesets. Since they only take 1 slot I would suggest mixing them with the wood/bridge tiles from my <a href=\"https://smwc.me/s/37476\">Radished Cliffside</a> set.<br>\r\n<br>\r\nNote that the sloped tiles are set to act like normal slopes (the upside-down ones as tileset-specifics). They need some kind of patch (Like <a href=\"https://smwc.me/s/27989\">This UberASM</a>) or custom block to achieve the effect.",
+    "description": "Brambles I made for my QLDC 2021 level, Curse of the Keys. They're GBA/DS styled-ish and blend well with my other tilesets. Since they only take 1 slot I would suggest mixing them with the wood/bridge tiles from my <a href=\"https://smwc.me/s/37476\" rel=\"noopener\">Radished Cliffside</a> set.<br>\r\n<br>\r\nNote that the sloped tiles are set to act like normal slopes (the upside-down ones as tileset-specifics). They need some kind of patch (Like <a href=\"https://smwc.me/s/27989\" rel=\"noopener\">This UberASM</a>) or custom block to achieve the effect.",
     "latest_version": "smwc-43038-1787609487",
     "install_kind": "asset_only",
     "versions": [
@@ -136,7 +168,7 @@
     "tags": [
       "rex"
     ],
-    "description": "Here are the Burnt Rex graphics I just made in minutes. Now includes optional GFX for <span class=\"un-outer\" title=\"RussianMan\"><a href=\"/?p=profile&amp;id=28983\" style=\"color: #2e9ca5;\" class=\"un\">RussianMan</a></span>'s <a href=\"https://smwc.me/s/39736\">Spittin' Rex</a> custom sprite.<br>\r\n<br>\r\nDon't forget to give credit",
+    "description": "Here are the Burnt Rex graphics I just made in minutes. Now includes optional GFX for <span class=\"un-outer\" title=\"RussianMan\"><a href=\"/?p=profile&amp;id=28983\" style=\"color: #2e9ca5;\" class=\"un\" rel=\"noopener\">RussianMan</a></span>'s <a href=\"https://smwc.me/s/39736\" rel=\"noopener\">Spittin' Rex</a> custom sprite.<br>\r\n<br>\r\nDon't forget to give credit",
     "latest_version": "1.1",
     "install_kind": "asset_only",
     "versions": [
@@ -169,7 +201,7 @@
       "patch needed",
       "town"
     ],
-    "description": "This is my first time posting an sunset BG and FG I've made myself, and as you can see, this is a redraw of the Cragster Land, based on Calling All Mixels. I've decided to make this a sunset because in the original game, the Electroid Land takes place at night, since it was a disco land of some sort. I've used an isometric perspective on the L3 BG, not only because it looks aesthetically pleasing, but also, and most importantly, to save storage space for the L3 BG<br>\r\n<br>\r\nNOTICE: If you want to use the L3 BG, make sure to use <a href=\"https://www.smwcentral.net/?p=section&a=details&id=40144\">a patch to get rid of the status bar.</a>",
+    "description": "This is my first time posting an sunset BG and FG I've made myself, and as you can see, this is a redraw of the Cragster Land, based on Calling All Mixels. I've decided to make this a sunset because in the original game, the Electroid Land takes place at night, since it was a disco land of some sort. I've used an isometric perspective on the L3 BG, not only because it looks aesthetically pleasing, but also, and most importantly, to save storage space for the L3 BG<br>\r\n<br>\r\nNOTICE: If you want to use the L3 BG, make sure to use <a href=\"https://www.smwcentral.net/?p=section&a=details&id=40144\" rel=\"noopener\">a patch to get rid of the status bar.</a>",
     "latest_version": "smwc-43370-1792355244",
     "install_kind": "asset_only",
     "versions": [
@@ -200,7 +232,7 @@
       "ruins",
       "volcano"
     ],
-    "description": "Does anyone remember LEGO Mixels? Well, I've made some graphics of the 1st world in Calling All Mixels, the Infernites Land. In this game, each tribe's land has been re-imagined specifically for that game, like how the Infernites Land has been re-imagined as a tropical vacation resort with burning hot lava instead of water, since the Infernites themselves are fire-resistant and go swim and bathe there.<br>\r\n<br>\r\nHuge thanks to <span class=\"un-outer\" title=\"HaruMKT\"><a href=\"/?p=profile&amp;id=13862\" style=\"color: var(--user-color-3);\" class=\"un\">HaruMKT</a></span> for helping me with managing the palettes' colors, I struggle a lot with managing colors, and luckily, they came in to help me, so, thanks again!",
+    "description": "Does anyone remember LEGO Mixels? Well, I've made some graphics of the 1st world in Calling All Mixels, the Infernites Land. In this game, each tribe's land has been re-imagined specifically for that game, like how the Infernites Land has been re-imagined as a tropical vacation resort with burning hot lava instead of water, since the Infernites themselves are fire-resistant and go swim and bathe there.<br>\r\n<br>\r\nHuge thanks to <span class=\"un-outer\" title=\"HaruMKT\"><a href=\"/?p=profile&amp;id=13862\" style=\"color: var(--user-color-3);\" class=\"un\" rel=\"noopener\">HaruMKT</a></span> for helping me with managing the palettes' colors, I struggle a lot with managing colors, and luckily, they came in to help me, so, thanks again!",
     "latest_version": "smwc-43325-1792355987",
     "install_kind": "asset_only",
     "versions": [
@@ -293,7 +325,7 @@
       "chargin' chuck",
       "chuck"
     ],
-    "description": "A chef skin for the various Chuck sprites.  Looks oddly similar to Chef Kawasaki from the Kirby series.  To fix the shoulder, please apply <a href=\"https://www.smwcentral.net/?p=tweaks&a=details&id=195\"> this tweak</a>.<br>\r\n<br>\r\nMade by No Body the Dragon.",
+    "description": "A chef skin for the various Chuck sprites.  Looks oddly similar to Chef Kawasaki from the Kirby series.  To fix the shoulder, please apply <a href=\"https://www.smwcentral.net/?p=tweaks&a=details&id=195\" rel=\"noopener\"> this tweak</a>.<br>\r\n<br>\r\nMade by No Body the Dragon.",
     "latest_version": "smwc-43081-1791080573",
     "install_kind": "asset_only",
     "versions": [
@@ -326,7 +358,7 @@
       "ninji",
       "sideways ninji"
     ],
-    "description": "Original graphic replacements for the following sprites:<br>\r\n<br>\r\n<ul><li>Ninji (sprite 51)</li>\n<li><a href=\"https://www.smwcentral.net/?p=section&a=details&id=28494\">Sideways Ninji</a></li>\n<li><a href=\"https://www.smwcentral.net/?p=section&a=details&id=23712\">Giant Ninji</a></li>\n<li><a href=\"https://bin.smwcentral.net/u/28983/Giant%2BSideways%2BNinji.zip&key=C4JRzOhm\" rel=\"nofollow\">Giant Sideways Ninji</a></li></ul><br>\r\nAs well as any custom sprite that uses the original Ninji graphics.<br>\r\n<br>\r\nIn addition to the graphics, the .zip comes with a custom palette for a purple Ninji skin, akin to the enemy's appearance in SMAS:SMB2. Required to set the sprites' palette through STEAR/Tweaker/PIXI's CFG Editor from palette C to palette F for the color change to take effect.<br>\r\n<br>\r\nAdditional information in the readme file. Credit is optional, but appreciated.",
+    "description": "Original graphic replacements for the following sprites:<br>\r\n<br>\r\n<ul><li>Ninji (sprite 51)</li>\n<li><a href=\"https://www.smwcentral.net/?p=section&a=details&id=28494\" rel=\"noopener\">Sideways Ninji</a></li>\n<li><a href=\"https://www.smwcentral.net/?p=section&a=details&id=23712\" rel=\"noopener\">Giant Ninji</a></li>\n<li><a href=\"https://bin.smwcentral.net/u/28983/Giant%2BSideways%2BNinji.zip&key=C4JRzOhm\" rel=\"noopener nofollow\">Giant Sideways Ninji</a></li></ul><br>\r\nAs well as any custom sprite that uses the original Ninji graphics.<br>\r\n<br>\r\nIn addition to the graphics, the .zip comes with a custom palette for a purple Ninji skin, akin to the enemy's appearance in SMAS:SMB2. Required to set the sprites' palette through STEAR/Tweaker/PIXI's CFG Editor from palette C to palette F for the color change to take effect.<br>\r\n<br>\r\nAdditional information in the readme file. Credit is optional, but appreciated.",
     "latest_version": "smwc-43373-1792591432",
     "install_kind": "asset_only",
     "versions": [
@@ -354,7 +386,7 @@
       "Broozer"
     ],
     "tags": [],
-    "description": "Original graphic replacements for <a href=\"https://www.smwcentral.net/?p=section&a=details&id=6419\">Dispari Scuro's Skeeter sprite</a>.<br>\r\n<br>\r\nIncludes 6 variations, one for each design of the enemy in different Mario games.<br>\r\n<br>\r\nAdditional information in the readme file. Credit is optional, but appreciated.",
+    "description": "Original graphic replacements for <a href=\"https://www.smwcentral.net/?p=section&a=details&id=6419\" rel=\"noopener\">Dispari Scuro's Skeeter sprite</a>.<br>\r\n<br>\r\nIncludes 6 variations, one for each design of the enemy in different Mario games.<br>\r\n<br>\r\nAdditional information in the readme file. Credit is optional, but appreciated.",
     "latest_version": "smwc-43270-1792355624",
     "install_kind": "asset_only",
     "versions": [
@@ -391,7 +423,7 @@
       "snifit",
       "tweeter"
     ],
-    "description": "Original graphic replacements for the following sprites:<br>\r\n<ul><li><a href=\"https://www.smwcentral.net/?p=section&a=details&id=16800\">SMB2 Shyguy + Giant Shyguy</a></li>\n<li><a href=\"https://www.smwcentral.net/?p=section&a=details&id=16801\">SMB2 Snifit + Giant Snifit</a></li>\n<li><a href=\"https://www.smwcentral.net/?p=section&a=details&id=16798\">Beezo + Giant Beezo</a></li>\n<li><a href=\"https://www.smwcentral.net/?p=section&a=details&id=16802\">Tweeter + Giant Tweeter</a></li></ul><br>\r\nMay or may not be compatible with other sprite adaptations of these enemies.<br>\r\n<br>\r\nAdditional information in the readme file. Credit is optional, but appreciated.",
+    "description": "Original graphic replacements for the following sprites:<br>\r\n<ul><li><a href=\"https://www.smwcentral.net/?p=section&a=details&id=16800\" rel=\"noopener\">SMB2 Shyguy + Giant Shyguy</a></li>\n<li><a href=\"https://www.smwcentral.net/?p=section&a=details&id=16801\" rel=\"noopener\">SMB2 Snifit + Giant Snifit</a></li>\n<li><a href=\"https://www.smwcentral.net/?p=section&a=details&id=16798\" rel=\"noopener\">Beezo + Giant Beezo</a></li>\n<li><a href=\"https://www.smwcentral.net/?p=section&a=details&id=16802\" rel=\"noopener\">Tweeter + Giant Tweeter</a></li></ul><br>\r\nMay or may not be compatible with other sprite adaptations of these enemies.<br>\r\n<br>\r\nAdditional information in the readme file. Credit is optional, but appreciated.",
     "latest_version": "smwc-43197-1791145414",
     "install_kind": "asset_only",
     "versions": [
@@ -539,10 +571,7 @@
       "Anorakun"
     ],
     "tags": [
-      "eastern",
       "forest",
-      "house",
-      "interior",
       "mountain"
     ],
     "description": "The landscape seen during the second Impact demolition sequence, from Ganbare Goemon 2: Kiteretsu Shougun Magginesu. It depicts another view of Mt. Fuji, this time, directly from the Susonogawa River, where the player must destroy various enemy troops bases and fight another giant robot.<br>\r\n<br>\r\nThe water is palette animated. It benefits a lot from parallax scrolling in certain parts.  <br>\r\n<br>\r\nYou can extend the river easily, if you don't like the perspective of the background.<br>\r\n<br>\r\nA good fit for mountain or forest themed levels.",
@@ -557,18 +586,6 @@
         "download_url": "https://dl.smwcentral.net/41860/Ganbare%20Goemon%202%20%28SFC%29%20-%20Susonogawa%20River.zip",
         "filename": "Ganbare Goemon 2 (SFC) - Susonogawa River.zip",
         "size": 4167,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      },
-      {
-        "upstream_id": 41859,
-        "title": "Ganbare Goemon 2: Kiteretsu Shougun Magginesu -  Player Selection",
-        "version": "smwc-41859-1786309575",
-        "upstream_time": 1786309575,
-        "download_url": "https://dl.smwcentral.net/41859/Ganbare%20Goemon%202%20%28SFC%29%20-%20Player_Selection.zip",
-        "filename": "Ganbare Goemon 2 (SFC) - Player_Selection.zip",
-        "size": 6217,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -587,7 +604,7 @@
     "tags": [
       "nyololin"
     ],
-    "description": "This is Gary from Zootopia 2, he's a blue pit viper. Use him as a reskin for <a href=\"https://www.smwcentral.net/?p=section&a=details&id=16223\">Nyololin</a>.<br>\r\n<br>\r\nMore info in the readme.",
+    "description": "This is Gary from Zootopia 2, he's a blue pit viper. Use him as a reskin for <a href=\"https://www.smwcentral.net/?p=section&a=details&id=16223\" rel=\"noopener\">Nyololin</a>.<br>\r\n<br>\r\nMore info in the readme.",
     "latest_version": "smwc-43083-1788030701",
     "install_kind": "asset_only",
     "versions": [
@@ -618,7 +635,7 @@
       "city",
       "night"
     ],
-    "description": "The beautiful night city BG from the J2ME phone game Ghostbusters: Ghost Trap. I had to compress the color palette for this to fit on the SNES, this BG is ripped ripped by Solink on The Spriters Resource, here's the link to the original submission with all the other BG's and FG tilesets:<br>\r\nhttps://www.spriters-resource.com/mobile/ghostbusters/asset/28226/",
+    "description": "The beautiful night city BG from the J2ME phone game Ghostbusters: Ghost Trap. I had to compress the color palette for this to fit on the SNES, this BG is ripped ripped by Solink on The Spriters Resource, here's the link to the original submission with all the other BG's and FG tilesets:<br>\r\n<a href=\"https://www.spriters-resource.com/mobile/ghostbusters/asset/28226/\" rel=\"noopener nofollow\">https://www.spriters-resource.com/mobile/ghostbusters/asset/28226/</a>",
     "latest_version": "smwc-42843-1786844942",
     "install_kind": "asset_only",
     "versions": [
@@ -837,7 +854,7 @@
       "female",
       "humanoid"
     ],
-    "description": "<i>“I can see at the end of the horizon — <a href=\"https://vocaloid.fandom.com/wiki/Hatsune_Miku\" rel=\"nofollow\">HATSUNE MIKU</a>?!”</i><br>\r\n<br>\r\nYou heard that right — the most famous Vocaloid of all has arrived to <i>Super Mario World</i>! Featuring all of the poses included in the game, as well as for the overworld. In addition, it has several color schemes, such as Player 2 Miku having Akita Neru's palette, and Fire Miku palettes being based on Sakura and Snow Miku color schemes.<br>\r\n<br>\r\nPlease note that, due to the way <i>SMW</i> graphics limitations work, all of her graphics are HEAVILY EDITED to compensate with player graphics (and color palette even!) limitations. A future update will include support for 32x32 Tilemap Patch, which allows more dynamic movements and poses.<br>\r\n<br>\r\nCredit goes to Kryz70phoro for making the graphics (You can check out <a href=\"https://www.spriters-resource.com/custom_edited/hatsunemikucustoms/asset/553520/\" rel=\"nofollow\">the spritesheet</a> here!) and ported by yours truly for ROM hacking usage.",
+    "description": "<i>“I can see at the end of the horizon — <a href=\"https://vocaloid.fandom.com/wiki/Hatsune_Miku\" rel=\"noopener nofollow\">HATSUNE MIKU</a>?!”</i><br>\r\n<br>\r\nYou heard that right — the most famous Vocaloid of all has arrived to <i>Super Mario World</i>! Featuring all of the poses included in the game, as well as for the overworld. In addition, it has several color schemes, such as Player 2 Miku having Akita Neru's palette, and Fire Miku palettes being based on Sakura and Snow Miku color schemes.<br>\r\n<br>\r\nPlease note that, due to the way <i>SMW</i> graphics limitations work, all of her graphics are HEAVILY EDITED to compensate with player graphics (and color palette even!) limitations. A future update will include support for 32x32 Tilemap Patch, which allows more dynamic movements and poses.<br>\r\n<br>\r\nCredit goes to Kryz70phoro for making the graphics (You can check out <a href=\"https://www.spriters-resource.com/custom_edited/hatsunemikucustoms/asset/553520/\" rel=\"noopener nofollow\">the spritesheet</a> here!) and ported by yours truly for ROM hacking usage.",
     "latest_version": "smwc-43103-1791169057",
     "install_kind": "asset_only",
     "versions": [
@@ -931,7 +948,7 @@
       "abstract",
       "flesh"
     ],
-    "description": "The FG from the final stage of Kirby: Canvas Curse on the DS, MagicMaker on The Spriters Resource ripped most of the tiles, while I've edited and ripped some others, I was too tired to go back to ripping the FG because I just defeated Drawcia and her horrifying soul form, and also because of how many tiles it has, in fact, I got lost on the in-game tileset on my emulator! Go <a href=\"https://www.spriters-resource.com/profile/magicmaker/\" rel=\"nofollow\">check them out</a> and their <a href=\"https://www.spriters-resource.com/ds_dsi/kirbycanvascurse/asset/26764/\" rel=\"nofollow\">original submission</a>",
+    "description": "The FG from the final stage of Kirby: Canvas Curse on the DS, MagicMaker on The Spriters Resource ripped most of the tiles, while I've edited and ripped some others, I was too tired to go back to ripping the FG because I just defeated Drawcia and her horrifying soul form, and also because of how many tiles it has, in fact, I got lost on the in-game tileset on my emulator! Go <a href=\"https://www.spriters-resource.com/profile/magicmaker/\" rel=\"noopener nofollow\">check them out</a> and their <a href=\"https://www.spriters-resource.com/ds_dsi/kirbycanvascurse/asset/26764/\" rel=\"noopener nofollow\">original submission</a>",
     "latest_version": "smwc-43255-1791146490",
     "install_kind": "asset_only",
     "versions": [
@@ -1055,7 +1072,7 @@
       "grassland",
       "mushroom"
     ],
-    "description": "A background with large mushroom platforms which would go well especially in grassland levels. It is a revamped version of <a href=\"https://www.smwcentral.net/?p=section&a=details&id=30494\">this submission</a>, 18 years forward, with a glossy, more refined art style, higher tile usage, three different variations and featuring both a Layer 2 and a Layer 3 part. Since the latter takes up the entire screen, if you intend to use it it is expected that you either replace the Layer 3 status bar with a sprite alternative (e.g. <a href=\"https://www.smwcentral.net/?p=section&a=details&id=12383\">1</a>, <a href=\"https://www.smwcentral.net/?p=section&a=details&id=24026\">2</a>, <a href=\"https://www.smwcentral.net/?p=section&a=details&id=28578\">3</a>) or disable it entirely (<a href=\"https://www.smwcentral.net/?p=section&a=details&id=40144\">1</a>, <a href=\"https://www.smwcentral.net/?p=section&a=details&id=28449\">2</a>).<br>\r\n<br>\r\nCredit is optional, but appreciated.",
+    "description": "A background with large mushroom platforms which would go well especially in grassland levels. It is a revamped version of <a href=\"https://www.smwcentral.net/?p=section&a=details&id=30494\" rel=\"noopener\">this submission</a>, 18 years forward, with a glossy, more refined art style, higher tile usage, three different variations and featuring both a Layer 2 and a Layer 3 part. Since the latter takes up the entire screen, if you intend to use it it is expected that you either replace the Layer 3 status bar with a sprite alternative (e.g. <a href=\"https://www.smwcentral.net/?p=section&a=details&id=12383\" rel=\"noopener\">1</a>, <a href=\"https://www.smwcentral.net/?p=section&a=details&id=24026\" rel=\"noopener\">2</a>, <a href=\"https://www.smwcentral.net/?p=section&a=details&id=28578\" rel=\"noopener\">3</a>) or disable it entirely (<a href=\"https://www.smwcentral.net/?p=section&a=details&id=40144\" rel=\"noopener\">1</a>, <a href=\"https://www.smwcentral.net/?p=section&a=details&id=28449\" rel=\"noopener\">2</a>).<br>\r\n<br>\r\nCredit is optional, but appreciated.",
     "latest_version": "smwc-43074-1787871298",
     "install_kind": "asset_only",
     "versions": [
@@ -1131,6 +1148,36 @@
         "download_url": "https://dl.smwcentral.net/42922/SMWGFX-toyland.zip",
         "filename": "SMWGFX-toyland.zip",
         "size": 14075,
+        "sha256": null,
+        "dependencies": [],
+        "install_kind": "asset_only"
+      }
+    ]
+  },
+  {
+    "name": "smwgraphics-shiny-throw-block",
+    "aliases": [],
+    "section": "smwgraphics",
+    "upstream_id": 43472,
+    "title": "Shiny Throw Block",
+    "authors": [
+      "Buddyman_Gaming5619"
+    ],
+    "tags": [
+      "throw block"
+    ],
+    "description": "A custom animated version of the <span style=\"color: #4f4ce6;\"><b>Throw Block</b></span> from <b><span style=\"color: #ff0019;\">S</span><span style=\"color: #00d5ff;\">u</span><span style=\"color: #ffdd00;\">p</span><span style=\"color: #00d5ff;\">e</span><span style=\"color: #00cc18;\">r</span> <span style=\"color: #00cc18;\">M</span><span style=\"color: #00d5ff;\">a</span><span style=\"color: #ffdd00;\">r</span><span style=\"color: #ff0019;\">i</span><span style=\"color: #00cc18;\">o</span> <span style=\"color: #ffdd00;\">W</span><span style=\"color: #00d5ff;\">o</span><span style=\"color: #00cc18;\">r</span><span style=\"color: #ff0019;\">l</span><span style=\"color: #00cc18;\">d</span><span style=\"color: #00d5ff;\">™</span></b>.<br>\r\n<br>\r\nFree to use, give credit when used, Do not steal, and have fun with it!<br>\r\n<br>\r\nTools used:<br>\r\nLunar Magic 3.71<br>\r\nYY-CHR 06/06/2021 build<br>\r\nSnes9X 1.59.2",
+    "latest_version": "smwc-43472-1794161069",
+    "install_kind": "asset_only",
+    "versions": [
+      {
+        "upstream_id": 43472,
+        "title": "Shiny Throw Block",
+        "version": "smwc-43472-1794161069",
+        "upstream_time": 1794161069,
+        "download_url": "https://dl.smwcentral.net/43472/Animated-Throw-Blocks.zip",
+        "filename": "Animated-Throw-Blocks.zip",
+        "size": 2954,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -1243,7 +1290,7 @@
       "night",
       "ruins"
     ],
-    "description": "Here's the BG and FG of Stardust Speedway Zone, I had to take some creative liberties with the Layer 3 BG because I don't think I can fit that many tiles in one file, and I don't want to sacrifice the global LG storage for this. I had to reduce the amount of colors in the palettes of the FG and the L3 BG, also, I had to reshade some of the FG tiles to appear more \"smooth\" to give off the illusion that it has more color, like in the original tileset.<br>\r\n<br>\r\nA huge thank you to Random Talking Bush from the TSR moderation team for letting me and everyone else use this BG and FG tileset, go check out their <a href=\"https://www.spriters-resource.com/pc_computer/sonicmania/asset/95654/\" rel=\"nofollow\">original submission</a> and their <a href=\"https://www.spriters-resource.com/profile/random+talking+bush/\" rel=\"nofollow\">profile</a>, and make sure to credit them for originally ripping these assets for everyone to use!<br>\r\n<br>\r\nNOTICE: I'd highly recommend to apply a <a href=\"https://www.smwcentral.net/?p=section&a=details&id=40144\">patch to remove the layer 3 statusbar</a> to make space for layer 3 BG's",
+    "description": "Here's the BG and FG of Stardust Speedway Zone, I had to take some creative liberties with the Layer 3 BG because I don't think I can fit that many tiles in one file, and I don't want to sacrifice the global LG storage for this. I had to reduce the amount of colors in the palettes of the FG and the L3 BG, also, I had to reshade some of the FG tiles to appear more \"smooth\" to give off the illusion that it has more color, like in the original tileset.<br>\r\n<br>\r\nA huge thank you to Random Talking Bush from the TSR moderation team for letting me and everyone else use this BG and FG tileset, go check out their <a href=\"https://www.spriters-resource.com/pc_computer/sonicmania/asset/95654/\" rel=\"noopener nofollow\">original submission</a> and their <a href=\"https://www.spriters-resource.com/profile/random+talking+bush/\" rel=\"noopener nofollow\">profile</a>, and make sure to credit them for originally ripping these assets for everyone to use!<br>\r\n<br>\r\nNOTICE: I'd highly recommend to apply a <a href=\"https://www.smwcentral.net/?p=section&a=details&id=40144\" rel=\"noopener\">patch to remove the layer 3 statusbar</a> to make space for layer 3 BG's",
     "latest_version": "smwc-43220-1791148239",
     "install_kind": "asset_only",
     "versions": [
@@ -1255,36 +1302,6 @@
         "download_url": "https://dl.smwcentral.net/43220/sonicmaniasszact1.zip",
         "filename": "sonicmaniasszact1.zip",
         "size": 14484,
-        "sha256": null,
-        "dependencies": [],
-        "install_kind": "asset_only"
-      }
-    ]
-  },
-  {
-    "name": "smwgraphics-spike",
-    "aliases": [],
-    "section": "smwgraphics",
-    "upstream_id": 42818,
-    "title": "Spike",
-    "authors": [
-      "Weekly"
-    ],
-    "tags": [
-      "spike"
-    ],
-    "description": "A new graphic for Spike, the little enemy that throws spiked balls into you. I tried to make it closer to the one from Super Princess Peach.<br>\r\nUses vanilla palette.",
-    "latest_version": "smwc-42818-1786305647",
-    "install_kind": "asset_only",
-    "versions": [
-      {
-        "upstream_id": 42818,
-        "title": "Spike",
-        "version": "smwc-42818-1786305647",
-        "upstream_time": 1786305647,
-        "download_url": "https://dl.smwcentral.net/42818/Weekly-Spike.zip",
-        "filename": "Weekly-Spike.zip",
-        "size": 2455,
         "sha256": null,
         "dependencies": [],
         "install_kind": "asset_only"
@@ -1304,7 +1321,7 @@
     "tags": [
       "sans serif"
     ],
-    "description": "A 8x16 recreation of the font that will be used in the fangame, Super Mario 127, created by @Charpurrr on Twitter.<br>\r\n<br>\r\n<a href=\"https://x.com/Mario127Game/status/1787198919232942454\" rel=\"nofollow\">Here's the original post! It was posted with the author's permission. </a>",
+    "description": "A 8x16 recreation of the font that will be used in the fangame, Super Mario 127, created by @Charpurrr on Twitter.<br>\r\n<br>\r\n<a href=\"https://x.com/Mario127Game/status/1787198919232942454\" rel=\"noopener nofollow\">Here's the original post! It was posted with the author's permission. </a>",
     "latest_version": "smwc-43165-1791139776",
     "install_kind": "asset_only",
     "versions": [
@@ -1334,7 +1351,7 @@
     "tags": [
       "block"
     ],
-    "description": "These cool looking Mario-Only and Sprite-Only Blocks from SMBX.<br>\r\n<br>\r\nIt uses original palette 1 and 2<br>\r\n<br>\r\nLink for the <a href=\"https://www.smwcentral.net/?p=section&a=details&id=19967\">blocks</a> meant to be used.",
+    "description": "These cool looking Mario-Only and Sprite-Only Blocks from SMBX.<br>\r\n<br>\r\nIt uses original palette 1 and 2<br>\r\n<br>\r\nLink for the <a href=\"https://www.smwcentral.net/?p=section&a=details&id=19967\" rel=\"noopener\">blocks</a> meant to be used.",
     "latest_version": "smwc-42852-1786845484",
     "install_kind": "asset_only",
     "versions": [
@@ -1399,7 +1416,7 @@
       "snifit",
       "tweeter"
     ],
-    "description": "A GFX pack that contains a SMW styled shy guy, snifit etc.<br>\r\nTO USE WITH:<br>\r\n<a href=\"https://www.smwcentral.net/?p=section&a=details&id=43087\">ShyGuy/Snifit</a><br>\r\n<a href=\"https://www.smwcentral.net/?p=section&a=details&id=43089\">Tweeter</a><br>\r\n<a href=\"https://www.smwcentral.net/?p=section&a=details&id=43088\">Beezo</a><br>\r\n",
+    "description": "A GFX pack that contains a SMW styled shy guy, snifit etc.<br>\r\nTO USE WITH:<br>\r\n<a href=\"https://www.smwcentral.net/?p=section&a=details&id=43087\" rel=\"noopener\">ShyGuy/Snifit</a><br>\r\n<a href=\"https://www.smwcentral.net/?p=section&a=details&id=43089\" rel=\"noopener\">Tweeter</a><br>\r\n<a href=\"https://www.smwcentral.net/?p=section&a=details&id=43088\" rel=\"noopener\">Beezo</a><br>\r\n",
     "latest_version": "smwc-43272-1792350879",
     "install_kind": "asset_only",
     "versions": [

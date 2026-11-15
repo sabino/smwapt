@@ -1,0 +1,36 @@
+{
+  "name": "uberasm-save-at-any-time-on-overworld",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 42773,
+  "title": "Save At Any Time On Overworld",
+  "authors": [
+    "yoshifanatic"
+  ],
+  "tags": [
+    "controller",
+    "lorom",
+    "sa-1",
+    "save",
+    "tile"
+  ],
+  "description": "This handy UberASM gives you a couple different options for allowing you to save the game at any time on the overworld:<br>\r\n<br>\r\n- Autosave when you move on the overworld and when exiting a level.<br>\r\n- Bring up the save prompt with a configurable button.<br>\r\n- Save upon pressing a configurable button.<br>\r\n<br>\r\nIt'll also optionally display an icon to indicate the game has saved.<br>\r\n<br>\r\nThis has two small hijacks that enable the save icon to appear when using the save prompt and when the intro march finishes for consistency.<br>\r\n<br>\r\nInsert on all your overworld maps using *. Also, use <a href=\"https://smwc.me/w/327\" rel=\"noopener\">this tweak</a> to fix an edge case where the game will not autosave after clearing an event if both Mario doesn't move afterwards and the level is not a \"No-Auto-Move\" level. Also insert <a href=\"https://smwc.me/s/43119\" rel=\"noopener\">this patch</a> to fix a vanilla quirk that can prevent the save icon from displaying.<br>\r\n<br>\r\nMade for <span class=\"un-outer\" title=\"Yano_Felix\"><a href=\"/?p=profile&amp;id=74311\" style=\"color: var(--user-color-2);\" class=\"un\" rel=\"noopener\">Yano_Felix</a></span>.",
+  "latest_version": "V1.0",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 42773,
+      "title": "Save At Any Time On Overworld",
+      "version": "V1.0",
+      "upstream_time": 1794652112,
+      "download_url": "https://dl.smwcentral.net/42773/SaveAtAnyTimeOnOW.zip",
+      "filename": "SaveAtAnyTimeOnOW.zip",
+      "size": 6737,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

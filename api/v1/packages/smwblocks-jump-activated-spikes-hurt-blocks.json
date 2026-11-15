@@ -14,7 +14,7 @@
     "sa-1",
     "uberasm needed"
   ],
-  "description": "These blocks will change every time the player jumps.<br>\r\nRequested by <span class=\"un-outer\" title=\"mr bean6652\"><a href=\"/?p=profile&amp;id=26761\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">mr bean6652</a></span>.",
+  "description": "These blocks will change every time the player jumps.<br>\r\nRequested by <span class=\"un-outer\" title=\"mr bean6652\"><a href=\"/?p=profile&amp;id=26761\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\" rel=\"noopener\">mr bean6652</a></span>.",
   "latest_version": "v1.1.1",
   "install_kind": "gps_block",
   "versions": [

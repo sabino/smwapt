@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-carryable-magnet",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 42001,
+  "title": "Carryable Magnet",
+  "authors": [
+    "flips_bad"
+  ],
+  "tags": [
+    "block needed",
+    "boost",
+    "lorom",
+    "physics",
+    "sa-1"
+  ],
+  "description": "This is a carryable magnet that you can use to attract or repel most other sprites. It is configurable to use several different triggers, including an optional toggle to switch between attract and repel at will. It also works while in Yoshi's mouth.<br>\r\n<br>\r\nIt includes a custom block which \"magnetizes\" individual sprites that pass through it. This is in case you don't want the magnet to attract/repel all sprites around it at once. This and other settings are configurable with the extra bytes.<br>\r\n<br>\r\nI got the idea from MeltCatAmy who was thinking out loud about it and I needed an excuse to set up a template carryable sprite for some future stuff. I hope someone has fun with this, I feel like you could do a lot with it for puzzle hacks.",
+  "latest_version": "1.1",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 42001,
+      "title": "Carryable Magnet",
+      "version": "1.1",
+      "upstream_time": 1794689763,
+      "download_url": "https://dl.smwcentral.net/42001/magnet%20%2B%20sa1.zip",
+      "filename": "magnet + sa1.zip",
+      "size": 14385,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "uberasm-ultimate-overworld-level-flags",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 42709,
+  "title": "Ultimate Overworld Level Flags",
+  "authors": [
+    "Nowieso",
+    "yoshifanatic"
+  ],
+  "tags": [
+    "lorom",
+    "overworld",
+    "sa-1"
+  ],
+  "description": "With this code, you can check if any overworld level flags are set and if they are, set any other level flags (the ones on the right you can see in overworld level settings window). This allows you to open any path on the overworld, not only a path from the level you have just beaten.<br>\r\n<br>\r\nSimply change the defines in the asm file.<br>\r\n<br>\r\nCredit is optional, just don't claim it as your own. ",
+  "latest_version": "V1.1",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 42709,
+      "title": "Ultimate Overworld Level Flags",
+      "version": "V1.1",
+      "upstream_time": 1794444893,
+      "download_url": "https://dl.smwcentral.net/42709/Overworld%20Flags%20V1.1.zip",
+      "filename": "Overworld Flags V1.1.zip",
+      "size": 1271,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

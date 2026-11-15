@@ -1,0 +1,34 @@
+{
+  "name": "uberasm-one-mind",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 43475,
+  "title": "One Mind",
+  "authors": [
+    "badummzi"
+  ],
+  "tags": [
+    "lorom",
+    "player",
+    "sa-1"
+  ],
+  "description": "This ASM switches randomly between the current players (in-game), while also warning them with sound effects, before that happens. It can be inserted into nearly every hack, with no previous UberASM-Gamemode on it. (SA-1 Works!) <br>\r\nIt is meant to be inserted into an already existing hack, but if you're a creator and want to build anything around this, go for it ;)<br>\r\n<br>\r\nIt was highly inspired by <span class=\"un-outer\" title=\"IsoFrieze\"><span title=\"IsoFrieze donated $13.37.\" class=\"icon icon-donor\"></span><a href=\"/?p=profile&amp;id=48\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\" rel=\"noopener\">IsoFrieze</a></span>'s 'SMW One Mind' and also uses the same sound effects. (default)<br>\r\n<br>\r\nRefer to readme.txt on how to insert it and for further information ;)<br>\r\n<br>\r\nI made it highly customizable, so that multiple things can be changed (Sound effects, etc.)<br>\r\n<br>\r\nThis ASM is just for fun and is meant for two players and two controllers. (How would you even play it with one? ;) )<br>\r\n<br>\r\nI hope you have fun with it!<br>\r\n<br>\r\n-<span class=\"un-outer\" title=\"badummzi\"><a href=\"/?p=profile&amp;id=35935\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\" rel=\"noopener\">badummzi</a></span>",
+  "latest_version": "V1.0.2",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 43475,
+      "title": "One Mind",
+      "version": "V1.0.2",
+      "upstream_time": 1794168494,
+      "download_url": "https://dl.smwcentral.net/43475/One%20Mind.zip",
+      "filename": "One Mind.zip",
+      "size": 3037,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

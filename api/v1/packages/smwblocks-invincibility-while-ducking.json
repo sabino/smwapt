@@ -16,7 +16,7 @@
     "sa-1",
     "uberasm needed"
   ],
-  "description": "This block will make the player invincible when they're ducking, either when standing on it or while inside it. Inspired by <a href=\"https://smwc.me/s/19384\">this patch</a> I made a while ago.<br>\r\n<br>\r\nIncludes an assortment of visual effects, such as going behind layers, flashing, sparkling, and setting custom poses.",
+  "description": "This block will make the player invincible when they're ducking, either when standing on it or while inside it. Inspired by <a href=\"https://smwc.me/s/19384\" rel=\"noopener\">this patch</a> I made a while ago.<br>\r\n<br>\r\nIncludes an assortment of visual effects, such as going behind layers, flashing, sparkling, and setting custom poses.",
   "latest_version": "1.1.1",
   "install_kind": "gps_block",
   "versions": [

@@ -1,75 +1,5 @@
 [
   {
-    "name": "uberasm-1up-or-code-at-certain-score-checkpoints",
-    "aliases": [],
-    "section": "uberasm",
-    "upstream_id": 41058,
-    "title": "1UP (or code) at Certain Score Checkpoints",
-    "authors": [
-      "Arinsu",
-      "yoshifanatic"
-    ],
-    "tags": [
-      "1-up",
-      "lorom",
-      "sa-1",
-      "score"
-    ],
-    "description": "This simple code grants the player an extra life at certain checkpoints in the score.  More details in the .asm file.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"LucasRCD\"><a href=\"/?p=profile&amp;id=26593\" style=\"color: var(--user-color-1);\" class=\"un\">LucasRCD</a></span>.",
-    "latest_version": "1.1",
-    "install_kind": "uber_asm",
-    "versions": [
-      {
-        "upstream_id": 41058,
-        "title": "1UP (or code) at Certain Score Checkpoints",
-        "version": "1.1",
-        "upstream_time": 1763938565,
-        "download_url": "https://dl.smwcentral.net/41058/Lives%20Every%20Score%20V1.1.zip",
-        "filename": "Lives Every Score V1.1.zip",
-        "size": 963,
-        "sha256": null,
-        "dependencies": [
-          "uberasm-tool"
-        ],
-        "install_kind": "uber_asm"
-      }
-    ]
-  },
-  {
-    "name": "uberasm-add-color",
-    "aliases": [],
-    "section": "uberasm",
-    "upstream_id": 41162,
-    "title": "Add Color 8 to Event Path Fade",
-    "authors": [
-      "Kevin"
-    ],
-    "tags": [
-      "lorom",
-      "overworld",
-      "sa-1"
-    ],
-    "description": "This UberASM will fade color 8 in palette rows 4-7 during events in the same way as colors 1-7. This allows you to add an additional color to layer 2 tiles that fade in and out during event path fade.",
-    "latest_version": "smwc-41162-1764430474",
-    "install_kind": "uber_asm",
-    "versions": [
-      {
-        "upstream_id": 41162,
-        "title": "Add Color 8 to Event Path Fade",
-        "version": "smwc-41162-1764430474",
-        "upstream_time": 1764430474,
-        "download_url": "https://dl.smwcentral.net/41162/pathfade_color8_asar2.zip",
-        "filename": "pathfade_color8_asar2.zip",
-        "size": 921,
-        "sha256": null,
-        "dependencies": [
-          "uberasm-tool"
-        ],
-        "install_kind": "uber_asm"
-      }
-    ]
-  },
-  {
     "name": "uberasm-aimed-bullet-bill-eerie-generator",
     "aliases": [],
     "section": "uberasm",
@@ -119,7 +49,7 @@
       "lorom",
       "sa-1"
     ],
-    "description": "Sequel to \"Yoshi Disappears After Eating Too Much\", this code does exactly what the title says, with a configurable amount of sprites that must be eaten. It also prevents Baby Yoshi from ever growing up, and there's an option so powerups also don't make him grow up instantly (but just count as 1 eat).<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Picayune\"><a href=\"/?p=profile&amp;id=41490\" style=\"color: var(--user-color-2);\" class=\"un\">Picayune</a></span>.",
+    "description": "Sequel to \"Yoshi Disappears After Eating Too Much\", this code does exactly what the title says, with a configurable amount of sprites that must be eaten. It also prevents Baby Yoshi from ever growing up, and there's an option so powerups also don't make him grow up instantly (but just count as 1 eat).<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Picayune\"><a href=\"/?p=profile&amp;id=41490\" style=\"color: var(--user-color-2);\" class=\"un\" rel=\"noopener\">Picayune</a></span>.",
     "latest_version": "V1.1",
     "install_kind": "uber_asm",
     "versions": [
@@ -154,7 +84,7 @@
       "p-balloon",
       "sa-1"
     ],
-    "description": "This LevelASM allows you to enable or disable the P-Balloon state by pressing a configurable button (R or L by default).<br>\r\n<br>\r\n<span style=\"font-size: 8pt;\">Code written by <span class=\"un-outer\" title=\"anonimzwx\"><a href=\"/?p=profile&amp;id=20832\" style=\"color: var(--user-color-2);\" class=\"un\">anonimzwx</a></span> but published by me at his request</span>",
+    "description": "This LevelASM allows you to enable or disable the P-Balloon state by pressing a configurable button (R or L by default).<br>\r\n<br>\r\n<span style=\"font-size: 8pt;\">Code written by <span class=\"un-outer\" title=\"anonimzwx\"><a href=\"/?p=profile&amp;id=20832\" style=\"color: var(--user-color-2);\" class=\"un\" rel=\"noopener\">anonimzwx</a></span> but published by me at his request</span>",
     "latest_version": "V1.1",
     "install_kind": "uber_asm",
     "versions": [
@@ -327,7 +257,7 @@
       "lorom",
       "sa-1"
     ],
-    "description": "A resource that enables dynamic sprites to be used.<br>\r\n<br>\r\nUnlike the patch, this allows the graphics region used by dynamic sprites to be remapped (instead of always using the bottom half of SP4), bumps the limit of dynamic sprites on screen from four to six and includes a few other features. It's also generally more optimal and, aside from an option to uninstall the old patch, doesn't do any hijacks.<br>\r\n<br>\r\nRefer to the readme (enclosed in the download or <a href=\"https://pk.muncher.se/dsu/readme/\" rel=\"nofollow\">here</a>) for more details and instructions on installing it and using the features!<br>\r\n<br>\r\n<b>NOTE:</b> Dynamic sprites from the section will not be compatible with this: <a href=\"https://smwc.me/t/132305\">the conversions must be used instead</a>.",
+    "description": "A resource that enables dynamic sprites to be used.<br>\r\n<br>\r\nUnlike the patch, this allows the graphics region used by dynamic sprites to be remapped (instead of always using the bottom half of SP4), bumps the limit of dynamic sprites on screen from four to six and includes a few other features. It's also generally more optimal and, aside from an option to uninstall the old patch, doesn't do any hijacks.<br>\r\n<br>\r\nRefer to the readme (enclosed in the download or <a href=\"https://pk.muncher.se/dsu/readme/\" rel=\"noopener nofollow\">here</a>) for more details and instructions on installing it and using the features!<br>\r\n<br>\r\n<b>NOTE:</b> Dynamic sprites from the section will not be compatible with this: <a href=\"https://smwc.me/t/132305\" rel=\"noopener\">the conversions must be used instead</a>.",
     "latest_version": "1.1.0",
     "install_kind": "uber_asm",
     "versions": [
@@ -396,7 +326,7 @@
       "lorom",
       "sa-1"
     ],
-    "description": "This UberASM will display the current progress in the hack (as percentage of exits gotten) on the overworld border. It can be paired with <a href=\"https://www.smwcentral.net/?p=section&a=details&id=24677\">this patch</a> for consistency. Check out the readme for more information.<br>\r\nThis is the second part of <span class=\"un-outer\" title=\"Ondore&#039;s Lies\"><a href=\"/?p=profile&amp;id=25495\" style=\"color: var(--user-color-3);\" class=\"un\">Ondore&#039;s Lies</a></span>' request for a percentage counter on file select and overworld.",
+    "description": "This UberASM will display the current progress in the hack (as percentage of exits gotten) on the overworld border. It can be paired with <a href=\"https://www.smwcentral.net/?p=section&a=details&id=24677\" rel=\"noopener\">this patch</a> for consistency. Check out the readme for more information.<br>\r\nThis is the second part of <span class=\"un-outer\" title=\"Ondore&#039;s Lies\"><a href=\"/?p=profile&amp;id=25495\" style=\"color: var(--user-color-3);\" class=\"un\" rel=\"noopener\">Ondore&#039;s Lies</a></span>' request for a percentage counter on file select and overworld.",
     "latest_version": "V1.0.1",
     "install_kind": "uber_asm",
     "versions": [
@@ -601,7 +531,7 @@
       "parachute",
       "sa-1"
     ],
-    "description": "This uberasm adds the ability to use a<br>\r\nparachute while Mario is in the air. By pressing the B button during<br>\r\na fall, Mario will deploy a parachute that slows his descent,<br>\r\nallowing him to glide gently downward.<br>\r\n<br>\r\nThe uberasm is designed to be highly configurable, allowing<br>\r\ncustomization of color palettes, visual effects, sounds, and more.<br>\r\n<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Final Theory\"><a href=\"/?p=profile&amp;id=22015\" style=\"color: var(--user-color-1);\" class=\"un\">Final Theory</a></span><br>\r\nThis was #30 on Final Theory’s list of ASM challenges",
+    "description": "This uberasm adds the ability to use a<br>\r\nparachute while Mario is in the air. By pressing the B button during<br>\r\na fall, Mario will deploy a parachute that slows his descent,<br>\r\nallowing him to glide gently downward.<br>\r\n<br>\r\nThe uberasm is designed to be highly configurable, allowing<br>\r\ncustomization of color palettes, visual effects, sounds, and more.<br>\r\n<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Final Theory\"><a href=\"/?p=profile&amp;id=22015\" style=\"color: var(--user-color-1);\" class=\"un\" rel=\"noopener\">Final Theory</a></span><br>\r\nThis was #30 on Final Theory’s list of ASM challenges",
     "latest_version": "V1.0.1",
     "install_kind": "uber_asm",
     "versions": [
@@ -649,44 +579,6 @@
         "download_url": "https://dl.smwcentral.net/39678/Air-meter_v2_0_2_.zip",
         "filename": "Air-meter_v2_0_2_.zip",
         "size": 123081,
-        "sha256": null,
-        "dependencies": [
-          "uberasm-tool"
-        ],
-        "install_kind": "uber_asm"
-      }
-    ]
-  },
-  {
-    "name": "uberasm-hurt-kill-on-sound-effect-trigger",
-    "aliases": [],
-    "section": "uberasm",
-    "upstream_id": 41071,
-    "title": "Hurt/Kill on Sound Effect Trigger",
-    "authors": [
-      "Kevin",
-      "yoshifanatic"
-    ],
-    "tags": [
-      "hurt",
-      "kill",
-      "lorom",
-      "sa-1",
-      "sfx",
-      "sound effect"
-    ],
-    "description": "Hurts or kills Mario when any sound effect starts playing (choose which option in the asm file).<br>\r\nRequested by <span class=\"un-outer\" title=\"Golden Yoshi\"><a href=\"/?p=profile&amp;id=306\" style=\"color: var(--user-color-2);\" class=\"un\">Golden Yoshi</a></span>.",
-    "latest_version": "V1.1",
-    "install_kind": "uber_asm",
-    "versions": [
-      {
-        "upstream_id": 41071,
-        "title": "Hurt/Kill on Sound Effect Trigger",
-        "version": "V1.1",
-        "upstream_time": 1763939200,
-        "download_url": "https://dl.smwcentral.net/41071/kill_on_sfx_V1_1.zip",
-        "filename": "kill_on_sfx_V1_1.zip",
-        "size": 898,
         "sha256": null,
         "dependencies": [
           "uberasm-tool"
@@ -746,7 +638,7 @@
       "sa-1",
       "thunder"
     ],
-    "description": "A visual generator which displays a lightning effect. It can be customised to write to any colour on the palette (it's 0 by default which affects the background) as well as customised in what colours the lightning will generate, how long it waits between each strike, etc.<br>\r\n<br>\r\nAlso included is a generator which can be inserted with <a href=\"https://www.smwcentral.net/?p=section&a=details&id=32277\">PIXI</a> if you prefer the old-school way.",
+    "description": "A visual generator which displays a lightning effect. It can be customised to write to any colour on the palette (it's 0 by default which affects the background) as well as customised in what colours the lightning will generate, how long it waits between each strike, etc.<br>\r\n<br>\r\nAlso included is a generator which can be inserted with <a href=\"https://www.smwcentral.net/?p=section&a=details&id=32277\" rel=\"noopener\">PIXI</a> if you prefer the old-school way.",
     "latest_version": "v1.0.1",
     "install_kind": "uber_asm",
     "versions": [
@@ -851,7 +743,7 @@
       "overworld",
       "sa-1"
     ],
-    "description": "Originally inspired by a resource from <span class=\"un-outer\" title=\"Alcaro\"><a href=\"/?p=profile&amp;id=1686\" style=\"color: #68782c;\" class=\"un unavailable inactive\">Alcaro</a></span>, and does pretty much the same thing: disables returning to overworld after beating levels and instead has the player go through levels in a sequence, either in numerical order or in an order defined by you.",
+    "description": "Originally inspired by a resource from <span class=\"un-outer\" title=\"Alcaro\"><a href=\"/?p=profile&amp;id=1686\" style=\"color: #68782c;\" class=\"un unavailable inactive\" rel=\"noopener\">Alcaro</a></span>, and does pretty much the same thing: disables returning to overworld after beating levels and instead has the player go through levels in a sequence, either in numerical order or in an order defined by you.",
     "latest_version": "1.3",
     "install_kind": "uber_asm",
     "versions": [
@@ -863,6 +755,40 @@
         "download_url": "https://dl.smwcentral.net/39756/No%20Overworld%20v1.3.zip",
         "filename": "No Overworld v1.3.zip",
         "size": 8750,
+        "sha256": null,
+        "dependencies": [
+          "uberasm-tool"
+        ],
+        "install_kind": "uber_asm"
+      }
+    ]
+  },
+  {
+    "name": "uberasm-one-mind",
+    "aliases": [],
+    "section": "uberasm",
+    "upstream_id": 43475,
+    "title": "One Mind",
+    "authors": [
+      "badummzi"
+    ],
+    "tags": [
+      "lorom",
+      "player",
+      "sa-1"
+    ],
+    "description": "This ASM switches randomly between the current players (in-game), while also warning them with sound effects, before that happens. It can be inserted into nearly every hack, with no previous UberASM-Gamemode on it. (SA-1 Works!) <br>\r\nIt is meant to be inserted into an already existing hack, but if you're a creator and want to build anything around this, go for it ;)<br>\r\n<br>\r\nIt was highly inspired by <span class=\"un-outer\" title=\"IsoFrieze\"><span title=\"IsoFrieze donated $13.37.\" class=\"icon icon-donor\"></span><a href=\"/?p=profile&amp;id=48\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\" rel=\"noopener\">IsoFrieze</a></span>'s 'SMW One Mind' and also uses the same sound effects. (default)<br>\r\n<br>\r\nRefer to readme.txt on how to insert it and for further information ;)<br>\r\n<br>\r\nI made it highly customizable, so that multiple things can be changed (Sound effects, etc.)<br>\r\n<br>\r\nThis ASM is just for fun and is meant for two players and two controllers. (How would you even play it with one? ;) )<br>\r\n<br>\r\nI hope you have fun with it!<br>\r\n<br>\r\n-<span class=\"un-outer\" title=\"badummzi\"><a href=\"/?p=profile&amp;id=35935\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\" rel=\"noopener\">badummzi</a></span>",
+    "latest_version": "V1.0.2",
+    "install_kind": "uber_asm",
+    "versions": [
+      {
+        "upstream_id": 43475,
+        "title": "One Mind",
+        "version": "V1.0.2",
+        "upstream_time": 1794168494,
+        "download_url": "https://dl.smwcentral.net/43475/One%20Mind.zip",
+        "filename": "One Mind.zip",
+        "size": 3037,
         "sha256": null,
         "dependencies": [
           "uberasm-tool"
@@ -977,6 +903,45 @@
     ]
   },
   {
+    "name": "uberasm-password-system",
+    "aliases": [],
+    "section": "uberasm",
+    "upstream_id": 43473,
+    "title": "Password System",
+    "authors": [
+      "Nowieso"
+    ],
+    "tags": [
+      "input",
+      "lorom",
+      "on off",
+      "p-switch",
+      "password",
+      "sa-1",
+      "sprite spawn",
+      "teleport"
+    ],
+    "description": "With this code, you can easily create a unique password system for your level. Define inputs that have to be done in the correct order and one of these things will happen:<br>\r\n<ul><li>Kill the player</li>\n<li>Hurt the player</li>\n<li>Give the player 1-UP(s)</li>\n<li>Give the player a Power-UP</li>\n<li>Give the player some coins</li>\n<li>Give the player Star-Power</li>\n<li>End the level (normal exit)</li>\n<li>End the level (secret exit), triggers the keyhole animation</li>\n<li>Spawn a sprite</li>\n<li>Change ON/OFF Switch state</li>\n<li>Activate P-Switch</li>\n<li>Teleport to current screen exit</li>\n<li>Teleport the player to the overworld, no event triggered</li>\n<li>Teleport the player to a different overworld position</li></ul><br>\r\nEvery option is very customizable, so make sure to change the defines in the asm file.",
+    "latest_version": "1.1.1",
+    "install_kind": "uber_asm",
+    "versions": [
+      {
+        "upstream_id": 43473,
+        "title": "Password System",
+        "version": "1.1.1",
+        "upstream_time": 1794154056,
+        "download_url": "https://dl.smwcentral.net/43473/Password%20SystemV1.1.1.zip",
+        "filename": "Password SystemV1.1.1.zip",
+        "size": 3654,
+        "sha256": null,
+        "dependencies": [
+          "uberasm-tool"
+        ],
+        "install_kind": "uber_asm"
+      }
+    ]
+  },
+  {
     "name": "uberasm-peach-s-floating-ability",
     "aliases": [],
     "section": "uberasm",
@@ -1025,7 +990,7 @@
       "player",
       "sa-1"
     ],
-    "description": "This UberASM allows you to insert different ExGFX files for GFX32 and 33 (player and animations GFX) on a sublevel, submap and cutscene basis. It's similar to the patch by <span class=\"un-outer\" title=\"Roy\"><a href=\"/?p=profile&amp;id=845\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">Roy</a></span>, but with a few key differences explained in the README. Mainly, it doesn't have issues on SA-1 (that I know of), and it should have faster loading times in some cases. Additionally you can also change GFX manually with code, if you want to go more advanced. Anyway, make sure to check the README for insertion instructions and whatnot.",
+    "description": "This UberASM allows you to insert different ExGFX files for GFX32 and 33 (player and animations GFX) on a sublevel, submap and cutscene basis. It's similar to the patch by <span class=\"un-outer\" title=\"Roy\"><a href=\"/?p=profile&amp;id=845\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\" rel=\"noopener\">Roy</a></span>, but with a few key differences explained in the README. Mainly, it doesn't have issues on SA-1 (that I know of), and it should have faster loading times in some cases. Additionally you can also change GFX manually with code, if you want to go more advanced. Anyway, make sure to check the README for insertion instructions and whatnot.",
     "latest_version": "v1.2",
     "install_kind": "uber_asm",
     "versions": [
@@ -1061,7 +1026,7 @@
       "player",
       "sa-1"
     ],
-    "description": "Whenever you press the R button, you will switch between Mario and Luigi! Keep in mind that whenever you switch characters, you will have to switch controllers, too. Unless you make use of <a href=\"https://smwc.me/w/22\">this tweak</a>.<br>\r\n<br>\r\nIncludes options for allowing Mario and Luigi to have separate coin counts, powerups, and item boxes. Separate lives is possible too, but was not included as setting Luigi's starting lives correctly would require a hijack. Also includes a helper UberASM that prevents problems on the overworld if exiting a level as the other character.",
+    "description": "Whenever you press the R button, you will switch between Mario and Luigi! Keep in mind that whenever you switch characters, you will have to switch controllers, too. Unless you make use of <a href=\"https://smwc.me/w/22\" rel=\"noopener\">this tweak</a>.<br>\r\n<br>\r\nIncludes options for allowing Mario and Luigi to have separate coin counts, powerups, and item boxes. Separate lives is possible too, but was not included as setting Luigi's starting lives correctly would require a hijack. Also includes a helper UberASM that prevents problems on the overworld if exiting a level as the other character.",
     "latest_version": "1.1.1",
     "install_kind": "uber_asm",
     "versions": [
@@ -1097,7 +1062,7 @@
       "player",
       "sa-1"
     ],
-    "description": "This will switch the player from Mario to Luigi and back when Pressing the R button on the overworld during a Single Player game while leaving the 2 Player option intact.<br>\r\n<br>\r\nIt will take Mario's Score, Bonus Stars, Powerups, Yoshi's, overworld position and completely allows you to swap players without any odd behaviors like some of the other versions of \"Switch Characters\" blocks or patches.<br>\r\n<br>\r\nThis will work with <span class=\"un-outer\" title=\"Smallhacker\"><span title=\"Smallhacker donated $80.00.\" class=\"icon icon-donor\"></span><a href=\"/?p=profile&amp;id=75\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">Smallhacker</a></span>'s Separate Player graphics patch to give Luigi separate graphics from Mario. Instructions in the UberASM.<br>\r\n<br>\r\nNote: Does require a patch for asar that is included. It fixes the lives system so that you won't get weird behaviors when you get a game over as Luigi.",
+    "description": "This will switch the player from Mario to Luigi and back when Pressing the R button on the overworld during a Single Player game while leaving the 2 Player option intact.<br>\r\n<br>\r\nIt will take Mario's Score, Bonus Stars, Powerups, Yoshi's, overworld position and completely allows you to swap players without any odd behaviors like some of the other versions of \"Switch Characters\" blocks or patches.<br>\r\n<br>\r\nThis will work with <span class=\"un-outer\" title=\"Smallhacker\"><span title=\"Smallhacker donated $80.00.\" class=\"icon icon-donor\"></span><a href=\"/?p=profile&amp;id=75\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\" rel=\"noopener\">Smallhacker</a></span>'s Separate Player graphics patch to give Luigi separate graphics from Mario. Instructions in the UberASM.<br>\r\n<br>\r\nNote: Does require a patch for asar that is included. It fixes the lives system so that you won't get weird behaviors when you get a game over as Luigi.",
     "latest_version": "1.1",
     "install_kind": "uber_asm",
     "versions": [
@@ -1138,7 +1103,7 @@
       "sa-1",
       "smb2"
     ],
-    "description": "This UberASM allows the player to have the skills Peach had back in SMB2, including the Peach Bomber from SSB, the SMB2 Hi-Jump (Charged Jump) and the Floating Ability from SMB2.<br>\r\n<br>\r\nOriginally an Asar patch made by <span class=\"un-outer\" title=\"Ladida\"><span title=\"Ladida donated $6.01.\" class=\"icon icon-donor\"></span><a href=\"/?p=profile&amp;id=4842\" style=\"color: var(--user-color-3);\" class=\"un unavailable inactive\">Ladida</a></span> (<span class=\"un-outer\" title=\"Noobish Noobsicle\"><a href=\"/?p=profile&amp;id=4297\" style=\"color: var(--user-color-3);\" class=\"un unavailable inactive\">Noobish Noobsicle</a></span> and <span class=\"un-outer\" title=\"scepile3\"><a href=\"/?p=profile&amp;id=2889\" style=\"color: var(--user-color-1);\" class=\"un unavailable inactive\">scepile3</a></span> are credited too), now unified, reconverted and reorganized into an unique UberASM for a better use by <span class=\"un-outer\" title=\"Black Goku\"><a href=\"/?p=profile&amp;id=48112\" style=\"color: var(--user-color-2);\" class=\"un\">Black Goku</a></span>... the changes were:<br>\r\n<br>\r\n- Added additional customization and timers.<br>\r\n- Added a flag for the players in case they want to have only a player with the skills.<br>\r\n- Fixed the Cape bug from the Asar patch (and the ones that triggered restricting the skills in the powerups).<br>\r\n<br>\r\nNotes of the original readme made by <span class=\"un-outer\" title=\"Ladida\"><span title=\"Ladida donated $6.01.\" class=\"icon icon-donor\"></span><a href=\"/?p=profile&amp;id=4842\" style=\"color: var(--user-color-3);\" class=\"un unavailable inactive\">Ladida</a></span>:<br>\r\n- Originally, the hi-jump was coded by <span class=\"un-outer\" title=\"Noobish Noobsicle\"><a href=\"/?p=profile&amp;id=4297\" style=\"color: var(--user-color-3);\" class=\"un unavailable inactive\">Noobish Noobsicle</a></span> and I just tweaked it. but now its been coded it from scratch.<br>\r\n- Originally, the float was a Yoshi Flutter by <span class=\"un-outer\" title=\"scepile3\"><a href=\"/?p=profile&amp;id=2889\" style=\"color: var(--user-color-1);\" class=\"un unavailable inactive\">scepile3</a></span>and I just edited it. but now its been coded it from scratch.<br>\r\n<br>\r\nCredit to me is optional.<br>\r\n<br>\r\nThis is my first ASM conversion, so any suggestions are welcome.<br>\r\n<br>\r\nSMW Styled Peach shown here belongs to <span class=\"un-outer\" title=\"LinkstormZ\"><a href=\"/?p=profile&amp;id=45312\" style=\"color: var(--user-color-1);\" class=\"un\">LinkstormZ</a></span>.",
+    "description": "This UberASM allows the player to have the skills Peach had back in SMB2, including the Peach Bomber from SSB, the SMB2 Hi-Jump (Charged Jump) and the Floating Ability from SMB2.<br>\r\n<br>\r\nOriginally an Asar patch made by <span class=\"un-outer\" title=\"Ladida\"><span title=\"Ladida donated $6.01.\" class=\"icon icon-donor\"></span><a href=\"/?p=profile&amp;id=4842\" style=\"color: var(--user-color-3);\" class=\"un unavailable inactive\" rel=\"noopener\">Ladida</a></span> (<span class=\"un-outer\" title=\"Noobish Noobsicle\"><a href=\"/?p=profile&amp;id=4297\" style=\"color: var(--user-color-3);\" class=\"un unavailable inactive\" rel=\"noopener\">Noobish Noobsicle</a></span> and <span class=\"un-outer\" title=\"scepile3\"><a href=\"/?p=profile&amp;id=2889\" style=\"color: var(--user-color-1);\" class=\"un unavailable inactive\" rel=\"noopener\">scepile3</a></span> are credited too), now unified, reconverted and reorganized into an unique UberASM for a better use by <span class=\"un-outer\" title=\"Black Goku\"><a href=\"/?p=profile&amp;id=48112\" style=\"color: var(--user-color-2);\" class=\"un\" rel=\"noopener\">Black Goku</a></span>... the changes were:<br>\r\n<br>\r\n- Added additional customization and timers.<br>\r\n- Added a flag for the players in case they want to have only a player with the skills.<br>\r\n- Fixed the Cape bug from the Asar patch (and the ones that triggered restricting the skills in the powerups).<br>\r\n<br>\r\nNotes of the original readme made by <span class=\"un-outer\" title=\"Ladida\"><span title=\"Ladida donated $6.01.\" class=\"icon icon-donor\"></span><a href=\"/?p=profile&amp;id=4842\" style=\"color: var(--user-color-3);\" class=\"un unavailable inactive\" rel=\"noopener\">Ladida</a></span>:<br>\r\n- Originally, the hi-jump was coded by <span class=\"un-outer\" title=\"Noobish Noobsicle\"><a href=\"/?p=profile&amp;id=4297\" style=\"color: var(--user-color-3);\" class=\"un unavailable inactive\" rel=\"noopener\">Noobish Noobsicle</a></span> and I just tweaked it. but now its been coded it from scratch.<br>\r\n- Originally, the float was a Yoshi Flutter by <span class=\"un-outer\" title=\"scepile3\"><a href=\"/?p=profile&amp;id=2889\" style=\"color: var(--user-color-1);\" class=\"un unavailable inactive\" rel=\"noopener\">scepile3</a></span>and I just edited it. but now its been coded it from scratch.<br>\r\n<br>\r\nCredit to me is optional.<br>\r\n<br>\r\nThis is my first ASM conversion, so any suggestions are welcome.<br>\r\n<br>\r\nSMW Styled Peach shown here belongs to <span class=\"un-outer\" title=\"LinkstormZ\"><a href=\"/?p=profile&amp;id=45312\" style=\"color: var(--user-color-1);\" class=\"un\" rel=\"noopener\">LinkstormZ</a></span>.",
     "latest_version": "smwc-42483-1782085948",
     "install_kind": "uber_asm",
     "versions": [
@@ -1248,7 +1213,7 @@
       "sa-1",
       "save"
     ],
-    "description": "This is the modern Retry System that extends and improves the <a href=\"https://smwc.me/1657727\">original patch</a> by <span class=\"un-outer\" title=\"worldpeace\"><a href=\"/?p=profile&amp;id=1250\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">worldpeace</a></span>. Its base features are the same as the old patch, but there's a lot of new functionalities and customizations available, which make it an useful tool also for projects where a retry system is not needed. Additionally, being implemented as an UberASM project, it features much less hijacks than the original patch, making it compatible with more resources. UberASM Tool version 2.1 or higher is required.<br>\r\n<br>\r\nThe main features implemented are:<br>\r\n- Level respawn on death without going to the Overworld (with prompt or instant)<br>\r\n- Customizable Retry prompt appearance (box/bar/minimal)<br>\r\n- Multiple midways per level<br>\r\n- Automatic midways when entering a sublevel<br>\r\n- Customizable sprite status bar that replaces the vanilla one<br>\r\n- Death counter<br>\r\n- Integrated save system to retain checkpoints and other things in SRAM<br>\r\n- Title screen death fix<br>\r\n- Counterbreak (state reset when respawning or going to the Overworld)<br>\r\n- Miscellaneous bug fixes<br>\r\n<br>\r\nSee <a href=\"https://kkevinm.github.io/retry-system/\" rel=\"nofollow\">Documentation</a> for more details.<br>\r\n<br>\r\nYou can check out the repository <a href=\"https://github.com/kkevinm/retry-system\" rel=\"nofollow\">here</a>.<br>\r\n<br>\r\nYou can see the changelog <a href=\"https://kkevinm.github.io/retry-system/changelog.html\" rel=\"nofollow\">here</a>.",
+    "description": "This is the modern Retry System that extends and improves the <a href=\"https://smwc.me/1657727\" rel=\"noopener\">original patch</a> by <span class=\"un-outer\" title=\"worldpeace\"><a href=\"/?p=profile&amp;id=1250\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\" rel=\"noopener\">worldpeace</a></span>. Its base features are the same as the old patch, but there's a lot of new functionalities and customizations available, which make it an useful tool also for projects where a retry system is not needed. Additionally, being implemented as an UberASM project, it features much less hijacks than the original patch, making it compatible with more resources. UberASM Tool version 2.1 or higher is required.<br>\r\n<br>\r\nThe main features implemented are:<br>\r\n- Level respawn on death without going to the Overworld (with prompt or instant)<br>\r\n- Customizable Retry prompt appearance (box/bar/minimal)<br>\r\n- Multiple midways per level<br>\r\n- Automatic midways when entering a sublevel<br>\r\n- Customizable sprite status bar that replaces the vanilla one<br>\r\n- Death counter<br>\r\n- Integrated save system to retain checkpoints and other things in SRAM<br>\r\n- Title screen death fix<br>\r\n- Counterbreak (state reset when respawning or going to the Overworld)<br>\r\n- Miscellaneous bug fixes<br>\r\n<br>\r\nSee <a href=\"https://kkevinm.github.io/retry-system/\" rel=\"noopener nofollow\">Documentation</a> for more details.<br>\r\n<br>\r\nYou can check out the repository <a href=\"https://github.com/kkevinm/retry-system\" rel=\"noopener nofollow\">here</a>.<br>\r\n<br>\r\nYou can see the changelog <a href=\"https://kkevinm.github.io/retry-system/changelog.html\" rel=\"noopener nofollow\">here</a>.",
     "latest_version": "2.2.0",
     "install_kind": "uber_asm",
     "versions": [
@@ -1311,6 +1276,42 @@
     ]
   },
   {
+    "name": "uberasm-save-at-any-time-on-overworld",
+    "aliases": [],
+    "section": "uberasm",
+    "upstream_id": 42773,
+    "title": "Save At Any Time On Overworld",
+    "authors": [
+      "yoshifanatic"
+    ],
+    "tags": [
+      "controller",
+      "lorom",
+      "sa-1",
+      "save",
+      "tile"
+    ],
+    "description": "This handy UberASM gives you a couple different options for allowing you to save the game at any time on the overworld:<br>\r\n<br>\r\n- Autosave when you move on the overworld and when exiting a level.<br>\r\n- Bring up the save prompt with a configurable button.<br>\r\n- Save upon pressing a configurable button.<br>\r\n<br>\r\nIt'll also optionally display an icon to indicate the game has saved.<br>\r\n<br>\r\nThis has two small hijacks that enable the save icon to appear when using the save prompt and when the intro march finishes for consistency.<br>\r\n<br>\r\nInsert on all your overworld maps using *. Also, use <a href=\"https://smwc.me/w/327\" rel=\"noopener\">this tweak</a> to fix an edge case where the game will not autosave after clearing an event if both Mario doesn't move afterwards and the level is not a \"No-Auto-Move\" level. Also insert <a href=\"https://smwc.me/s/43119\" rel=\"noopener\">this patch</a> to fix a vanilla quirk that can prevent the save icon from displaying.<br>\r\n<br>\r\nMade for <span class=\"un-outer\" title=\"Yano_Felix\"><a href=\"/?p=profile&amp;id=74311\" style=\"color: var(--user-color-2);\" class=\"un\" rel=\"noopener\">Yano_Felix</a></span>.",
+    "latest_version": "V1.0",
+    "install_kind": "uber_asm",
+    "versions": [
+      {
+        "upstream_id": 42773,
+        "title": "Save At Any Time On Overworld",
+        "version": "V1.0",
+        "upstream_time": 1794652112,
+        "download_url": "https://dl.smwcentral.net/42773/SaveAtAnyTimeOnOW.zip",
+        "filename": "SaveAtAnyTimeOnOW.zip",
+        "size": 6737,
+        "sha256": null,
+        "dependencies": [
+          "uberasm-tool"
+        ],
+        "install_kind": "uber_asm"
+      }
+    ]
+  },
+  {
     "name": "uberasm-scrollable-hdma-gradients",
     "aliases": [],
     "section": "uberasm",
@@ -1325,7 +1326,7 @@
       "lorom",
       "sa-1"
     ],
-    "description": "Let's be honest: HDMA gradients are, due to their nature, static to the screen. But other games somehow manage to manage to make them scroll (well, give the illusion of scrolling as remember, they're static by nature) without using any background! Don't worry now, it's time to officially have that kind of code in SMW (at least a proper release since years)!<br>\r\n<br>\r\nRead the readme first.<br>\r\n<br>\r\nCreation of compatible HDMA tables is done with <a href=\"https://www.smwcentral.net/?p=section&a=details&id=11691\">Gradient Tool</a>.",
+    "description": "Let's be honest: HDMA gradients are, due to their nature, static to the screen. But other games somehow manage to manage to make them scroll (well, give the illusion of scrolling as remember, they're static by nature) without using any background! Don't worry now, it's time to officially have that kind of code in SMW (at least a proper release since years)!<br>\r\n<br>\r\nRead the readme first.<br>\r\n<br>\r\nCreation of compatible HDMA tables is done with <a href=\"https://www.smwcentral.net/?p=section&a=details&id=11691\" rel=\"noopener\">Gradient Tool</a>.",
     "latest_version": "V1.0.1",
     "install_kind": "uber_asm",
     "versions": [
@@ -1489,32 +1490,32 @@
     ]
   },
   {
-    "name": "uberasm-teleport-when-dying",
+    "name": "uberasm-ultimate-overworld-level-flags",
     "aliases": [],
     "section": "uberasm",
-    "upstream_id": 41419,
-    "title": "Teleport When Dying",
+    "upstream_id": 42709,
+    "title": "Ultimate Overworld Level Flags",
     "authors": [
-      "TheXander"
+      "Nowieso",
+      "yoshifanatic"
     ],
     "tags": [
-      "death",
       "lorom",
-      "sa-1",
-      "teleport"
+      "overworld",
+      "sa-1"
     ],
-    "description": "It's a simple UberASM that does what the title says: you'll get teleported to another level or sub-level if the player dies. Comes with a few options and defines for some customization.<br>\r\n<br>\r\n<a href=\"https://www.smwcentral.net/?p=viewthread&t=131500\">Requested</a> by <span class=\"un-outer\" title=\"isaix\"><a href=\"/?p=profile&amp;id=14960\" style=\"color: var(--user-color-2);\" class=\"un\">isaix</a></span>",
+    "description": "With this code, you can check if any overworld level flags are set and if they are, set any other level flags (the ones on the right you can see in overworld level settings window). This allows you to open any path on the overworld, not only a path from the level you have just beaten.<br>\r\n<br>\r\nSimply change the defines in the asm file.<br>\r\n<br>\r\nCredit is optional, just don't claim it as your own. ",
     "latest_version": "V1.1",
     "install_kind": "uber_asm",
     "versions": [
       {
-        "upstream_id": 41419,
-        "title": "Teleport When Dying",
+        "upstream_id": 42709,
+        "title": "Ultimate Overworld Level Flags",
         "version": "V1.1",
-        "upstream_time": 1768504655,
-        "download_url": "https://dl.smwcentral.net/41419/Teleport%20When%20Dying%20V1.1.zip",
-        "filename": "Teleport When Dying V1.1.zip",
-        "size": 3859,
+        "upstream_time": 1794444893,
+        "download_url": "https://dl.smwcentral.net/42709/Overworld%20Flags%20V1.1.zip",
+        "filename": "Overworld Flags V1.1.zip",
+        "size": 1271,
         "sha256": null,
         "dependencies": [
           "uberasm-tool"
@@ -1650,7 +1651,7 @@
       "sa-1",
       "tile"
     ],
-    "description": "<span class=\"un-outer\" title=\"MellyMellouange\"><a href=\"/?p=profile&amp;id=565\" style=\"color: var(--user-color-2);\" class=\"un\">MellyMellouange</a></span>'s old Wing Cap sprite, cleaned up, optimized, made LM3 compatible, bugfixed and converted to UberASM by <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #fdadf4;\" class=\"un\">Arinsu</a></span>. <br>\r\n<br>\r\nGives the player the ability to fly: also includes an optional spinjump drill down and glide ability.",
+    "description": "<span class=\"un-outer\" title=\"MellyMellouange\"><a href=\"/?p=profile&amp;id=565\" style=\"color: var(--user-color-2);\" class=\"un\" rel=\"noopener\">MellyMellouange</a></span>'s old Wing Cap sprite, cleaned up, optimized, made LM3 compatible, bugfixed and converted to UberASM by <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #fdadf4;\" class=\"un\" rel=\"noopener\">Arinsu</a></span>. <br>\r\n<br>\r\nGives the player the ability to fly: also includes an optional spinjump drill down and glide ability.",
     "latest_version": "1.1.1",
     "install_kind": "uber_asm",
     "versions": [
@@ -1684,7 +1685,7 @@
       "sa-1",
       "spotlight"
     ],
-    "description": "This UberASM changes the spotlight sprite so instead of lighting up the area under it, it instead reveals layer 1 under it. Based on <a href=\"https://www.youtube.com/watch?v=kEXjCsuUnt0\" rel=\"nofollow\">this level</a> from my hack, MYSQ.<br>\r\n<br>\r\nNote that this requires a small hijack to fix a visual bug that would occur on SA-1.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"ILoveSMW\"><a href=\"/?p=profile&amp;id=71290\" style=\"color: var(--user-color-3);\" class=\"un unavailable inactive\">ILoveSMW</a></span>.",
+    "description": "This UberASM changes the spotlight sprite so instead of lighting up the area under it, it instead reveals layer 1 under it. Based on <a href=\"https://www.youtube.com/watch?v=kEXjCsuUnt0\" rel=\"noopener nofollow\">this level</a> from my hack, MYSQ.<br>\r\n<br>\r\nNote that this requires a small hijack to fix a visual bug that would occur on SA-1.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"ILoveSMW\"><a href=\"/?p=profile&amp;id=71290\" style=\"color: var(--user-color-3);\" class=\"un unavailable inactive\" rel=\"noopener\">ILoveSMW</a></span>.",
     "latest_version": "smwc-41600-1773623195",
     "install_kind": "uber_asm",
     "versions": [
@@ -1754,7 +1755,7 @@
       "teleport",
       "yoshi"
     ],
-    "description": "This code will make the player get immediately teleported to the Yoshi wings stage when riding Yoshi. Might be best used with <a href=\"https://smwc.me/s/39698\">this patch</a>.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Knight of Time\"><a href=\"/?p=profile&amp;id=146\" style=\"color: var(--user-color-2);\" class=\"un\">Knight of Time</a></span>.",
+    "description": "This code will make the player get immediately teleported to the Yoshi wings stage when riding Yoshi. Might be best used with <a href=\"https://smwc.me/s/39698\" rel=\"noopener\">this patch</a>.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Knight of Time\"><a href=\"/?p=profile&amp;id=146\" style=\"color: var(--user-color-2);\" class=\"un\" rel=\"noopener\">Knight of Time</a></span>.",
     "latest_version": "V1.0.1",
     "install_kind": "uber_asm",
     "versions": [

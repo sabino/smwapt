@@ -1,0 +1,32 @@
+{
+  "name": "smwgraphics-32x32-cloud",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 43450,
+  "title": "32x32 Cloud",
+  "authors": [
+    "Buddyman_Gaming5619"
+  ],
+  "tags": [
+    "32x32",
+    "block",
+    "cloud"
+  ],
+  "description": "This is a 32x32 version of the Cloud block from <b>Super Mario World</b>.<br>\r\n<br>\r\nFree to use, give credit.",
+  "latest_version": "1.10",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 43450,
+      "title": "32x32 Cloud",
+      "version": "1.10",
+      "upstream_time": 1794159771,
+      "download_url": "https://dl.smwcentral.net/43450/32x32%20Cloud%20Block.zip",
+      "filename": "32x32 Cloud Block.zip",
+      "size": 1792,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

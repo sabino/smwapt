@@ -13,7 +13,7 @@
     "rng",
     "sa-1"
   ],
-  "description": "This patch will replace SMW's RNG with a faster, shorter, and more random number generator. It will also let you use $148B and $148C as freeram. Requires no freespace.<br>\r\n<br>\r\nNote: <a href=\"https://smwc.me/1648667\">Here are some optional routines that let you do a few advanced things with the RNG function</a>.",
+  "description": "This patch will replace SMW's RNG with a faster, shorter, and more random number generator. It will also let you use $148B and $148C as freeram. Requires no freespace.<br>\r\n<br>\r\nNote: <a href=\"https://smwc.me/1648667\" rel=\"noopener\">Here are some optional routines that let you do a few advanced things with the RNG function</a>.",
   "latest_version": "V1.3.1",
   "install_kind": "asar_patch",
   "versions": [

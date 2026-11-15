@@ -12,7 +12,7 @@
     "player",
     "spc"
   ],
-  "description": "This is probably the best SPC player of them all. It has a myriad of features: speed/pitch change, channel mute, echo disable, DSP pitch/volume registers, etc.<br>\r\nUse the left and right arrow keys to toggle the data viewed during SPC playback.<br>\r\n<br>\r\nSee the Github page for the Changelog:<br>\r\n<a href=\"https://github.com/dgrfactory/spcplay/releases/\" rel=\"nofollow\">https://github.com/dgrfactory/spcplay/releases/</a>",
+  "description": "This is probably the best SPC player of them all. It has a myriad of features: speed/pitch change, channel mute, echo disable, DSP pitch/volume registers, etc.<br>\r\nUse the left and right arrow keys to toggle the data viewed during SPC playback.<br>\r\n<br>\r\nSee the Github page for the Changelog:<br>\r\n<a href=\"https://github.com/dgrfactory/spcplay/releases/\" rel=\"noopener nofollow\">https://github.com/dgrfactory/spcplay/releases/</a>",
   "latest_version": "smwc-35673-1708898431",
   "install_kind": "tool",
   "versions": [

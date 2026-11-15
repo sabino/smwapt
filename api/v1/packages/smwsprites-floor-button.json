@@ -17,7 +17,7 @@
     "sa-1",
     "switch"
   ],
-  "description": "A custom floor button switch sprite I made (flatter than a P-switch) that includes several features:<br>\r\n<ul><li>Flip on/off switch (including toggling and 1-way)</li>\n<li>Flip blue/silver P-switch (including toggling and 1-way)</li>\n<li>Flip Custom triggers (exanimation, toggle and 1-way)</li>\n<li>Flip switch palace flags (toggle and 1-way)</li>\n<li>Mario vs Donkey Kong colored switches (exanimation's manuel triggers)</li>\n<li>Emit signal that does something based on what block the signal travels into</li></ul><br>\r\n<br>\r\nBasically, this is the custom sprite version of my <a href=\"https://www.smwcentral.net/?p=section&a=details&id=4845\">16x8 block switch</a> I made long ago.",
+  "description": "A custom floor button switch sprite I made (flatter than a P-switch) that includes several features:<br>\r\n<ul><li>Flip on/off switch (including toggling and 1-way)</li>\n<li>Flip blue/silver P-switch (including toggling and 1-way)</li>\n<li>Flip Custom triggers (exanimation, toggle and 1-way)</li>\n<li>Flip switch palace flags (toggle and 1-way)</li>\n<li>Mario vs Donkey Kong colored switches (exanimation's manuel triggers)</li>\n<li>Emit signal that does something based on what block the signal travels into</li></ul><br>\r\n<br>\r\nBasically, this is the custom sprite version of my <a href=\"https://www.smwcentral.net/?p=section&a=details&id=4845\" rel=\"noopener\">16x8 block switch</a> I made long ago.",
   "latest_version": "v1.5.2",
   "install_kind": "pixi_sprite",
   "versions": [

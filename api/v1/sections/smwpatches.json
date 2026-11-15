@@ -33,6 +33,79 @@
     ]
   },
   {
+    "name": "smwpatches-auto-scroll-speed-customizer",
+    "aliases": [],
+    "section": "smwpatches",
+    "upstream_id": 43476,
+    "title": "Auto-Scroll Speed Customizer",
+    "authors": [
+      "imamelia"
+    ],
+    "tags": [
+      "lorom",
+      "sa-1",
+      "screen",
+      "screen scrolling"
+    ],
+    "description": "SMW only ever uses slow auto-scroll for sprite F3 because all the other speeds are actually garbage values. This patch expands that, enabling you to use up to 16 different autoscroll speeds depending on the sprite's Y position.",
+    "latest_version": "v1.0.2",
+    "install_kind": "asar_patch",
+    "versions": [
+      {
+        "upstream_id": 43476,
+        "title": "Auto-Scroll Speed Customizer",
+        "version": "v1.0.2",
+        "upstream_time": 1794173191,
+        "download_url": "https://dl.smwcentral.net/43476/auto.zip",
+        "filename": "auto.zip",
+        "size": 1024,
+        "sha256": null,
+        "dependencies": [
+          "asar"
+        ],
+        "install_kind": "asar_patch"
+      }
+    ]
+  },
+  {
+    "name": "smwpatches-b4vwf-bg4-variable-width-font-text-boxes",
+    "aliases": [],
+    "section": "smwpatches",
+    "upstream_id": 43478,
+    "title": "b4vwf - BG4 Variable-Width-Font Text Boxes",
+    "authors": [
+      "Katrina"
+    ],
+    "tags": [
+      "level names",
+      "lorom",
+      "message box",
+      "overworld",
+      "overworld border",
+      "sa-1",
+      "vwf"
+    ],
+    "description": "This patch replaces SMW's text box system with a fancier one with that displays text on BG4.<br>\r\n<br>\r\nThe default text boxes work with common types of HDMA (like color gradients and parallax), and any layer 3 background that doesn't use the graphics file in slot LG3, which includes every vanilla layer 3 background except tides.<br>\r\n<br>\r\nThe patch optionally supports using variable-width text for level names on the overworld, so it can replace long level name patches as well.<br>\r\n<br>\r\nThe text boxes have some formatting options so you can customize their look on a global or per-text-box basis.",
+    "latest_version": "V1.0.2",
+    "install_kind": "asar_patch",
+    "versions": [
+      {
+        "upstream_id": 43478,
+        "title": "b4vwf - BG4 Variable-Width-Font Text Boxes",
+        "version": "V1.0.2",
+        "upstream_time": 1794187298,
+        "download_url": "https://dl.smwcentral.net/43478/b4vwf.zip",
+        "filename": "b4vwf.zip",
+        "size": 37007,
+        "sha256": null,
+        "dependencies": [
+          "asar"
+        ],
+        "install_kind": "asar_patch"
+      }
+    ]
+  },
+  {
     "name": "smwpatches-better-random-number-generator",
     "aliases": [],
     "section": "smwpatches",
@@ -47,7 +120,7 @@
       "rng",
       "sa-1"
     ],
-    "description": "This patch will replace SMW's RNG with a faster, shorter, and more random number generator. It will also let you use $148B and $148C as freeram. Requires no freespace.<br>\r\n<br>\r\nNote: <a href=\"https://smwc.me/1648667\">Here are some optional routines that let you do a few advanced things with the RNG function</a>.",
+    "description": "This patch will replace SMW's RNG with a faster, shorter, and more random number generator. It will also let you use $148B and $148C as freeram. Requires no freespace.<br>\r\n<br>\r\nNote: <a href=\"https://smwc.me/1648667\" rel=\"noopener\">Here are some optional routines that let you do a few advanced things with the RNG function</a>.",
     "latest_version": "V1.3.1",
     "install_kind": "asar_patch",
     "versions": [
@@ -59,42 +132,6 @@
         "download_url": "https://dl.smwcentral.net/41249/RNG_3_1_1.zip",
         "filename": "RNG_3_1_1.zip",
         "size": 3011,
-        "sha256": null,
-        "dependencies": [
-          "asar"
-        ],
-        "install_kind": "asar_patch"
-      }
-    ]
-  },
-  {
-    "name": "smwpatches-bounce-block-fixes",
-    "aliases": [],
-    "section": "smwpatches",
-    "upstream_id": 41825,
-    "title": "Bounce Block Fixes",
-    "authors": [
-      "HammerBrother"
-    ],
-    "tags": [
-      "bounce block",
-      "double carry",
-      "lorom",
-      "physics",
-      "sa-1"
-    ],
-    "description": "This patch fixes various bounce block-related glitches:<br>\r\n<ul><li>Blocks can be hit multiple times before turning into tile $152 briefly, either by multiple kicked sprites hitting the block at the same frame, or during $9D being set. SMW only lets the block change via processing the bounce sprite, rather than immediately.</li>\n<li>The flip kicked sprite effect reuses the quake effect, causing sprites to always be knocked away from the player, even when the block is hit by a kicked sprite from the opposite side of the player</li></ul>",
-    "latest_version": "1.2.2",
-    "install_kind": "asar_patch",
-    "versions": [
-      {
-        "upstream_id": 41825,
-        "title": "Bounce Block Fixes",
-        "version": "1.2.2",
-        "upstream_time": 1773695911,
-        "download_url": "https://dl.smwcentral.net/41825/BounceBlockFixes_v1_2_2_.zip",
-        "filename": "BounceBlockFixes_v1_2_2_.zip",
-        "size": 60242,
         "sha256": null,
         "dependencies": [
           "asar"
@@ -117,7 +154,7 @@
       "overworld",
       "sa-1"
     ],
-    "description": "This fixes two minor bugs related to bringing up the life exchange prompt:<br>\r\n<br>\r\n- Pressing L/R setting <a href=\"https://smwc.me/m/smw/ram/7E1B87\">$1B87</a> even in one player mode, despite no prompt appearing. This could potentially mess with resources that expect <a href=\"https://smwc.me/m/smw/ram/7E1B87\">$1B87</a> to behave in a consistent way.<br>\r\n<br>\r\n- Pressing L/R to bring up the prompt while freely scrolling around the main map. This freezes the arrow animation on whatever frame it's on.",
+    "description": "This fixes two minor bugs related to bringing up the life exchange prompt:<br>\r\n<br>\r\n- Pressing L/R setting <a href=\"https://smwc.me/m/smw/ram/7E1B87\" rel=\"noopener\">$1B87</a> even in one player mode, despite no prompt appearing. This could potentially mess with resources that expect <a href=\"https://smwc.me/m/smw/ram/7E1B87\" rel=\"noopener\">$1B87</a> to behave in a consistent way.<br>\r\n<br>\r\n- Pressing L/R to bring up the prompt while freely scrolling around the main map. This freezes the arrow animation on whatever frame it's on.",
     "latest_version": "V1.0.2",
     "install_kind": "asar_patch",
     "versions": [
@@ -198,41 +235,6 @@
         "download_url": "https://dl.smwcentral.net/43200/castle_platform_pattern.zip",
         "filename": "castle_platform_pattern.zip",
         "size": 3634,
-        "sha256": null,
-        "dependencies": [
-          "asar"
-        ],
-        "install_kind": "asar_patch"
-      }
-    ]
-  },
-  {
-    "name": "smwpatches-collected-moon-outline",
-    "aliases": [],
-    "section": "smwpatches",
-    "upstream_id": 41799,
-    "title": "Collected Moon Outline",
-    "authors": [
-      "Koopster"
-    ],
-    "tags": [
-      "collectible",
-      "lorom",
-      "moon",
-      "sa-1"
-    ],
-    "description": "Makes a \"collected\" tile appear once a moon is collected. That tile will also appear in place of the moon when the room is reentered.<br>\r\n<br>\r\nThe sample graphics seen in the .gif are included.",
-    "latest_version": "smwc-41799-1772116767",
-    "install_kind": "asar_patch",
-    "versions": [
-      {
-        "upstream_id": 41799,
-        "title": "Collected Moon Outline",
-        "version": "smwc-41799-1772116767",
-        "upstream_time": 1772116767,
-        "download_url": "https://dl.smwcentral.net/41799/collected_moon_outline.zip",
-        "filename": "collected_moon_outline.zip",
-        "size": 1790,
         "sha256": null,
         "dependencies": [
           "asar"
@@ -329,7 +331,7 @@
       "sa-1",
       "sfx"
     ],
-    "description": "This patch adds in additional sound effects when Dry Bones and Bony Beetle is about to reanimate itself, similarly to the NSMB games.<br>\r\n<br>\r\nComes with two custom sound effects as well instructions on how to insert them.<br>\r\n<br>\r\nWhile not strictly required for this patch to work, it's meant to be used in conjunction with <a href=\"https://smwc.me/s/42569\">Dry Bones and Bony Beetle SubOffScreen Fix</a> so the sound effects don't play when said sprites are off-screen.",
+    "description": "This patch adds in additional sound effects when Dry Bones and Bony Beetle is about to reanimate itself, similarly to the NSMB games.<br>\r\n<br>\r\nComes with two custom sound effects as well instructions on how to insert them.<br>\r\n<br>\r\nWhile not strictly required for this patch to work, it's meant to be used in conjunction with <a href=\"https://smwc.me/s/42569\" rel=\"noopener\">Dry Bones and Bony Beetle SubOffScreen Fix</a> so the sound effects don't play when said sprites are off-screen.",
     "latest_version": "V1.0.1",
     "install_kind": "asar_patch",
     "versions": [
@@ -396,7 +398,7 @@
       "lorom",
       "sa-1"
     ],
-    "description": "Added a bit more documentation, Thank <span class=\"un-outer\" title=\"lx5\"><a href=\"/?p=profile&amp;id=12344\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">lx5</a></span> for that.<br>\r\n<br>\r\nDo you want to change some of the original ending's enemy sprite data without fuss? This should be the patch for the job, Included is a oversight fix regarding palette and tile data in the original enemy ending data.<br>\r\n<br>\r\nEnjoy.",
+    "description": "Added a bit more documentation, Thank <span class=\"un-outer\" title=\"lx5\"><span title=\"It's lx5's birthday today!\" class=\"icon icon-birthday\"></span><a href=\"/?p=profile&amp;id=12344\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\" rel=\"noopener\">lx5</a></span> for that.<br>\r\n<br>\r\nDo you want to change some of the original ending's enemy sprite data without fuss? This should be the patch for the job, Included is a oversight fix regarding palette and tile data in the original enemy ending data.<br>\r\n<br>\r\nEnjoy.",
     "latest_version": "0.031",
     "install_kind": "asar_patch",
     "versions": [
@@ -506,7 +508,7 @@
       "sa-1",
       "scroll"
     ],
-    "description": "This patch fixes a niche bug where the camera jitters and doesn't scroll forwards properly during the goal walk or when the player's entering a horizontal pipe, occurring when the camera is scrolled away from the direction the player is walking. This happens because part of the camera's code that is found in the L/R scrolling routine doesn't run during the goal walk or when entering pipes - this patch fixes that.<br>\r\n<br>\r\nIf you have previously disabled L/R scrolling, this patch will reanable it (a side effect of my implementation), but an option to disable L/R scrolling can be found inside of the file. Patch with that option enabled if you wish to have the scrolling disabled.<br>\r\n<br>\r\nShould be compatible with <span class=\"un-outer\" title=\"Burning Loaf\"><a href=\"/?p=profile&amp;id=31800\" style=\"color: var(--user-color-1);\" class=\"un\">Burning Loaf</a></span>'s <a href=\"https://www.smwcentral.net/?p=section&a=details&id=34924\">Alternative + Vertical L/R Scrolling</a> patch, <b>HOWEVER</b> a few things to note: My patch should be applied <i>after</i> Loaf's patch, and a minor modification needs to be made to his, otherwise the player will be able to scroll the camera with L and R during the goal walk:<div class=\"collapse\"><div class=\"collapse-header\"><span>Show me it</span></div><div class=\"collapse-content\">An <div class=\"code inline filter-noemote filter-nobr\"><pre>ORA $1493|!addr</pre></div> should be added below line 157 of the asm file, like so:<div class=\"code\"><div class=\"codeHead\"><span>Code</span></div><pre class=\"codeInner filter-noemote filter-nobr\">.controllerCheck\r\n\tLDA $1401|!addr     ;\\ $1401 remains unused,\r\n\tAND #$01            ;|\r\n\tORA $1493|!addr  ; (this line is the one that was added)\r\n\tBNE .updateCam      ;/ so now it's a disable L/R scrolling flag instead</pre></div></div></div>",
+    "description": "This patch fixes a niche bug where the camera jitters and doesn't scroll forwards properly during the goal walk or when the player's entering a horizontal pipe, occurring when the camera is scrolled away from the direction the player is walking. This happens because part of the camera's code that is found in the L/R scrolling routine doesn't run during the goal walk or when entering pipes - this patch fixes that.<br>\r\n<br>\r\nIf you have previously disabled L/R scrolling, this patch will reanable it (a side effect of my implementation), but an option to disable L/R scrolling can be found inside of the file. Patch with that option enabled if you wish to have the scrolling disabled.<br>\r\n<br>\r\nShould be compatible with <span class=\"un-outer\" title=\"Burning Loaf\"><a href=\"/?p=profile&amp;id=31800\" style=\"color: var(--user-color-1);\" class=\"un\" rel=\"noopener\">Burning Loaf</a></span>'s <a href=\"https://www.smwcentral.net/?p=section&a=details&id=34924\" rel=\"noopener\">Alternative + Vertical L/R Scrolling</a> patch, <b>HOWEVER</b> a few things to note: My patch should be applied <i>after</i> Loaf's patch, and a minor modification needs to be made to his, otherwise the player will be able to scroll the camera with L and R during the goal walk:<div class=\"collapse\"><div class=\"collapse-header\"><span>Show me it</span></div><div class=\"collapse-content\">An <div class=\"code inline filter-noemote filter-nobr\"><pre>ORA $1493|!addr</pre></div> should be added below line 157 of the asm file, like so:<div class=\"code\"><div class=\"codeHead\"><span>Code</span></div><pre class=\"codeInner filter-noemote filter-nobr\">.controllerCheck\r\n\tLDA $1401|!addr     ;\\ $1401 remains unused,\r\n\tAND #$01            ;|\r\n\tORA $1493|!addr  ; (this line is the one that was added)\r\n\tBNE .updateCam      ;/ so now it's a disable L/R scrolling flag instead</pre></div></div></div>",
     "latest_version": "V1.0.1",
     "install_kind": "asar_patch",
     "versions": [
@@ -539,9 +541,10 @@
       "free",
       "lorom",
       "movement",
-      "overworld"
+      "overworld",
+      "sa-1"
     ],
-    "description": "This patch will allow the player to move freely on the overworld originally inspired by the Super Mario 3D world overworld.<br>\r\n<br>\r\nI made this patch about 5-6 months ago and since someone requested it I decided to actually upload this.<br>\r\n<br>\r\nNote that layer 1 path tiles (Including warp tiles) are removed. Use pipes and stars to warp between maps.<br>\r\nAlso note that star warps need to have a level other than 0 or they won't work. (Yes that's intentional)<br>\r\n<br>\r\nUpdate:<br>\r\n- Fixed save prompts<br>\r\n- Fixed issues with second player<br>\r\n<br>\r\n(Requested by <span class=\"un-outer\" title=\"TrashCan64\"><a href=\"/?p=profile&amp;id=29268\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">TrashCan64</a></span>)",
+    "description": "This patch will allow the player to move freely on the overworld originally inspired by the Super Mario 3D world overworld.<br>\r\n<br>\r\nI made this patch about 5-6 months ago and since someone requested it I decided to actually upload this.<br>\r\n<br>\r\nNote that layer 1 path tiles (Including warp tiles) are removed. Use pipes and stars to warp between maps.<br>\r\nAlso note that star warps need to have a level other than 0 or they won't work. (Yes that's intentional)<br>\r\n<br>\r\nUpdate:<br>\r\n- Fixed save prompts<br>\r\n- Fixed issues with second player<br>\r\n<br>\r\n(Requested by <span class=\"un-outer\" title=\"TrashCan64\"><a href=\"/?p=profile&amp;id=29268\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\" rel=\"noopener\">TrashCan64</a></span>)",
     "latest_version": "V1.0.1",
     "install_kind": "asar_patch",
     "versions": [
@@ -811,7 +814,7 @@
       "status bar",
       "timer"
     ],
-    "description": "This patch combines the message box with the Minimalist Status Bar to allow Layer 3 effects and messages to coexist.<br>\r\n* It can coexist with layer 3 HDMA effects (Parallax, etc ...), and layer 3 water.<br>\r\n* It also disables goal messages and post-goal fades.<br>\r\n* No sprite tiles are used in the message field.<br>\r\n* It has custom message functions for selections, numerical inputs and name labels.<br>\r\n* The status bar is displayed correctly in Mode 7 boss battles.<br>\r\n* The HDMA effect will not be canceled even during the key goal and zooming circle.<br>\r\n* Compatible with LX5's Star Coins and Custom Powerups.<br>\r\n* Compatible with the Retry systems made by worldpeace and Kevin.<br>\r\n<br>\r\nIncludes sample patches and other sample files.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span><span style=\"font-size: 14pt;\">NOTES BEFORE PATCHING</span></span></div><div class=\"collapse-content\"><b><u>NOTE:</u> Before applying the patch, edit any of the levels and enable the standard Layer 3 tile map bypass for any level.</b><br>\r\n<br>\r\n<b><u>NOTE FOR SA-1 USERS:</u> To use with the latest SA-1, open remap/dma.asm and replace !window_hdma_channel = 1 with 7 before applying.<br>\r\nOtherwise, problems will occur in the overworld and some other sections of the game.</b></div></div><br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Sample patch message box details</span></div><div class=\"collapse-content\">The message box in the sample hack uses <a href=\"https://www.smwcentral.net/?p=section&a=details&id=22279\">this</a>.<br>\r\nHowever, the code around line 76 is rewritten from<br>\r\n<div class=\"code\"><div class=\"codeHead\"><span>Code</span></div><pre class=\"codeInner filter-noemote filter-nobr\">\tBEQ .default\r\n\tSTA $13BF|!Base2\r\n\tLDA #$03\r\n\tSTA !15AC,x\r\n.default\r\n\tLDA !E4,x\t; Load X position..\r\n\tLSR\t\t; ..\r\n\tLSR\t\t; ..\r\n\tLSR\t\t; ..\r\n\tLSR\t\t; ..\r\n\tAND #$01\t; And make the sprite..\r\n\tINC\t\t; Display its message..</pre></div><br>\r\nto<br>\r\n<div class=\"code\"><div class=\"codeHead\"><span>Code</span></div><pre class=\"codeInner filter-noemote filter-nobr\">\tSTA $0F40|!Base2\r\n\tLDA #$00 ; !extra_byte_2,x\r\n\tSTA $0F41|!Base2\r\n\tLDA #$04</pre></div></div></div><br>\r\n",
+    "description": "This patch combines the message box with the Minimalist Status Bar to allow Layer 3 effects and messages to coexist.<br>\r\n* It can coexist with layer 3 HDMA effects (Parallax, etc ...), and layer 3 water.<br>\r\n* It also disables goal messages and post-goal fades.<br>\r\n* No sprite tiles are used in the message field.<br>\r\n* It has custom message functions for selections, numerical inputs and name labels.<br>\r\n* The status bar is displayed correctly in Mode 7 boss battles.<br>\r\n* The HDMA effect will not be canceled even during the key goal and zooming circle.<br>\r\n* Compatible with LX5's Star Coins and Custom Powerups.<br>\r\n* Compatible with the Retry systems made by worldpeace and Kevin.<br>\r\n<br>\r\nIncludes sample patches and other sample files.<br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span><span style=\"font-size: 14pt;\">NOTES BEFORE PATCHING</span></span></div><div class=\"collapse-content\"><b><u>NOTE:</u> Before applying the patch, edit any of the levels and enable the standard Layer 3 tile map bypass for any level.</b><br>\r\n<br>\r\n<b><u>NOTE FOR SA-1 USERS:</u> To use with the latest SA-1, open remap/dma.asm and replace !window_hdma_channel = 1 with 7 before applying.<br>\r\nOtherwise, problems will occur in the overworld and some other sections of the game.</b></div></div><br>\r\n<br>\r\n<div class=\"collapse\"><div class=\"collapse-header\"><span>Sample patch message box details</span></div><div class=\"collapse-content\">The message box in the sample hack uses <a href=\"https://www.smwcentral.net/?p=section&a=details&id=22279\" rel=\"noopener\">this</a>.<br>\r\nHowever, the code around line 76 is rewritten from<br>\r\n<div class=\"code\"><div class=\"codeHead\"><span>Code</span></div><pre class=\"codeInner filter-noemote filter-nobr\">\tBEQ .default\r\n\tSTA $13BF|!Base2\r\n\tLDA #$03\r\n\tSTA !15AC,x\r\n.default\r\n\tLDA !E4,x\t; Load X position..\r\n\tLSR\t\t; ..\r\n\tLSR\t\t; ..\r\n\tLSR\t\t; ..\r\n\tLSR\t\t; ..\r\n\tAND #$01\t; And make the sprite..\r\n\tINC\t\t; Display its message..</pre></div><br>\r\nto<br>\r\n<div class=\"code\"><div class=\"codeHead\"><span>Code</span></div><pre class=\"codeInner filter-noemote filter-nobr\">\tSTA $0F40|!Base2\r\n\tLDA #$00 ; !extra_byte_2,x\r\n\tSTA $0F41|!Base2\r\n\tLDA #$04</pre></div></div></div><br>\r\n",
     "latest_version": "smwc-42390-1779420219",
     "install_kind": "asar_patch",
     "versions": [
@@ -867,33 +870,32 @@
     ]
   },
   {
-    "name": "smwpatches-modified-bomber-banzai-bill-entrance",
+    "name": "smwpatches-more-flexible-vanilla-cutscene-trigger",
     "aliases": [],
     "section": "smwpatches",
-    "upstream_id": 41746,
-    "title": "Modified Bomber/Banzai Bill Entrance",
+    "upstream_id": 42739,
+    "title": "More Flexible Vanilla Cutscene Trigger",
     "authors": [
-      "Moltz"
+      "yoshifanatic"
     ],
     "tags": [
-      "banzai bill",
-      "bomber bill",
+      "cutscene",
+      "goal",
       "lorom",
-      "sa-1",
-      "sfx"
+      "sa-1"
     ],
-    "description": "This patch modifies the entrance Bomber/Banzai Bills make by adding a quake effect whenever it appears.<br>\r\n<br>\r\nCredit's not required but heavily appreciated.",
-    "latest_version": "smwc-41746-1772058091",
+    "description": "Ever want to use SMW's castle destruction cutscenes or credits, but didn't want to have Mario fight a boss to trigger them? Or you wanted more bosses that trigger the secret exit? This patch enables both of those. With this, you can trigger the vanilla cutscenes from any exit and have up to 128 levels that trigger a secret exit when defeating a boss.<br>\r\n<br>\r\nCredit not required, but appreciated!<br>\r\n<br>\r\nMade for <span class=\"un-outer\" title=\"Yano_Felix\"><a href=\"/?p=profile&amp;id=74311\" style=\"color: var(--user-color-2);\" class=\"un\" rel=\"noopener\">Yano_Felix</a></span>.",
+    "latest_version": "V1.0",
     "install_kind": "asar_patch",
     "versions": [
       {
-        "upstream_id": 41746,
-        "title": "Modified Bomber/Banzai Bill Entrance",
-        "version": "smwc-41746-1772058091",
-        "upstream_time": 1772058091,
-        "download_url": "https://dl.smwcentral.net/41746/Modified%20Bomber%20Banzai%20Bill%20Entrance.zip",
-        "filename": "Modified Bomber Banzai Bill Entrance.zip",
-        "size": 736,
+        "upstream_id": 42739,
+        "title": "More Flexible Vanilla Cutscene Trigger",
+        "version": "V1.0",
+        "upstream_time": 1794244151,
+        "download_url": "https://dl.smwcentral.net/42739/TriggerCutsceneOnAnyExit.zip",
+        "filename": "TriggerCutsceneOnAnyExit.zip",
+        "size": 2430,
         "sha256": null,
         "dependencies": [
           "asar"
@@ -940,40 +942,6 @@
     ]
   },
   {
-    "name": "smwpatches-multiple-title-screen-demos",
-    "aliases": [],
-    "section": "smwpatches",
-    "upstream_id": 40309,
-    "title": "Multiple Title Screen Demos",
-    "authors": [
-      "Arinsu"
-    ],
-    "tags": [
-      "lorom",
-      "sa-1",
-      "title screen"
-    ],
-    "description": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/nekietDbSBc?si=FXI_iTNhc7zWO-7P\" title=\"YouTube video player\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe><br>\r\n<br>\r\nA patch that allows you to have multiple title screens, either chosen at random or in a set order. Allows up to 64. All of them have their own movement data!<br>\r\nRequested by <span class=\"un-outer\" title=\"Segment1Zone2\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=46677\" style=\"color: #c090ff;\" class=\"un\">Segment1Zone2</a></span>.<br>\r\n<br>\r\nI also made a tool to extract titlescreen recording moves from snes9x and Mesen 2 saves, assuming the LM hack is enabled. Get it <a href=\"https://github.com/arinsuwu/lm_titlescreen_moves_reader/releases/latest\" rel=\"nofollow\">here</a>.",
-    "latest_version": "v1.1.2",
-    "install_kind": "asar_patch",
-    "versions": [
-      {
-        "upstream_id": 40309,
-        "title": "Multiple Title Screen Demos",
-        "version": "v1.1.2",
-        "upstream_time": 1774901115,
-        "download_url": "https://dl.smwcentral.net/40309/Multiple%20Title%20Screen%20Demos%201.1.2.zip",
-        "filename": "Multiple Title Screen Demos 1.1.2.zip",
-        "size": 6116,
-        "sha256": null,
-        "dependencies": [
-          "asar"
-        ],
-        "install_kind": "asar_patch"
-      }
-    ]
-  },
-  {
     "name": "smwpatches-optimize-background-tilemap-buffering",
     "aliases": [],
     "section": "smwpatches",
@@ -988,7 +956,7 @@
       "optimize",
       "sa-1"
     ],
-    "description": "This patch optimizes the routine at $058126, which is the routine that decompresses and buffers the layer 2 background tilemap into <a href=\"https://smwc.me/m/smw/ram/7EB900\">$7EB900</a>. This routine is incredibly inefficient and can be simplified greatly.<br>\r\n<br>\r\nThe reduction in load time will vary based on the background used (with no effect for layer 2 levels), but this saved around 248 scanlines loading Yoshi's Island 1 in vanilla (no FastROM, no Lunar Magic, or anything else).",
+    "description": "This patch optimizes the routine at $058126, which is the routine that decompresses and buffers the layer 2 background tilemap into <a href=\"https://smwc.me/m/smw/ram/7EB900\" rel=\"noopener\">$7EB900</a>. This routine is incredibly inefficient and can be simplified greatly.<br>\r\n<br>\r\nThe reduction in load time will vary based on the background used (with no effect for layer 2 levels), but this saved around 248 scanlines loading Yoshi's Island 1 in vanilla (no FastROM, no Lunar Magic, or anything else).",
     "latest_version": "V1.1.1",
     "install_kind": "asar_patch",
     "versions": [
@@ -1024,7 +992,7 @@
       "sa-1",
       "water"
     ],
-    "description": "Allows you to disable the layer 3 tide pushback in specific levels.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Knight of Time\"><a href=\"/?p=profile&amp;id=146\" style=\"color: var(--user-color-2);\" class=\"un\">Knight of Time</a></span> around late 2024/early 2025. I then modified the patch and cleaned it up further, per a request by <span class=\"un-outer\" title=\"MrUg123\"><a href=\"/?p=profile&amp;id=73180\" style=\"color: var(--user-color-2);\" class=\"un\">MrUg123</a></span>.",
+    "description": "Allows you to disable the layer 3 tide pushback in specific levels.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Knight of Time\"><a href=\"/?p=profile&amp;id=146\" style=\"color: var(--user-color-2);\" class=\"un\" rel=\"noopener\">Knight of Time</a></span> around late 2024/early 2025. I then modified the patch and cleaned it up further, per a request by <span class=\"un-outer\" title=\"MrUg123\"><a href=\"/?p=profile&amp;id=73180\" style=\"color: var(--user-color-2);\" class=\"un\" rel=\"noopener\">MrUg123</a></span>.",
     "latest_version": "1.1.1",
     "install_kind": "asar_patch",
     "versions": [
@@ -1060,7 +1028,7 @@
       "player",
       "sa-1"
     ],
-    "description": "This patch will allow you to selectively have straight fireballs in a per-player basis: either for player 1 or for player 2.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Zack-san\"><a href=\"/?p=profile&amp;id=23097\" style=\"color: var(--user-color-2);\" class=\"un\">Zack-san</a></span>.",
+    "description": "This patch will allow you to selectively have straight fireballs in a per-player basis: either for player 1 or for player 2.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Zack-san\"><a href=\"/?p=profile&amp;id=23097\" style=\"color: var(--user-color-2);\" class=\"un\" rel=\"noopener\">Zack-san</a></span>.",
     "latest_version": "V1.0.1",
     "install_kind": "asar_patch",
     "versions": [
@@ -1094,7 +1062,7 @@
       "sa-1",
       "sound effect"
     ],
-    "description": "This simple patch adds a sound effect when picking up sprites, like throw blocks, keys, stunned enemies, etc.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Gamer collin\"><a href=\"/?p=profile&amp;id=71087\" style=\"color: var(--user-color-1);\" class=\"un\">Gamer collin</a></span>.",
+    "description": "This simple patch adds a sound effect when picking up sprites, like throw blocks, keys, stunned enemies, etc.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Gamer collin\"><a href=\"/?p=profile&amp;id=71087\" style=\"color: var(--user-color-1);\" class=\"un\" rel=\"noopener\">Gamer collin</a></span>.",
     "latest_version": "smwc-41597-1775952549",
     "install_kind": "asar_patch",
     "versions": [
@@ -1163,7 +1131,7 @@
       "lorom",
       "sa-1"
     ],
-    "description": "This patch adds a flag which changes if fireballs interact with sprites or hurt the player.<br>\r\nAffects Yoshi and player fireballs.<br>\r\n<br>\r\nIf you spawn fireballs via asm, make sure you set the flag to interact with the player or with sprites. If you don't set this flag, it might still be set or not set from the previous sprite.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #fdadf4;\" class=\"un\">Arinsu</a></span>.",
+    "description": "This patch adds a flag which changes if fireballs interact with sprites or hurt the player.<br>\r\nAffects Yoshi and player fireballs.<br>\r\n<br>\r\nIf you spawn fireballs via asm, make sure you set the flag to interact with the player or with sprites. If you don't set this flag, it might still be set or not set from the previous sprite.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Arinsu\"><span title=\"Arinsu donated $6.00.\" class=\"icon icon-donor\"></span><span title=\"Team Leader\" class=\"icon icon-leader\"></span><a href=\"/?p=profile&amp;id=17672\" style=\"color: #fdadf4;\" class=\"un\" rel=\"noopener\">Arinsu</a></span>.",
     "latest_version": "v1.2.1",
     "install_kind": "asar_patch",
     "versions": [
@@ -1314,7 +1282,7 @@
       "object",
       "sa-1"
     ],
-    "description": "Makes it so that, during level load, there's a configurable chance a 3-up moon gets replaced by a custom Map16 tile of your liking, subject to normal collectible rules (if you are entering a level where the moon was already collected, nothing will spawn. This is by design).<br>\r\n<br>\r\nIncludes an example custom block: a blushing in-love moon which grants five extra lives instead of three, complete with custom graphics and ExAnimation.<br>\r\n<br>\r\nDedicated to <span class=\"un-outer\" title=\"JerryPKCMoet\"><a href=\"/?p=profile&amp;id=69298\" style=\"color: var(--user-color-1);\" class=\"un unavailable inactive\">JerryPKCMoet</a></span> who inspired the idea via a blushing 3-up moon they made in Minecraft lol",
+    "description": "Makes it so that, during level load, there's a configurable chance a 3-up moon gets replaced by a custom Map16 tile of your liking, subject to normal collectible rules (if you are entering a level where the moon was already collected, nothing will spawn. This is by design).<br>\r\n<br>\r\nIncludes an example custom block: a blushing in-love moon which grants five extra lives instead of three, complete with custom graphics and ExAnimation.<br>\r\n<br>\r\nDedicated to <span class=\"un-outer\" title=\"JerryPKCMoet\"><a href=\"/?p=profile&amp;id=69298\" style=\"color: var(--user-color-1);\" class=\"un unavailable inactive\" rel=\"noopener\">JerryPKCMoet</a></span> who inspired the idea via a blushing 3-up moon they made in Minecraft lol",
     "latest_version": "smwc-42064-1775960162",
     "install_kind": "asar_patch",
     "versions": [
@@ -1388,7 +1356,7 @@
       "reznor",
       "sa-1"
     ],
-    "description": "This patch allows Reznor to always breathe big fireballs regardless if fought inside a Mode 7 room or not, while also fixing the big fireball's hitbox so it matches its actual size unlike the vanilla game. As a side effect, Jumping Fire-Spitting Piranha Plants can no longer spit huge fireballs under any conditions.<br>\r\n<br>\r\n<a href=\"https://smwc.me/s/40575\">This patch is meant to be a less invasive take to Sonikku's original concept</a>, should you want to fix Reznor's fireballs when used in normal levels and avoid everything else that might cause resource incompatibilities.<br>\r\n<br>\r\nAs a bonus, it can also add a fancy smoke effect whenever Reznor breathes fire, should the user wish so.",
+    "description": "This patch allows Reznor to always breathe big fireballs regardless if fought inside a Mode 7 room or not, while also fixing the big fireball's hitbox so it matches its actual size unlike the vanilla game. As a side effect, Jumping Fire-Spitting Piranha Plants can no longer spit huge fireballs under any conditions.<br>\r\n<br>\r\n<a href=\"https://smwc.me/s/40575\" rel=\"noopener\">This patch is meant to be a less invasive take to Sonikku's original concept</a>, should you want to fix Reznor's fireballs when used in normal levels and avoid everything else that might cause resource incompatibilities.<br>\r\n<br>\r\nAs a bonus, it can also add a fancy smoke effect whenever Reznor breathes fire, should the user wish so.",
     "latest_version": "1.2.1",
     "install_kind": "asar_patch",
     "versions": [
@@ -1462,7 +1430,7 @@
       "player",
       "sa-1"
     ],
-    "description": "Yay! My very first Asar patch! <br>\r\nThis patch allows Mario and Luigi to have separate Game Over Themes! This also fixes a bug where Luigi doesn’t have Game Over music!<br>\r\n<br>\r\nBug: [url=https://youtu.be/ht23bzUt8wE]<br>\r\n<br>\r\nNote: Go to AMK's <kbd>asm/SNES/tweaks.asm</kbd>, go <code>org $00D0DE</code> and comment out (add semicolons <b>;</b> at the start of each line) for the following lines:<br>\r\n<div class=\"code\"><div class=\"codeHead\"><span>Code</span></div><pre class=\"codeInner filter-noemote filter-nobr 65c816asm\">org $00D0DE\r\n\tdb !GameOver</pre></div>",
+    "description": "Yay! My very first Asar patch! <br>\r\nThis patch allows Mario and Luigi to have separate Game Over Themes! This also fixes a bug where Luigi doesn’t have Game Over music!<br>\r\n<br>\r\nBug: [url=<a href=\"https://youtu.be/ht23bzUt8wE\" rel=\"noopener nofollow\">https://youtu.be/ht23bzUt8wE</a><br>\r\n<br>\r\nNote: Go to AMK's <kbd>asm/SNES/tweaks.asm</kbd>, go <code>org $00D0DE</code> and comment out (add semicolons <b>;</b> at the start of each line) for the following lines:<br>\r\n<div class=\"code\"><div class=\"codeHead\"><span>Code</span></div><pre class=\"codeInner filter-noemote filter-nobr 65c816asm\">org $00D0DE\r\n\tdb !GameOver</pre></div>",
     "latest_version": "1.0.1",
     "install_kind": "asar_patch",
     "versions": [
@@ -1474,6 +1442,41 @@
         "download_url": "https://dl.smwcentral.net/42482/SeparateMarioAndLuigiGameOverThemesV1.0.1.zip",
         "filename": "SeparateMarioAndLuigiGameOverThemesV1.0.1.zip",
         "size": 963,
+        "sha256": null,
+        "dependencies": [
+          "asar"
+        ],
+        "install_kind": "asar_patch"
+      }
+    ]
+  },
+  {
+    "name": "smwpatches-skippable-castle-destruction-scene",
+    "aliases": [],
+    "section": "smwpatches",
+    "upstream_id": 43509,
+    "title": "Skippable Castle Destruction Scene",
+    "authors": [
+      "Karisa"
+    ],
+    "tags": [
+      "cutscene",
+      "lorom",
+      "sa-1",
+      "speedrun"
+    ],
+    "description": "This patch allows the player to press Start to skip castle destruction scenes.<br>\r\n<br>\r\nIntended for speedrun/replay-oriented hacks, so that the player won't be forced to wait through the same cutscene every time they defeat the boss, but potentially applicable to any hack.",
+    "latest_version": "V1.0.1",
+    "install_kind": "asar_patch",
+    "versions": [
+      {
+        "upstream_id": 43509,
+        "title": "Skippable Castle Destruction Scene",
+        "version": "V1.0.1",
+        "upstream_time": 1794700993,
+        "download_url": "https://dl.smwcentral.net/43509/CastleScene-StartToSkipV1.0.1.zip",
+        "filename": "CastleScene-StartToSkipV1.0.1.zip",
+        "size": 660,
         "sha256": null,
         "dependencies": [
           "asar"
@@ -1604,7 +1607,7 @@
       "smb2 health",
       "sprite status bar"
     ],
-    "description": "This patch implements a container-based health system in the game. A collectible sprite that increases the amount of containers is also included.<br>\r\nWhat is different about this patch is that it does not touch the status bar at all, displaying the hearts as sprites instead - in fact, it may be safe to use this along with most of the custom status bar patches available in the site.<br>\r\n<br>\r\nThere are two ways to use the extra containers:<br>\r\n- It is possible to make them work more akin to SMB2, where they will last for as long as a level (rather than a world in this case), and the original amount of containers will be restored when the player returns to the overworld.<br>\r\n- Like in most games with a health system, the containers can be made to be permanent (this is the default setting). However, you must be careful to assign each of the container sprites an ID via the extra byte, otherwise they will respawn and make it possible to collect infinite containers. The amount of container ID's you can have in total is limited to 16 by default, but this number can be expanded easily with the help of a SRAM/BW-RAM enhancer patch. More information about this can be found in the sprite's .asm file.<br>\r\n<br>\r\nMake sure to check the patch's .asm file, as it includes many defines to easily customize, among other things, the graphics and position of the containers. A folder is included with an alternative minimalist design, as well as versions that suit the <a href=\"https://smwc.me/s/20408\">Mario's 8x8 Tiles DMA-er</a> patch and don't replace occupied SP1-2 tiles.",
+    "description": "This patch implements a container-based health system in the game. A collectible sprite that increases the amount of containers is also included.<br>\r\nWhat is different about this patch is that it does not touch the status bar at all, displaying the hearts as sprites instead - in fact, it may be safe to use this along with most of the custom status bar patches available in the site.<br>\r\n<br>\r\nThere are two ways to use the extra containers:<br>\r\n- It is possible to make them work more akin to SMB2, where they will last for as long as a level (rather than a world in this case), and the original amount of containers will be restored when the player returns to the overworld.<br>\r\n- Like in most games with a health system, the containers can be made to be permanent (this is the default setting). However, you must be careful to assign each of the container sprites an ID via the extra byte, otherwise they will respawn and make it possible to collect infinite containers. The amount of container ID's you can have in total is limited to 16 by default, but this number can be expanded easily with the help of a SRAM/BW-RAM enhancer patch. More information about this can be found in the sprite's .asm file.<br>\r\n<br>\r\nMake sure to check the patch's .asm file, as it includes many defines to easily customize, among other things, the graphics and position of the containers. A folder is included with an alternative minimalist design, as well as versions that suit the <a href=\"https://smwc.me/s/20408\" rel=\"noopener\">Mario's 8x8 Tiles DMA-er</a> patch and don't replace occupied SP1-2 tiles.",
     "latest_version": "smwc-42123-1775280436",
     "install_kind": "asar_patch",
     "versions": [

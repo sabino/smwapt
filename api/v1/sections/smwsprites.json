@@ -16,7 +16,7 @@
       "sa-1",
       "volcano lotus"
     ],
-    "description": "A volcano lotus that flies in the same pattern as platform for hammer brother, and spits hammers.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Daizo Dee Von\"><span title=\"Helper\" class=\"icon icon-helper\"></span><a href=\"/?p=profile&amp;id=11520\" style=\"color: var(--user-color-2);\" class=\"un\">Daizo Dee Von</a></span> during Winter C3 2023.",
+    "description": "A volcano lotus that flies in the same pattern as platform for hammer brother, and spits hammers.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Daizo Dee Von\"><span title=\"Helper\" class=\"icon icon-helper\"></span><a href=\"/?p=profile&amp;id=11520\" style=\"color: var(--user-color-2);\" class=\"un\" rel=\"noopener\">Daizo Dee Von</a></span> during Winter C3 2023.",
     "latest_version": "V1.0.1",
     "install_kind": "pixi_sprite",
     "versions": [
@@ -50,7 +50,7 @@
       "pacifist",
       "sa-1"
     ],
-    "description": "A version of the fireworks seen in the credits that can be used as vanity in a regular level. They won't make the player invisible and will spawn behind the foreground. You can disable the sound effects and either disable or customise the background color flashing in the .asm file.<br>\r\n<br>\r\nDespite being a normal sprite, this works like a generator by spawning fireworks regularly. If the extra bit is set, this acts as a fireworks disabler instead. Place either version at the <b>very start</b> of the level to ensure it takes a low sprite slot, or it may cause other sprites to become invisible! Certain cluster sprites, such as Sumo Brother flames and Boo ceilings, are prone to having issues with this, so avoid them. Other than that, this should be (mostly) safe to use.<br>\r\n<br>\r\nIf not using SA-1, <a href=\"https://smwc.me/s/40702\">No More Sprite Tile Limits</a> is an absolute requirement.",
+    "description": "A version of the fireworks seen in the credits that can be used as vanity in a regular level. They won't make the player invisible and will spawn behind the foreground. You can disable the sound effects and either disable or customise the background color flashing in the .asm file.<br>\r\n<br>\r\nDespite being a normal sprite, this works like a generator by spawning fireworks regularly. If the extra bit is set, this acts as a fireworks disabler instead. Place either version at the <b>very start</b> of the level to ensure it takes a low sprite slot, or it may cause other sprites to become invisible! Certain cluster sprites, such as Sumo Brother flames and Boo ceilings, are prone to having issues with this, so avoid them. Other than that, this should be (mostly) safe to use.<br>\r\n<br>\r\nIf not using SA-1, <a href=\"https://smwc.me/s/40702\" rel=\"noopener\">No More Sprite Tile Limits</a> is an absolute requirement.",
     "latest_version": "smwc-42057-1783430550",
     "install_kind": "pixi_sprite",
     "versions": [
@@ -163,7 +163,7 @@
       "pacifist",
       "sa-1"
     ],
-    "description": "A bird which picks around and randomly flips directions.<br>\r\n<br>\r\nOriginally made for <span class=\"un-outer\" title=\"Tob\"><a href=\"/?p=profile&amp;id=25442\" style=\"color: var(--user-color-1);\" class=\"un\">Tob</a></span> and I's OWDC3 entry, which placed 1st.",
+    "description": "A bird which picks around and randomly flips directions.<br>\r\n<br>\r\nOriginally made for <span class=\"un-outer\" title=\"Tob\"><a href=\"/?p=profile&amp;id=25442\" style=\"color: var(--user-color-1);\" class=\"un\" rel=\"noopener\">Tob</a></span> and I's OWDC3 entry, which placed 1st.",
     "latest_version": "smwc-42802-1790784661",
     "install_kind": "pixi_sprite",
     "versions": [
@@ -200,7 +200,7 @@
       "lorom",
       "sa-1"
     ],
-    "description": "A Bob-omb which leaves a fire trail every certain amount of time, controlled by the fourth extra byte.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Green\"><a href=\"/?p=profile&amp;id=43749\" style=\"color: var(--user-color-3);\" class=\"un\">Green</a></span> during C3 Winter 2025. That one used the old, now-removed Bob-omb disassembly. This one uses my own disassembly as a base, now with X speed, time before being quiet, and time before exploding all parametrized in extra bytes.",
+    "description": "A Bob-omb which leaves a fire trail every certain amount of time, controlled by the fourth extra byte.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Green\"><a href=\"/?p=profile&amp;id=43749\" style=\"color: var(--user-color-3);\" class=\"un\" rel=\"noopener\">Green</a></span> during C3 Winter 2025. That one used the old, now-removed Bob-omb disassembly. This one uses my own disassembly as a base, now with X speed, time before being quiet, and time before exploding all parametrized in extra bytes.",
     "latest_version": "smwc-42177-1777077860",
     "install_kind": "pixi_sprite",
     "versions": [
@@ -271,7 +271,7 @@
       "lorom",
       "sa-1"
     ],
-    "description": "This is a recreation of the famous Homing Bullet Bill seen in many hacks. Affectionately dubbed the \"Brutal Bill\", as it is based on a sprite made by Carol and debuted in Brutal Mario.<br>\r\n<br>\r\nThis was made partially because Carol's was never released with his explicit permission, and is considered a leaked resource. It uses none of Carol's code, so it's not 1:1, but it is close enough that most people will never notice.<br>\r\n<br>\r\nThis sprite was also posted to <a href=\"https://www.patreon.com/posts/160317962\" rel=\"nofollow\">my Patreon</a>. Should anything happen to this submission, it can be found there as well.",
+    "description": "This is a recreation of the famous Homing Bullet Bill seen in many hacks. Affectionately dubbed the \"Brutal Bill\", as it is based on a sprite made by Carol and debuted in Brutal Mario.<br>\r\n<br>\r\nThis was made partially because Carol's was never released with his explicit permission, and is considered a leaked resource. It uses none of Carol's code, so it's not 1:1, but it is close enough that most people will never notice.<br>\r\n<br>\r\nThis sprite was also posted to <a href=\"https://www.patreon.com/posts/160317962\" rel=\"noopener nofollow\">my Patreon</a>. Should anything happen to this submission, it can be found there as well.",
     "latest_version": "1.1",
     "install_kind": "pixi_sprite",
     "versions": [
@@ -319,6 +319,42 @@
         "download_url": "https://dl.smwcentral.net/42816/LeBumper%20v1.2.zip",
         "filename": "LeBumper v1.2.zip",
         "size": 10947,
+        "sha256": null,
+        "dependencies": [
+          "pixi"
+        ],
+        "install_kind": "pixi_sprite"
+      }
+    ]
+  },
+  {
+    "name": "smwsprites-carryable-magnet",
+    "aliases": [],
+    "section": "smwsprites",
+    "upstream_id": 42001,
+    "title": "Carryable Magnet",
+    "authors": [
+      "flips_bad"
+    ],
+    "tags": [
+      "block needed",
+      "boost",
+      "lorom",
+      "physics",
+      "sa-1"
+    ],
+    "description": "This is a carryable magnet that you can use to attract or repel most other sprites. It is configurable to use several different triggers, including an optional toggle to switch between attract and repel at will. It also works while in Yoshi's mouth.<br>\r\n<br>\r\nIt includes a custom block which \"magnetizes\" individual sprites that pass through it. This is in case you don't want the magnet to attract/repel all sprites around it at once. This and other settings are configurable with the extra bytes.<br>\r\n<br>\r\nI got the idea from MeltCatAmy who was thinking out loud about it and I needed an excuse to set up a template carryable sprite for some future stuff. I hope someone has fun with this, I feel like you could do a lot with it for puzzle hacks.",
+    "latest_version": "1.1",
+    "install_kind": "pixi_sprite",
+    "versions": [
+      {
+        "upstream_id": 42001,
+        "title": "Carryable Magnet",
+        "version": "1.1",
+        "upstream_time": 1794689763,
+        "download_url": "https://dl.smwcentral.net/42001/magnet%20%2B%20sa1.zip",
+        "filename": "magnet + sa1.zip",
+        "size": 14385,
         "sha256": null,
         "dependencies": [
           "pixi"
@@ -380,7 +416,7 @@
       "rex",
       "sa-1"
     ],
-    "description": "This is a Rex that chases you, like Disco Shell. In fact, it can be set to flash and become invulnerable to stomps.<br>\r\nIt can also be set to remain \"hidden\" untill player comes close.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Roberto zampari\"><a href=\"/?p=profile&amp;id=1508\" style=\"color: var(--user-color-2);\" class=\"un\">Roberto zampari</a></span>, <span class=\"un-outer\" title=\"zacmario\"><a href=\"/?p=profile&amp;id=25159\" style=\"color: var(--user-color-2);\" class=\"un\">zacmario</a></span> and <span class=\"un-outer\" title=\"Ganbare-Lucifer\"><a href=\"/?p=profile&amp;id=21984\" style=\"color: var(--user-color-2);\" class=\"un\">Ganbare-Lucifer</a></span>.",
+    "description": "This is a Rex that chases you, like Disco Shell. In fact, it can be set to flash and become invulnerable to stomps.<br>\r\nIt can also be set to remain \"hidden\" untill player comes close.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Roberto zampari\"><a href=\"/?p=profile&amp;id=1508\" style=\"color: var(--user-color-2);\" class=\"un\" rel=\"noopener\">Roberto zampari</a></span>, <span class=\"un-outer\" title=\"zacmario\"><a href=\"/?p=profile&amp;id=25159\" style=\"color: var(--user-color-2);\" class=\"un\" rel=\"noopener\">zacmario</a></span> and <span class=\"un-outer\" title=\"Ganbare-Lucifer\"><a href=\"/?p=profile&amp;id=21984\" style=\"color: var(--user-color-2);\" class=\"un\" rel=\"noopener\">Ganbare-Lucifer</a></span>.",
     "latest_version": "1.2.1",
     "install_kind": "pixi_sprite",
     "versions": [
@@ -486,7 +522,7 @@
       "lorom",
       "sa-1"
     ],
-    "description": "Video: <a href=\"https://www.youtube.com/watch?v=scEE-jSWcC0\" rel=\"nofollow\">LINK</a><br>\r\n<br>\r\nThis is a custom Iggy Boss I coded for Mario's Enigmatic Tales. A rather simple boss that can be used in earlier worlds.<br>\r\n<br>\r\nSpecial thanks to Sonikku for the graphics (ripped from MFGG). Credit is always a plus for the code.",
+    "description": "Video: <a href=\"https://www.youtube.com/watch?v=scEE-jSWcC0\" rel=\"noopener nofollow\">LINK</a><br>\r\n<br>\r\nThis is a custom Iggy Boss I coded for Mario's Enigmatic Tales. A rather simple boss that can be used in earlier worlds.<br>\r\n<br>\r\nSpecial thanks to Sonikku for the graphics (ripped from MFGG). Credit is always a plus for the code.",
     "latest_version": "smwc-42637-1783173142",
     "install_kind": "pixi_sprite",
     "versions": [
@@ -498,6 +534,43 @@
         "download_url": "https://dl.smwcentral.net/42637/SMW%20Custom%20Iggy%20Boss.zip",
         "filename": "SMW Custom Iggy Boss.zip",
         "size": 10074,
+        "sha256": null,
+        "dependencies": [
+          "pixi"
+        ],
+        "install_kind": "pixi_sprite"
+      }
+    ]
+  },
+  {
+    "name": "smwsprites-custom-water-bubble",
+    "aliases": [],
+    "section": "smwsprites",
+    "upstream_id": 42050,
+    "title": "Custom Water Bubble",
+    "authors": [
+      "DrAnas",
+      "Knight of Time",
+      "dogemaster"
+    ],
+    "tags": [
+      "customizable",
+      "lorom",
+      "pacifist",
+      "sa-1"
+    ],
+    "description": "This is a variant of dogemaster's green gas bubble custom sprite, that instead of being harmful, allows you to swim inside it, and has a bunch of customization options for determining how (or if) it moves around, which are all listed in the sprite's asm file.  Includes an UberASM file, which is required for the swimming interaction in the bubble.  An ExGFX file is also included.<br>\r\n<br>\r\nA note of caution: Be careful not to have two or more of these sprites placed in the same horizontal row, as this will cause sprite overdraw, which is a hardware limitation.  <a href=\"https://smwc.me/s/40702\" rel=\"noopener\">NMSTL</a> is recommended for use with this sprite, especially if there is more than one of them on screen.",
+    "latest_version": "1.1",
+    "install_kind": "pixi_sprite",
+    "versions": [
+      {
+        "upstream_id": 42050,
+        "title": "Custom Water Bubble",
+        "version": "1.1",
+        "upstream_time": 1794692894,
+        "download_url": "https://dl.smwcentral.net/42050/Custom%20Water%20Bubble.zip",
+        "filename": "Custom Water Bubble.zip",
+        "size": 7629,
         "sha256": null,
         "dependencies": [
           "pixi"
@@ -628,7 +701,7 @@
       "lorom",
       "sa-1"
     ],
-    "description": "Explosive Dry Bones:<br>\r\n<br>\r\nDescription: This are a variant version of the Dry Bones, that acts like the SMW ones, but when the player stomp him and he are showing the crumble animation, he will start flashing and explode.<br>\r\n<br>\r\nFeatures:<br>\r\nPIXI Support/Compatibility.<br>\r\nSA-1 Support/Compatibility.<br>\r\nJSON Support.<br>\r\nA documentation (Readme) file.<br>\r\nAllow customize the sprite easily with a bunch of defines!<br>\r\n<br>\r\nMore details are in the included \"Readme\" file.<br>\r\n<br>\r\n<a href=\"https://www.smwcentral.net/?p=viewthread&t=126154&page=1&pid=1630493#p1630493\">Requested</a> by <span class=\"un-outer\" title=\"Anorakun\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=42525\" style=\"color: #fe1d02;\" class=\"un\">Anorakun</a></span>",
+    "description": "Explosive Dry Bones:<br>\r\n<br>\r\nDescription: This are a variant version of the Dry Bones, that acts like the SMW ones, but when the player stomp him and he are showing the crumble animation, he will start flashing and explode.<br>\r\n<br>\r\nFeatures:<br>\r\nPIXI Support/Compatibility.<br>\r\nSA-1 Support/Compatibility.<br>\r\nJSON Support.<br>\r\nA documentation (Readme) file.<br>\r\nAllow customize the sprite easily with a bunch of defines!<br>\r\n<br>\r\nMore details are in the included \"Readme\" file.<br>\r\n<br>\r\n<a href=\"https://www.smwcentral.net/?p=viewthread&t=126154&page=1&pid=1630493#p1630493\" rel=\"noopener\">Requested</a> by <span class=\"un-outer\" title=\"Anorakun\"><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=42525\" style=\"color: #fe1d02;\" class=\"un\" rel=\"noopener\">Anorakun</a></span>",
     "latest_version": "V1.1",
     "install_kind": "pixi_sprite",
     "versions": [
@@ -744,7 +817,7 @@
       "sa-1",
       "switch"
     ],
-    "description": "A custom floor button switch sprite I made (flatter than a P-switch) that includes several features:<br>\r\n<ul><li>Flip on/off switch (including toggling and 1-way)</li>\n<li>Flip blue/silver P-switch (including toggling and 1-way)</li>\n<li>Flip Custom triggers (exanimation, toggle and 1-way)</li>\n<li>Flip switch palace flags (toggle and 1-way)</li>\n<li>Mario vs Donkey Kong colored switches (exanimation's manuel triggers)</li>\n<li>Emit signal that does something based on what block the signal travels into</li></ul><br>\r\n<br>\r\nBasically, this is the custom sprite version of my <a href=\"https://www.smwcentral.net/?p=section&a=details&id=4845\">16x8 block switch</a> I made long ago.",
+    "description": "A custom floor button switch sprite I made (flatter than a P-switch) that includes several features:<br>\r\n<ul><li>Flip on/off switch (including toggling and 1-way)</li>\n<li>Flip blue/silver P-switch (including toggling and 1-way)</li>\n<li>Flip Custom triggers (exanimation, toggle and 1-way)</li>\n<li>Flip switch palace flags (toggle and 1-way)</li>\n<li>Mario vs Donkey Kong colored switches (exanimation's manuel triggers)</li>\n<li>Emit signal that does something based on what block the signal travels into</li></ul><br>\r\n<br>\r\nBasically, this is the custom sprite version of my <a href=\"https://www.smwcentral.net/?p=section&a=details&id=4845\" rel=\"noopener\">16x8 block switch</a> I made long ago.",
     "latest_version": "v1.5.2",
     "install_kind": "pixi_sprite",
     "versions": [
@@ -828,76 +901,6 @@
         "download_url": "https://dl.smwcentral.net/42732/gachaegg.zip",
         "filename": "gachaegg.zip",
         "size": 6328,
-        "sha256": null,
-        "dependencies": [
-          "pixi"
-        ],
-        "install_kind": "pixi_sprite"
-      }
-    ]
-  },
-  {
-    "name": "smwsprites-galoomba-climbs-walls",
-    "aliases": [],
-    "section": "smwsprites",
-    "upstream_id": 42079,
-    "title": "Galoomba, Climbs Walls",
-    "authors": [
-      "RussianMan"
-    ],
-    "tags": [
-      "enemy",
-      "galoomba",
-      "lorom",
-      "sa-1"
-    ],
-    "description": "A version of Galoomba that climbs walls similar to Dino Rhinos/Dino Torches.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"JP32\"><a href=\"/?p=profile&amp;id=25888\" style=\"color: var(--user-color-1);\" class=\"un unavailable inactive\">JP32</a></span> during Winter C3 2023.",
-    "latest_version": "smwc-42079-1776985342",
-    "install_kind": "pixi_sprite",
-    "versions": [
-      {
-        "upstream_id": 42079,
-        "title": "Galoomba, Climbs Walls",
-        "version": "smwc-42079-1776985342",
-        "upstream_time": 1776985342,
-        "download_url": "https://dl.smwcentral.net/42079/WallClimbingGaloomba.zip",
-        "filename": "WallClimbingGaloomba.zip",
-        "size": 11730,
-        "sha256": null,
-        "dependencies": [
-          "pixi"
-        ],
-        "install_kind": "pixi_sprite"
-      }
-    ]
-  },
-  {
-    "name": "smwsprites-galoomba-sticks-to-walls",
-    "aliases": [],
-    "section": "smwsprites",
-    "upstream_id": 42085,
-    "title": "Galoomba, Sticks to Walls",
-    "authors": [
-      "RussianMan"
-    ],
-    "tags": [
-      "enemy",
-      "galoomba",
-      "lorom",
-      "sa-1"
-    ],
-    "description": "A variant of Galoomba that sticks to walls when thrown. After a little bit, it unstuns itself, so it can be jumped on again. After a little while, it'll unstick from the wall.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"RollingRigatonis\"><a href=\"/?p=profile&amp;id=33771\" style=\"color: var(--user-color-2);\" class=\"un\">RollingRigatonis</a></span> during Winter C3 2023.",
-    "latest_version": "smwc-42085-1776989412",
-    "install_kind": "pixi_sprite",
-    "versions": [
-      {
-        "upstream_id": 42085,
-        "title": "Galoomba, Sticks to Walls",
-        "version": "smwc-42085-1776989412",
-        "upstream_time": 1776989412,
-        "download_url": "https://dl.smwcentral.net/42085/Galoomba%20That%20Sticks%20To%20Them%20Walls.zip",
-        "filename": "Galoomba That Sticks To Them Walls.zip",
-        "size": 12329,
         "sha256": null,
         "dependencies": [
           "pixi"
@@ -1027,7 +1030,7 @@
       "torpedo ted",
       "underwater"
     ],
-    "description": "A Torpedo Ted that will stop, point at the player's direction, charge forward and repeat. If the extra bit is set, it will explode after some time.<br>\r\n<br>\r\nA launcher is included. Setting the extra bit to the launcher will transfer the explosive behavior to the launched sprite.<br>\r\n<br>\r\nMake sure to check the .asm files for various configurations.<br>\r\n<br>\r\n<br>\r\nYour first dynamic sprite? A few notes for you:<br>\r\n<ul><li>If not using SA-1, the <a href=\"https://smwc.me/s/13184\"> Dynamic Sprites Patch</a> is required.</li>\n<li>The Torpedo Ted's graphics are uploaded dynamically, so ExGFX is not required. The enclosed file is only to match the launcher hand with the explosion star, both not dynamic.</li>\n<li>Nevertheless, dynamic sprites take up the lower half of SP4, so you should not use sprites that take graphics from that region unless you remap them.</li></ul>",
+    "description": "A Torpedo Ted that will stop, point at the player's direction, charge forward and repeat. If the extra bit is set, it will explode after some time.<br>\r\n<br>\r\nA launcher is included. Setting the extra bit to the launcher will transfer the explosive behavior to the launched sprite.<br>\r\n<br>\r\nMake sure to check the .asm files for various configurations.<br>\r\n<br>\r\n<br>\r\nYour first dynamic sprite? A few notes for you:<br>\r\n<ul><li>If not using SA-1, the <a href=\"https://smwc.me/s/13184\" rel=\"noopener\"> Dynamic Sprites Patch</a> is required.</li>\n<li>The Torpedo Ted's graphics are uploaded dynamically, so ExGFX is not required. The enclosed file is only to match the launcher hand with the explosion star, both not dynamic.</li>\n<li>Nevertheless, dynamic sprites take up the lower half of SP4, so you should not use sprites that take graphics from that region unless you remap them.</li></ul>",
     "latest_version": "smwc-42142-1777418972",
     "install_kind": "pixi_sprite",
     "versions": [
@@ -1102,7 +1105,7 @@
       "pacifist",
       "sa-1"
     ],
-    "description": "This tiny Koopa will ice skate along a given range of the map, controlled by the extra byte.<br>\r\n<br>\r\nGraphics by <span class=\"un-outer\" title=\"Tob\"><a href=\"/?p=profile&amp;id=25442\" style=\"color: var(--user-color-1);\" class=\"un\">Tob</a></span>.",
+    "description": "This tiny Koopa will ice skate along a given range of the map, controlled by the extra byte.<br>\r\n<br>\r\nGraphics by <span class=\"un-outer\" title=\"Tob\"><a href=\"/?p=profile&amp;id=25442\" style=\"color: var(--user-color-1);\" class=\"un\" rel=\"noopener\">Tob</a></span>.",
     "latest_version": "V1.0.1",
     "install_kind": "pixi_sprite",
     "versions": [
@@ -1397,7 +1400,7 @@
       "sa-1",
       "spiny"
     ],
-    "description": "A winged Spiny which flies in an elliptic range (can also be circular), controlled by the extra bytes.<br>\r\n<br>\r\nDedicated to <span class=\"un-outer\" title=\"Koopster\"><span title=\"Koopster donated $5.00.\" class=\"icon icon-donor\"></span><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=17663\" style=\"color: #2abc49;\" class=\"un\">Koopster</a></span> who made the graphics routine (and the original Para-spiny).",
+    "description": "A winged Spiny which flies in an elliptic range (can also be circular), controlled by the extra bytes.<br>\r\n<br>\r\nDedicated to <span class=\"un-outer\" title=\"Koopster\"><span title=\"Koopster donated $5.00.\" class=\"icon icon-donor\"></span><span title=\"Staff Member\" class=\"icon icon-staff\"></span><a href=\"/?p=profile&amp;id=17663\" style=\"color: #2abc49;\" class=\"un\" rel=\"noopener\">Koopster</a></span> who made the graphics routine (and the original Para-spiny).",
     "latest_version": "V1.0.1",
     "install_kind": "pixi_sprite",
     "versions": [
@@ -1466,7 +1469,7 @@
       "pacifist",
       "sa-1"
     ],
-    "description": "This sprite pack includes various variations of Parakoopas, which act depending on the color.<br>\r\n<ul><li>The green one flies in a horizontal range.</li>\n<li>The red one flies up and down in a fixed tile, so, in the Z axis.</li>\n<li>The yellow one flies in a vertical range.</li></ul><br>\r\nGraphics by <span class=\"un-outer\" title=\"Tob\"><a href=\"/?p=profile&amp;id=25442\" style=\"color: var(--user-color-1);\" class=\"un\">Tob</a></span>.",
+    "description": "This sprite pack includes various variations of Parakoopas, which act depending on the color.<br>\r\n<ul><li>The green one flies in a horizontal range.</li>\n<li>The red one flies up and down in a fixed tile, so, in the Z axis.</li>\n<li>The yellow one flies in a vertical range.</li></ul><br>\r\nGraphics by <span class=\"un-outer\" title=\"Tob\"><a href=\"/?p=profile&amp;id=25442\" style=\"color: var(--user-color-1);\" class=\"un\" rel=\"noopener\">Tob</a></span>.",
     "latest_version": "V1.0.1",
     "install_kind": "pixi_sprite",
     "versions": [
@@ -1537,7 +1540,7 @@
       "shatter",
       "vase"
     ],
-    "description": "This is a 16x16 pot sprite. Mario can stand on it, push it, and pick it up to move it. When he drops it, it will break and spawn another sprite. It must spawn on a solid tile.<br>\r\n<br>\r\nIt uses its extra bytes to determine which sprite it should spawn (they can be set in the Add Sprite Manual dialog with the \"Extension\" field). The first byte (first two digits) determines the sprite number to spawn (get it either from the Add Sprites Window or from PIXI's list.txt). The next digit determines <a href=\"https://www.smwcentral.net/?p=nmap&m=smwram#7E14C8\">which status</a> the sprite should spawn in (if unsure, use 1). The fourth digit is the extra bit of the sprite to spawn. 0 and 1 spawn a normal sprite with its extra bit clear or set, 2 and 3 spawn a custom sprite with its extra bit clear or set (just like the Extra Bits field from the Add Sprite Manual dialog). For example, extension 8010 would spawn vanilla sprite 80 (a key) in status 1 with its extra bit clear. 0583 would spawn custom sprite 05 in status 8 with its extra bit set. If you set the sprite number to FF, the pot will shatter without spawning anything.<br>\r\n<br>\r\nIf the extra bit of the pot is set, then it'll randomly leave nothing behind, or spawn one of two sprites. The second sprite is defined in the extension after the first one (in the same format). For example, a pot with its extra bit set and extension 80110582 would either spawn nothing, a key in status 1 with its extra bit set, or custom sprite 05 in status 8 with its extra bit clear.<br>\r\n<br>\r\nCheck the ASM file for customization options. The included graphics use Mario's palette and come from <a href=\"https://www.smwcentral.net/?p=section&a=details&id=14160\">BlackSabbath's SMB2 tileset</a>.",
+    "description": "This is a 16x16 pot sprite. Mario can stand on it, push it, and pick it up to move it. When he drops it, it will break and spawn another sprite. It must spawn on a solid tile.<br>\r\n<br>\r\nIt uses its extra bytes to determine which sprite it should spawn (they can be set in the Add Sprite Manual dialog with the \"Extension\" field). The first byte (first two digits) determines the sprite number to spawn (get it either from the Add Sprites Window or from PIXI's list.txt). The next digit determines <a href=\"https://www.smwcentral.net/?p=nmap&m=smwram#7E14C8\" rel=\"noopener\">which status</a> the sprite should spawn in (if unsure, use 1). The fourth digit is the extra bit of the sprite to spawn. 0 and 1 spawn a normal sprite with its extra bit clear or set, 2 and 3 spawn a custom sprite with its extra bit clear or set (just like the Extra Bits field from the Add Sprite Manual dialog). For example, extension 8010 would spawn vanilla sprite 80 (a key) in status 1 with its extra bit clear. 0583 would spawn custom sprite 05 in status 8 with its extra bit set. If you set the sprite number to FF, the pot will shatter without spawning anything.<br>\r\n<br>\r\nIf the extra bit of the pot is set, then it'll randomly leave nothing behind, or spawn one of two sprites. The second sprite is defined in the extension after the first one (in the same format). For example, a pot with its extra bit set and extension 80110582 would either spawn nothing, a key in status 1 with its extra bit set, or custom sprite 05 in status 8 with its extra bit clear.<br>\r\n<br>\r\nCheck the ASM file for customization options. The included graphics use Mario's palette and come from <a href=\"https://www.smwcentral.net/?p=section&a=details&id=14160\" rel=\"noopener\">BlackSabbath's SMB2 tileset</a>.",
     "latest_version": "smwc-42618-1782820599",
     "install_kind": "pixi_sprite",
     "versions": [
@@ -1685,7 +1688,7 @@
       "sa-1",
       "solid"
     ],
-    "description": "This is a Chuck statue, which the player can stand on. After getting close enough to it (determined by the extra byte 1), it begins shaking, and some seconds later (determined by the extra byte 2) it shatters into a Chargin' Chuck  It can have gravity or not, depending on the extra bit.<br>\r\n<br>\r\nUse <a href=\"https://smwc.me/w/213\">this tweak</a> to have gray shatter particles.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"RobloxNewbie19001\"><a href=\"/?p=profile&amp;id=72749\" style=\"color: var(--user-color-1);\" class=\"un\">RobloxNewbie19001</a></span>.",
+    "description": "This is a Chuck statue, which the player can stand on. After getting close enough to it (determined by the extra byte 1), it begins shaking, and some seconds later (determined by the extra byte 2) it shatters into a Chargin' Chuck  It can have gravity or not, depending on the extra bit.<br>\r\n<br>\r\nUse <a href=\"https://smwc.me/w/213\" rel=\"noopener\">this tweak</a> to have gray shatter particles.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"RobloxNewbie19001\"><a href=\"/?p=profile&amp;id=72749\" style=\"color: var(--user-color-1);\" class=\"un\" rel=\"noopener\">RobloxNewbie19001</a></span>.",
     "latest_version": "v1.1",
     "install_kind": "pixi_sprite",
     "versions": [
@@ -1793,7 +1796,7 @@
       "sa-1",
       "spike"
     ],
-    "description": "A critter that is carrying an umbrella. When the umbrella is open, the player will bounce on top of it. When closed, it'll act as a spike, hurts player, but can be spinjumped on. The trigger for toggling its effect can be customized (change on player jump or a flag like On/Off switch status).<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Tob\"><a href=\"/?p=profile&amp;id=25442\" style=\"color: var(--user-color-1);\" class=\"un\">Tob</a></span> during Summer C3 2026. Graphics also by <span class=\"un-outer\" title=\"Tob\"><a href=\"/?p=profile&amp;id=25442\" style=\"color: var(--user-color-1);\" class=\"un\">Tob</a></span>.",
+    "description": "A critter that is carrying an umbrella. When the umbrella is open, the player will bounce on top of it. When closed, it'll act as a spike, hurts player, but can be spinjumped on. The trigger for toggling its effect can be customized (change on player jump or a flag like On/Off switch status).<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Tob\"><a href=\"/?p=profile&amp;id=25442\" style=\"color: var(--user-color-1);\" class=\"un\" rel=\"noopener\">Tob</a></span> during Summer C3 2026. Graphics also by <span class=\"un-outer\" title=\"Tob\"><a href=\"/?p=profile&amp;id=25442\" style=\"color: var(--user-color-1);\" class=\"un\" rel=\"noopener\">Tob</a></span>.",
     "latest_version": "V1.0.1",
     "install_kind": "pixi_sprite",
     "versions": [

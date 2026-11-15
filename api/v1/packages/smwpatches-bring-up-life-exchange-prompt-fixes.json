@@ -12,7 +12,7 @@
     "overworld",
     "sa-1"
   ],
-  "description": "This fixes two minor bugs related to bringing up the life exchange prompt:<br>\r\n<br>\r\n- Pressing L/R setting <a href=\"https://smwc.me/m/smw/ram/7E1B87\">$1B87</a> even in one player mode, despite no prompt appearing. This could potentially mess with resources that expect <a href=\"https://smwc.me/m/smw/ram/7E1B87\">$1B87</a> to behave in a consistent way.<br>\r\n<br>\r\n- Pressing L/R to bring up the prompt while freely scrolling around the main map. This freezes the arrow animation on whatever frame it's on.",
+  "description": "This fixes two minor bugs related to bringing up the life exchange prompt:<br>\r\n<br>\r\n- Pressing L/R setting <a href=\"https://smwc.me/m/smw/ram/7E1B87\" rel=\"noopener\">$1B87</a> even in one player mode, despite no prompt appearing. This could potentially mess with resources that expect <a href=\"https://smwc.me/m/smw/ram/7E1B87\" rel=\"noopener\">$1B87</a> to behave in a consistent way.<br>\r\n<br>\r\n- Pressing L/R to bring up the prompt while freely scrolling around the main map. This freezes the arrow animation on whatever frame it's on.",
   "latest_version": "V1.0.2",
   "install_kind": "asar_patch",
   "versions": [

@@ -122,7 +122,7 @@
       "sa-1",
       "teleport"
     ],
-    "description": "Requested by <a href=\"https://www.smwcentral.net/?p=profile&id=21068\"><span style=\"color: #97acef;\"><b>bandicoot</b></span></a><br>\r\n<br>\r\nThese doors will only work if the following conditions are met:<br>\r\n<br>\r\n- Found at least \"X\" number of exits during the game<br>\r\n- Collected the dragon coins in at least \"X\" number of levels<br>\r\n- Collected the moon in at least a \"X\" number of levels<br>\r\n- Have at least \"X\" number of bonus stars<br>\r\n- Have at least \"X\" number of lives<br>\r\n- Have \"X\" amount of coins<br>\r\n- Have \"X\" amount of silver coins",
+    "description": "Requested by <a href=\"https://www.smwcentral.net/?p=profile&id=21068\" rel=\"noopener\"><span style=\"color: #97acef;\"><b>bandicoot</b></span></a><br>\r\n<br>\r\nThese doors will only work if the following conditions are met:<br>\r\n<br>\r\n- Found at least \"X\" number of exits during the game<br>\r\n- Collected the dragon coins in at least \"X\" number of levels<br>\r\n- Collected the moon in at least a \"X\" number of levels<br>\r\n- Have at least \"X\" number of bonus stars<br>\r\n- Have at least \"X\" number of lives<br>\r\n- Have \"X\" amount of coins<br>\r\n- Have \"X\" amount of silver coins",
     "latest_version": "smwc-41157-1764385035",
     "install_kind": "gps_block",
     "versions": [
@@ -333,7 +333,7 @@
       "outline",
       "sa-1"
     ],
-    "description": "This is a New Super Mario Bros. coin outline, which turns into a coin after a configurable amount of time.<br>\r\nIn order for this block to work, insert the included UberASMTool code as level code.<br>\r\nRequires 240 bytes of free RAM.<br>\r\n<br>\r\nGraphics included ripped by larenlarsenv and <span class=\"un-outer\" title=\"Soul\"><a href=\"/?p=profile&amp;id=51674\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">Soul</a></span>.",
+    "description": "This is a New Super Mario Bros. coin outline, which turns into a coin after a configurable amount of time.<br>\r\nIn order for this block to work, insert the included UberASMTool code as level code.<br>\r\nRequires 240 bytes of free RAM.<br>\r\n<br>\r\nGraphics included ripped by larenlarsenv and <span class=\"un-outer\" title=\"Soul\"><a href=\"/?p=profile&amp;id=51674\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\" rel=\"noopener\">Soul</a></span>.",
     "latest_version": "smwc-41120-1764271572",
     "install_kind": "gps_block",
     "versions": [
@@ -439,7 +439,7 @@
       "sa-1",
       "uberasm needed"
     ],
-    "description": "Diagonal pipes you can enter the same way as normal pipes (well you do need to hold up and right/left)<br>\r\n<br>\r\nThanks to Bob66, now includes GFX and a map16 file to work with.<br>\r\n<br>\r\nRequires asar, GPS and uberASM to work properly, see readme file for instructions.",
+    "description": "Diagonal pipes you can enter the same way as normal pipes (well you do need to hold up and right/left)<br>\r\n<br>\r\nThanks to <span class=\"un-outer\" title=\"BOB66\"><a href=\"/?p=profile&amp;id=42967\" style=\"color: var(--user-banned);\" class=\"un unavailable\" rel=\"noopener\">BOB66</a></span>, now includes GFX and a map16 file to work with.<br>\r\n<br>\r\nRequires asar, GPS and uberASM to work properly, see readme file for instructions.",
     "latest_version": "v1.1",
     "install_kind": "gps_block",
     "versions": [
@@ -687,7 +687,7 @@
       "lorom",
       "sa-1"
     ],
-    "description": "This block will act like another block when certain event is activated.<br>\r\n<br>\r\nBe sure to check readme for more details.<br>\r\n<br>\r\nRequested by Gi Manilla",
+    "description": "This block will act like another block when certain event is activated.<br>\r\n<br>\r\nBe sure to check readme for more details.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Aram\"><span title=\"Aram donated $5.00.\" class=\"icon icon-donor\"></span><a href=\"/?p=profile&amp;id=21245\" style=\"color: var(--user-color-3);\" class=\"un unavailable inactive\" rel=\"noopener\">Aram</a></span>.",
     "latest_version": "1.21",
     "install_kind": "gps_block",
     "versions": [
@@ -725,7 +725,7 @@
       "sa-1",
       "uberasm needed"
     ],
-    "description": "This block will make the player invincible when they're ducking, either when standing on it or while inside it. Inspired by <a href=\"https://smwc.me/s/19384\">this patch</a> I made a while ago.<br>\r\n<br>\r\nIncludes an assortment of visual effects, such as going behind layers, flashing, sparkling, and setting custom poses.",
+    "description": "This block will make the player invincible when they're ducking, either when standing on it or while inside it. Inspired by <a href=\"https://smwc.me/s/19384\" rel=\"noopener\">this patch</a> I made a while ago.<br>\r\n<br>\r\nIncludes an assortment of visual effects, such as going behind layers, flashing, sparkling, and setting custom poses.",
     "latest_version": "1.1.1",
     "install_kind": "gps_block",
     "versions": [
@@ -761,7 +761,7 @@
       "sa-1",
       "uberasm needed"
     ],
-    "description": "These blocks will change every time the player jumps.<br>\r\nRequested by <span class=\"un-outer\" title=\"mr bean6652\"><a href=\"/?p=profile&amp;id=26761\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\">mr bean6652</a></span>.",
+    "description": "These blocks will change every time the player jumps.<br>\r\nRequested by <span class=\"un-outer\" title=\"mr bean6652\"><a href=\"/?p=profile&amp;id=26761\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\" rel=\"noopener\">mr bean6652</a></span>.",
     "latest_version": "v1.1.1",
     "install_kind": "gps_block",
     "versions": [
@@ -1007,7 +1007,7 @@
       "sa-1",
       "uberasm needed"
     ],
-    "description": "A replica of the purple coins from Super Mario Galaxy. Collect a certain amount of them (customisable) and activate something (also customisable).<br>\r\nThese coins stay collected if you switch to a different room.<br>\r\n<br>\r\nBe sure to read the readme before inserting the coins!<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"MrMartley64\"><a href=\"/?p=profile&amp;id=27753\" style=\"color: var(--user-color-2);\" class=\"un\">MrMartley64</a></span>.",
+    "description": "A replica of the purple coins from Super Mario Galaxy. Collect a certain amount of them (customisable) and activate something (also customisable).<br>\r\nThese coins stay collected if you switch to a different room.<br>\r\n<br>\r\nBe sure to read the readme before inserting the coins!<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"MrMartley64\"><a href=\"/?p=profile&amp;id=27753\" style=\"color: var(--user-color-2);\" class=\"un\" rel=\"noopener\">MrMartley64</a></span>.",
     "latest_version": "smwc-41169-1764462273",
     "install_kind": "gps_block",
     "versions": [
@@ -1079,7 +1079,7 @@
       "shatter",
       "sprite needed"
     ],
-    "description": "This custom block will shatter after the player gets off it. Good for platforming stages or places where you jump a lot to dodge stuff.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Final Theory\"><a href=\"/?p=profile&amp;id=22015\" style=\"color: var(--user-color-1);\" class=\"un\">Final Theory</a></span>.",
+    "description": "This custom block will shatter after the player gets off it. Good for platforming stages or places where you jump a lot to dodge stuff.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Final Theory\"><a href=\"/?p=profile&amp;id=22015\" style=\"color: var(--user-color-1);\" class=\"un\" rel=\"noopener\">Final Theory</a></span>.",
     "latest_version": "2.0",
     "install_kind": "gps_block",
     "versions": [
@@ -1114,7 +1114,7 @@
       "sa-1",
       "uberasm needed"
     ],
-    "description": "These are pipes that allow both Mario and sprites to enter. They are designed to be very simple to use, needing only one UberASM and blocks. <br>\r\n<br>\r\nCurrently, the pipes work with vanilla 16x16 sprites, as well as yoshi and kicked sprites, and also with Mario regardless of powerup state. Mario can carry items into the pipes, and if either Mario or a sprite has their exit blocked, they'll simply turn around and go back the other way.<br>\r\n<br>\r\nIn the future, bigger pipes which support larger sprites could be added.<br>\r\n<br>\r\nI have always loved the screen scrolling pipes created by HammerBrother, and I wondered what it would be like if sprites could also enter them. This is my attempt to realize that dream!<br>\r\n<br>\r\nHuge thank you to TheBourgyman for the awesome glass pipe GFx.",
+    "description": "These are pipes that allow both Mario and sprites to enter. They are designed to be very simple to use, needing only one UberASM and blocks. <br>\r\n<br>\r\nCurrently, the pipes work with vanilla 16x16 sprites, as well as Yoshi and kicked sprites, and also with Mario regardless of powerup state. Mario can carry items into the pipes, and if either Mario or a sprite has their exit blocked, they'll simply turn around and go back the other way.<br>\r\n<br>\r\nIn the future, bigger pipes which support larger sprites could be added.<br>\r\n<br>\r\nI have always loved the screen scrolling pipes created by <span class=\"un-outer\" title=\"HammerBrother\"><a href=\"/?p=profile&amp;id=18802\" style=\"color: var(--user-color-1);\" class=\"un\" rel=\"noopener\">HammerBrother</a></span>, and I wondered what it would be like if sprites could also enter them. This is my attempt to realize that dream!<br>\r\n<br>\r\nHuge thank you to [usr=48266] for the awesome glass pipe GFX.",
     "latest_version": "smwc-41591-1788302427",
     "install_kind": "gps_block",
     "versions": [
@@ -1217,7 +1217,7 @@
       "sa-1",
       "uberasm needed"
     ],
-    "description": "These pipes, when entered, will cause the player to travel through them within the same level rather than refreshing the screen. Useful for maze levels for those who refuse to use screen exits.<br>\r\n<br>\r\n<b>Read tutorial on how to insert them:<a href=\"https://www.smwcentral.net/?p=section&a=details&id=41525\">here</a>.</b><br>\r\n<br>\r\nNotes:<br>\r\n* If there are at least 2 sprites on screen, and Mario enters a pipe, he will partially disappear as he enters a pipe. You should patch <a href=\"https://smwc.me/s/40702\">NMSTL</a> to prevent that.<br>\r\n* If you have a low-gravity generator that does <div class=\"code inline filter-noemote filter-nobr\"><pre>DEC $7D</pre></div> (Mario's Y speed), make sure that you add a check that if $9D is nonzero, or the low nibble (low 4 bits, %----XXXX) of RAM address <div class=\"code inline filter-noemote filter-nobr\"><pre>!pipe_dir</pre></div> is non-zero, then skip/return, because otherwise Mario will rise up slowly while traveling through horizontal pipes. You absolutely don't want to touch his physics while inside pipes.<br>\r\n<br>\r\nGitHub: <a href=\"https://github.com/GhbSmwc/SMB3_ScreenScrollingPipes\" rel=\"nofollow\">https://github.com/GhbSmwc/SMB3_ScreenScrollingPipes</a>",
+    "description": "These pipes, when entered, will cause the player to travel through them within the same level rather than refreshing the screen. Useful for maze levels for those who refuse to use screen exits.<br>\r\n<br>\r\n<b>Read tutorial on how to insert them:<a href=\"https://www.smwcentral.net/?p=section&a=details&id=41525\" rel=\"noopener\">here</a>.</b><br>\r\n<br>\r\nNotes:<br>\r\n* If there are at least 2 sprites on screen, and Mario enters a pipe, he will partially disappear as he enters a pipe. You should patch <a href=\"https://smwc.me/s/40702\" rel=\"noopener\">NMSTL</a> to prevent that.<br>\r\n* If you have a low-gravity generator that does <div class=\"code inline filter-noemote filter-nobr\"><pre>DEC $7D</pre></div> (Mario's Y speed), make sure that you add a check that if $9D is nonzero, or the low nibble (low 4 bits, %----XXXX) of RAM address <div class=\"code inline filter-noemote filter-nobr\"><pre>!pipe_dir</pre></div> is non-zero, then skip/return, because otherwise Mario will rise up slowly while traveling through horizontal pipes. You absolutely don't want to touch his physics while inside pipes.<br>\r\n<br>\r\nGitHub: <a href=\"https://github.com/GhbSmwc/SMB3_ScreenScrollingPipes\" rel=\"noopener nofollow\">https://github.com/GhbSmwc/SMB3_ScreenScrollingPipes</a>",
     "latest_version": "4.0.6",
     "install_kind": "gps_block",
     "versions": [
@@ -1722,7 +1722,7 @@
       "sa-1",
       "uberasm needed"
     ],
-    "description": "Inspired by NSMB's Bouncy Mushrooms in <a href=\"http://www.mariowiki.com/World_1-5_%28New_Super_Mario_Bros.%29\" rel=\"nofollow\">World 1-5</a>.<br>\r\n<br>\r\nUnlike all other boost blocks, in order to bounce high, it requires the player to tap and hold the jump/spinjump button the instant they land on top of the block rather than also requiring just to hold the jump/spinjump button <i>before</i> landing.<br>\r\n<br>\r\nUses 3 bytes of freeram:<br>\r\n-!FreeRam_TimedJump is the margin of error range that allows the player to press a button within the window of time when bounced.<br>\r\n-!FreeRam_Ylow and !FreeRam_Yhi is a fix to prevent slightly higher jump.",
+    "description": "Inspired by NSMB's Bouncy Mushrooms in <a href=\"http://www.mariowiki.com/World_1-5_%28New_Super_Mario_Bros.%29\" rel=\"noopener nofollow\">World 1-5</a>.<br>\r\n<br>\r\nUnlike all other boost blocks, in order to bounce high, it requires the player to tap and hold the jump/spinjump button the instant they land on top of the block rather than also requiring just to hold the jump/spinjump button <i>before</i> landing.<br>\r\n<br>\r\nUses 3 bytes of freeram:<br>\r\n-!FreeRam_TimedJump is the margin of error range that allows the player to press a button within the window of time when bounced.<br>\r\n-!FreeRam_Ylow and !FreeRam_Yhi is a fix to prevent slightly higher jump.",
     "latest_version": "v1.2",
     "install_kind": "gps_block",
     "versions": [
