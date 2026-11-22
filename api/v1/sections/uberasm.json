@@ -382,41 +382,6 @@
     ]
   },
   {
-    "name": "uberasm-fading-lights",
-    "aliases": [],
-    "section": "uberasm",
-    "upstream_id": 41443,
-    "title": "Fading Lights",
-    "authors": [
-      "Kevin"
-    ],
-    "tags": [
-      "dark",
-      "light",
-      "lorom",
-      "sa-1"
-    ],
-    "description": "This UberASM will fade the brightness in the level in and out. There's two different modes available:<br>\r\n- Constant fading in/out based on a timer.<br>\r\n- Fade based on a certain switch. This can also be of two types: lights go back to bright when hitting a switch, but fade immediately to dark; or they only fade to dark when the switch goes off. Possible switches are: ON/OFF, blue POW, silver POW, red ? block.<br>\r\nIn the file you can customize some parameters: how bright/dark the lights go and how long the fade will take.",
-    "latest_version": "v1.1.2",
-    "install_kind": "uber_asm",
-    "versions": [
-      {
-        "upstream_id": 41443,
-        "title": "Fading Lights",
-        "version": "v1.1.2",
-        "upstream_time": 1768763821,
-        "download_url": "https://dl.smwcentral.net/41443/lights_timer%20asar2.zip",
-        "filename": "lights_timer asar2.zip",
-        "size": 1920,
-        "sha256": null,
-        "dependencies": [
-          "uberasm-tool"
-        ],
-        "install_kind": "uber_asm"
-      }
-    ]
-  },
-  {
     "name": "uberasm-fair-powerup-filters",
     "aliases": [],
     "section": "uberasm",
@@ -623,42 +588,6 @@
     ]
   },
   {
-    "name": "uberasm-lightning-generator",
-    "aliases": [],
-    "section": "uberasm",
-    "upstream_id": 41464,
-    "title": "Lightning Generator",
-    "authors": [
-      "MarioFanGamer"
-    ],
-    "tags": [
-      "effect",
-      "lightning",
-      "lorom",
-      "sa-1",
-      "thunder"
-    ],
-    "description": "A visual generator which displays a lightning effect. It can be customised to write to any colour on the palette (it's 0 by default which affects the background) as well as customised in what colours the lightning will generate, how long it waits between each strike, etc.<br>\r\n<br>\r\nAlso included is a generator which can be inserted with <a href=\"https://www.smwcentral.net/?p=section&a=details&id=32277\" rel=\"noopener\">PIXI</a> if you prefer the old-school way.",
-    "latest_version": "v1.0.1",
-    "install_kind": "uber_asm",
-    "versions": [
-      {
-        "upstream_id": 41464,
-        "title": "Lightning Generator",
-        "version": "v1.0.1",
-        "upstream_time": 1769128280,
-        "download_url": "https://dl.smwcentral.net/41464/Lightning%20Generator.zip",
-        "filename": "Lightning Generator.zip",
-        "size": 9030,
-        "sha256": null,
-        "dependencies": [
-          "uberasm-tool"
-        ],
-        "install_kind": "uber_asm"
-      }
-    ]
-  },
-  {
     "name": "uberasm-multi-step-autoscroll",
     "aliases": [],
     "section": "uberasm",
@@ -685,6 +614,44 @@
         "download_url": "https://dl.smwcentral.net/41204/MultiStepAutoscrollV1.1.zip",
         "filename": "MultiStepAutoscrollV1.1.zip",
         "size": 3401,
+        "sha256": null,
+        "dependencies": [
+          "uberasm-tool"
+        ],
+        "install_kind": "uber_asm"
+      }
+    ]
+  },
+  {
+    "name": "uberasm-new-super-mario-bros-rising-water",
+    "aliases": [],
+    "section": "uberasm",
+    "upstream_id": 42837,
+    "title": "New Super Mario Bros. Rising Water",
+    "authors": [
+      "TheBiob",
+      "wiiqwertyuiop"
+    ],
+    "tags": [
+      "layer 3",
+      "lorom",
+      "nsmb",
+      "sa-1",
+      "tide",
+      "water"
+    ],
+    "description": "This will make the layer 3 tide water rise when a specified switch is activated.<br>\r\n<br>\r\nMake sure to set the layer 3 settings to \"low tide only\".<br>\r\n<br>\r\n<a href=\"https://www.youtube.com/watch?v=u-8GGC0sJfM\" rel=\"noopener nofollow\">Video</a>",
+    "latest_version": "1.1",
+    "install_kind": "uber_asm",
+    "versions": [
+      {
+        "upstream_id": 42837,
+        "title": "New Super Mario Bros. Rising Water",
+        "version": "1.1",
+        "upstream_time": 1794855387,
+        "download_url": "https://dl.smwcentral.net/42837/NSMB%20Rising%20Water%20v1.1.zip",
+        "filename": "NSMB Rising Water v1.1.zip",
+        "size": 697,
         "sha256": null,
         "dependencies": [
           "uberasm-tool"
@@ -721,6 +688,40 @@
         "download_url": "https://dl.smwcentral.net/41425/NSMBWii%20Secret%20Passages.zip",
         "filename": "NSMBWii Secret Passages.zip",
         "size": 4587,
+        "sha256": null,
+        "dependencies": [
+          "uberasm-tool"
+        ],
+        "install_kind": "uber_asm"
+      }
+    ]
+  },
+  {
+    "name": "uberasm-nintendo-presents-secret-code",
+    "aliases": [],
+    "section": "uberasm",
+    "upstream_id": 42887,
+    "title": "Nintendo Presents Secret Code",
+    "authors": [
+      "yoshifanatic"
+    ],
+    "tags": [
+      "lorom",
+      "sa-1",
+      "secret"
+    ],
+    "description": "This UberASM allows you to enter a secret code via a button combination on the Nintendo Presents screen. When the code is entered, it'll either set a configurable RAM address or warp you to a sublevel of your choosing. Can be used for all sorts of purposes.<br>\r\n<br>\r\nHas a hijack to change the timing of when GFX32/GF33 are decompressed, so that doesn't interfere with entering the code.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Gamer collin\"><a href=\"/?p=profile&amp;id=71087\" style=\"color: var(--user-color-1);\" class=\"un\" rel=\"noopener\">Gamer collin</a></span>.",
+    "latest_version": "1.0.1",
+    "install_kind": "uber_asm",
+    "versions": [
+      {
+        "upstream_id": 42887,
+        "title": "Nintendo Presents Secret Code",
+        "version": "1.0.1",
+        "upstream_time": 1794802737,
+        "download_url": "https://dl.smwcentral.net/42887/Secret%20Code.zip",
+        "filename": "Secret Code.zip",
+        "size": 3376,
         "sha256": null,
         "dependencies": [
           "uberasm-tool"
@@ -1124,44 +1125,6 @@
     ]
   },
   {
-    "name": "uberasm-relative-layer",
-    "aliases": [],
-    "section": "uberasm",
-    "upstream_id": 41102,
-    "title": "Relative Layer 2 Vertical Rise/Fall",
-    "authors": [
-      "Koopster",
-      "yoshifanatic"
-    ],
-    "tags": [
-      "autoscroll",
-      "fall",
-      "layer 2",
-      "lorom",
-      "rise",
-      "sa-1"
-    ],
-    "description": "This code auto-scrolls level (or background) layer 2 up or down relative to layer 1, which makes rising and falling layer 2 sections possible without taking away vertical camera freedom.<br>\r\n<br>\r\nA couple notes:<br>\r\n-Lunar Magic 3.40+ can already autoscroll layer 2. However, you only get 12 options, while this gives you far more customization for how fast layer 2 moves.<br>\r\n-It must be assured that the player can never reach layer 2 scrolled past the area that has been placed in Lunar Magic, or glitchy tiles will appear. This works for the applications shown in the screenshots, as the layer 2 itself impedes the player from going further down (for the lava) or up (for the blocks). For rising layer 2, it is of interest to also account for Mario's death animation, as he falls down a fair amount when dying (the .asm file talks about this in more detail).",
-    "latest_version": "V1.1",
-    "install_kind": "uber_asm",
-    "versions": [
-      {
-        "upstream_id": 41102,
-        "title": "Relative Layer 2 Vertical Rise/Fall",
-        "version": "V1.1",
-        "upstream_time": 1769856084,
-        "download_url": "https://dl.smwcentral.net/41102/L2RelVScrollV1_1.zip",
-        "filename": "L2RelVScrollV1_1.zip",
-        "size": 1085,
-        "sha256": null,
-        "dependencies": [
-          "uberasm-tool"
-        ],
-        "install_kind": "uber_asm"
-      }
-    ]
-  },
-  {
     "name": "uberasm-repeating-layer",
     "aliases": [],
     "section": "uberasm",
@@ -1427,6 +1390,7 @@
       "Burning Loaf"
     ],
     "tags": [
+      "lorom",
       "patch",
       "powerup",
       "sa-1",
@@ -1697,6 +1661,44 @@
         "download_url": "https://dl.smwcentral.net/41600/XRaySpotlight.zip",
         "filename": "XRaySpotlight.zip",
         "size": 844,
+        "sha256": null,
+        "dependencies": [
+          "uberasm-tool"
+        ],
+        "install_kind": "uber_asm"
+      }
+    ]
+  },
+  {
+    "name": "uberasm-yoshi-coin-checker",
+    "aliases": [],
+    "section": "uberasm",
+    "upstream_id": 43519,
+    "title": "Yoshi Coin Checker",
+    "authors": [
+      "mathie"
+    ],
+    "tags": [
+      "counter",
+      "lorom",
+      "overworld border",
+      "sa-1",
+      "stripe",
+      "tile",
+      "yoshi coin"
+    ],
+    "description": "This code uploads different 8x8 tiles on layer 3 depending if all Yoshi coins have been collected in the level Mario is standing on or not, or if there are none to be collected at all.<br>\r\nWhich tiles to use, their properties and position are highly customizable. See the .asm file for details.<br>\r\nIt is advised to use this in conjunction with the SRAM/BWRAM Plus patch in order to save the player's progress made in collecting Yoshi coins.",
+    "latest_version": "1.1.0",
+    "install_kind": "uber_asm",
+    "versions": [
+      {
+        "upstream_id": 43519,
+        "title": "Yoshi Coin Checker",
+        "version": "1.1.0",
+        "upstream_time": 1795035499,
+        "download_url": "https://dl.smwcentral.net/43519/Yoshi%20Coin%20Checker.zip",
+        "filename": "Yoshi Coin Checker.zip",
+        "size": 1854,
         "sha256": null,
         "dependencies": [
           "uberasm-tool"

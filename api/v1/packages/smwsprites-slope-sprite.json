@@ -1,0 +1,36 @@
+{
+  "name": "smwsprites-slope-sprite",
+  "aliases": [],
+  "section": "smwsprites",
+  "upstream_id": 42856,
+  "title": "Slope Sprite",
+  "authors": [
+    "tOaO"
+  ],
+  "tags": [
+    "lorom",
+    "pacifist",
+    "patch needed",
+    "platform",
+    "sa-1"
+  ],
+  "description": "Super Mario World's own slopes, but they are sprites.<br>\r\nRequires the <a href=\"https://smwc.me/s/35555\" rel=\"noopener\">Slope Sprite Patch</a>.<br>\r\n<br>\r\nNote that this draws a lot of tiles. I recommend using <a href=\"https://smwc.me/s/24816\" rel=\"noopener\">No More Sprite Tile Limits</a>.",
+  "latest_version": "smwc-42856-1794799957",
+  "install_kind": "pixi_sprite",
+  "versions": [
+    {
+      "upstream_id": 42856,
+      "title": "Slope Sprite",
+      "version": "smwc-42856-1794799957",
+      "upstream_time": 1794799957,
+      "download_url": "https://dl.smwcentral.net/42856/Slope%20Sprite.zip",
+      "filename": "Slope Sprite.zip",
+      "size": 6542,
+      "sha256": null,
+      "dependencies": [
+        "pixi"
+      ],
+      "install_kind": "pixi_sprite"
+    }
+  ]
+}

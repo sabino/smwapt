@@ -9,12 +9,8 @@
   ],
   "tags": [
     "bonus",
-    "castle",
     "grassland",
     "mechanical",
-    "mountain",
-    "ruins",
-    "sky",
     "texture",
     "underwater"
   ],
@@ -54,30 +50,6 @@
       "download_url": "https://dl.smwcentral.net/42775/Doraemon%203%20%28SFC%29%20-%20Prehistoric%20Grassland.zip",
       "filename": "Doraemon 3 (SFC) - Prehistoric Grassland.zip",
       "size": 7636,
-      "sha256": null,
-      "dependencies": [],
-      "install_kind": "asset_only"
-    },
-    {
-      "upstream_id": 42772,
-      "title": "Doraemon 3: Nobita to Toki no Hougyoku - Ancient Ruins (Exterior)",
-      "version": "smwc-42772-1786376978",
-      "upstream_time": 1786376978,
-      "download_url": "https://dl.smwcentral.net/42772/Doraemon%203%20%28SFC%29%20-%20Ancient%20Ruins%20%28Exterior%29.zip",
-      "filename": "Doraemon 3 (SFC) - Ancient Ruins (Exterior).zip",
-      "size": 5829,
-      "sha256": null,
-      "dependencies": [],
-      "install_kind": "asset_only"
-    },
-    {
-      "upstream_id": 42771,
-      "title": "Doraemon 3: Nobita to Toki no Hougyoku - Sky",
-      "version": "smwc-42771-1786369639",
-      "upstream_time": 1786369639,
-      "download_url": "https://dl.smwcentral.net/42771/Doraemon%203%20%28SFC%29%20-%20Sky.zip",
-      "filename": "Doraemon 3 (SFC) - Sky.zip",
-      "size": 7589,
       "sha256": null,
       "dependencies": [],
       "install_kind": "asset_only"

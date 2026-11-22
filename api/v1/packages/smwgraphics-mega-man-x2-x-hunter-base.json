@@ -8,10 +8,13 @@
     "Anorakun"
   ],
   "tags": [
+    "desert",
     "industrial",
-    "sewer"
+    "mechanical",
+    "sewer",
+    "snow"
   ],
-  "description": "Background seen during most of the Maverick rematch battles from Mega Man X2.  Unlike the original version, I looped the background, so it fits SMW better.<br>\r\n<br>\r\nA good fit for sewer or industrial levels.",
+  "description": "The unique scenery seen in the rematch against Overdrive Ostrich, inside the X-Hunter Base, from Mega Man X2. Benefits a fair bit from parallax scrolling, which can be made by using Effect Tool. <br>\r\n<br>\r\nA good fit for mechanical bases in the snow or in the desert, if you change the background colors. ",
   "latest_version": "smwc-42948-1787462091",
   "install_kind": "asset_only",
   "versions": [
@@ -23,6 +26,18 @@
       "download_url": "https://dl.smwcentral.net/42948/Mega%20Man%20X2%20-%20X-Hunter%20Stage%204%20%28Boss%20Rematch%29.zip",
       "filename": "Mega Man X2 - X-Hunter Stage 4 (Boss Rematch).zip",
       "size": 2477,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    },
+    {
+      "upstream_id": 42903,
+      "title": "Mega Man X2 - X-Hunter Base 4 (Overdrive Ostrich)",
+      "version": "smwc-42903-1794882530",
+      "upstream_time": 1794882530,
+      "download_url": "https://dl.smwcentral.net/42903/Mega%20Man%20X2%20-%20X-Hunter%20Stage%204%20%28Overdrive%20Ostrich%29.zip",
+      "filename": "Mega Man X2 - X-Hunter Stage 4 (Overdrive Ostrich).zip",
+      "size": 3483,
       "sha256": null,
       "dependencies": [],
       "install_kind": "asset_only"

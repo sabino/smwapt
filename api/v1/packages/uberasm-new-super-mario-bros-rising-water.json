@@ -1,0 +1,38 @@
+{
+  "name": "uberasm-new-super-mario-bros-rising-water",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 42837,
+  "title": "New Super Mario Bros. Rising Water",
+  "authors": [
+    "TheBiob",
+    "wiiqwertyuiop"
+  ],
+  "tags": [
+    "layer 3",
+    "lorom",
+    "nsmb",
+    "sa-1",
+    "tide",
+    "water"
+  ],
+  "description": "This will make the layer 3 tide water rise when a specified switch is activated.<br>\r\n<br>\r\nMake sure to set the layer 3 settings to \"low tide only\".<br>\r\n<br>\r\n<a href=\"https://www.youtube.com/watch?v=u-8GGC0sJfM\" rel=\"noopener nofollow\">Video</a>",
+  "latest_version": "1.1",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 42837,
+      "title": "New Super Mario Bros. Rising Water",
+      "version": "1.1",
+      "upstream_time": 1794855387,
+      "download_url": "https://dl.smwcentral.net/42837/NSMB%20Rising%20Water%20v1.1.zip",
+      "filename": "NSMB Rising Water v1.1.zip",
+      "size": 697,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

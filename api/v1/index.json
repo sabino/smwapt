@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T11:59:27.286274719+00:00",
+  "generated_at": "2026-11-22T12:38:01.930451094+00:00",
   "suite": "stable",
   "component": "main",
   "packages": [
@@ -2380,12 +2380,8 @@
       ],
       "tags": [
         "bonus",
-        "castle",
         "grassland",
         "mechanical",
-        "mountain",
-        "ruins",
-        "sky",
         "texture",
         "underwater"
       ],
@@ -2428,30 +2424,6 @@
           "sha256": null,
           "dependencies": [],
           "install_kind": "asset_only"
-        },
-        {
-          "upstream_id": 42772,
-          "title": "Doraemon 3: Nobita to Toki no Hougyoku - Ancient Ruins (Exterior)",
-          "version": "smwc-42772-1786376978",
-          "upstream_time": 1786376978,
-          "download_url": "https://dl.smwcentral.net/42772/Doraemon%203%20%28SFC%29%20-%20Ancient%20Ruins%20%28Exterior%29.zip",
-          "filename": "Doraemon 3 (SFC) - Ancient Ruins (Exterior).zip",
-          "size": 5829,
-          "sha256": null,
-          "dependencies": [],
-          "install_kind": "asset_only"
-        },
-        {
-          "upstream_id": 42771,
-          "title": "Doraemon 3: Nobita to Toki no Hougyoku - Sky",
-          "version": "smwc-42771-1786369639",
-          "upstream_time": 1786369639,
-          "download_url": "https://dl.smwcentral.net/42771/Doraemon%203%20%28SFC%29%20-%20Sky.zip",
-          "filename": "Doraemon 3 (SFC) - Sky.zip",
-          "size": 7589,
-          "sha256": null,
-          "dependencies": [],
-          "install_kind": "asset_only"
         }
       ]
     },
@@ -2483,37 +2455,6 @@
           "download_url": "https://dl.smwcentral.net/43230/Jungle%20Tileset%20RC1.zip",
           "filename": "Jungle Tileset RC1.zip",
           "size": 12957,
-          "sha256": null,
-          "dependencies": [],
-          "install_kind": "asset_only"
-        }
-      ]
-    },
-    {
-      "name": "smwgraphics-ganbare-goemon",
-      "aliases": [],
-      "section": "smwgraphics",
-      "upstream_id": 41860,
-      "title": "Ganbare Goemon 2: Kiteretsu Shougun Magginesu - Susonogawa River",
-      "authors": [
-        "Anorakun"
-      ],
-      "tags": [
-        "forest",
-        "mountain"
-      ],
-      "description": "The landscape seen during the second Impact demolition sequence, from Ganbare Goemon 2: Kiteretsu Shougun Magginesu. It depicts another view of Mt. Fuji, this time, directly from the Susonogawa River, where the player must destroy various enemy troops bases and fight another giant robot.<br>\r\n<br>\r\nThe water is palette animated. It benefits a lot from parallax scrolling in certain parts.  <br>\r\n<br>\r\nYou can extend the river easily, if you don't like the perspective of the background.<br>\r\n<br>\r\nA good fit for mountain or forest themed levels.",
-      "latest_version": "smwc-41860-1786309611",
-      "install_kind": "asset_only",
-      "versions": [
-        {
-          "upstream_id": 41860,
-          "title": "Ganbare Goemon 2: Kiteretsu Shougun Magginesu - Susonogawa River",
-          "version": "smwc-41860-1786309611",
-          "upstream_time": 1786309611,
-          "download_url": "https://dl.smwcentral.net/41860/Ganbare%20Goemon%202%20%28SFC%29%20-%20Susonogawa%20River.zip",
-          "filename": "Ganbare Goemon 2 (SFC) - Susonogawa River.zip",
-          "size": 4167,
           "sha256": null,
           "dependencies": [],
           "install_kind": "asset_only"
@@ -2832,6 +2773,69 @@
       ]
     },
     {
+      "name": "smwgraphics-jumper-vt369-underwater",
+      "aliases": [],
+      "section": "smwgraphics",
+      "upstream_id": 43540,
+      "title": "Jumper (VT369) - Underwater",
+      "authors": [
+        "playagmes169"
+      ],
+      "tags": [
+        "mechanical",
+        "pipe",
+        "sewer"
+      ],
+      "description": "This is the underwater/sewer tileset from Jumper on the VT369, which is a blatant copy of Super Mario Bros. on the NES<br>\r\nSince this tileset gave me sewer vibes, I've decided to double down on that idea, I was originally going to make the water green, but I didn't want to make it brown like in the original, not only because I sort of found it kinda gross (not really), but I was also afraid it would've blended with the ground.",
+      "latest_version": "smwc-43540-1795317008",
+      "install_kind": "asset_only",
+      "versions": [
+        {
+          "upstream_id": 43540,
+          "title": "Jumper (VT369) - Underwater",
+          "version": "smwc-43540-1795317008",
+          "upstream_time": 1795317008,
+          "download_url": "https://dl.smwcentral.net/43540/jumpervt369underwater.zip",
+          "filename": "jumpervt369underwater.zip",
+          "size": 5335,
+          "sha256": null,
+          "dependencies": [],
+          "install_kind": "asset_only"
+        }
+      ]
+    },
+    {
+      "name": "smwgraphics-jungle-mountains",
+      "aliases": [],
+      "section": "smwgraphics",
+      "upstream_id": 43542,
+      "title": "Jungle Mountains 2026",
+      "authors": [
+        "Broozer"
+      ],
+      "tags": [
+        "jungle",
+        "mountain"
+      ],
+      "description": "A background of a jungle canopy vista with rocky mountains in the distance. Would go especially well in jungle or mountain levels. It was drawn as a contemporary revamp of <a href=\"https://www.smwcentral.net/?p=section&a=details&id=1442\" rel=\"noopener\">this old background from 2009</a> while also drawing influence from <a href=\"https://www.smwcentral.net/?p=section&a=details&id=599\" rel=\"noopener\">this one from 2008</a>, with more detailed and refined graphics.<br>\r\n<br>\r\nIt has a high tile usage (ideally takes up 3 GFX slots), but not only can it be worked around with only 2 slots at the expense of sacrifing the clouds, but you can also choose from 4 different included GFX setups for more efficient tile usage and better adaptation to your likings and needs. Refer to the readme file (named BG-SETUP-GUIDE.html) for guidance on that as well as any additional clarification.<br>\r\n<br>\r\nLast but not least, it also includes three different palettes and a simple parallax HDMA effect, meant to be used with <a href=\"https://www.smwcentral.net/?p=section&a=details&id=39036\" rel=\"noopener\">UberASM Tool</a>, in case you want to add an extra layer of depth to it.<br>\r\n<br>\r\nCredit is optional, but appreciated.",
+      "latest_version": "smwc-43542-1795315033",
+      "install_kind": "asset_only",
+      "versions": [
+        {
+          "upstream_id": 43542,
+          "title": "Jungle Mountains 2026",
+          "version": "smwc-43542-1795315033",
+          "upstream_time": 1795315033,
+          "download_url": "https://dl.smwcentral.net/43542/bg-junglemountains-2026.zip",
+          "filename": "bg-junglemountains-2026.zip",
+          "size": 23698,
+          "sha256": null,
+          "dependencies": [],
+          "install_kind": "asset_only"
+        }
+      ]
+    },
+    {
       "name": "smwgraphics-jurassic-park-brachiosaurus-exhibit",
       "aliases": [],
       "section": "smwgraphics",
@@ -2966,10 +2970,13 @@
         "Anorakun"
       ],
       "tags": [
+        "desert",
         "industrial",
-        "sewer"
+        "mechanical",
+        "sewer",
+        "snow"
       ],
-      "description": "Background seen during most of the Maverick rematch battles from Mega Man X2.  Unlike the original version, I looped the background, so it fits SMW better.<br>\r\n<br>\r\nA good fit for sewer or industrial levels.",
+      "description": "The unique scenery seen in the rematch against Overdrive Ostrich, inside the X-Hunter Base, from Mega Man X2. Benefits a fair bit from parallax scrolling, which can be made by using Effect Tool. <br>\r\n<br>\r\nA good fit for mechanical bases in the snow or in the desert, if you change the background colors. ",
       "latest_version": "smwc-42948-1787462091",
       "install_kind": "asset_only",
       "versions": [
@@ -2981,6 +2988,18 @@
           "download_url": "https://dl.smwcentral.net/42948/Mega%20Man%20X2%20-%20X-Hunter%20Stage%204%20%28Boss%20Rematch%29.zip",
           "filename": "Mega Man X2 - X-Hunter Stage 4 (Boss Rematch).zip",
           "size": 2477,
+          "sha256": null,
+          "dependencies": [],
+          "install_kind": "asset_only"
+        },
+        {
+          "upstream_id": 42903,
+          "title": "Mega Man X2 - X-Hunter Base 4 (Overdrive Ostrich)",
+          "version": "smwc-42903-1794882530",
+          "upstream_time": 1794882530,
+          "download_url": "https://dl.smwcentral.net/42903/Mega%20Man%20X2%20-%20X-Hunter%20Stage%204%20%28Overdrive%20Ostrich%29.zip",
+          "filename": "Mega Man X2 - X-Hunter Stage 4 (Overdrive Ostrich).zip",
+          "size": 3483,
           "sha256": null,
           "dependencies": [],
           "install_kind": "asset_only"
@@ -3881,38 +3900,6 @@
       ]
     },
     {
-      "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-despair",
-      "aliases": [],
-      "section": "smwmusic",
-      "upstream_id": 43006,
-      "title": "Lufia II: Rise of the Sinistrals - Despair",
-      "authors": [
-        "Ahrion"
-      ],
-      "tags": [
-        "cutscene"
-      ],
-      "description": "Lufia II music",
-      "latest_version": "smwc-43006-1792784174",
-      "install_kind": "add_music_k_music",
-      "versions": [
-        {
-          "upstream_id": 43006,
-          "title": "Lufia II: Rise of the Sinistrals - Despair",
-          "version": "smwc-43006-1792784174",
-          "upstream_time": 1792784174,
-          "download_url": "https://dl.smwcentral.net/43006/Despair.zip",
-          "filename": "Despair.zip",
-          "size": 52979,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        }
-      ]
-    },
-    {
       "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-flute-of-sleepwalk",
       "aliases": [],
       "section": "smwmusic",
@@ -4172,39 +4159,6 @@
           "download_url": "https://dl.smwcentral.net/43033/Prisphea%20Flowers.zip",
           "filename": "Prisphea Flowers.zip",
           "size": 36034,
-          "sha256": null,
-          "dependencies": [
-            "addmusick"
-          ],
-          "install_kind": "add_music_k_music"
-        }
-      ]
-    },
-    {
-      "name": "smwmusic-lufia-ii-rise-of-the-sinistrals-shudder",
-      "aliases": [],
-      "section": "smwmusic",
-      "upstream_id": 43007,
-      "title": "Lufia II: Rise of the Sinistrals - Shudder",
-      "authors": [
-        "Ahrion"
-      ],
-      "tags": [
-        "castle",
-        "tense"
-      ],
-      "description": "Lufia II music",
-      "latest_version": "smwc-43007-1792784329",
-      "install_kind": "add_music_k_music",
-      "versions": [
-        {
-          "upstream_id": 43007,
-          "title": "Lufia II: Rise of the Sinistrals - Shudder",
-          "version": "smwc-43007-1792784329",
-          "upstream_time": 1792784329,
-          "download_url": "https://dl.smwcentral.net/43007/Shudder.zip",
-          "filename": "Shudder.zip",
-          "size": 49192,
           "sha256": null,
           "dependencies": [
             "addmusick"
@@ -4818,6 +4772,40 @@
       ]
     },
     {
+      "name": "smwmusic-snoopy-concert-evening-forest",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 42980,
+      "title": "Snoopy Concert - Evening Forest",
+      "authors": [
+        "Fullcannon"
+      ],
+      "tags": [
+        "dark",
+        "forest",
+        "night"
+      ],
+      "description": "Evening Forest/Schroeder stage 7 from Snoopy Concert.",
+      "latest_version": "smwc-42980-1794847154",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 42980,
+          "title": "Snoopy Concert - Evening Forest",
+          "version": "smwc-42980-1794847154",
+          "upstream_time": 1794847154,
+          "download_url": "https://dl.smwcentral.net/42980/Snoopy%20Concert%20-%20Evening%20Forest.zip",
+          "filename": "Snoopy Concert - Evening Forest.zip",
+          "size": 38351,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
       "name": "smwmusic-steel-ball-run-jojo-s-bizarre-adventure-dance-with-steel-ball-run-star-mix",
       "aliases": [],
       "section": "smwmusic",
@@ -5104,6 +5092,46 @@
           "download_url": "https://dl.smwcentral.net/42662/Umapyoi%20Legend%20%28Star-mix%29.zip",
           "filename": "Umapyoi Legend (Star-mix).zip",
           "size": 126049,
+          "sha256": null,
+          "dependencies": [
+            "addmusick"
+          ],
+          "install_kind": "add_music_k_music"
+        }
+      ]
+    },
+    {
+      "name": "smwmusic-zelda-ii-the-adventure-of-link-a-ritual-for-blood-palace-medley-remix",
+      "aliases": [],
+      "section": "smwmusic",
+      "upstream_id": 42688,
+      "title": "Zelda II: The Adventure of Link - A Ritual for Blood 🩸 ~ Palace Medley (Remix)",
+      "authors": [
+        "Hooded Edge"
+      ],
+      "tags": [
+        "athletic",
+        "castle",
+        "chase",
+        "dark",
+        "final",
+        "ruins",
+        "spooky",
+        "temple",
+        "tense"
+      ],
+      "description": "<center><span style=\"font-size: 18pt;\"><span style=\"color: #FC5C4B;\">❝ <b>𝐆𝐀𝐌𝐄 𝐎𝐕𝐄𝐑<br>\r\n<br>\r\n𝐑𝐄𝐓𝐔𝐑𝐍 𝐎𝐅 𝐆𝐀𝐍𝐎𝐍</b> ❞</span></span><br>\r\nㅤ<span style=\"font-size: 8pt;\">- <i>Zelda II: The Adventure of Link </i> (1987)</span><br>\r\n<br>\r\n<img src=\"https://bin.smwcentral.net/u/23547/Link.webp\" alt=\"\"></center><br>\r\n<br>\r\nDid a medley arrangement of the <b><a href=\"https://youtu.be/W-VUVvvlQK8\" rel=\"noopener nofollow\">Palace</a></b> (aka <b><a href=\"https://youtu.be/8mGqDeOIDpc\" rel=\"noopener nofollow\">Temple</a></b>) & <b><a href=\"https://youtu.be/sWcVUZJaZ54\" rel=\"noopener nofollow\">Great Palace</a></b> (aka <b><a href=\"https://youtu.be/FRSO4M-3eRA\" rel=\"noopener nofollow\">Great Temple</a></b>) themes from <i>Zelda II: The Adventure of Link</i>. Despite its infamy, Zelda II is one of my favorite entries in the franchise (I love sidescrollers way more than any man should), and its two temple themes have been highlight tracks of the game, so I thought I'd cook this one. Took some clear inspiration both the Smash Melee / Brawl Renditions with elements of the original in there too!!<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable versions for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. Original Echo Delay & Background Wind Enabled, but sacrifices SMW-Compatibility (OG Echo & WIND Enabled)ㅤ<span style=\"color: #C291EB;\">[Listening-Only]</span><br>\r\nㅤ2. Decreased Echo Delay & Background Wind Enabled (LOWER Echo & WIND Enabled)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span><br>\r\nㅤㅤ ♠  What's disabled:<br>\r\nㅤㅤㅤ  -  \"Bonus End\" (@7)<br>\r\nㅤㅤㅤ  -  Yoshi SFX (@15)<br>\r\nㅤㅤㅤ  -  Thunder SFX<br>\r\nㅤ3. Decreased Echo Delay & Background Wind Disabled (LOWER Echo & WIND Disabled)<br>\r\nㅤㅤ ♠  What's disabled:<br>\r\nㅤㅤㅤ  -  \"Bonus End\" (@7)<br>\r\nㅤㅤㅤ  -  Yoshi SFX (@15)<br>\r\nㅤㅤㅤ  -  Thunder SFX<br>\r\n<br>\r\n<span style=\"font-size: 16pt;\"><span style=\"color: #66FFE3;\"><u>There are also customizable pitches for this song that you can adjust in the song's txt file:</u></span></span><br>\r\nㅤ1. G Minor (Original Pitch)ㅤ<span style=\"color: #F4576E;\">[turned on by default]</span> <br>\r\nㅤ2. A Minor (<a href=\"https://youtu.be/sWcVUZJaZ54\" rel=\"noopener nofollow\">Great Palace</a> Pitch)<br>\r\nㅤ3. F Minor (Custom Pitch 1)",
+      "latest_version": "smwc-42688-1794848080",
+      "install_kind": "add_music_k_music",
+      "versions": [
+        {
+          "upstream_id": 42688,
+          "title": "Zelda II: The Adventure of Link - A Ritual for Blood 🩸 ~ Palace Medley (Remix)",
+          "version": "smwc-42688-1794848080",
+          "upstream_time": 1794848080,
+          "download_url": "https://dl.smwcentral.net/42688/Ritual%20for%20Blood%2C%20A.zip",
+          "filename": "Ritual for Blood%2C A.zip",
+          "size": 451005,
           "sha256": null,
           "dependencies": [
             "addmusick"
@@ -5511,7 +5539,7 @@
         "lorom",
         "sa-1"
       ],
-      "description": "Added a bit more documentation, Thank <span class=\"un-outer\" title=\"lx5\"><span title=\"It's lx5's birthday today!\" class=\"icon icon-birthday\"></span><a href=\"/?p=profile&amp;id=12344\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\" rel=\"noopener\">lx5</a></span> for that.<br>\r\n<br>\r\nDo you want to change some of the original ending's enemy sprite data without fuss? This should be the patch for the job, Included is a oversight fix regarding palette and tile data in the original enemy ending data.<br>\r\n<br>\r\nEnjoy.",
+      "description": "Added a bit more documentation, Thank <span class=\"un-outer\" title=\"lx5\"><a href=\"/?p=profile&amp;id=12344\" style=\"color: var(--user-color-2);\" class=\"un unavailable inactive\" rel=\"noopener\">lx5</a></span> for that.<br>\r\n<br>\r\nDo you want to change some of the original ending's enemy sprite data without fuss? This should be the patch for the job, Included is a oversight fix regarding palette and tile data in the original enemy ending data.<br>\r\n<br>\r\nEnjoy.",
       "latest_version": "0.031",
       "install_kind": "asar_patch",
       "versions": [
@@ -6704,34 +6732,33 @@
       ]
     },
     {
-      "name": "smwpatches-sprite-health-bar",
+      "name": "smwpatches-super-mario-maker-keys-pink-coin",
       "aliases": [],
       "section": "smwpatches",
-      "upstream_id": 42123,
-      "title": "Sprite Health Bar",
+      "upstream_id": 43530,
+      "title": "Super Mario Maker - Keys & Pink Coin",
       "authors": [
-        "Koopster"
+        "lx5"
       ],
       "tags": [
-        "health bar",
+        "key",
         "lorom",
+        "pink coin",
         "sa-1",
-        "smb2",
-        "smb2 health",
-        "sprite status bar"
+        "super mario maker"
       ],
-      "description": "This patch implements a container-based health system in the game. A collectible sprite that increases the amount of containers is also included.<br>\r\nWhat is different about this patch is that it does not touch the status bar at all, displaying the hearts as sprites instead - in fact, it may be safe to use this along with most of the custom status bar patches available in the site.<br>\r\n<br>\r\nThere are two ways to use the extra containers:<br>\r\n- It is possible to make them work more akin to SMB2, where they will last for as long as a level (rather than a world in this case), and the original amount of containers will be restored when the player returns to the overworld.<br>\r\n- Like in most games with a health system, the containers can be made to be permanent (this is the default setting). However, you must be careful to assign each of the container sprites an ID via the extra byte, otherwise they will respawn and make it possible to collect infinite containers. The amount of container ID's you can have in total is limited to 16 by default, but this number can be expanded easily with the help of a SRAM/BW-RAM enhancer patch. More information about this can be found in the sprite's .asm file.<br>\r\n<br>\r\nMake sure to check the patch's .asm file, as it includes many defines to easily customize, among other things, the graphics and position of the containers. A folder is included with an alternative minimalist design, as well as versions that suit the <a href=\"https://smwc.me/s/20408\" rel=\"noopener\">Mario's 8x8 Tiles DMA-er</a> patch and don't replace occupied SP1-2 tiles.",
-      "latest_version": "smwc-42123-1775280436",
+      "description": "This pack installs some ASM hacks to allow Mario to have keys following him, as well a pink coin that gives Mario a key.<br>\r\n<br>\r\nBe sure to read the included readme!<br>\r\n<br>\r\nVideo in action: <a href=\"https://www.youtube.com/watch?v=yyuuZYVF5n4\" rel=\"noopener nofollow\">https://www.youtube.com/watch?v=yyuuZYVF5n4</a>",
+      "latest_version": "v1.1.3",
       "install_kind": "asar_patch",
       "versions": [
         {
-          "upstream_id": 42123,
-          "title": "Sprite Health Bar",
-          "version": "smwc-42123-1775280436",
-          "upstream_time": 1775280436,
-          "download_url": "https://dl.smwcentral.net/42123/spritehealthbar.zip",
-          "filename": "spritehealthbar.zip",
-          "size": 23074,
+          "upstream_id": 43530,
+          "title": "Super Mario Maker - Keys & Pink Coin",
+          "version": "v1.1.3",
+          "upstream_time": 1795030076,
+          "download_url": "https://dl.smwcentral.net/43530/smm_keys.zip",
+          "filename": "smm_keys.zip",
+          "size": 14687,
           "sha256": null,
           "dependencies": [
             "asar"
@@ -7092,43 +7119,6 @@
           "download_url": "https://dl.smwcentral.net/42802/OW%20Bird.zip",
           "filename": "OW Bird.zip",
           "size": 1726,
-          "sha256": null,
-          "dependencies": [
-            "pixi"
-          ],
-          "install_kind": "pixi_sprite"
-        }
-      ]
-    },
-    {
-      "name": "smwsprites-bob-omb-leaves-fire-trail",
-      "aliases": [],
-      "section": "smwsprites",
-      "upstream_id": 42177,
-      "title": "Bob-omb, Leaves Fire Trail",
-      "authors": [
-        "Arinsu"
-      ],
-      "tags": [
-        "carriable",
-        "enemy",
-        "extended",
-        "fire",
-        "lorom",
-        "sa-1"
-      ],
-      "description": "A Bob-omb which leaves a fire trail every certain amount of time, controlled by the fourth extra byte.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Green\"><a href=\"/?p=profile&amp;id=43749\" style=\"color: var(--user-color-3);\" class=\"un\" rel=\"noopener\">Green</a></span> during C3 Winter 2025. That one used the old, now-removed Bob-omb disassembly. This one uses my own disassembly as a base, now with X speed, time before being quiet, and time before exploding all parametrized in extra bytes.",
-      "latest_version": "smwc-42177-1777077860",
-      "install_kind": "pixi_sprite",
-      "versions": [
-        {
-          "upstream_id": 42177,
-          "title": "Bob-omb, Leaves Fire Trail",
-          "version": "smwc-42177-1777077860",
-          "upstream_time": 1777077860,
-          "download_url": "https://dl.smwcentral.net/42177/fire_trail_bob_omb.zip",
-          "filename": "fire_trail_bob_omb.zip",
-          "size": 6916,
           "sha256": null,
           "dependencies": [
             "pixi"
@@ -8516,6 +8506,42 @@
       ]
     },
     {
+      "name": "smwsprites-slope-sprite",
+      "aliases": [],
+      "section": "smwsprites",
+      "upstream_id": 42856,
+      "title": "Slope Sprite",
+      "authors": [
+        "tOaO"
+      ],
+      "tags": [
+        "lorom",
+        "pacifist",
+        "patch needed",
+        "platform",
+        "sa-1"
+      ],
+      "description": "Super Mario World's own slopes, but they are sprites.<br>\r\nRequires the <a href=\"https://smwc.me/s/35555\" rel=\"noopener\">Slope Sprite Patch</a>.<br>\r\n<br>\r\nNote that this draws a lot of tiles. I recommend using <a href=\"https://smwc.me/s/24816\" rel=\"noopener\">No More Sprite Tile Limits</a>.",
+      "latest_version": "smwc-42856-1794799957",
+      "install_kind": "pixi_sprite",
+      "versions": [
+        {
+          "upstream_id": 42856,
+          "title": "Slope Sprite",
+          "version": "smwc-42856-1794799957",
+          "upstream_time": 1794799957,
+          "download_url": "https://dl.smwcentral.net/42856/Slope%20Sprite.zip",
+          "filename": "Slope Sprite.zip",
+          "size": 6542,
+          "sha256": null,
+          "dependencies": [
+            "pixi"
+          ],
+          "install_kind": "pixi_sprite"
+        }
+      ]
+    },
+    {
       "name": "smwsprites-smb1-sinking-platform",
       "aliases": [],
       "section": "smwsprites",
@@ -8605,7 +8631,7 @@
         "sa-1",
         "solid"
       ],
-      "description": "This is a Chuck statue, which the player can stand on. After getting close enough to it (determined by the extra byte 1), it begins shaking, and some seconds later (determined by the extra byte 2) it shatters into a Chargin' Chuck  It can have gravity or not, depending on the extra bit.<br>\r\n<br>\r\nUse <a href=\"https://smwc.me/w/213\" rel=\"noopener\">this tweak</a> to have gray shatter particles.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"RobloxNewbie19001\"><a href=\"/?p=profile&amp;id=72749\" style=\"color: var(--user-color-1);\" class=\"un\" rel=\"noopener\">RobloxNewbie19001</a></span>.",
+      "description": "This is a Chuck statue, which the player can stand on. After getting close enough to it (determined by the extra byte 1), it begins shaking, and some seconds later (determined by the extra byte 2) it shatters into a Chargin' Chuck  It can have gravity or not, depending on the extra bit.<br>\r\n<br>\r\nUse <a href=\"https://smwc.me/w/213\" rel=\"noopener\">this tweak</a> to have gray shatter particles.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"RobloxNewbie19001\"><span title=\"It's RobloxNewbie19001's 1-year anniversary today!\" class=\"icon icon-anniversary\"></span><a href=\"/?p=profile&amp;id=72749\" style=\"color: var(--user-color-1);\" class=\"un\" rel=\"noopener\">RobloxNewbie19001</a></span>.",
       "latest_version": "v1.1",
       "install_kind": "pixi_sprite",
       "versions": [
@@ -10554,41 +10580,6 @@
       ]
     },
     {
-      "name": "uberasm-fading-lights",
-      "aliases": [],
-      "section": "uberasm",
-      "upstream_id": 41443,
-      "title": "Fading Lights",
-      "authors": [
-        "Kevin"
-      ],
-      "tags": [
-        "dark",
-        "light",
-        "lorom",
-        "sa-1"
-      ],
-      "description": "This UberASM will fade the brightness in the level in and out. There's two different modes available:<br>\r\n- Constant fading in/out based on a timer.<br>\r\n- Fade based on a certain switch. This can also be of two types: lights go back to bright when hitting a switch, but fade immediately to dark; or they only fade to dark when the switch goes off. Possible switches are: ON/OFF, blue POW, silver POW, red ? block.<br>\r\nIn the file you can customize some parameters: how bright/dark the lights go and how long the fade will take.",
-      "latest_version": "v1.1.2",
-      "install_kind": "uber_asm",
-      "versions": [
-        {
-          "upstream_id": 41443,
-          "title": "Fading Lights",
-          "version": "v1.1.2",
-          "upstream_time": 1768763821,
-          "download_url": "https://dl.smwcentral.net/41443/lights_timer%20asar2.zip",
-          "filename": "lights_timer asar2.zip",
-          "size": 1920,
-          "sha256": null,
-          "dependencies": [
-            "uberasm-tool"
-          ],
-          "install_kind": "uber_asm"
-        }
-      ]
-    },
-    {
       "name": "uberasm-fair-powerup-filters",
       "aliases": [],
       "section": "uberasm",
@@ -10795,42 +10786,6 @@
       ]
     },
     {
-      "name": "uberasm-lightning-generator",
-      "aliases": [],
-      "section": "uberasm",
-      "upstream_id": 41464,
-      "title": "Lightning Generator",
-      "authors": [
-        "MarioFanGamer"
-      ],
-      "tags": [
-        "effect",
-        "lightning",
-        "lorom",
-        "sa-1",
-        "thunder"
-      ],
-      "description": "A visual generator which displays a lightning effect. It can be customised to write to any colour on the palette (it's 0 by default which affects the background) as well as customised in what colours the lightning will generate, how long it waits between each strike, etc.<br>\r\n<br>\r\nAlso included is a generator which can be inserted with <a href=\"https://www.smwcentral.net/?p=section&a=details&id=32277\" rel=\"noopener\">PIXI</a> if you prefer the old-school way.",
-      "latest_version": "v1.0.1",
-      "install_kind": "uber_asm",
-      "versions": [
-        {
-          "upstream_id": 41464,
-          "title": "Lightning Generator",
-          "version": "v1.0.1",
-          "upstream_time": 1769128280,
-          "download_url": "https://dl.smwcentral.net/41464/Lightning%20Generator.zip",
-          "filename": "Lightning Generator.zip",
-          "size": 9030,
-          "sha256": null,
-          "dependencies": [
-            "uberasm-tool"
-          ],
-          "install_kind": "uber_asm"
-        }
-      ]
-    },
-    {
       "name": "uberasm-multi-step-autoscroll",
       "aliases": [],
       "section": "uberasm",
@@ -10857,6 +10812,44 @@
           "download_url": "https://dl.smwcentral.net/41204/MultiStepAutoscrollV1.1.zip",
           "filename": "MultiStepAutoscrollV1.1.zip",
           "size": 3401,
+          "sha256": null,
+          "dependencies": [
+            "uberasm-tool"
+          ],
+          "install_kind": "uber_asm"
+        }
+      ]
+    },
+    {
+      "name": "uberasm-new-super-mario-bros-rising-water",
+      "aliases": [],
+      "section": "uberasm",
+      "upstream_id": 42837,
+      "title": "New Super Mario Bros. Rising Water",
+      "authors": [
+        "TheBiob",
+        "wiiqwertyuiop"
+      ],
+      "tags": [
+        "layer 3",
+        "lorom",
+        "nsmb",
+        "sa-1",
+        "tide",
+        "water"
+      ],
+      "description": "This will make the layer 3 tide water rise when a specified switch is activated.<br>\r\n<br>\r\nMake sure to set the layer 3 settings to \"low tide only\".<br>\r\n<br>\r\n<a href=\"https://www.youtube.com/watch?v=u-8GGC0sJfM\" rel=\"noopener nofollow\">Video</a>",
+      "latest_version": "1.1",
+      "install_kind": "uber_asm",
+      "versions": [
+        {
+          "upstream_id": 42837,
+          "title": "New Super Mario Bros. Rising Water",
+          "version": "1.1",
+          "upstream_time": 1794855387,
+          "download_url": "https://dl.smwcentral.net/42837/NSMB%20Rising%20Water%20v1.1.zip",
+          "filename": "NSMB Rising Water v1.1.zip",
+          "size": 697,
           "sha256": null,
           "dependencies": [
             "uberasm-tool"
@@ -10893,6 +10886,40 @@
           "download_url": "https://dl.smwcentral.net/41425/NSMBWii%20Secret%20Passages.zip",
           "filename": "NSMBWii Secret Passages.zip",
           "size": 4587,
+          "sha256": null,
+          "dependencies": [
+            "uberasm-tool"
+          ],
+          "install_kind": "uber_asm"
+        }
+      ]
+    },
+    {
+      "name": "uberasm-nintendo-presents-secret-code",
+      "aliases": [],
+      "section": "uberasm",
+      "upstream_id": 42887,
+      "title": "Nintendo Presents Secret Code",
+      "authors": [
+        "yoshifanatic"
+      ],
+      "tags": [
+        "lorom",
+        "sa-1",
+        "secret"
+      ],
+      "description": "This UberASM allows you to enter a secret code via a button combination on the Nintendo Presents screen. When the code is entered, it'll either set a configurable RAM address or warp you to a sublevel of your choosing. Can be used for all sorts of purposes.<br>\r\n<br>\r\nHas a hijack to change the timing of when GFX32/GF33 are decompressed, so that doesn't interfere with entering the code.<br>\r\n<br>\r\nRequested by <span class=\"un-outer\" title=\"Gamer collin\"><a href=\"/?p=profile&amp;id=71087\" style=\"color: var(--user-color-1);\" class=\"un\" rel=\"noopener\">Gamer collin</a></span>.",
+      "latest_version": "1.0.1",
+      "install_kind": "uber_asm",
+      "versions": [
+        {
+          "upstream_id": 42887,
+          "title": "Nintendo Presents Secret Code",
+          "version": "1.0.1",
+          "upstream_time": 1794802737,
+          "download_url": "https://dl.smwcentral.net/42887/Secret%20Code.zip",
+          "filename": "Secret Code.zip",
+          "size": 3376,
           "sha256": null,
           "dependencies": [
             "uberasm-tool"
@@ -11296,44 +11323,6 @@
       ]
     },
     {
-      "name": "uberasm-relative-layer",
-      "aliases": [],
-      "section": "uberasm",
-      "upstream_id": 41102,
-      "title": "Relative Layer 2 Vertical Rise/Fall",
-      "authors": [
-        "Koopster",
-        "yoshifanatic"
-      ],
-      "tags": [
-        "autoscroll",
-        "fall",
-        "layer 2",
-        "lorom",
-        "rise",
-        "sa-1"
-      ],
-      "description": "This code auto-scrolls level (or background) layer 2 up or down relative to layer 1, which makes rising and falling layer 2 sections possible without taking away vertical camera freedom.<br>\r\n<br>\r\nA couple notes:<br>\r\n-Lunar Magic 3.40+ can already autoscroll layer 2. However, you only get 12 options, while this gives you far more customization for how fast layer 2 moves.<br>\r\n-It must be assured that the player can never reach layer 2 scrolled past the area that has been placed in Lunar Magic, or glitchy tiles will appear. This works for the applications shown in the screenshots, as the layer 2 itself impedes the player from going further down (for the lava) or up (for the blocks). For rising layer 2, it is of interest to also account for Mario's death animation, as he falls down a fair amount when dying (the .asm file talks about this in more detail).",
-      "latest_version": "V1.1",
-      "install_kind": "uber_asm",
-      "versions": [
-        {
-          "upstream_id": 41102,
-          "title": "Relative Layer 2 Vertical Rise/Fall",
-          "version": "V1.1",
-          "upstream_time": 1769856084,
-          "download_url": "https://dl.smwcentral.net/41102/L2RelVScrollV1_1.zip",
-          "filename": "L2RelVScrollV1_1.zip",
-          "size": 1085,
-          "sha256": null,
-          "dependencies": [
-            "uberasm-tool"
-          ],
-          "install_kind": "uber_asm"
-        }
-      ]
-    },
-    {
       "name": "uberasm-repeating-layer",
       "aliases": [],
       "section": "uberasm",
@@ -11599,6 +11588,7 @@
         "Burning Loaf"
       ],
       "tags": [
+        "lorom",
         "patch",
         "powerup",
         "sa-1",
@@ -11915,6 +11905,44 @@
           "download_url": "https://dl.smwcentral.net/41600/XRaySpotlight.zip",
           "filename": "XRaySpotlight.zip",
           "size": 844,
+          "sha256": null,
+          "dependencies": [
+            "uberasm-tool"
+          ],
+          "install_kind": "uber_asm"
+        }
+      ]
+    },
+    {
+      "name": "uberasm-yoshi-coin-checker",
+      "aliases": [],
+      "section": "uberasm",
+      "upstream_id": 43519,
+      "title": "Yoshi Coin Checker",
+      "authors": [
+        "mathie"
+      ],
+      "tags": [
+        "counter",
+        "lorom",
+        "overworld border",
+        "sa-1",
+        "stripe",
+        "tile",
+        "yoshi coin"
+      ],
+      "description": "This code uploads different 8x8 tiles on layer 3 depending if all Yoshi coins have been collected in the level Mario is standing on or not, or if there are none to be collected at all.<br>\r\nWhich tiles to use, their properties and position are highly customizable. See the .asm file for details.<br>\r\nIt is advised to use this in conjunction with the SRAM/BWRAM Plus patch in order to save the player's progress made in collecting Yoshi coins.",
+      "latest_version": "1.1.0",
+      "install_kind": "uber_asm",
+      "versions": [
+        {
+          "upstream_id": 43519,
+          "title": "Yoshi Coin Checker",
+          "version": "1.1.0",
+          "upstream_time": 1795035499,
+          "download_url": "https://dl.smwcentral.net/43519/Yoshi%20Coin%20Checker.zip",
+          "filename": "Yoshi Coin Checker.zip",
+          "size": 1854,
           "sha256": null,
           "dependencies": [
             "uberasm-tool"

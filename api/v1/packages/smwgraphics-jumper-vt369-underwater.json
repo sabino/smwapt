@@ -1,0 +1,32 @@
+{
+  "name": "smwgraphics-jumper-vt369-underwater",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 43540,
+  "title": "Jumper (VT369) - Underwater",
+  "authors": [
+    "playagmes169"
+  ],
+  "tags": [
+    "mechanical",
+    "pipe",
+    "sewer"
+  ],
+  "description": "This is the underwater/sewer tileset from Jumper on the VT369, which is a blatant copy of Super Mario Bros. on the NES<br>\r\nSince this tileset gave me sewer vibes, I've decided to double down on that idea, I was originally going to make the water green, but I didn't want to make it brown like in the original, not only because I sort of found it kinda gross (not really), but I was also afraid it would've blended with the ground.",
+  "latest_version": "smwc-43540-1795317008",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 43540,
+      "title": "Jumper (VT369) - Underwater",
+      "version": "smwc-43540-1795317008",
+      "upstream_time": 1795317008,
+      "download_url": "https://dl.smwcentral.net/43540/jumpervt369underwater.zip",
+      "filename": "jumpervt369underwater.zip",
+      "size": 5335,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

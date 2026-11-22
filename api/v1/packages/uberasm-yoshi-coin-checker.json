@@ -1,0 +1,38 @@
+{
+  "name": "uberasm-yoshi-coin-checker",
+  "aliases": [],
+  "section": "uberasm",
+  "upstream_id": 43519,
+  "title": "Yoshi Coin Checker",
+  "authors": [
+    "mathie"
+  ],
+  "tags": [
+    "counter",
+    "lorom",
+    "overworld border",
+    "sa-1",
+    "stripe",
+    "tile",
+    "yoshi coin"
+  ],
+  "description": "This code uploads different 8x8 tiles on layer 3 depending if all Yoshi coins have been collected in the level Mario is standing on or not, or if there are none to be collected at all.<br>\r\nWhich tiles to use, their properties and position are highly customizable. See the .asm file for details.<br>\r\nIt is advised to use this in conjunction with the SRAM/BWRAM Plus patch in order to save the player's progress made in collecting Yoshi coins.",
+  "latest_version": "1.1.0",
+  "install_kind": "uber_asm",
+  "versions": [
+    {
+      "upstream_id": 43519,
+      "title": "Yoshi Coin Checker",
+      "version": "1.1.0",
+      "upstream_time": 1795035499,
+      "download_url": "https://dl.smwcentral.net/43519/Yoshi%20Coin%20Checker.zip",
+      "filename": "Yoshi Coin Checker.zip",
+      "size": 1854,
+      "sha256": null,
+      "dependencies": [
+        "uberasm-tool"
+      ],
+      "install_kind": "uber_asm"
+    }
+  ]
+}

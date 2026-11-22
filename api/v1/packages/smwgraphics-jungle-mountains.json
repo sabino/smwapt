@@ -1,0 +1,31 @@
+{
+  "name": "smwgraphics-jungle-mountains",
+  "aliases": [],
+  "section": "smwgraphics",
+  "upstream_id": 43542,
+  "title": "Jungle Mountains 2026",
+  "authors": [
+    "Broozer"
+  ],
+  "tags": [
+    "jungle",
+    "mountain"
+  ],
+  "description": "A background of a jungle canopy vista with rocky mountains in the distance. Would go especially well in jungle or mountain levels. It was drawn as a contemporary revamp of <a href=\"https://www.smwcentral.net/?p=section&a=details&id=1442\" rel=\"noopener\">this old background from 2009</a> while also drawing influence from <a href=\"https://www.smwcentral.net/?p=section&a=details&id=599\" rel=\"noopener\">this one from 2008</a>, with more detailed and refined graphics.<br>\r\n<br>\r\nIt has a high tile usage (ideally takes up 3 GFX slots), but not only can it be worked around with only 2 slots at the expense of sacrifing the clouds, but you can also choose from 4 different included GFX setups for more efficient tile usage and better adaptation to your likings and needs. Refer to the readme file (named BG-SETUP-GUIDE.html) for guidance on that as well as any additional clarification.<br>\r\n<br>\r\nLast but not least, it also includes three different palettes and a simple parallax HDMA effect, meant to be used with <a href=\"https://www.smwcentral.net/?p=section&a=details&id=39036\" rel=\"noopener\">UberASM Tool</a>, in case you want to add an extra layer of depth to it.<br>\r\n<br>\r\nCredit is optional, but appreciated.",
+  "latest_version": "smwc-43542-1795315033",
+  "install_kind": "asset_only",
+  "versions": [
+    {
+      "upstream_id": 43542,
+      "title": "Jungle Mountains 2026",
+      "version": "smwc-43542-1795315033",
+      "upstream_time": 1795315033,
+      "download_url": "https://dl.smwcentral.net/43542/bg-junglemountains-2026.zip",
+      "filename": "bg-junglemountains-2026.zip",
+      "size": 23698,
+      "sha256": null,
+      "dependencies": [],
+      "install_kind": "asset_only"
+    }
+  ]
+}

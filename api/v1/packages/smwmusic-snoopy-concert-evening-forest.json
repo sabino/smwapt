@@ -1,0 +1,34 @@
+{
+  "name": "smwmusic-snoopy-concert-evening-forest",
+  "aliases": [],
+  "section": "smwmusic",
+  "upstream_id": 42980,
+  "title": "Snoopy Concert - Evening Forest",
+  "authors": [
+    "Fullcannon"
+  ],
+  "tags": [
+    "dark",
+    "forest",
+    "night"
+  ],
+  "description": "Evening Forest/Schroeder stage 7 from Snoopy Concert.",
+  "latest_version": "smwc-42980-1794847154",
+  "install_kind": "add_music_k_music",
+  "versions": [
+    {
+      "upstream_id": 42980,
+      "title": "Snoopy Concert - Evening Forest",
+      "version": "smwc-42980-1794847154",
+      "upstream_time": 1794847154,
+      "download_url": "https://dl.smwcentral.net/42980/Snoopy%20Concert%20-%20Evening%20Forest.zip",
+      "filename": "Snoopy Concert - Evening Forest.zip",
+      "size": 38351,
+      "sha256": null,
+      "dependencies": [
+        "addmusick"
+      ],
+      "install_kind": "add_music_k_music"
+    }
+  ]
+}
